@@ -18,3 +18,17 @@ def fetch_unprocessed_articles(db_session: Session, batch_limit: int = 50) -> li
     except Exception as query_failure:
         logger.error(f"Failed to fetch unprocessed articles: {query_failure}")
         raise RuntimeError("Database query execution failed.") from query_failure
+    
+def insert_sentiment_record(db_session: Session, target_article_id: str, label: str, score: float) -> None:
+    try:
+        new_sentiment = SentimentResultRecord(
+            article_id=target_article_id,
+            primary_sentiment=label,
+            confidence_score=score
+        )
+        db_session.add(new_sentiment)
+        db_session.commit()
+    except Exception as insert_failure:
+        db_session.rollback()
+        logger.error(f"Failed to persist sentiment for article {target_article_id}: {insert_failure}")
+        raise ValueError("Database insertion failed due to integrity or connection error.") from insert_failure
