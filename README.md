@@ -1,5 +1,7 @@
 # Automated News Sentiment API
 
+[![Daily Sentiment Pipeline](https://github.com/alokmavi/news-sentiment-api/actions/workflows/daily_pipeline.yml/badge.svg)](https://github.com/alokmavi/news-sentiment-api/actions/workflows/daily_pipeline.yml)
+
 A backend data pipeline that ingests daily news from RSS feeds, evaluates article sentiment using a local NLP model, and exposes the aggregated data through a REST API. 
 
 I built this project to practice modular backend architecture, database migrations, and integrating machine learning inference into a standard web service.
