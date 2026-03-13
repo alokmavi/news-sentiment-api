@@ -20,7 +20,19 @@ class SentimentInferenceEngine:
                 raise RuntimeError("ML pipeline boot failure.") from initialization_failure
 
     def process_text(self, text_payload: str) -> dict[str, float | str]:
-        """Temporary stub. Will handle the actual inference soon."""
+        """Executes inference on the provided text, returning label and confidence."""
         self._initialize_pipeline()
-        # TODO: Implement actual inference and thresholding logic here
-        pass
+        
+        try:
+            # The pipeline returns a list of dictionaries, we grab the first result
+            inference_result = self._active_pipeline(text_payload, truncation=True, max_length=512)[0]
+            
+            return {
+                "sentiment_label": inference_result["label"],
+                "confidence_score": inference_result["score"]
+            }
+            
+        except Exception as inference_error:
+            logger.error(f"Inference processing failed: {inference_error}")
+            # We raise a specific ValueError so the caller knows the payload was problematic
+            raise ValueError("Failed to process sentiment for provided payload.") from inference_error
