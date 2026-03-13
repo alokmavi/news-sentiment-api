@@ -29,7 +29,6 @@ def fetch_latest_sentiments(limit: int = 10, db: Session = Depends(get_db_sessio
         
         records = db.scalars(query).all()
         
-        # Manually mapping to match the nested Pydantic schema structure
         response_payload = []
         for article in records:
             response_payload.append({
@@ -38,8 +37,8 @@ def fetch_latest_sentiments(limit: int = 10, db: Session = Depends(get_db_sessio
                 "source_uri": article.source_uri,
                 "published_at": article.published_at,
                 "sentiment": {
-                    "primary_sentiment": article.sentiment_analysis[0].primary_sentiment,
-                    "confidence_score": article.sentiment_analysis[0].confidence_score
+                    "primary_sentiment": article.sentiment_analysis.primary_sentiment,
+                    "confidence_score": article.sentiment_analysis.confidence_score
                 } if article.sentiment_analysis else None
             })
             
