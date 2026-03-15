@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/12/world/middleeast/strait-of-hormuz-iran-blockade-explained.html",
-    "headline": "What Is the Strait of Hormuz and Why Is Iran Blocking It?",
+    "source_uri": "https://www.nytimes.com/2026/03/13/world/middleeast/israeli-leaflets-over-beirut-invoke-gazas-destruction-and-stoke-fear.html",
+    "headline": "Israel Drops Leaflets on Beirut with Reminders of Gaza War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.561,
-    "published_at": "2026-03-14T00:58:52.805009+00:00"
+    "confidence_score": 0.9788,
+    "published_at": "2026-03-15T01:09:21.357519+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-mines-strait-of-hormuz-us.html",
-    "headline": "Iran Is Laying Mines in the Strait of Hormuz, U.S. Officials Say",
+    "source_uri": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/strait-of-hormuz-sea-mines",
+    "headline": "The Strait of Hormuz is narrow \u2014 and shallow enough to lay minefields.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9852,
+    "published_at": "2026-03-15T01:09:21.350921+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/13/world/middleeast/bahrain-us-missile-strike-iran.html",
+    "headline": "U.S.-Made Launcher Fired Missiles From Bahrain Toward Iran, Video Shows",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-03-15T01:09:21.349633+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/13/us/politics/trumps-war-alliance-with-israel-is-reshaping-the-middle-east-but-it-carries-risks.html",
+    "headline": "Trump\u2019s War Alliance With Israel Is Reshaping the Middle East. But It Carries Risks.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8064,
-    "published_at": "2026-03-14T00:58:52.803683+00:00"
+    "confidence_score": 0.7211,
+    "published_at": "2026-03-15T01:09:21.338877+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
-    "headline": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-03-14T00:58:52.794406+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html",
-    "headline": "Oil Rises, Bringing Gains to 40% Since the Start of the War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-03-14T00:58:52.793049+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/middleeast/turkey-nato-iran-missile.html",
-    "headline": "Turkey Says NATO Defenses Shot Down a Third Iranian Missile",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5658,
-    "published_at": "2026-03-14T00:58:52.785610+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/oil-and-cargo-ships-are-growing-targets-in-war-with-iran",
-    "headline": "Oil and cargo ships are growing targets in war with Iran.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-03-14T00:58:52.781924+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html",
-    "headline": "U.S. Tech Giants Flocked to the Persian Gulf. Now They Are Targets.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9864,
-    "published_at": "2026-03-14T00:58:52.777046+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/middleeast/john-f-burns-stories.html",
-    "headline": "Read Some of John F. Burns\u2019s Reporting From Around the World",
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html",
+    "headline": "How Migrant Workers Have Been Affected by Iran\u2019s Strikes",
     "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8171,
+    "published_at": "2026-03-15T01:09:21.333069+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/14/world/middleeast/lebanon-beirut-israel-displaced.html",
+    "headline": "Lebanon\u2019s Displaced Flee Israeli Strikes One Year Into War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-03-15T01:09:21.326302+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html",
+    "headline": "How the War in Iran Could Help China and Change Asia",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6633,
+    "published_at": "2026-03-15T01:09:21.311121+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/14/world/americas/cuba-support-latin-america-conservative.html",
+    "headline": "Is Latin America Ready to Abandon Cuba?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9785,
+    "published_at": "2026-03-15T01:09:21.305320+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/14/world/africa/mahmood-mamdani-gaza-war-book.html",
+    "headline": "Mahmood Mamdani, Father of NYC Mayor, Is Writing a Book on Gaza",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9695,
+    "published_at": "2026-03-15T01:09:21.300745+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cj0d3357vqjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Video shows moment point-blank gunshot misses Indian politician",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9847,
+    "published_at": "2026-03-15T01:09:20.841653+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
+    "headline": "Iranians react to new supreme leader's first address",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9951,
+    "published_at": "2026-03-15T01:09:20.837654+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9401,
+    "published_at": "2026-03-15T01:09:20.836109+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7417,
+    "published_at": "2026-03-15T01:09:20.834656+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
+    "headline": "Is Dubai's glossy image under threat? Not everyone thinks so",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5185,
+    "published_at": "2026-03-15T01:09:20.833272+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
+    "headline": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9867,
+    "published_at": "2026-03-15T01:09:20.830795+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
+    "headline": "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-03-15T01:09:20.825815+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c1l76346dvlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Charges dropped against teens whose teacher died during toilet paper prank",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-03-15T01:09:20.824364+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Hate-watch classic' War of the Worlds sweeps Razzie Awards",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9998,
-    "published_at": "2026-03-14T00:58:52.768146+00:00"
+    "published_at": "2026-03-15T01:09:20.818868+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/americas/argentina-soccer-messi-trump.html",
-    "headline": "Messi Meets Trump and Argentina Is Divided",
+    "source_uri": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7406,
-    "published_at": "2026-03-14T00:58:52.759409+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-03-15T01:09:20.812301+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/middleeast/kharg-island-iran-oil-trump.html",
-    "headline": "U.S. Attacks Iran\u2019s Kharg Island, a Key Port for Oil Exporting, Trump Says",
+    "source_uri": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-03-14T00:58:52.758125+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/12/world/asia/china-minorities-xinjiang-tibet.html",
-    "headline": "China Wants Its Ethnic Minorities to Blend In. Now It\u2019s the Law.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9777,
-    "published_at": "2026-03-14T00:58:52.753055+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/europe/russia-oil-suspended-sanctions-economy.html",
-    "headline": "U.S. Sanctions Pause Adds Political Win to Russia\u2019s Economic Gain From Iran War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-03-14T00:58:52.746481+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/americas/cuba-us-talks-trump-oil.html",
-    "headline": "Cuba Acknowledges Talks with Trump Officials For the First Time",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.97,
-    "published_at": "2026-03-14T00:58:52.741301+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cx2lvyd609xo?at_medium=RSS&at_campaign=rss",
-    "headline": "In photos: Tracing India's history through its chairs",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-03-14T00:58:52.597328+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cy0d7k75l2go?at_medium=RSS&at_campaign=rss",
-    "headline": "Fears for press freedom as billionaire takes control of East Africa's largest media house",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.967,
-    "published_at": "2026-03-14T00:58:52.596094+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Rapper-politician Balendra Shah's party wins Nepal election",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9885,
-    "published_at": "2026-03-14T00:58:52.584550+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8xyk8lwr1jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Qantas agrees to pay $74m over Covid-19 travel voucher refunds",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-03-14T00:58:52.579511+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
-    "headline": "French vote tests polarised electorate with right hoping to win control of Paris",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-03-14T00:58:52.576967+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
-    "headline": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-03-14T00:58:52.569187+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Bahrain & Saudi Arabia Grands Prix to be cancelled",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-03-14T00:58:52.567669+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-03-15T01:09:20.782819+00:00"
   }
 ]
