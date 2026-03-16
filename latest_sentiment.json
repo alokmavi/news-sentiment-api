@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/middleeast/israeli-leaflets-over-beirut-invoke-gazas-destruction-and-stoke-fear.html",
-    "headline": "Israel Drops Leaflets on Beirut with Reminders of Gaza War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9788,
-    "published_at": "2026-03-15T01:09:21.357519+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/strait-of-hormuz-sea-mines",
-    "headline": "The Strait of Hormuz is narrow \u2014 and shallow enough to lay minefields.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9852,
-    "published_at": "2026-03-15T01:09:21.350921+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/middleeast/bahrain-us-missile-strike-iran.html",
-    "headline": "U.S.-Made Launcher Fired Missiles From Bahrain Toward Iran, Video Shows",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-03-15T01:09:21.349633+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/13/us/politics/trumps-war-alliance-with-israel-is-reshaping-the-middle-east-but-it-carries-risks.html",
-    "headline": "Trump\u2019s War Alliance With Israel Is Reshaping the Middle East. But It Carries Risks.",
+    "source_uri": "https://www.nytimes.com/2026/03/14/world/europe/sirat-spain-film-oscars.html",
+    "headline": "His Film Is Spain\u2019s Submission to the Oscars. He\u2019s Not Sure How Spanish It Is.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7211,
-    "published_at": "2026-03-15T01:09:21.338877+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-03-16T01:08:42.079703+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html",
-    "headline": "How Migrant Workers Have Been Affected by Iran\u2019s Strikes",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8171,
-    "published_at": "2026-03-15T01:09:21.333069+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/14/world/middleeast/lebanon-beirut-israel-displaced.html",
-    "headline": "Lebanon\u2019s Displaced Flee Israeli Strikes One Year Into War",
+    "source_uri": "https://www.nytimes.com/2026/03/14/world/canada/starlink-satellites-defense-carney-canada.html",
+    "headline": "Canada Takes Its Sovereignty Push to Space",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-03-15T01:09:21.326302+00:00"
+    "confidence_score": 0.9701,
+    "published_at": "2026-03-16T01:08:42.066727+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html",
-    "headline": "How the War in Iran Could Help China and Change Asia",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6633,
-    "published_at": "2026-03-15T01:09:21.311121+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/14/world/americas/cuba-support-latin-america-conservative.html",
-    "headline": "Is Latin America Ready to Abandon Cuba?",
+    "source_uri": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/the-war-has-put-middle-east-water-supplies-at-risk",
+    "headline": "The war has put Middle East water supplies at risk.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9785,
-    "published_at": "2026-03-15T01:09:21.305320+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-03-16T01:08:42.059306+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/14/world/africa/mahmood-mamdani-gaza-war-book.html",
-    "headline": "Mahmood Mamdani, Father of NYC Mayor, Is Writing a Book on Gaza",
+    "source_uri": "https://www.nytimes.com/2026/03/14/world/middleeast/sandstorm-batters-gaza.html",
+    "headline": "Sandstorm Batters Gaza, Slamming Makeshift Shelters",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9812,
+    "published_at": "2026-03-16T01:08:42.058044+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/14/world/middleeast/tehran-empty-iran-strikes.html",
+    "headline": "Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-03-16T01:08:42.056830+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel/here-is-the-latest",
+    "headline": "Here is the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9695,
-    "published_at": "2026-03-15T01:09:21.300745+00:00"
+    "confidence_score": 0.9464,
+    "published_at": "2026-03-16T01:08:42.050807+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-14",
+    "headline": "This is what happened on March 14.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6883,
+    "published_at": "2026-03-16T01:08:42.047125+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/15/world/middleeast/trump-strait-of-hormuz-iran-warships.html",
+    "headline": "After Trump\u2019s Call to Send Warships to Strait of Hormuz, Nations Respond With Caution",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-03-16T01:08:42.045850+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/15/us/us-citizenship-renounce-price-cut.html",
+    "headline": "State Department Cuts Price of Renouncing U.S. Citizenship to $450",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9845,
+    "published_at": "2026-03-16T01:08:42.044660+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/15/world/canada/canada-iran-arrests-death.html",
+    "headline": "Two Arrested in Death of Anti-Iranian Regime Activist in Canada",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9892,
+    "published_at": "2026-03-16T01:08:42.037181+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html",
+    "headline": "Marseille\u2019s Tight Mayoral Race Is a Bellwether for France\u2019s Future",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9141,
+    "published_at": "2026-03-16T01:08:42.025867+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/15/world/asia/afghanistan-pakistan-war.html",
+    "headline": "Pakistani-Afghan War Takes Heavy Toll on Civilians",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9926,
+    "published_at": "2026-03-16T01:08:42.024576+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/cj0d3357vqjo?at_medium=RSS&at_campaign=rss",
     "headline": "Video shows moment point-blank gunshot misses Indian politician",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9847,
-    "published_at": "2026-03-15T01:09:20.841653+00:00"
+    "published_at": "2026-03-16T01:08:41.777921+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iranians react to new supreme leader's first address",
+    "source_uri": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
+    "headline": "What Iranians are being told about the war",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-03-15T01:09:20.837654+00:00"
+    "confidence_score": 0.9923,
+    "published_at": "2026-03-16T01:08:41.761144+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss",
-    "headline": "'Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9401,
-    "published_at": "2026-03-15T01:09:20.836109+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+    "source_uri": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7417,
-    "published_at": "2026-03-15T01:09:20.834656+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
-    "headline": "Is Dubai's glossy image under threat? Not everyone thinks so",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5185,
-    "published_at": "2026-03-15T01:09:20.833272+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
-    "headline": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9867,
-    "published_at": "2026-03-15T01:09:20.830795+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-    "headline": "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-03-15T01:09:20.825815+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c1l76346dvlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Charges dropped against teens whose teacher died during toilet paper prank",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-03-15T01:09:20.824364+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss",
-    "headline": "'Hate-watch classic' War of the Worlds sweeps Razzie Awards",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-03-15T01:09:20.818868+00:00"
+    "confidence_score": 0.9872,
+    "published_at": "2026-03-16T01:08:41.757377+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
     "headline": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9992,
-    "published_at": "2026-03-15T01:09:20.812301+00:00"
+    "published_at": "2026-03-16T01:08:41.753759+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+    "source_uri": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss",
+    "headline": "French police detain brothers over 'lethal and antisemitic' plot",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-03-15T01:09:20.782819+00:00"
+    "confidence_score": 0.9931,
+    "published_at": "2026-03-16T01:08:41.751322+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ugandan opposition leader tells BBC he fled abroad fearing for his life",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-03-16T01:08:41.748823+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6309,
+    "published_at": "2026-03-16T01:08:41.747596+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+    "headline": "How US groups are driving a new generation of anti-abortion activism in the UK",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9767,
+    "published_at": "2026-03-16T01:08:41.744781+00:00"
   }
 ]
