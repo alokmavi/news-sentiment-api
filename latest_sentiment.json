@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html",
-    "headline": "With Iran War, Trump Risks Stepping on Gains From His Own Tax Cuts",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5151,
-    "published_at": "2026-03-18T01:05:29.530970+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/16/world/middleeast/israel-schools.html",
-    "headline": "Israeli Schools Begin Reopening in Some Areas Seen as Safer",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7839,
-    "published_at": "2026-03-18T01:05:29.525999+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-war-recap-lebanon-ground-invasion.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Monday",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9877,
-    "published_at": "2026-03-18T01:05:29.514649+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-03-18T01:05:29.513414+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/17/business/oil-stock-gas-markets-iran.html",
-    "headline": "Gas Prices Keep Rising as Seasonal Changes Add to Oil Price Pressure",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-03-18T01:05:29.512205+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000010763508/we-traced-how-us-guns-get-to-mexican-cartels.html",
-    "headline": "We Traced How U.S. Guns Get to Mexican Cartels",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-03-18T01:05:29.509782+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html",
     "headline": "Another Tanker Is Attacked Near the Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9892,
-    "published_at": "2026-03-18T01:05:29.507275+00:00"
+    "published_at": "2026-03-18T18:28:24.831826+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html",
-    "headline": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-leaders-killed-war-strikes.html",
+    "headline": "Who Runs Iran Now? Charting the Top Leaders Killed in the War So Far.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.987,
+    "published_at": "2026-03-18T18:28:24.825709+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/americas/trump-cuba-intervention.html",
+    "headline": "Trump Signals He May Intervene in Cuba Following Iran and Venezuela",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-03-18T01:05:29.503547+00:00"
+    "confidence_score": 0.9344,
+    "published_at": "2026-03-18T18:28:24.823321+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/europe/chelsea-soccer-abramovich-premier-league.html",
-    "headline": "Under Roman Abramovich, Chelsea Broke Rules for Years, Premier League Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8318,
-    "published_at": "2026-03-18T01:05:29.499830+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
-    "headline": "Kharg Island Is an Appealing Target for Trump, With High Risks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-03-18T01:05:29.480869+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil/trump-ireland-european-allies",
+    "headline": "As Trump belittled European allies, the Irish leader pushed back, gently.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9936,
+    "published_at": "2026-03-18T18:28:24.806399+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/17/world/americas/cuba-americans-invest-businesses.html",
-    "headline": "Cuban Americans Will Be Allowed to Own Businesses in Cuba, but Is That Enough?",
+    "headline": "Cuban Americans Will Be Allowed to Own Businesses in Cuba, but Is That Enough to Rescue the Economy?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9549,
-    "published_at": "2026-03-18T01:05:29.477014+00:00"
+    "published_at": "2026-03-18T18:28:24.796966+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html",
-    "headline": "Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei",
+    "source_uri": "https://www.nytimes.com/2026/03/18/business/iran-war-lng-asia-japan.html",
+    "headline": "Asia Turns Back to Coal as War Chokes Off Natural Gas",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9342,
+    "published_at": "2026-03-18T18:28:24.794600+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/iran-war-refugees-turkey.html",
+    "headline": "As Iran War Drags On, Europe Wants to Avoid a New Migration Crisis",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5254,
-    "published_at": "2026-03-18T01:05:29.475732+00:00"
+    "confidence_score": 0.9894,
+    "published_at": "2026-03-18T18:28:24.777954+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html",
-    "headline": "Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/ayatollah-ouster-bets-death.html",
+    "headline": "Betting on Ayatollah\u2019s Ouster Ignites Ire Over Prediction Markets",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-03-18T01:05:29.466842+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-03-18T18:28:24.774399+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html",
-    "headline": "What to Know About Ali Larijani, Iran\u2019s Top Security Official",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/faroe-islands-abortion-europe.html",
+    "headline": "The Faroe Islands Are Changing Some of Europe\u2019s Strictest Abortion Rules",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-03-18T01:05:29.465535+00:00"
+    "confidence_score": 0.9956,
+    "published_at": "2026-03-18T18:28:24.770707+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
-    "headline": "Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
+    "headline": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-03-18T01:05:29.455278+00:00"
+    "confidence_score": 0.9967,
+    "published_at": "2026-03-18T18:28:24.769217+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Mexico City breaks Guinness Record with giant football training session",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
+    "headline": "How TrumpRx Drug Prices Compare With Those in Other Countries",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5715,
+    "published_at": "2026-03-18T18:28:24.767952+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
+    "headline": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7061,
+    "published_at": "2026-03-18T18:28:24.766682+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/czd8921rljpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why did only two Iranian football players stay in Australia?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9892,
+    "published_at": "2026-03-18T18:28:24.540933+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+    "headline": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-03-18T18:28:24.536222+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+    "headline": "Iranian security chief Ali Larijani killed in air strike",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9864,
+    "published_at": "2026-03-18T18:28:24.526422+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+    "headline": "Utah mother who wrote book about grief found guilty of poisoning husband",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9721,
+    "published_at": "2026-03-18T18:28:24.523003+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Chile's president begins building border barrier less than week into term",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-03-18T01:05:29.184935+00:00"
+    "confidence_score": 0.9935,
+    "published_at": "2026-03-18T18:28:24.520627+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c23zj1e0lxmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Reunion resident gets close to lava from erupting volcano",
+    "source_uri": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-03-18T01:05:29.181571+00:00"
+    "confidence_score": 0.9917,
+    "published_at": "2026-03-18T18:28:24.514745+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Wary allies show there's no quick fix to Trump's Iran crisis",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-03-18T01:05:29.176504+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
+    "headline": "King Charles greets Nigerian president in Windsor sunshine",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-03-18T18:28:24.510026+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
-    "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+    "source_uri": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Forty years after the last one was poached rhinos are back in the wild in Uganda",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-03-18T01:05:29.171534+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9759,
-    "published_at": "2026-03-18T01:05:29.162512+00:00"
+    "confidence_score": 0.9925,
+    "published_at": "2026-03-18T18:28:24.506480+00:00"
   }
 ]
