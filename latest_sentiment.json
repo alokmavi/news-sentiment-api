@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html",
-    "headline": "Some Olympic Leaders Want to See Fixed Winter Games Host Cities",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9821,
-    "published_at": "2026-03-17T01:01:06.717739+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/15/world/europe/iceland-lava-volcano-eruption-grindavik.html",
-    "headline": "Iceland\u2019s Chief \u2018Lava Cooler\u2019 Is Bracing for the Next Volcanic Eruption",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-03-17T01:01:06.716526+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel/trump-adds-to-speculation-about-iranian-leaders-condition",
-    "headline": "Trump adds to speculation about Iranian leader\u2019s condition.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6346,
-    "published_at": "2026-03-17T01:01:06.714120+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel/here-is-the-latest",
-    "headline": "Here is the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9464,
-    "published_at": "2026-03-17T01:01:06.711688+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/15/us/politics/energy-secretary-iran-oil-prices.html",
-    "headline": "Oil Prices May Not Fall Soon, U.S. Energy Secretary Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-03-17T01:01:06.705463+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-03-17T01:01:06.694367+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html",
     "headline": "With Iran War, Trump Risks Stepping on Gains From His Own Tax Cuts",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.5151,
-    "published_at": "2026-03-17T01:01:06.689150+00:00"
+    "published_at": "2026-03-18T01:05:29.530970+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/16/us/politics/trump-operation-epic-fury-anger.html",
-    "headline": "In Choosing \u2018Epic Fury,\u2019 Trump Names a War and Defines His Presidency",
+    "source_uri": "https://www.nytimes.com/2026/03/16/world/middleeast/israel-schools.html",
+    "headline": "Israeli Schools Begin Reopening in Some Areas Seen as Safer",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8881,
-    "published_at": "2026-03-17T01:01:06.683054+00:00"
+    "confidence_score": 0.7839,
+    "published_at": "2026-03-18T01:05:29.525999+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/16/us/politics/trump-administration-china-managed-trade.html",
-    "headline": "Trump Officials Look to More Managed Approach to Trade With China",
+    "source_uri": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-war-recap-lebanon-ground-invasion.html",
+    "headline": "Here\u2019s What Happened in the War in the Middle East on Monday",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9593,
-    "published_at": "2026-03-17T01:01:06.680602+00:00"
+    "confidence_score": 0.9877,
+    "published_at": "2026-03-18T01:05:29.514649+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/16/world/iran-hormuz-oil-oscars-iceland.html",
-    "headline": "A Predictable Problem",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8912,
-    "published_at": "2026-03-17T01:01:06.678151+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/15/world/middleeast/israel-kiryat-shmona.html",
-    "headline": "As Rockets Fly Overhead, Residents of Israel\u2019s Border City Stay Underground",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-03-17T01:01:06.674383+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
-    "headline": "Desperation in Cuba Ignites Unusual Acts of Defiance",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-03-17T01:01:06.671517+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/16/business/iran-bangladesh-imported-gas.html",
-    "headline": "The War Is Making It Harder to Keep the Lights On, 2,000 Miles Away",
+    "source_uri": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9267,
-    "published_at": "2026-03-17T01:01:06.669035+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-03-18T01:05:29.513414+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/16/world/europe/iraq-iran-us-allies.html",
-    "headline": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
+    "source_uri": "https://www.nytimes.com/2026/03/17/business/oil-stock-gas-markets-iran.html",
+    "headline": "Gas Prices Keep Rising as Seasonal Changes Add to Oil Price Pressure",
     "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9942,
+    "published_at": "2026-03-18T01:05:29.512205+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000010763508/we-traced-how-us-guns-get-to-mexican-cartels.html",
+    "headline": "We Traced How U.S. Guns Get to Mexican Cartels",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-03-18T01:05:29.509782+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html",
+    "headline": "Another Tanker Is Attacked Near the Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9892,
+    "published_at": "2026-03-18T01:05:29.507275+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html",
+    "headline": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-03-17T01:01:06.663415+00:00"
+    "published_at": "2026-03-18T01:05:29.503547+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/16/world/africa/trump-africa-travel-visa-ban.html",
-    "headline": "What Do Africans Think of Trump\u2019s Travel Ban List?",
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/europe/chelsea-soccer-abramovich-premier-league.html",
+    "headline": "Under Roman Abramovich, Chelsea Broke Rules for Years, Premier League Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-03-17T01:01:06.659315+00:00"
+    "confidence_score": 0.8318,
+    "published_at": "2026-03-18T01:05:29.499830+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
+    "headline": "Kharg Island Is an Appealing Target for Trump, With High Risks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-03-18T01:05:29.480869+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/americas/cuba-americans-invest-businesses.html",
+    "headline": "Cuban Americans Will Be Allowed to Own Businesses in Cuba, but Is That Enough?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9549,
+    "published_at": "2026-03-18T01:05:29.477014+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html",
+    "headline": "Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5254,
+    "published_at": "2026-03-18T01:05:29.475732+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html",
+    "headline": "Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9907,
+    "published_at": "2026-03-18T01:05:29.466842+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html",
+    "headline": "What to Know About Ali Larijani, Iran\u2019s Top Security Official",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-03-18T01:05:29.465535+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+    "headline": "Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-03-18T01:05:29.455278+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Mexico City breaks Guinness Record with giant football training session",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-03-18T01:05:29.184935+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/c23zj1e0lxmo?at_medium=RSS&at_campaign=rss",
     "headline": "Watch: Reunion resident gets close to lava from erupting volcano",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9968,
-    "published_at": "2026-03-17T01:01:06.512646+00:00"
+    "published_at": "2026-03-18T01:05:29.181571+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
-    "headline": "'We will go wherever they hide': Rooting out IS in Somalia",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9839,
-    "published_at": "2026-03-17T01:01:06.506567+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukraine's urgent fight on the financial frontline",
+    "source_uri": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Wary allies show there's no quick fix to Trump's Iran crisis",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9733,
-    "published_at": "2026-03-17T01:01:06.501658+00:00"
+    "confidence_score": 0.9971,
+    "published_at": "2026-03-18T01:05:29.176504+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss",
-    "headline": "French national jailed for 10 years in Azerbaijan for spying",
+    "source_uri": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
+    "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-03-17T01:01:06.499157+00:00"
+    "confidence_score": 0.9774,
+    "published_at": "2026-03-18T01:05:29.171534+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
-    "headline": "How US groups are driving a new generation of anti-abortion activism in the UK",
+    "source_uri": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9767,
-    "published_at": "2026-03-17T01:01:06.492818+00:00"
+    "confidence_score": 0.9759,
+    "published_at": "2026-03-18T01:05:29.162512+00:00"
   }
 ]
