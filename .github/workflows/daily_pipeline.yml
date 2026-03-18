@@ -65,8 +65,8 @@ jobs:
 
       - name: Commit and Push Results
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Alok Kumar Mavi"
+          git config --global user.email "alokkumarmavi007@gmail.com"
           git add latest_sentiment.json
           # Only commit if there are actual changes to prevent workflow failures
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): automated daily sentiment aggregation" && git push)
