@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html",
-    "headline": "Another Tanker Is Attacked Near the Strait of Hormuz",
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/americas/colombia-ecuador-bomb-petro-noboa.html",
+    "headline": "An Unexploded Bomb Near the Colombia-Ecuador Border Leads to a Diplomatic Clash",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9892,
-    "published_at": "2026-03-18T18:28:24.831826+00:00"
+    "confidence_score": 0.9776,
+    "published_at": "2026-03-19T01:04:12.849796+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-leaders-killed-war-strikes.html",
-    "headline": "Who Runs Iran Now? Charting the Top Leaders Killed in the War So Far.",
+    "source_uri": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
+    "headline": "Kharg Island Is an Appealing Target for Trump, With High Risks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.987,
-    "published_at": "2026-03-18T18:28:24.825709+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-03-19T01:04:12.847702+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/americas/trump-cuba-intervention.html",
-    "headline": "Trump Signals He May Intervene in Cuba Following Iran and Venezuela",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9344,
-    "published_at": "2026-03-18T18:28:24.823321+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil/trump-ireland-european-allies",
-    "headline": "As Trump belittled European allies, the Irish leader pushed back, gently.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-03-18T18:28:24.806399+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/americas/cuba-americans-invest-businesses.html",
-    "headline": "Cuban Americans Will Be Allowed to Own Businesses in Cuba, but Is That Enough to Rescue the Economy?",
+    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-israel-middle-east-recap.html",
+    "headline": "Here\u2019s What Happened in the War in the Middle East on Tuesday",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9549,
-    "published_at": "2026-03-18T18:28:24.796966+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/18/business/iran-war-lng-asia-japan.html",
-    "headline": "Asia Turns Back to Coal as War Chokes Off Natural Gas",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9342,
-    "published_at": "2026-03-18T18:28:24.794600+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/iran-war-refugees-turkey.html",
-    "headline": "As Iran War Drags On, Europe Wants to Avoid a New Migration Crisis",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9894,
-    "published_at": "2026-03-18T18:28:24.777954+00:00"
+    "confidence_score": 0.9816,
+    "published_at": "2026-03-19T01:04:12.845584+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/ayatollah-ouster-bets-death.html",
     "headline": "Betting on Ayatollah\u2019s Ouster Ignites Ire Over Prediction Markets",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9984,
-    "published_at": "2026-03-18T18:28:24.774399+00:00"
+    "published_at": "2026-03-19T01:04:12.838856+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html",
+    "headline": "Israel Has Killed Esmaeil Khatib, Iran\u2019s Intelligence Minister",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6558,
+    "published_at": "2026-03-19T01:04:12.835436+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html",
+    "headline": "Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9923,
+    "published_at": "2026-03-19T01:04:12.826506+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/iran-leadership-larijani-israel-beirut.html",
+    "headline": "Empowering Iran\u2019s Hard-liners",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.988,
+    "published_at": "2026-03-19T01:04:12.825403+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/uk-meningitis-outbreak-what-to-know.html",
+    "headline": "As a Meningitis Outbreak Spreads in Kent, UK, Here\u2019s What to Know",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.987,
+    "published_at": "2026-03-19T01:04:12.815223+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/belgium-congo-lumumba-trial.html",
+    "headline": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8649,
+    "published_at": "2026-03-19T01:04:12.812941+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/faroe-islands-abortion-europe.html",
     "headline": "The Faroe Islands Are Changing Some of Europe\u2019s Strictest Abortion Rules",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9956,
-    "published_at": "2026-03-18T18:28:24.770707+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
-    "headline": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-03-18T18:28:24.769217+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
-    "headline": "How TrumpRx Drug Prices Compare With Those in Other Countries",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5715,
-    "published_at": "2026-03-18T18:28:24.767952+00:00"
+    "published_at": "2026-03-19T01:04:12.810680+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
     "headline": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7061,
-    "published_at": "2026-03-18T18:28:24.766682+00:00"
+    "published_at": "2026-03-19T01:04:12.808437+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/czd8921rljpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why did only two Iranian football players stay in Australia?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9892,
-    "published_at": "2026-03-18T18:28:24.540933+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
-    "headline": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-03-18T18:28:24.536222+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-    "headline": "Iranian security chief Ali Larijani killed in air strike",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9864,
-    "published_at": "2026-03-18T18:28:24.526422+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
-    "headline": "Utah mother who wrote book about grief found guilty of poisoning husband",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9721,
-    "published_at": "2026-03-18T18:28:24.523003+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Chile's president begins building border barrier less than week into term",
+    "source_uri": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
+    "headline": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-03-18T18:28:24.520627+00:00"
+    "confidence_score": 0.9123,
+    "published_at": "2026-03-19T01:04:12.584419+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9917,
-    "published_at": "2026-03-18T18:28:24.514745+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
-    "headline": "King Charles greets Nigerian president in Windsor sunshine",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-03-18T18:28:24.510026+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Forty years after the last one was poached rhinos are back in the wild in Uganda",
+    "source_uri": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
+    "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-03-18T18:28:24.506480+00:00"
+    "confidence_score": 0.9774,
+    "published_at": "2026-03-19T01:04:12.579488+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
+    "headline": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-03-19T01:04:12.577454+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
+    "headline": "Celebrations in Morocco but devastation in Senegal after Africa Cup of Nations decision",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-03-19T01:04:12.575532+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss",
+    "headline": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-03-19T01:04:12.574552+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+    "headline": "Oil nears $110 a barrel after gas field strike",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9005,
+    "published_at": "2026-03-19T01:04:12.568524+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss",
+    "headline": "US aircraft carrier to sail to Crete for repairs after fire on board",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-03-19T01:04:12.564480+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ecuador gang leader wanted for murder of presidential candidate arrested",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9723,
+    "published_at": "2026-03-19T01:04:12.561282+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
+    "headline": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9881,
+    "published_at": "2026-03-19T01:04:12.540377+00:00"
   }
 ]
