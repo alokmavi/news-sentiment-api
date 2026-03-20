@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/americas/colombia-ecuador-bomb-petro-noboa.html",
-    "headline": "An Unexploded Bomb Near the Colombia-Ecuador Border Leads to a Diplomatic Clash",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/abandoned-russian-tanker-mediterranean-sea.html",
+    "headline": "An Abandoned Russian Tanker Is Drifting at Sea. Will Anyone Stop It?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9776,
-    "published_at": "2026-03-19T01:04:12.849796+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-03-20T01:01:17.017284+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
-    "headline": "Kharg Island Is an Appealing Target for Trump, With High Risks",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/alexander-butyagin-archaeologist-poland-extradite.html",
+    "headline": "Despite Moscow\u2019s Threats, Poland Rules to Extradite Archaeologist",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-03-19T01:04:12.847702+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-03-20T01:01:17.015904+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-israel-middle-east-recap.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Tuesday",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html",
+    "headline": "U.S. Intelligence Saw No Change in Iran\u2019s Missile Capabilities Before War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9816,
-    "published_at": "2026-03-19T01:04:12.845584+00:00"
+    "confidence_score": 0.9951,
+    "published_at": "2026-03-20T01:01:17.008766+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/ayatollah-ouster-bets-death.html",
-    "headline": "Betting on Ayatollah\u2019s Ouster Ignites Ire Over Prediction Markets",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-03-19T01:04:12.838856+00:00"
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010785078/why-trump-keeps-saying-nuclear.html",
+    "headline": "Why Trump Keeps Saying \u2018Nuclear\u2019",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.664,
+    "published_at": "2026-03-20T01:01:17.005671+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html",
-    "headline": "Israel Has Killed Esmaeil Khatib, Iran\u2019s Intelligence Minister",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6558,
-    "published_at": "2026-03-19T01:04:12.835436+00:00"
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-recap-middle-east.html",
+    "headline": "Here\u2019s What Happened in the War in the Middle East on Wednesday",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6198,
+    "published_at": "2026-03-20T01:01:16.994051+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html",
-    "headline": "Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers",
+    "source_uri": "https://www.nytimes.com/2026/03/19/business/oil-prices-iran-war.html",
+    "headline": "Oil Gives Back Gains After Surging on Fears Over Energy Supplies",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-03-19T01:04:12.826506+00:00"
+    "confidence_score": 0.8874,
+    "published_at": "2026-03-20T01:01:16.989896+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/iran-leadership-larijani-israel-beirut.html",
-    "headline": "Empowering Iran\u2019s Hard-liners",
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/middleeast/pentagon-200-billion-iran-war-funding-hegseth.html",
+    "headline": "Pentagon Seeks Additional $200 Billion to Fund Iran War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-03-19T01:04:12.825403+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-03-20T01:01:16.978214+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/uk-meningitis-outbreak-what-to-know.html",
-    "headline": "As a Meningitis Outbreak Spreads in Kent, UK, Here\u2019s What to Know",
+    "source_uri": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/palestinian-women-killed-salon-missile-strike",
+    "headline": "Father of a Palestinian woman killed with three others during a missile attack expresses shock.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.987,
-    "published_at": "2026-03-19T01:04:12.815223+00:00"
+    "confidence_score": 0.897,
+    "published_at": "2026-03-20T01:01:16.976782+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/european-leaders-seek-a-de-escalation-of-attacks",
+    "headline": "European leaders seek a de-escalation of attacks.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.979,
+    "published_at": "2026-03-20T01:01:16.975293+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
+    "headline": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9519,
+    "published_at": "2026-03-20T01:01:16.972427+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html",
+    "headline": "Body of Missing University of Alabama Student Is Found Dead in Spain, Police Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9895,
+    "published_at": "2026-03-20T01:01:16.970952+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/belgium-congo-lumumba-trial.html",
     "headline": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.8649,
-    "published_at": "2026-03-19T01:04:12.812941+00:00"
+    "published_at": "2026-03-20T01:01:16.952089+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/faroe-islands-abortion-europe.html",
-    "headline": "The Faroe Islands Are Changing Some of Europe\u2019s Strictest Abortion Rules",
+    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
+    "headline": "A Lebanese Cafe on the Edge of Destruction",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-03-19T01:04:12.810680+00:00"
+    "confidence_score": 0.9971,
+    "published_at": "2026-03-20T01:01:16.947877+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
-    "headline": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/iran-spy-charged-uk-jewish-london.html",
+    "headline": "2 Men Charged With Spying for Iran on Jewish Institutions in UK",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7061,
-    "published_at": "2026-03-19T01:04:12.808437+00:00"
+    "confidence_score": 0.981,
+    "published_at": "2026-03-20T01:01:16.946469+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cyv9v5dld42o?at_medium=RSS&at_campaign=rss",
-    "headline": "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes",
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/asia/japan-takaichi-washington-internship.html",
+    "headline": "How Japan\u2019s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9123,
-    "published_at": "2026-03-19T01:04:12.584419+00:00"
+    "confidence_score": 0.9965,
+    "published_at": "2026-03-20T01:01:16.943614+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
-    "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
+    "headline": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-03-19T01:04:12.579488+00:00"
+    "confidence_score": 0.9373,
+    "published_at": "2026-03-20T01:01:16.940731+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
-    "headline": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-03-19T01:04:12.577454+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crm8mem74mko?at_medium=RSS&at_campaign=rss",
-    "headline": "Celebrations in Morocco but devastation in Senegal after Africa Cup of Nations decision",
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/eu-leaders-summit-iran-gas.html",
+    "headline": "Trump and Iran Dominate the Agenda as Europe\u2019s Leaders Meet. Here Are 4 Things to Know.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-03-19T01:04:12.575532+00:00"
+    "confidence_score": 0.9931,
+    "published_at": "2026-03-20T01:01:16.939275+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss",
-    "headline": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
+    "source_uri": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
+    "headline": "Former counter-terrorism head investigated by FBI over alleged leaks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-03-19T01:04:12.574552+00:00"
+    "confidence_score": 0.9942,
+    "published_at": "2026-03-20T01:01:16.604617+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-    "headline": "Oil nears $110 a barrel after gas field strike",
+    "source_uri": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9005,
-    "published_at": "2026-03-19T01:04:12.568524+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-03-20T01:01:16.597914+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss",
-    "headline": "US aircraft carrier to sail to Crete for repairs after fire on board",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9955,
-    "published_at": "2026-03-19T01:04:12.564480+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ecuador gang leader wanted for murder of presidential candidate arrested",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9723,
-    "published_at": "2026-03-19T01:04:12.561282+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
-    "headline": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9881,
-    "published_at": "2026-03-19T01:04:12.540377+00:00"
+    "published_at": "2026-03-20T01:01:16.595300+00:00"
   }
 ]
