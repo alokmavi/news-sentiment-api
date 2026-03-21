@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/abandoned-russian-tanker-mediterranean-sea.html",
-    "headline": "An Abandoned Russian Tanker Is Drifting at Sea. Will Anyone Stop It?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-03-20T01:01:17.017284+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/alexander-butyagin-archaeologist-poland-extradite.html",
-    "headline": "Despite Moscow\u2019s Threats, Poland Rules to Extradite Archaeologist",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-03-20T01:01:17.015904+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html",
-    "headline": "U.S. Intelligence Saw No Change in Iran\u2019s Missile Capabilities Before War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-03-20T01:01:17.008766+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010785078/why-trump-keeps-saying-nuclear.html",
-    "headline": "Why Trump Keeps Saying \u2018Nuclear\u2019",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.664,
-    "published_at": "2026-03-20T01:01:17.005671+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-recap-middle-east.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Wednesday",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6198,
-    "published_at": "2026-03-20T01:01:16.994051+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/19/business/oil-prices-iran-war.html",
-    "headline": "Oil Gives Back Gains After Surging on Fears Over Energy Supplies",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8874,
-    "published_at": "2026-03-20T01:01:16.989896+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/19/world/middleeast/pentagon-200-billion-iran-war-funding-hegseth.html",
-    "headline": "Pentagon Seeks Additional $200 Billion to Fund Iran War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-03-20T01:01:16.978214+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/palestinian-women-killed-salon-missile-strike",
-    "headline": "Father of a Palestinian woman killed with three others during a missile attack expresses shock.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.897,
-    "published_at": "2026-03-20T01:01:16.976782+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/european-leaders-seek-a-de-escalation-of-attacks",
     "headline": "European leaders seek a de-escalation of attacks.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.979,
-    "published_at": "2026-03-20T01:01:16.975293+00:00"
+    "published_at": "2026-03-21T00:57:23.706462+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
-    "headline": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/middleeast/israel-iran-south-pars-gas-field-trump.html",
+    "headline": "Israeli Officials Said U.S. Was Told About South Pars Attack",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9519,
-    "published_at": "2026-03-20T01:01:16.972427+00:00"
+    "confidence_score": 0.9735,
+    "published_at": "2026-03-21T00:57:23.705210+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html",
-    "headline": "Body of Missing University of Alabama Student Is Found Dead in Spain, Police Say",
+    "source_uri": "https://www.nytimes.com/2026/03/19/world/canada/joe-rogan-pierre-poilievre-canada-trump.html",
+    "headline": "On Joe Rogan, Pierre Poilievre Talks Trump, Canada Tariffs and Bruce Lee",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9895,
-    "published_at": "2026-03-20T01:01:16.970952+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-03-21T00:57:23.687783+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/europe/belgium-congo-lumumba-trial.html",
-    "headline": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader",
+    "source_uri": "https://www.nytimes.com/2026/03/20/business/oil-stocks-gas-iran.html",
+    "headline": "Oil Prices Tick Up and U.S. Stocks Fall Sharply",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8649,
-    "published_at": "2026-03-20T01:01:16.952089+00:00"
+    "confidence_score": 0.9906,
+    "published_at": "2026-03-21T00:57:23.682831+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
-    "headline": "A Lebanese Cafe on the Edge of Destruction",
+    "source_uri": "https://www.nytimes.com/2026/03/20/us/ice-arrests-immigration-enforcement.html",
+    "headline": "New Data Shows Where ICE Has Been Most Active This Year",
     "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9919,
+    "published_at": "2026-03-21T00:57:23.677949+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/asia/bts-concert-kpop-netflix-seoul.html",
+    "headline": "What To Know About the BTS Comeback Concert Streaming Live on Netflix",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.968,
+    "published_at": "2026-03-21T00:57:23.676721+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/middleeast/muted-eid-in-lebanon.html",
+    "headline": "War-Weary Lebanon Marks Eid With Muted Celebration",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9971,
-    "published_at": "2026-03-20T01:01:16.947877+00:00"
+    "published_at": "2026-03-21T00:57:23.672972+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/iran-spy-charged-uk-jewish-london.html",
-    "headline": "2 Men Charged With Spying for Iran on Jewish Institutions in UK",
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/middleeast/supreme-leader-statement.html",
+    "headline": "Iran\u2019s New Supreme Leader Issues a Statement but Remains Unseen",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.981,
-    "published_at": "2026-03-20T01:01:16.946469+00:00"
+    "confidence_score": 0.9728,
+    "published_at": "2026-03-21T00:57:23.669303+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/19/world/asia/japan-takaichi-washington-internship.html",
-    "headline": "How Japan\u2019s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/europe/ship-parthenon-greece-marbles-elgin.html",
+    "headline": "Stone Fragment Is Found in Wreck of Ship That Carried Parthenon Marbles",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-03-21T00:57:23.663035+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
+    "headline": "BTS Leans Into Korean History With \u2018Arirang.\u2019 Here Are the Major References.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-03-20T01:01:16.943614+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-03-21T00:57:23.642370+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
-    "headline": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/middleeast/hamas-disarming-plan-board-of-peace-trump.html",
+    "headline": "Hamas Considering Disarmament Plan From Trump\u2019s Board of Peace, Officials Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9373,
-    "published_at": "2026-03-20T01:01:16.940731+00:00"
+    "confidence_score": 0.9592,
+    "published_at": "2026-03-21T00:57:23.639886+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/19/world/europe/eu-leaders-summit-iran-gas.html",
-    "headline": "Trump and Iran Dominate the Agenda as Europe\u2019s Leaders Meet. Here Are 4 Things to Know.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9931,
-    "published_at": "2026-03-20T01:01:16.939275+00:00"
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html",
+    "headline": "A Diary of War From an Unlikely Author: the Son of Iran\u2019s President",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-03-21T00:57:23.637387+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
-    "headline": "Former counter-terrorism head investigated by FBI over alleged leaks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-03-20T01:01:16.604617+00:00"
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
+    "headline": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.903,
+    "published_at": "2026-03-21T00:57:23.633417+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+    "source_uri": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+    "headline": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-03-20T01:01:16.597914+00:00"
+    "confidence_score": 0.9919,
+    "published_at": "2026-03-21T00:57:23.378173+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+    "source_uri": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-03-20T01:01:16.595300+00:00"
+    "confidence_score": 0.9847,
+    "published_at": "2026-03-21T00:57:23.376904+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5yxkj8gnr2o?at_medium=RSS&at_campaign=rss",
+    "headline": "The fight to control the narrative in the Afghan-Pakistan conflict",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8166,
+    "published_at": "2026-03-21T00:57:23.374414+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+    "headline": "BTS comeback concert: Seoul gets ready to host 260,000 fans",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-03-21T00:57:23.373148+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
+    "headline": "'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6548,
+    "published_at": "2026-03-21T00:57:23.371871+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss",
+    "headline": "Australia PM heckled at Sydney mosque Ramadan event",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9675,
+    "published_at": "2026-03-21T00:57:23.362994+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel strikes Syria after Druze clashes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.995,
+    "published_at": "2026-03-21T00:57:23.357974+00:00"
   }
 ]
