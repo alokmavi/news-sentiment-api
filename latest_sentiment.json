@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
-    "headline": "Iran War Underscores the Diverging Aims of Trump and Netanyahu",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9895,
-    "published_at": "2026-03-22T01:04:05.138148+00:00"
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/middleeast/us-marines-persian-gulf-iran-deploy.html",
+    "headline": "U.S. Dispatches Marines and Warships to Middle East",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7783,
+    "published_at": "2026-03-23T01:05:18.317811+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
-    "headline": "BTS Leans Into Korean History With \u2018Arirang.\u2019 Here Are the Major References.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-03-22T01:04:05.135374+00:00"
+    "source_uri": "https://www.nytimes.com/2026/03/20/us/politics/wartime-emergency-congress-weapons.html",
+    "headline": "Trump Officials Bypass Congress to Sell Weapons to U.A.E., Kuwait and Jordan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-03-23T01:05:18.314060+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html",
     "headline": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9628,
-    "published_at": "2026-03-22T01:04:05.119627+00:00"
+    "published_at": "2026-03-23T01:05:18.311587+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/20/world/americas/cuba-fuel-blockade-aid-convoy.html",
-    "headline": "Aid Ship Departs for Cuba as Island Grapples With a Fuel Blockade",
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/europe/ship-parthenon-greece-marbles-elgin.html",
+    "headline": "Stone Fragment Is Found in Wreck of Ship That Carried Parthenon Marbles",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9837,
-    "published_at": "2026-03-22T01:04:05.116809+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-03-23T01:05:18.307721+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/energy-facilities-have-been-a-potent-target-in-the-war",
-    "headline": "Energy facilities have been a potent target in the war.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-03-22T01:04:05.113836+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/canada/carney-military-alliances-canada-trump.html",
-    "headline": "Canada Shifts From Peacekeeping to Building a Strong Military",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9574,
-    "published_at": "2026-03-22T01:04:05.099463+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/asia/bts-concert-photos-seoul.html",
-    "headline": "K-Pop\u2019s BTS Returns to the Stage",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-03-22T01:04:05.090849+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/middleeast/litani-river-israel-hezbollah-war.html",
-    "headline": "How the Litani River Shapes the Israel-Hezbollah War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8952,
-    "published_at": "2026-03-22T01:04:05.088328+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html",
-    "headline": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
+    "source_uri": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html",
+    "headline": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6942,
-    "published_at": "2026-03-22T01:04:05.084466+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-03-23T01:05:18.289492+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/21/world/europe/iran-scotland-naval-base-clyde.html",
+    "headline": "Iranian Man Arrested After Trying to Enter U.K. Naval Base, Police Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9468,
+    "published_at": "2026-03-23T01:05:18.282948+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/21/world/europe/umberto-bossi-dead.html",
+    "headline": "Umberto Bossi, Fiery Founder of Italian Separatist Party, Dies at 84",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-03-23T01:05:18.277646+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/21/world/middleeast/iran-war-nowruz-internet-blackout.html",
+    "headline": "Internet Blackout Keeps Iranians From Reaching Loved Ones During Nowruz Holiday",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5808,
+    "published_at": "2026-03-23T01:05:18.274989+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html",
     "headline": "Here\u2019s What Happened in the War in the Middle East on Saturday",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-03-22T01:04:05.081912+00:00"
+    "published_at": "2026-03-23T01:05:18.272378+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/europe/chelsea-premier-league-cheating-marina-granovskaia.html",
-    "headline": "Chelsea Chief Under Abramovich Could Face Scrutiny Over Soccer Cheating",
+    "source_uri": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/iran-response-trump-threat-power-plants",
+    "headline": "Iran Responds to Trump\u2019s Energy Threat With Defiance and Warnings of Its Own",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9812,
+    "published_at": "2026-03-23T01:05:18.264519+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/22/world/trump-us-iran-oil-france-elections-bts.html",
+    "headline": "Trump\u2019s Ultimatum to Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9795,
-    "published_at": "2026-03-22T01:04:05.076508+00:00"
+    "confidence_score": 0.9925,
+    "published_at": "2026-03-23T01:05:18.261897+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/20/world/europe/harold-1066-forced-march-ship-hastings.html",
+    "headline": "The Road to the Battle of Hastings in 1066? Maybe Not a Road After All.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9203,
+    "published_at": "2026-03-23T01:05:18.260604+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
     "headline": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-03-22T01:04:05.067297+00:00"
+    "published_at": "2026-03-23T01:05:18.259179+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c7vq5g64y98o?at_medium=RSS&at_campaign=rss",
-    "headline": "Russia's school propaganda was  highlighted by Oscar-winning film - but does it work?",
+    "source_uri": "https://www.nytimes.com/2026/03/21/world/europe/patriarch-filaret-dead.html",
+    "headline": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5305,
+    "published_at": "2026-03-23T01:05:18.256560+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html",
+    "headline": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6942,
+    "published_at": "2026-03-23T01:05:18.255256+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/22/world/europe/france-mayor-elections.html",
+    "headline": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-03-23T01:05:18.243609+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c9wqklg2rexo?at_medium=RSS&at_campaign=rss",
+    "headline": "'BTS is everything for us': K-pop fans gather in Seoul for comeback show",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-03-22T01:04:04.816147+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-03-23T01:05:18.098307+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
-    "headline": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9852,
-    "published_at": "2026-03-22T01:04:04.814654+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
-    "headline": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-03-22T01:04:04.812031+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-03-22T01:04:04.801538+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cr410ezy312o?at_medium=RSS&at_campaign=rss",
-    "headline": "As Islamophobia rises, Australia's Muslims celebrate Eid",
+    "source_uri": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-03-22T01:04:04.798935+00:00"
+    "confidence_score": 0.9956,
+    "published_at": "2026-03-23T01:05:18.075283+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Elon Musk misled Twitter investors, jury finds",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9881,
-    "published_at": "2026-03-22T01:04:04.797689+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
+    "headline": "Qatari and Turkish citizens die in military helicopter crash",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9833,
+    "published_at": "2026-03-23T01:05:18.072655+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Pentagon restrictions on press violate First Amendment, judge rules",
+    "source_uri": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9681,
-    "published_at": "2026-03-22T01:04:04.795079+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump at a crossroads as US weighs tough options in Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-03-22T01:04:04.785279+00:00"
+    "confidence_score": 0.9885,
+    "published_at": "2026-03-23T01:05:18.059360+00:00"
   }
 ]
