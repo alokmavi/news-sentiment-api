@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html",
-    "headline": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo",
+    "source_uri": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html",
+    "headline": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-03-24T00:58:26.432452+00:00"
+    "confidence_score": 0.9918,
+    "published_at": "2026-03-25T01:03:08.553014+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/canada/carney-military-alliances-canada-trump.html",
-    "headline": "Canada Shifts From Peacekeeping to Building a Strong Military",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9574,
-    "published_at": "2026-03-24T00:58:26.430167+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/21/briefing/spring-awakening.html",
-    "headline": "Spring Awakening",
+    "source_uri": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html",
+    "headline": "Diabetes, Overlooked and Unchecked, Poses New Risks in Africa",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9898,
-    "published_at": "2026-03-24T00:58:26.429132+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/europe/umberto-bossi-dead.html",
-    "headline": "Umberto Bossi, Fiery Founder of Italian Separatist Party, Dies at 84",
-    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9978,
-    "published_at": "2026-03-24T00:58:26.422688+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Saturday",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-03-24T00:58:26.416364+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/22/world/europe/france-mayor-elections.html",
-    "headline": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-03-24T00:58:26.404926+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/23/world/us-iran-talks-denmark-election.html",
-    "headline": "Iran Negotiations \u2014 or Not?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-03-24T00:58:26.391133+00:00"
+    "published_at": "2026-03-25T01:03:08.551125+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/23/world/middleeast/iran-war-trump.html",
     "headline": "Trump Says U.S. Is Negotiating With Iran, Which Publicly Denies His Claim",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9886,
-    "published_at": "2026-03-24T00:58:26.390048+00:00"
+    "published_at": "2026-03-25T01:03:08.531962+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/23/world/middleeast/middle-east-war-iran-march-23.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Monday",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-03-24T00:58:26.388937+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html",
-    "headline": "Trump Delays Threat to Iran, but War Negotiations Are in Early Stage",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-03-24T00:58:26.387735+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html",
-    "headline": "Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9794,
-    "published_at": "2026-03-24T00:58:26.384817+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
-    "headline": "On Beirut\u2019s Waterfront, Loss Meets Life, and Luxury, Amid War",
+    "source_uri": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-03-24T00:58:26.382521+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-03-25T01:03:08.527071+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
-    "headline": "In Denmark\u2019s Election, How Will the Woman Who Took On Trump Fare?",
+    "source_uri": "https://www.nytimes.com/2026/03/24/world/europe/europe-australian-trade-deal.html",
+    "headline": "Europe Clinches Critical Mineral Access With Australian Trade Deal",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-03-24T00:58:26.380345+00:00"
+    "confidence_score": 0.9657,
+    "published_at": "2026-03-25T01:03:08.524563+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why is Israel targeting Lebanon's bridges?",
+    "source_uri": "https://www.nytimes.com/2026/03/24/world/middleeast/philippines-national-emergency-high-fuel-prices.html",
+    "headline": "Philippines Declares National Emergency Over High Fuel Prices",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-03-24T00:58:26.213631+00:00"
+    "confidence_score": 0.981,
+    "published_at": "2026-03-25T01:03:08.523389+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+    "source_uri": "https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html",
+    "headline": "High Oil and Gas Prices Could Outlast Trump\u2019s War With Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9885,
-    "published_at": "2026-03-24T00:58:26.201062+00:00"
+    "confidence_score": 0.9741,
+    "published_at": "2026-03-25T01:03:08.510886+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+    "source_uri": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html",
+    "headline": "United States Said to Have Sent Iran a Plan to End the Middle East War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-03-24T00:58:26.198807+00:00"
+    "confidence_score": 0.9363,
+    "published_at": "2026-03-25T01:03:08.509639+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-    "headline": "UN warns Earth's climate being 'pushed beyond its limits' as El Ni\u00f1o looms",
+    "source_uri": "https://www.nytimes.com/2026/03/24/world/asia/south-korea-energy-savings.html",
+    "headline": "Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9834,
+    "published_at": "2026-03-25T01:03:08.499634+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
+    "headline": "Trump Sours on Keir Starmer Over UK\u2019s Decision Not to Join Attacks on Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-03-24T00:58:26.192431+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-03-25T01:03:08.493545+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9334,
+    "published_at": "2026-03-25T01:03:08.281816+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
+    "headline": "How the deadly LaGuardia Airport crash unfolded",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9554,
+    "published_at": "2026-03-25T01:03:08.279693+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
     "headline": "Oil falls and shares rebound after Trump says talks have been held to end war",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9037,
-    "published_at": "2026-03-24T00:58:26.172678+00:00"
+    "published_at": "2026-03-25T01:03:08.270505+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-03-24T00:58:26.168409+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
+    "headline": "UK universities flock to India - but will they succeed?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.735,
+    "published_at": "2026-03-25T01:03:08.267341+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
-    "headline": "A committed pharmacist and a homesick blogger \u2013 the Iranian civilians killed in the war",
+    "source_uri": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
+    "headline": "HK police can now demand phone passwords under new national security rules",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9073,
-    "published_at": "2026-03-24T00:58:26.136226+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-03-25T01:03:08.261907+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
+    "headline": "US Senate confirms Markwayne Mullin as homeland security chief",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9921,
+    "published_at": "2026-03-25T01:03:08.255301+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c1eq7v91n4xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Jury orders Cosby to pay nearly $60m to ex-waitress after finding he abused her in 1972",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-03-25T01:03:08.250172+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crl1ny1g6e0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Elon Musk's Starlink blocked from operating in Namibia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-03-25T01:03:08.248862+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgk02j4l4ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Danes vote as PM Mette Frederiksen seeks third term after Greenland boost",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-03-25T01:03:08.242520+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Pilots killed in LaGuardia plane crash named",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9776,
+    "published_at": "2026-03-25T01:03:08.232450+00:00"
   }
 ]
