@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/europe/eu-trade-deal-us-european-parliament.html",
-    "headline": "After \u2018Sausage Making,\u2019 European Lawmakers Approve U.S. Trade Deal",
+    "source_uri": "https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html",
+    "headline": "Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-03-28T01:02:13.825279+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/australia/oz-iran-visas.html",
-    "headline": "Australia Temporarily Blocks Iranians With Visitor Visas From Entry",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9655,
-    "published_at": "2026-03-28T01:02:13.820472+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html",
-    "headline": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.945,
-    "published_at": "2026-03-28T01:02:13.818157+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/europe/iran-russia-europe-drones.html",
-    "headline": "Europeans Worry Russia Is Preparing to Deliver Drones to Iran",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9804,
-    "published_at": "2026-03-28T01:02:13.814705+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/26/climate/arctic-sea-ice-ties-record-low.html",
-    "headline": "Winter Sea Ice in the Arctic Ties a Record Low",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-03-28T01:02:13.810003+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/asia/pakistan-iran-united-states-talks.html",
-    "headline": "Pakistan, Playing Mediator Between U.S. and Iran, Is Calling Several Countries",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8632,
-    "published_at": "2026-03-28T01:02:13.806202+00:00"
+    "confidence_score": 0.9564,
+    "published_at": "2026-03-29T01:10:56.766953+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/26/world/middleeast/war-displaced-beirut.html",
     "headline": "Displaced by War, Many Seek Shelter in Beirut",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9763,
-    "published_at": "2026-03-28T01:02:13.802451+00:00"
+    "published_at": "2026-03-29T01:10:56.755644+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/middleeast/rubio-strait-of-hormuz-iran-oil.html",
-    "headline": "Rubio Says Allies Should Help Secure Strait by Iran for Oil and Gas Ships",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9645,
-    "published_at": "2026-03-28T01:02:13.801258+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/middleeast/war-iran-us-israel-recap.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Thursday",
+    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
+    "headline": "The Faroe Islands, Wary After Greenland, Vote for Change",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9827,
-    "published_at": "2026-03-28T01:02:13.798841+00:00"
+    "confidence_score": 0.5189,
+    "published_at": "2026-03-29T01:10:56.746151+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-rubio-g7-france.html",
     "headline": "Rubio Is Expected to Press G7 Allies Over Strait of Hormuz During Meeting",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.977,
-    "published_at": "2026-03-28T01:02:13.793758+00:00"
+    "published_at": "2026-03-29T01:10:56.738438+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/abbas-kiarostami-home-damaged.html",
-    "headline": "Iran Tried to Use a Famed Director\u2019s Home to Push Its War Narrative. His Son Fired Back.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-03-28T01:02:13.781329+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
-    "headline": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
+    "source_uri": "https://www.nytimes.com/2026/03/27/science/astrophysics-neutrinos-black-holes.html",
+    "headline": "Did Scientists Just Detect an Exploding Black Hole?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-03-28T01:02:13.780109+00:00"
+    "confidence_score": 0.9105,
+    "published_at": "2026-03-29T01:10:56.730540+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/europe-plan-escort-hormuz.html",
-    "headline": "Europe Is Drafting Postwar Plan to Escort Tankers, Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html",
+    "headline": "Actress Says She\u2019s Found Her Secret Online Abuser: Her Husband",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.918,
-    "published_at": "2026-03-28T01:02:13.778922+00:00"
+    "confidence_score": 0.9519,
+    "published_at": "2026-03-29T01:10:56.726685+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-strikes-infrastructure-industry.html",
-    "headline": "Strikes on Iranian Industry Expand Blows to Civilian Economy",
+    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-israel-us-rubio-war.html",
+    "headline": "Iran Moves to Assert Control Over Strait While Trading Strikes With Israel",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-03-28T01:02:13.775270+00:00"
+    "confidence_score": 0.99,
+    "published_at": "2026-03-29T01:10:56.717504+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
-    "headline": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8808,
-    "published_at": "2026-03-28T01:02:13.767802+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-03-29T01:10:56.713597+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
-    "headline": "How the deadly LaGuardia Airport crash unfolded",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9554,
-    "published_at": "2026-03-28T01:02:13.644784+00:00"
+    "source_uri": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
+    "headline": "Castro Heirs Emerge Across Cuba\u2019s Political Scene Amid Energy Crisis and Trump Threats",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-03-29T01:10:56.703010+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-03-28T01:02:13.637685+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss",
+    "headline": "How Russia's threat has seen Germany become Europe's most important army",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9966,
+    "published_at": "2026-03-29T01:10:56.364531+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce3dl636ly3o?at_medium=RSS&at_campaign=rss",
-    "headline": "The 15-year-old Indian that cricket can no longer ignore",
+    "source_uri": "https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&at_campaign=rss",
+    "headline": "From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-03-28T01:02:13.636443+00:00"
+    "confidence_score": 0.9591,
+    "published_at": "2026-03-29T01:10:56.355843+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
-    "headline": "Women secretly filmed, then ridiculed and abused online",
+    "source_uri": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-03-29T01:10:56.350881+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
+    "headline": "Potential Houthi threat to Red Sea shipping could further damage global economy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9849,
-    "published_at": "2026-03-28T01:02:13.635246+00:00"
+    "confidence_score": 0.9677,
+    "published_at": "2026-03-29T01:10:56.349655+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9937,
+    "published_at": "2026-03-29T01:10:56.343317+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
     "headline": "Spanish woman who died through euthanasia failed by state, say critics",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9886,
-    "published_at": "2026-03-28T01:02:13.612544+00:00"
+    "published_at": "2026-03-29T01:10:56.339799+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+    "headline": "Nepal's ex-PM arrested over fatal protest crackdown",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9854,
+    "published_at": "2026-03-29T01:10:56.335020+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Tiger Woods released on bail after DUI arrest",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5161,
+    "published_at": "2026-03-29T01:10:56.330201+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Gaza peace doubts deepen as attention shifts to Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9913,
+    "published_at": "2026-03-29T01:10:56.324771+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
+    "headline": "How deepfake porn scandal surrounding TV star rocked Germany",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9634,
+    "published_at": "2026-03-29T01:10:56.318173+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump is waging war based on instinct and it isn't working",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-03-29T01:10:56.294689+00:00"
   }
 ]
