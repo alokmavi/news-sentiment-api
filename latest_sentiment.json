@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html",
-    "headline": "Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers.",
+    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/german-military-social-media.html",
+    "headline": "The German Military Tightens Its Social Media Rules",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9564,
-    "published_at": "2026-03-29T01:10:56.766953+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/26/world/middleeast/war-displaced-beirut.html",
-    "headline": "Displaced by War, Many Seek Shelter in Beirut",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9763,
-    "published_at": "2026-03-29T01:10:56.755644+00:00"
+    "confidence_score": 0.9531,
+    "published_at": "2026-03-30T01:11:35.948446+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
     "headline": "The Faroe Islands, Wary After Greenland, Vote for Change",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.5189,
-    "published_at": "2026-03-29T01:10:56.746151+00:00"
+    "published_at": "2026-03-30T01:11:35.945962+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-rubio-g7-france.html",
-    "headline": "Rubio Is Expected to Press G7 Allies Over Strait of Hormuz During Meeting",
+    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html",
+    "headline": "Video: Stranded Humpback Whale Beats the Odds and Swims Out to Sea",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.977,
-    "published_at": "2026-03-29T01:10:56.738438+00:00"
+    "confidence_score": 0.991,
+    "published_at": "2026-03-30T01:11:35.934786+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/science/astrophysics-neutrinos-black-holes.html",
-    "headline": "Did Scientists Just Detect an Exploding Black Hole?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9105,
-    "published_at": "2026-03-29T01:10:56.730540+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html",
-    "headline": "Actress Says She\u2019s Found Her Secret Online Abuser: Her Husband",
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000010791678/iran-war-india-cooking-gas.html",
+    "headline": "Energy Crisis Forces India\u2019s Eateries to Adapt",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9519,
-    "published_at": "2026-03-29T01:10:56.726685+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-03-30T01:11:35.930733+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-israel-us-rubio-war.html",
-    "headline": "Iran Moves to Assert Control Over Strait While Trading Strikes With Israel",
+    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-strikes-infrastructure-industry.html",
+    "headline": "Strikes on Iranian Industry Expand Blows to Civilian Economy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.99,
-    "published_at": "2026-03-29T01:10:56.717504+00:00"
+    "confidence_score": 0.9949,
+    "published_at": "2026-03-30T01:11:35.915611+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-03-29T01:10:56.713597+00:00"
+    "source_uri": "https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html",
+    "headline": "Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.991,
+    "published_at": "2026-03-30T01:11:35.906917+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
-    "headline": "Castro Heirs Emerge Across Cuba\u2019s Political Scene Amid Energy Crisis and Trump Threats",
+    "source_uri": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
+    "headline": "Here\u2019s What Happened in the War in the Middle East on Saturday",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9688,
+    "published_at": "2026-03-30T01:11:35.903131+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/29/world/middleeast/catholic-church-jerusalem.html",
+    "headline": "Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9921,
+    "published_at": "2026-03-30T01:11:35.892928+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Expectant mothers in Cuba struggle under fuel blockade",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9968,
-    "published_at": "2026-03-29T01:10:56.703010+00:00"
+    "published_at": "2026-03-30T01:11:35.725331+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss",
-    "headline": "How Russia's threat has seen Germany become Europe's most important army",
+    "source_uri": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9779,
+    "published_at": "2026-03-30T01:11:35.722993+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
+    "headline": "Three charts that are warning signs flashing for Trump on Iran war",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-03-30T01:11:35.719731+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
+    "headline": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-03-29T01:10:56.364531+00:00"
+    "confidence_score": 0.8094,
+    "published_at": "2026-03-30T01:11:35.715024+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&at_campaign=rss",
-    "headline": "From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9591,
-    "published_at": "2026-03-29T01:10:56.355843+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+    "source_uri": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Think Love Island is bad? Wait until you see the AI fruit version",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-03-29T01:10:56.350881+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-03-30T01:11:35.705579+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
-    "headline": "Potential Houthi threat to Red Sea shipping could further damage global economy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9677,
-    "published_at": "2026-03-29T01:10:56.349655+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
+    "source_uri": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+    "headline": "One ant for $220: The new frontier of wildlife trafficking",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-03-29T01:10:56.343317+00:00"
+    "confidence_score": 0.9706,
+    "published_at": "2026-03-30T01:11:35.703176+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Spanish woman who died through euthanasia failed by state, say critics",
+    "source_uri": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Bank of America to pay out $72.5m over Epstein lawsuit",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9886,
-    "published_at": "2026-03-29T01:10:56.339799+00:00"
+    "confidence_score": 0.965,
+    "published_at": "2026-03-30T01:11:35.685443+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-    "headline": "Nepal's ex-PM arrested over fatal protest crackdown",
+    "source_uri": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+    "headline": "No Kings protests draw large crowds to rally against Donald Trump",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9854,
-    "published_at": "2026-03-29T01:10:56.335020+00:00"
+    "confidence_score": 0.9347,
+    "published_at": "2026-03-30T01:11:35.681627+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Tiger Woods released on bail after DUI arrest",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5161,
-    "published_at": "2026-03-29T01:10:56.330201+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Gaza peace doubts deepen as attention shifts to Iran",
+    "source_uri": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Italy investigates Sephora and Benefit over marketing skincare to children",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9913,
-    "published_at": "2026-03-29T01:10:56.324771+00:00"
+    "confidence_score": 0.9956,
+    "published_at": "2026-03-30T01:11:35.673945+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
-    "headline": "How deepfake porn scandal surrounding TV star rocked Germany",
+    "source_uri": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Three arrested in Paris after attempted bomb attack outside Bank of America",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9634,
-    "published_at": "2026-03-29T01:10:56.318173+00:00"
+    "confidence_score": 0.9469,
+    "published_at": "2026-03-30T01:11:35.672641+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Iranian attacks across Gulf continue as major industrial sites hit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-03-30T01:11:35.669750+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump is waging war based on instinct and it isn't working",
+    "headline": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-03-29T01:10:56.294689+00:00"
+    "published_at": "2026-03-30T01:11:35.650480+00:00"
   }
 ]
