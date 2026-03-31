@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/german-military-social-media.html",
-    "headline": "The German Military Tightens Its Social Media Rules",
+    "source_uri": "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html",
+    "headline": "Yemen\u2019s Houthis Fire at Israel and Vow Further Attacks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9531,
-    "published_at": "2026-03-30T01:11:35.948446+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
-    "headline": "The Faroe Islands, Wary After Greenland, Vote for Change",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5189,
-    "published_at": "2026-03-30T01:11:35.945962+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html",
-    "headline": "Video: Stranded Humpback Whale Beats the Odds and Swims Out to Sea",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-03-30T01:11:35.934786+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000010791678/iran-war-india-cooking-gas.html",
-    "headline": "Energy Crisis Forces India\u2019s Eateries to Adapt",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-03-30T01:11:35.930733+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-strikes-infrastructure-industry.html",
-    "headline": "Strikes on Iranian Industry Expand Blows to Civilian Economy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-03-30T01:11:35.915611+00:00"
+    "confidence_score": 0.9963,
+    "published_at": "2026-03-31T01:09:42.613620+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html",
     "headline": "Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.991,
-    "published_at": "2026-03-30T01:11:35.906917+00:00"
+    "published_at": "2026-03-31T01:09:42.609982+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Saturday",
+    "source_uri": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran",
+    "headline": "Airstrikes batter a university and residential zones in Tehran.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9688,
-    "published_at": "2026-03-30T01:11:35.903131+00:00"
+    "confidence_score": 0.988,
+    "published_at": "2026-03-31T01:09:42.603736+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/29/world/middleeast/catholic-church-jerusalem.html",
-    "headline": "Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9921,
-    "published_at": "2026-03-30T01:11:35.892928+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Expectant mothers in Cuba struggle under fuel blockade",
+    "source_uri": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html",
+    "headline": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-03-30T01:11:35.725331+00:00"
+    "confidence_score": 0.9987,
+    "published_at": "2026-03-31T01:09:42.600018+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+    "source_uri": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-israel-united-states-war-recap.html",
+    "headline": "Here\u2019s What Happened in the War in the Middle East on Sunday",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9779,
-    "published_at": "2026-03-30T01:11:35.722993+00:00"
+    "confidence_score": 0.9909,
+    "published_at": "2026-03-31T01:09:42.586383+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
-    "headline": "Three charts that are warning signs flashing for Trump on Iran war",
+    "source_uri": "https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html",
+    "headline": "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-03-30T01:11:35.719731+00:00"
+    "confidence_score": 0.9763,
+    "published_at": "2026-03-31T01:09:42.583942+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
-    "headline": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
+    "source_uri": "https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html",
+    "headline": "Iran\u2019s Fractured Leadership Is Struggling to Coordinate, Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-03-31T01:09:42.566955+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
+    "headline": "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8094,
-    "published_at": "2026-03-30T01:11:35.715024+00:00"
+    "confidence_score": 0.8299,
+    "published_at": "2026-03-31T01:09:42.558358+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Think Love Island is bad? Wait until you see the AI fruit version",
+    "source_uri": "https://www.nytimes.com/2026/03/30/world/middleeast/yemen-assassination-lawsuit-americans.html",
+    "headline": "Lawsuit Accuses Americans of Political Killings for Hire Overseas",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9952,
+    "published_at": "2026-03-31T01:09:42.552248+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/03/30/world/asia/myanmar-min-aung-hlaing-president.html",
+    "headline": "Myanmar\u2019s Military Leader Moves One Step Closer to Becoming President",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-03-30T01:11:35.705579+00:00"
+    "confidence_score": 0.9887,
+    "published_at": "2026-03-31T01:09:42.549722+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-    "headline": "One ant for $220: The new frontier of wildlife trafficking",
+    "source_uri": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
+    "headline": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-03-31T01:09:42.545953+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Our home is gone': BBC speaks to displaced families in Lebanon",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9706,
-    "published_at": "2026-03-30T01:11:35.703176+00:00"
+    "confidence_score": 0.9883,
+    "published_at": "2026-03-31T01:09:42.330264+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Bank of America to pay out $72.5m over Epstein lawsuit",
+    "source_uri": "https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fuel rations and free buses: How countries are responding to rising oil prices",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.965,
-    "published_at": "2026-03-30T01:11:35.685443+00:00"
+    "confidence_score": 0.6741,
+    "published_at": "2026-03-31T01:09:42.317756+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-    "headline": "No Kings protests draw large crowds to rally against Donald Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9347,
-    "published_at": "2026-03-30T01:11:35.681627+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
+    "headline": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-03-31T01:09:42.316455+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Italy investigates Sephora and Benefit over marketing skincare to children",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-03-30T01:11:35.673945+00:00"
+    "source_uri": "https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Long queues in Myanmar as Iran war fuel crisis deepens",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9701,
+    "published_at": "2026-03-31T01:09:42.312559+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+    "source_uri": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9469,
-    "published_at": "2026-03-30T01:11:35.672641+00:00"
+    "confidence_score": 0.9055,
+    "published_at": "2026-03-31T01:09:42.299878+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iranian attacks across Gulf continue as major industrial sites hit",
+    "source_uri": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
+    "headline": "Kris Jenner's image spreads in Chinese social media good luck trend",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-03-30T01:11:35.669750+00:00"
+    "confidence_score": 0.9378,
+    "published_at": "2026-03-31T01:09:42.298706+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+    "source_uri": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Social media firms must better enforce Australia under-16 ban, watchdog says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-03-30T01:11:35.650480+00:00"
+    "confidence_score": 0.994,
+    "published_at": "2026-03-31T01:09:42.290444+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8766,
+    "published_at": "2026-03-31T01:09:42.286279+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Spain closes airspace to US aircraft involved in Iran war",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9841,
+    "published_at": "2026-03-31T01:09:42.265844+00:00"
   }
 ]
