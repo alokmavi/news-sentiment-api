@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html",
-    "headline": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
+    "source_uri": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
+    "headline": "First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-04-02T01:06:13.724637+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/100000010774146/inside-russia-during-an-internet-crackdown.html",
+    "headline": "Inside Russia During an Internet Crackdown",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9878,
-    "published_at": "2026-04-01T01:16:34.472518+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/30/world/asia/china-xi-taiwan-cheng.html",
-    "headline": "Xi Invites Taiwan\u2019s Opposition Leader to Talk \u2018Peace\u2019 Ahead of Trump Summit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9442,
-    "published_at": "2026-04-01T01:16:34.464590+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html",
-    "headline": "Trump Claims \u2018Regime Change\u2019 in Iran Is Already Complete",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-04-01T01:16:34.463445+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/30/world/middleeast/lebanon-un-peacekeepers.html",
-    "headline": "Two More U.N. Peacekeepers Are Killed in Southern Lebanon",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-04-01T01:16:34.460013+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/30/us/politics/gitmo-cuba-trump.html",
-    "headline": "As Trump Squeezes Cuba, U.S. Military Exists in a Bubble",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-01T01:16:34.453034+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/30/us/politics/us-missile-strike-iran-sports-hall-school.html",
-    "headline": "A New U.S. Missile Hit a Sports Hall in Iran. Here\u2019s What We Know About It.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-04-01T01:16:34.445903+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/31/us/politics/trump-iran-ground-war.html",
-    "headline": "Trump Faces a Decision on Whether to Start a Ground War in Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9628,
-    "published_at": "2026-04-01T01:16:34.439008+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/31/world/middleeast/arab-countries-war-economic-impact.html",
-    "headline": "Arab World Faces \u2018Profound\u2019 Economic Crisis From Iran War, U.N. Agency Warns",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-04-01T01:16:34.436744+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/31/world/middleeast/oil-energy-inflation-global-economy.html",
-    "headline": "From Oil to Food, the Iran War Is Squeezing the Global Economy",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9446,
-    "published_at": "2026-04-01T01:16:34.434424+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/31/world/australia/jack-karlson-succulent-chinese-meal-meme.html",
-    "headline": "Why Australia Enshrined \u2018a Succulent Chinese Meal\u2019 Rant in Its Archive",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-01T01:16:34.430581+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
-    "headline": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-04-01T01:16:34.417392+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html",
-    "headline": "He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-04-01T01:16:34.416217+00:00"
+    "confidence_score": 0.9963,
+    "published_at": "2026-04-02T01:06:13.723335+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/03/31/world/asia/senators-taiwan-military.html",
     "headline": "U.S. Senators Press Taiwan to Raise Military Spending, as China Protests",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.8712,
-    "published_at": "2026-04-01T01:16:34.411324+00:00"
+    "published_at": "2026-04-02T01:06:13.719396+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/31/world/europe/europe-spending-problem-military-domestic.html",
-    "headline": "Europe Has a \u2018Guns vs. Butter\u2019 Problem. War in Iran Makes It Worse.",
+    "source_uri": "https://www.nytimes.com/2026/03/31/world/middleeast/tehran-pharmaceutical-strike-israel.html",
+    "headline": "Israel Strikes Tehran Pharmaceutical Plant, Claiming Military Link",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-04-01T01:16:34.405093+00:00"
+    "confidence_score": 0.9863,
+    "published_at": "2026-04-02T01:06:13.693328+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump",
-    "headline": "Iran War Live Updates: Trump Says U.S. Military Campaign to Wind Down and Plans National Address",
+    "source_uri": "https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html",
+    "headline": "Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.886,
-    "published_at": "2026-04-01T01:16:34.401858+00:00"
+    "confidence_score": 0.981,
+    "published_at": "2026-04-02T01:06:13.692068+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cvgknq28nlko?at_medium=RSS&at_campaign=rss",
-    "headline": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9519,
-    "published_at": "2026-04-01T01:16:34.286376+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
-    "headline": "Wolf bites woman in shock German attack on busy Hamburg shopping street",
+    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html",
+    "headline": "Trump Says Europe Is On Its Own in Securing the Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8317,
-    "published_at": "2026-04-01T01:16:34.261062+00:00"
+    "confidence_score": 0.9816,
+    "published_at": "2026-04-02T01:06:13.684311+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/sport/golf/articles/c87wjj424vro?at_medium=RSS&at_campaign=rss",
-    "headline": "Tiger Woods to 'step away and seek treatment' after crash",
+    "source_uri": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/netanyahu-israel-iran-war",
+    "headline": "Netanyahu makes the case that wars on Iran have succeeded.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9486,
+    "published_at": "2026-04-02T01:06:13.681754+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-nuclear-uranium.html",
+    "headline": "\u2018I Don\u2019t Care About That\u2019: Trump Says Iran\u2019s Enriched Uranium Is Not a Concern",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9352,
+    "published_at": "2026-04-02T01:06:13.678132+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html",
+    "headline": "Trump Laid Out Five Goals for the Iran War. Here\u2019s Where They Stand.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6985,
+    "published_at": "2026-04-02T01:06:13.670696+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html",
+    "headline": "The Sailors Stranded in the Persian Gulf",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9935,
-    "published_at": "2026-04-01T01:16:34.254978+00:00"
+    "published_at": "2026-04-02T01:06:13.659068+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
-    "headline": "India begins counting more than a billion people in massive census",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-04-01T01:16:34.252410+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran using children in security roles in war, reports and witnesses say",
+    "source_uri": "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html",
+    "headline": "U.S. Plans Military Expansion in Greenland",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-04-01T01:16:34.228849+00:00"
+    "confidence_score": 0.9936,
+    "published_at": "2026-04-02T01:06:13.651779+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9779,
+    "published_at": "2026-04-02T01:06:13.473264+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
+    "headline": "Who are the Artemis II astronauts heading to the Moon?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-04-02T01:06:13.463423+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
+    "headline": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6958,
+    "published_at": "2026-04-02T01:06:13.460876+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+    "headline": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9416,
+    "published_at": "2026-04-02T01:06:13.455792+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Thousands lose their jobs in deep cuts at tech giant Oracle",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-04-02T01:06:13.453315+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+    "headline": "US journalist Shelly Kittleson kidnapped in Baghdad",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9863,
+    "published_at": "2026-04-02T01:06:13.449490+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+    "headline": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-04-02T01:06:13.447034+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+    "headline": "Families cram into Greek court for trial into deadliest train crash",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-04-02T01:06:13.433904+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9827,
+    "published_at": "2026-04-02T01:06:13.432357+00:00"
   }
 ]
