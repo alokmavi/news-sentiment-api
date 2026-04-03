@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
-    "headline": "First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations",
+    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html",
+    "headline": "The Sailors Stranded in the Persian Gulf",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-04-02T01:06:13.724637+00:00"
+    "confidence_score": 0.9935,
+    "published_at": "2026-04-03T01:08:47.401320+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/100000010774146/inside-russia-during-an-internet-crackdown.html",
-    "headline": "Inside Russia During an Internet Crackdown",
+    "source_uri": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-04-02T01:06:13.723335+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-04-03T01:08:47.398863+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/03/31/world/asia/senators-taiwan-military.html",
-    "headline": "U.S. Senators Press Taiwan to Raise Military Spending, as China Protests",
+    "source_uri": "https://www.nytimes.com/2026/04/01/business/baidu-robotaxi-wuhan-china.html",
+    "headline": "Robot Taxis Stop in Traffic in Chinese City, Stranding Travelers",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8712,
-    "published_at": "2026-04-02T01:06:13.719396+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/31/world/middleeast/tehran-pharmaceutical-strike-israel.html",
-    "headline": "Israel Strikes Tehran Pharmaceutical Plant, Claiming Military Link",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9863,
-    "published_at": "2026-04-02T01:06:13.693328+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html",
-    "headline": "Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.981,
-    "published_at": "2026-04-02T01:06:13.692068+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-04-03T01:08:47.394112+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html",
     "headline": "Trump Says Europe Is On Its Own in Securing the Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9816,
-    "published_at": "2026-04-02T01:06:13.684311+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/netanyahu-israel-iran-war",
-    "headline": "Netanyahu makes the case that wars on Iran have succeeded.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9486,
-    "published_at": "2026-04-02T01:06:13.681754+00:00"
+    "published_at": "2026-04-03T01:08:47.390385+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-nuclear-uranium.html",
     "headline": "\u2018I Don\u2019t Care About That\u2019: Trump Says Iran\u2019s Enriched Uranium Is Not a Concern",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9352,
-    "published_at": "2026-04-02T01:06:13.678132+00:00"
+    "published_at": "2026-04-03T01:08:47.383001+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html",
-    "headline": "Trump Laid Out Five Goals for the Iran War. Here\u2019s Where They Stand.",
+    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/iran-president-pezeshkian-letter-diplomacy.html",
+    "headline": "Iran\u2019s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6985,
-    "published_at": "2026-04-02T01:06:13.670696+00:00"
+    "confidence_score": 0.9761,
+    "published_at": "2026-04-03T01:08:47.380593+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html",
-    "headline": "The Sailors Stranded in the Persian Gulf",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-04-02T01:06:13.659068+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html",
-    "headline": "U.S. Plans Military Expansion in Greenland",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-04-02T01:06:13.651779+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Hundreds in Beirut mourn journalists killed in Israeli strike",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9779,
-    "published_at": "2026-04-02T01:06:13.473264+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
-    "headline": "Who are the Artemis II astronauts heading to the Moon?",
+    "source_uri": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/trump-iran-war-speech",
+    "headline": "In Speech, Trump Is Expected to Call Iran War a Success",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-04-02T01:06:13.463423+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-04-03T01:08:47.374519+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
-    "headline": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-transcript-speech-iran.html",
+    "headline": "Transcript: Trump\u2019s Speech on Iran War",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6958,
-    "published_at": "2026-04-02T01:06:13.460876+00:00"
+    "confidence_score": 0.9537,
+    "published_at": "2026-04-03T01:08:47.370934+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
-    "headline": "'You're no longer my sister' - rows erupt as war divides Iranian families",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9416,
-    "published_at": "2026-04-02T01:06:13.455792+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Thousands lose their jobs in deep cuts at tech giant Oracle",
+    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html",
+    "headline": "5 Takeaways From Trump\u2019s Speech on Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-04-02T01:06:13.453315+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-04-03T01:08:47.369743+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-    "headline": "US journalist Shelly Kittleson kidnapped in Baghdad",
+    "source_uri": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranian-officials-come-out-defiant-after-trumps-war-speech",
+    "headline": "Iranian officials come out defiant after Trump\u2019s war speech.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9863,
-    "published_at": "2026-04-02T01:06:13.449490+00:00"
+    "confidence_score": 0.9761,
+    "published_at": "2026-04-03T01:08:47.366181+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
-    "headline": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/dave-storm-name-uk.html",
+    "headline": "Storm Dave Cometh. But Why Is It Called That?",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-04-02T01:06:13.447034+00:00"
+    "published_at": "2026-04-03T01:08:47.362573+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
-    "headline": "Families cram into Greek court for trial into deadliest train crash",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-04-02T01:06:13.433904+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/law-experts-express-concerns-over-violations-of-international-law-in-the-war",
+    "headline": "Legal experts express concerns over \u2018violations of international law\u2019 in the war.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5857,
+    "published_at": "2026-04-03T01:08:47.359031+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-oman-hormuz-control.html",
+    "headline": "Iran Says It Will Oversee Strait of Hormuz Traffic, Even in Peacetime",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9827,
-    "published_at": "2026-04-02T01:06:13.432357+00:00"
+    "confidence_score": 0.9537,
+    "published_at": "2026-04-03T01:08:47.356596+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/space-artemis-us-china-trump-iran-pam-bondi.html",
+    "headline": "The Race for the Future of the Moon",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-04-03T01:08:47.350443+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html",
+    "headline": "Every Trump Threat to Abandon NATO Hollows It Out",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.992,
+    "published_at": "2026-04-03T01:08:47.344262+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html",
+    "headline": "Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-04-03T01:08:47.340206+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+    "headline": "Europe Pushes for a Gentler Internet for Children",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-04-03T01:08:47.338900+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
+    "headline": "Pope Leo Returns to Tradition, Washing Priests\u2019 Feet",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-04-03T01:08:47.335066+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Elon Musk's SpaceX set to be worth $1 trillion with planned public listing",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-04-03T01:08:47.070379+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ancient golden helmet recovered more than a year after Dutch heist",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9769,
+    "published_at": "2026-04-03T01:08:47.062891+00:00"
   }
 ]
