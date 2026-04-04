@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html",
-    "headline": "The Sailors Stranded in the Persian Gulf",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-04-03T01:08:47.401320+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/what-happened-in-the-war-in-the-middle-east-on-wednesday.html",
+    "headline": "What Happened in the War in the Middle East on Wednesday.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-04-03T01:08:47.398863+00:00"
+    "confidence_score": 0.915,
+    "published_at": "2026-04-04T01:03:44.049052+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/01/business/baidu-robotaxi-wuhan-china.html",
-    "headline": "Robot Taxis Stop in Traffic in Chinese City, Stranding Travelers",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-03T01:08:47.394112+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html",
-    "headline": "Trump Says Europe Is On Its Own in Securing the Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9816,
-    "published_at": "2026-04-03T01:08:47.390385+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-nuclear-uranium.html",
-    "headline": "\u2018I Don\u2019t Care About That\u2019: Trump Says Iran\u2019s Enriched Uranium Is Not a Concern",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9352,
-    "published_at": "2026-04-03T01:08:47.383001+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/iran-president-pezeshkian-letter-diplomacy.html",
-    "headline": "Iran\u2019s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9761,
-    "published_at": "2026-04-03T01:08:47.380593+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/trump-iran-war-speech",
-    "headline": "In Speech, Trump Is Expected to Call Iran War a Success",
+    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/us-lifts-sanctions-rodriguez.html",
+    "headline": "U.S. Lifts Sanctions on Venezuela\u2019s New Leader, Delcy Rodr\u00edguez",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-04-03T01:08:47.374519+00:00"
+    "confidence_score": 0.9674,
+    "published_at": "2026-04-04T01:03:44.047854+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-transcript-speech-iran.html",
-    "headline": "Transcript: Trump\u2019s Speech on Iran War",
+    "source_uri": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html",
+    "headline": "War With Iran Clarifies Trump\u2019s Spending Priorities: The Military, Not Child Care",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9537,
-    "published_at": "2026-04-03T01:08:47.370934+00:00"
+    "confidence_score": 0.9904,
+    "published_at": "2026-04-04T01:03:44.031118+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html",
-    "headline": "5 Takeaways From Trump\u2019s Speech on Iran",
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html",
+    "headline": "Liamine Zeroual, Algerian President During Bloody Civil War, Dies at 84",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9672,
+    "published_at": "2026-04-04T01:03:44.026331+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/us/politics/trump-congress-foreign-aid-rescissions.html",
+    "headline": "Trump\u2019s Cuts Have Eviscerated Once-Bipartisan Foreign Aid Programs",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-04-03T01:08:47.369743+00:00"
+    "confidence_score": 0.9899,
+    "published_at": "2026-04-04T01:03:44.025128+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranian-officials-come-out-defiant-after-trumps-war-speech",
-    "headline": "Iranian officials come out defiant after Trump\u2019s war speech.",
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
+    "headline": "Trump\u2019s Strait of Hormuz Problem",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9665,
+    "published_at": "2026-04-04T01:03:44.016690+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/03/world/asia/india-census-population.html",
+    "headline": "How Do You Count 1.4 Billion People? India Is Trying.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-04-04T01:03:44.013066+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html",
+    "headline": "Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9761,
-    "published_at": "2026-04-03T01:08:47.366181+00:00"
+    "confidence_score": 0.9823,
+    "published_at": "2026-04-04T01:03:44.006914+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/dave-storm-name-uk.html",
-    "headline": "Storm Dave Cometh. But Why Is It Called That?",
+    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-04-04T01:03:44.003194+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
+    "headline": "Cosmopolitan Shanghai Is an Uneasy Fit in China\u2019s Narrative of Western Sins",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9611,
+    "published_at": "2026-04-04T01:03:43.985757+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html",
+    "headline": "Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-04-04T01:03:43.984527+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
+    "headline": "Could There Be a Popular Uprising in Cuba?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8059,
+    "published_at": "2026-04-04T01:03:43.981933+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil",
+    "headline": "Iran War Live Updates: Downed U.S. Jet and Missing Crew Member Raise Stakes in War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-04-04T01:03:43.980298+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch the moment Artemis II blasts into space on historic mission",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-04-04T01:03:43.851315+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ros Atkins on\u2026the cost of the Iran war",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9521,
+    "published_at": "2026-04-04T01:03:43.850073+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Arlo Parks: 'I got out of my head and into my body'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-04-04T01:03:43.836861+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump removes US Attorney General Pam Bondi",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-04-04T01:03:43.826240+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-04T01:03:43.820023+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-04-03T01:08:47.362573+00:00"
+    "published_at": "2026-04-04T01:03:43.818768+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/law-experts-express-concerns-over-violations-of-international-law-in-the-war",
-    "headline": "Legal experts express concerns over \u2018violations of international law\u2019 in the war.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5857,
-    "published_at": "2026-04-03T01:08:47.359031+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-oman-hormuz-control.html",
-    "headline": "Iran Says It Will Oversee Strait of Hormuz Traffic, Even in Peacetime",
+    "source_uri": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+    "headline": "France's Muslim gathering ban overturned by courts",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9537,
-    "published_at": "2026-04-03T01:08:47.356596+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/space-artemis-us-china-trump-iran-pam-bondi.html",
-    "headline": "The Race for the Future of the Moon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-04-03T01:08:47.350443+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html",
-    "headline": "Every Trump Threat to Abandon NATO Hollows It Out",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-04-03T01:08:47.344262+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html",
-    "headline": "Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-04-03T01:08:47.340206+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-    "headline": "Europe Pushes for a Gentler Internet for Children",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-04-03T01:08:47.338900+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
-    "headline": "Pope Leo Returns to Tradition, Washing Priests\u2019 Feet",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-04-03T01:08:47.335066+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Elon Musk's SpaceX set to be worth $1 trillion with planned public listing",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-04-03T01:08:47.070379+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ancient golden helmet recovered more than a year after Dutch heist",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9769,
-    "published_at": "2026-04-03T01:08:47.062891+00:00"
+    "confidence_score": 0.9951,
+    "published_at": "2026-04-04T01:03:43.817498+00:00"
   }
 ]
