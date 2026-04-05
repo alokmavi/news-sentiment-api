@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/01/world/middleeast/what-happened-in-the-war-in-the-middle-east-on-wednesday.html",
-    "headline": "What Happened in the War in the Middle East on Wednesday.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.915,
-    "published_at": "2026-04-04T01:03:44.049052+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/01/us/politics/us-lifts-sanctions-rodriguez.html",
-    "headline": "U.S. Lifts Sanctions on Venezuela\u2019s New Leader, Delcy Rodr\u00edguez",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9674,
-    "published_at": "2026-04-04T01:03:44.047854+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html",
-    "headline": "War With Iran Clarifies Trump\u2019s Spending Priorities: The Military, Not Child Care",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9904,
-    "published_at": "2026-04-04T01:03:44.031118+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html",
-    "headline": "Liamine Zeroual, Algerian President During Bloody Civil War, Dies at 84",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9672,
-    "published_at": "2026-04-04T01:03:44.026331+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/02/us/politics/trump-congress-foreign-aid-rescissions.html",
-    "headline": "Trump\u2019s Cuts Have Eviscerated Once-Bipartisan Foreign Aid Programs",
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/museum-heist-netherlands-helmet-romania.html",
+    "headline": "Ancient Artifacts Stolen in Dutch Museum Heist Are Recovered",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-04-04T01:03:44.025128+00:00"
+    "confidence_score": 0.8702,
+    "published_at": "2026-04-05T01:11:51.841620+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html",
-    "headline": "Trump\u2019s Strait of Hormuz Problem",
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/dave-storm-name-uk.html",
+    "headline": "Storm Dave Cometh. But Why Is It Called That?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-04-05T01:11:51.840272+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
+    "headline": "Pope Leo Returns to Tradition, Washing Priests\u2019 Feet",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9665,
-    "published_at": "2026-04-04T01:03:44.016690+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-04-05T01:11:51.837565+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/asia/india-census-population.html",
-    "headline": "How Do You Count 1.4 Billion People? India Is Trying.",
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html",
+    "headline": "Russia Is Sending a Second Oil Tanker to Fuel-Starved Cuba",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9733,
+    "published_at": "2026-04-05T01:11:51.836121+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html",
+    "headline": "Trump Says He\u2019ll End the Iran War in Weeks. What If He Can\u2019t?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-04-05T01:11:51.832213+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-middle-east-recap-thursday.html",
+    "headline": "Here\u2019s What Happened in the War in the Middle East on Thursday",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-04T01:03:44.013066+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-04-05T01:11:51.820587+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html",
-    "headline": "Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.",
+    "source_uri": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/iranian-media-outlets-say-helicopters-are-searching-for-the-crew-of-the-downed-jet",
+    "headline": "Iranian media outlets say helicopters are searching for the crew of the downed jet.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9823,
-    "published_at": "2026-04-04T01:03:44.006914+00:00"
+    "confidence_score": 0.9809,
+    "published_at": "2026-04-05T01:11:51.807924+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-04-04T01:03:44.003194+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
-    "headline": "Cosmopolitan Shanghai Is an Uneasy Fit in China\u2019s Narrative of Western Sins",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9611,
-    "published_at": "2026-04-04T01:03:43.985757+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html",
-    "headline": "Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-04-04T01:03:43.984527+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
-    "headline": "Could There Be a Popular Uprising in Cuba?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8059,
-    "published_at": "2026-04-04T01:03:43.981933+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil",
-    "headline": "Iran War Live Updates: Downed U.S. Jet and Missing Crew Member Raise Stakes in War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-04-04T01:03:43.980298+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch the moment Artemis II blasts into space on historic mission",
+    "source_uri": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
+    "headline": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
     "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5029,
+    "published_at": "2026-04-05T01:11:51.789019+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/04/world/middleeast/israel-strikes-mahshahr-iran-oil.html",
+    "headline": "Israel Strikes Iran\u2019s Largest Petrochemical Complex",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9979,
-    "published_at": "2026-04-04T01:03:43.851315+00:00"
+    "published_at": "2026-04-05T01:11:51.783968+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ros Atkins on\u2026the cost of the Iran war",
+    "source_uri": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Artemis II astronauts speak from space",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9521,
-    "published_at": "2026-04-04T01:03:43.850073+00:00"
+    "confidence_score": 0.7242,
+    "published_at": "2026-04-05T01:11:51.564225+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know so far about the search for missing US airman in Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-04-05T01:11:51.561761+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Who is Christopher LaNeve, set to lead the US Army?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.911,
+    "published_at": "2026-04-05T01:11:51.560560+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
     "headline": "Arlo Parks: 'I got out of my head and into my body'",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.997,
-    "published_at": "2026-04-04T01:03:43.836861+00:00"
+    "published_at": "2026-04-05T01:11:51.555651+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump removes US Attorney General Pam Bondi",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-04T01:03:43.826240+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-04T01:03:43.820023+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
+    "source_uri": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
+    "headline": "How Canada's largest gun control effort in decades is missing the mark",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-04-04T01:03:43.818768+00:00"
+    "published_at": "2026-04-05T01:11:51.549154+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-    "headline": "France's Muslim gathering ban overturned by courts",
+    "source_uri": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9848,
+    "published_at": "2026-04-05T01:11:51.541460+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
+    "headline": "Senegal bans ministers from foreign travel as oil price rise bites",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-04-04T01:03:43.817498+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-04-05T01:11:51.536531+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
+    "headline": "World's oldest leader to get a deputy for first time in 43-year rule",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6144,
+    "published_at": "2026-04-05T01:11:51.531439+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-04-05T01:11:51.526906+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
+    "headline": "The man who became one of India's greatest stage queens",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-04-05T01:11:51.525646+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+    "headline": "German males under 45 may need military approval for long stays abroad",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9961,
+    "published_at": "2026-04-05T01:11:51.523102+00:00"
   }
 ]
