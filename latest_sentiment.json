@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html",
-    "headline": "Cuba Says It Is Pardoning More Than 2,000 Prisoners",
+    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html",
+    "headline": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-04-06T01:12:05.416576+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-04-07T01:10:09.752614+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
-    "headline": "Could There Be a Popular Uprising in Cuba?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8059,
-    "published_at": "2026-04-06T01:12:05.410037+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html",
-    "headline": "At War With Iran Again, Some Israelis Fear Conflict Is Becoming Routine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-04-06T01:12:05.408679+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html",
-    "headline": "Iran Is Quickly Repairing Missile Bunkers, U.S. Intelligence Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-04-06T01:12:05.398091+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html",
-    "headline": "Iran\u2019s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9502,
-    "published_at": "2026-04-06T01:12:05.394174+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
-    "headline": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
+    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-war-middle-east-recap-friday.html",
+    "headline": "Here\u2019s What Happened in the War in the Middle East on Friday",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5029,
-    "published_at": "2026-04-06T01:12:05.379775+00:00"
+    "confidence_score": 0.9782,
+    "published_at": "2026-04-07T01:10:09.751507+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/iran-pilot-fighter-jet-strike-war",
-    "headline": "Here\u2019s how two airmen would have ejected from the F-15E.",
+    "source_uri": "https://www.nytimes.com/2026/04/04/briefing/living-space.html",
+    "headline": "Living Space",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.942,
-    "published_at": "2026-04-06T01:12:05.378443+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-07T01:10:09.740864+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html",
-    "headline": "Former Matador Is Gored to Death Before Annual Bullfight in Spain",
+    "source_uri": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker",
+    "headline": "A projectile hit near Iran\u2019s Bushehr nuclear plant, killing a worker.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8235,
-    "published_at": "2026-04-06T01:12:05.370414+00:00"
+    "confidence_score": 0.9851,
+    "published_at": "2026-04-07T01:10:09.737370+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-israel-us-war-middle-east.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Sunday",
+    "source_uri": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/satellite-image-company-restricts-mideast-content-citing-a-us-government-request",
+    "headline": "Satellite image company restricts Mideast content, citing a U.S. government request.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9802,
-    "published_at": "2026-04-06T01:12:05.362115+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-04-07T01:10:09.732808+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html",
-    "headline": "Epstein Presented Himself to Indian Tycoon as a Trump White House Insider",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-04-06T01:12:05.360815+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
-    "headline": "Deadly Earthquake and Floods Worsen Afghanistan\u2019s Troubles",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-04-06T01:12:05.355552+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html",
-    "headline": "Dozens Killed in Haiti Massacre as International Force Trickles In",
+    "source_uri": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9703,
-    "published_at": "2026-04-06T01:12:05.354205+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-04-07T01:10:09.717510+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-    "headline": "What We Know About the Rescue of a U.S. Airman After Two Jet Crashes",
+    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/israel-haifa-strike-iran.html",
+    "headline": "At Least 4 Killed in Iranian Strike in Haifa, Israeli Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-04-07T01:10:09.713966+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/israel-attacks-lebanon-kill-dozens.html",
+    "headline": "Israel Steps Up Attacks on Lebanon, Killing Dozens",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9832,
+    "published_at": "2026-04-07T01:10:09.704321+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html",
+    "headline": "Iran\u2019s 10-Point Proposal Demands an End to Attacks and Sanctions",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9492,
-    "published_at": "2026-04-06T01:12:05.351414+00:00"
+    "confidence_score": 0.8328,
+    "published_at": "2026-04-07T01:10:09.699818+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
-    "headline": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+    "source_uri": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html",
+    "headline": "Trump Says Iran Cease-Fire Proposal Is \u2018Not Good Enough\u2019 as Deadline Approaches",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-04-06T01:12:05.347436+00:00"
+    "confidence_score": 0.9897,
+    "published_at": "2026-04-07T01:10:09.698538+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know so far about the search for missing US airman in Iran",
+    "source_uri": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
+    "headline": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-04-06T01:12:05.163666+00:00"
+    "confidence_score": 0.9925,
+    "published_at": "2026-04-07T01:10:09.696181+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cj60k3x879ro?at_medium=RSS&at_campaign=rss",
-    "headline": "How Bombay went from a fort city to a bustling metropolis",
+    "source_uri": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
+    "headline": "Iran\u2019s Downing of Fighter Jet and U.S. Rescue Leave Both Sides Dangerously Emboldened",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-04-06T01:12:05.158568+00:00"
+    "confidence_score": 0.5601,
+    "published_at": "2026-04-07T01:10:09.695017+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+    "source_uri": "https://www.nytimes.com/2026/04/06/world/europe/ukraine-russia-war-spring-foliage.html",
+    "headline": "Why Trees Are Key to Russia\u2019s Spring Offensive in Ukraine",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-04-06T01:12:05.144347+00:00"
+    "confidence_score": 0.9915,
+    "published_at": "2026-04-07T01:10:09.689025+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
-    "headline": "German males under 45 may need military approval for long stays abroad",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-04-06T01:12:05.140647+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
-    "headline": "AI videos fuel rhetoric as Orb\u00e1n bids for four more years in Hungary",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9901,
-    "published_at": "2026-04-06T01:12:05.138229+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
-    "headline": "Artemis's stunning Moon pictures - science or holiday photos?",
+    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/trump-board-of-peace-hamas-disarmament.html",
+    "headline": "Trump\u2019s Board of Peace Gives Hamas Disarmament Deadline",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-04-06T01:12:05.137005+00:00"
+    "confidence_score": 0.9731,
+    "published_at": "2026-04-07T01:10:09.685306+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
+    "headline": "ICE wanted to build a detention centre -  this small farming town said no",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9556,
+    "published_at": "2026-04-07T01:10:09.555005+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+    "headline": "The 40 minutes when the Artemis crew loses contact with the Earth",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-07T01:10:09.550354+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-07T01:10:09.542096+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss",
+    "headline": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9073,
+    "published_at": "2026-04-07T01:10:09.539618+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Nine policemen sentenced to death in India over Covid custody killings",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-04-07T01:10:09.535925+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+    "headline": "How rescue of US airman in remote part of Iran unfolded",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6937,
+    "published_at": "2026-04-07T01:10:09.532044+00:00"
   }
 ]
