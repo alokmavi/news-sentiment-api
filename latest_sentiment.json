@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html",
-    "headline": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-04-07T01:10:09.752614+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-war-middle-east-recap-friday.html",
-    "headline": "Here\u2019s What Happened in the War in the Middle East on Friday",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9782,
-    "published_at": "2026-04-07T01:10:09.751507+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/04/briefing/living-space.html",
-    "headline": "Living Space",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-04-07T01:10:09.740864+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker",
-    "headline": "A projectile hit near Iran\u2019s Bushehr nuclear plant, killing a worker.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9851,
-    "published_at": "2026-04-07T01:10:09.737370+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/satellite-image-company-restricts-mideast-content-citing-a-us-government-request",
-    "headline": "Satellite image company restricts Mideast content, citing a U.S. government request.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-04-07T01:10:09.732808+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-04-07T01:10:09.717510+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/israel-haifa-strike-iran.html",
-    "headline": "At Least 4 Killed in Iranian Strike in Haifa, Israeli Officials Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-04-07T01:10:09.713966+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/israel-attacks-lebanon-kill-dozens.html",
-    "headline": "Israel Steps Up Attacks on Lebanon, Killing Dozens",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9832,
-    "published_at": "2026-04-07T01:10:09.704321+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html",
-    "headline": "Iran\u2019s 10-Point Proposal Demands an End to Attacks and Sanctions",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8328,
-    "published_at": "2026-04-07T01:10:09.699818+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html",
-    "headline": "Trump Says Iran Cease-Fire Proposal Is \u2018Not Good Enough\u2019 as Deadline Approaches",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-04-07T01:10:09.698538+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
-    "headline": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-04-07T01:10:09.696181+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-    "headline": "Iran\u2019s Downing of Fighter Jet and U.S. Rescue Leave Both Sides Dangerously Emboldened",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5601,
-    "published_at": "2026-04-07T01:10:09.695017+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/04/06/world/europe/ukraine-russia-war-spring-foliage.html",
     "headline": "Why Trees Are Key to Russia\u2019s Spring Offensive in Ukraine",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9915,
-    "published_at": "2026-04-07T01:10:09.689025+00:00"
+    "published_at": "2026-04-08T01:11:16.630442+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/trump-board-of-peace-hamas-disarmament.html",
-    "headline": "Trump\u2019s Board of Peace Gives Hamas Disarmament Deadline",
+    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/iranians-condemn-university-strike.html",
+    "headline": "Iranians Condemn Strike on a Top University",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9819,
+    "published_at": "2026-04-08T01:11:16.617881+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/houthis-iran-yemen-war.html",
+    "headline": "Weakened and Reluctant, Yemen\u2019s Houthis Belatedly Enter War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-04-08T01:11:16.607067+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-takeaways.html",
+    "headline": "6 Takeaways From the Story of Trump\u2019s Decision to Go to War With Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.871,
+    "published_at": "2026-04-08T01:11:16.601376+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html",
+    "headline": "\u2018Definitely a Sham\u2019: As Tariffs Climb, Trade Fraud and Accounting Tricks Proliferate",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-04-08T01:11:16.600159+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-french-couple-freed.html",
+    "headline": "C\u00e9cile Kohler and Jacques Paris, French Couple Held in Iran, Are Free",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9731,
-    "published_at": "2026-04-07T01:10:09.685306+00:00"
+    "confidence_score": 0.9643,
+    "published_at": "2026-04-08T01:11:16.595395+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-    "headline": "ICE wanted to build a detention centre -  this small farming town said no",
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/democrats-react-trump-iran-civilization.html",
+    "headline": "Democrats Condemn Trump\u2019s Iran Threats as Some Call for His Removal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9556,
-    "published_at": "2026-04-07T01:10:09.555005+00:00"
+    "confidence_score": 0.8878,
+    "published_at": "2026-04-08T01:11:16.583066+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-    "headline": "The 40 minutes when the Artemis crew loses contact with the Earth",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-07T01:10:09.550354+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-07T01:10:09.542096+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss",
-    "headline": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9073,
-    "published_at": "2026-04-07T01:10:09.539618+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Nine policemen sentenced to death in India over Covid custody killings",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-04-07T01:10:09.535925+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-    "headline": "How rescue of US airman in remote part of Iran unfolded",
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html",
+    "headline": "Why Hungary\u2019s Election Could Swing on Roma Votes",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6937,
-    "published_at": "2026-04-07T01:10:09.532044+00:00"
+    "confidence_score": 0.994,
+    "published_at": "2026-04-08T01:11:16.573244+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/australia/australia-soldier-afghanistan-war-crimes-roberts-smith.html",
+    "headline": "Australia Charges Ex-Soldier With War Crimes in Afghanistan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.964,
+    "published_at": "2026-04-08T01:11:16.569714+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
+    "headline": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9818,
+    "published_at": "2026-04-08T01:11:16.568522+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know so far about the search for missing US airman in Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-04-08T01:11:16.456468+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
+    "headline": "Iranians form human chains at bridges and power plants",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9444,
+    "published_at": "2026-04-08T01:11:16.451678+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
+    "headline": "Artemis's stunning Moon pictures - science or holiday photos?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-04-08T01:11:16.450482+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
+    "headline": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-04-08T01:11:16.447965+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp84ye86ly3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Carnival fever hits Lagos as locals celebrate Afro-Brazilian heritage",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-04-08T01:11:16.441975+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-04-08T01:11:16.440781+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+    "headline": "JD Vance backs Orb\u00e1n's re-election bid in Budapest visit and hits out at EU",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9495,
+    "published_at": "2026-04-08T01:11:16.434759+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
+    "headline": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-04-08T01:11:16.431151+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+    "headline": "Has Artemis II shown we can land on the Moon again?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-04-08T01:11:16.426179+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9897,
+    "published_at": "2026-04-08T01:11:16.422116+00:00"
   }
 ]
