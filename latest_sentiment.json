@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/06/world/europe/ukraine-russia-war-spring-foliage.html",
-    "headline": "Why Trees Are Key to Russia\u2019s Spring Offensive in Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-04-08T01:11:16.630442+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/06/world/middleeast/iranians-condemn-university-strike.html",
-    "headline": "Iranians Condemn Strike on a Top University",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9819,
-    "published_at": "2026-04-08T01:11:16.617881+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/houthis-iran-yemen-war.html",
-    "headline": "Weakened and Reluctant, Yemen\u2019s Houthis Belatedly Enter War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-08T01:11:16.607067+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-takeaways.html",
-    "headline": "6 Takeaways From the Story of Trump\u2019s Decision to Go to War With Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.871,
-    "published_at": "2026-04-08T01:11:16.601376+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html",
-    "headline": "\u2018Definitely a Sham\u2019: As Tariffs Climb, Trade Fraud and Accounting Tricks Proliferate",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-04-08T01:11:16.600159+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-french-couple-freed.html",
     "headline": "C\u00e9cile Kohler and Jacques Paris, French Couple Held in Iran, Are Free",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9643,
-    "published_at": "2026-04-08T01:11:16.595395+00:00"
+    "published_at": "2026-04-09T01:01:20.895728+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/democrats-react-trump-iran-civilization.html",
-    "headline": "Democrats Condemn Trump\u2019s Iran Threats as Some Call for His Removal",
+    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html",
+    "headline": "Chairman of the Joint Chiefs Struggles to Justify Trump\u2019s Threats",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8878,
-    "published_at": "2026-04-08T01:11:16.583066+00:00"
+    "confidence_score": 0.989,
+    "published_at": "2026-04-09T01:01:20.890139+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html",
-    "headline": "Why Hungary\u2019s Election Could Swing on Roma Votes",
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-threats-republicans-reaction.html",
+    "headline": "Trump\u2019s Threat to Wipe Out a \u2018Whole Civilization\u2019 Appalls Some Conservatives",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-04-08T01:11:16.573244+00:00"
+    "confidence_score": 0.9231,
+    "published_at": "2026-04-09T01:01:20.889021+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/australia/australia-soldier-afghanistan-war-crimes-roberts-smith.html",
-    "headline": "Australia Charges Ex-Soldier With War Crimes in Afghanistan",
+    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html",
+    "headline": "Trump\u2019s Iran Threats Look Like Self-Incrimination for Potential War Crimes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.964,
-    "published_at": "2026-04-08T01:11:16.569714+00:00"
+    "confidence_score": 0.7836,
+    "published_at": "2026-04-09T01:01:20.881054+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
-    "headline": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9818,
-    "published_at": "2026-04-08T01:11:16.568522+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know so far about the search for missing US airman in Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-04-08T01:11:16.456468+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
-    "headline": "Iranians form human chains at bridges and power plants",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9444,
-    "published_at": "2026-04-08T01:11:16.451678+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
-    "headline": "Artemis's stunning Moon pictures - science or holiday photos?",
+    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/israel-netanyahu-iran-war-us.html",
+    "headline": "Iran Cease-Fire Does Little to Convince Netanyahu\u2019s Critics in Israel",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-04-08T01:11:16.450482+00:00"
+    "confidence_score": 0.9899,
+    "published_at": "2026-04-09T01:01:20.871993+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/us-iran-ceasefire-uranium-nuclear-weapons.html",
+    "headline": "Cease-Fire Leaves Questions Over Fate of Iran\u2019s Uranium",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9864,
+    "published_at": "2026-04-09T01:01:20.868137+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html",
+    "headline": "What Trump Has Accomplished in Iran After 5 Weeks of War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9926,
+    "published_at": "2026-04-09T01:01:20.863553+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/08/us/politics/trump-combat-political-risks.html",
+    "headline": "For Trump, Resuming Combat in Iran Would Be Risky, Even if Cease-Fire Expires",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8988,
+    "published_at": "2026-04-09T01:01:20.859047+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-hormuz-lebanon.html",
+    "headline": "Uncertainty Clouds Cease-Fire as Lebanon and Gulf States Are Struck",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6524,
+    "published_at": "2026-04-09T01:01:20.857917+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+    "headline": "\u2018I Love Viktor\u2019: Trump and Vance Cheer on Orban in Hungarian Race",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9844,
+    "published_at": "2026-04-09T01:01:20.838144+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html",
+    "headline": "What to Know About the U.S.-Iran Cease-Fire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-09T01:01:20.831056+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
+    "headline": "Iran War Live Updates: Cease-Fire Tested by Confusion Over Strait and Strikes on Lebanon",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8634,
+    "published_at": "2026-04-09T01:01:20.829022+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cn430515jzxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Fire damages roof of Rio's Olympic velodrome",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9934,
+    "published_at": "2026-04-09T01:01:20.481973+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
     "headline": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.996,
-    "published_at": "2026-04-08T01:11:16.447965+00:00"
+    "published_at": "2026-04-09T01:01:20.478448+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cp84ye86ly3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Carnival fever hits Lagos as locals celebrate Afro-Brazilian heritage",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-08T01:11:16.441975+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-04-08T01:11:16.440781+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-    "headline": "JD Vance backs Orb\u00e1n's re-election bid in Budapest visit and hits out at EU",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9495,
-    "published_at": "2026-04-08T01:11:16.434759+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
-    "headline": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
+    "source_uri": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
     "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9905,
+    "published_at": "2026-04-09T01:01:20.467421+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
+    "headline": "French couple leave Iran after more than three years in jail",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-04-09T01:01:20.466105+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9896,
+    "published_at": "2026-04-09T01:01:20.463659+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Greece to ban social media for under-15s from next year",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7648,
+    "published_at": "2026-04-09T01:01:20.448186+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
+    "headline": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9653,
+    "published_at": "2026-04-09T01:01:20.446925+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+    "headline": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-04-08T01:11:16.431151+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
-    "headline": "Has Artemis II shown we can land on the Moon again?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-04-08T01:11:16.426179+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-04-08T01:11:16.422116+00:00"
+    "published_at": "2026-04-09T01:01:20.445677+00:00"
   }
 ]
