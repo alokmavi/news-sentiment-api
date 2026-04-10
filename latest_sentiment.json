@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-french-couple-freed.html",
-    "headline": "C\u00e9cile Kohler and Jacques Paris, French Couple Held in Iran, Are Free",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9643,
-    "published_at": "2026-04-09T01:01:20.895728+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html",
-    "headline": "Chairman of the Joint Chiefs Struggles to Justify Trump\u2019s Threats",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-04-09T01:01:20.890139+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-threats-republicans-reaction.html",
-    "headline": "Trump\u2019s Threat to Wipe Out a \u2018Whole Civilization\u2019 Appalls Some Conservatives",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9231,
-    "published_at": "2026-04-09T01:01:20.889021+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html",
-    "headline": "Trump\u2019s Iran Threats Look Like Self-Incrimination for Potential War Crimes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7836,
-    "published_at": "2026-04-09T01:01:20.881054+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/israel-netanyahu-iran-war-us.html",
-    "headline": "Iran Cease-Fire Does Little to Convince Netanyahu\u2019s Critics in Israel",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-04-09T01:01:20.871993+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/us-iran-ceasefire-uranium-nuclear-weapons.html",
     "headline": "Cease-Fire Leaves Questions Over Fate of Iran\u2019s Uranium",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9864,
-    "published_at": "2026-04-09T01:01:20.868137+00:00"
+    "published_at": "2026-04-10T01:11:31.147999+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html",
-    "headline": "What Trump Has Accomplished in Iran After 5 Weeks of War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-04-09T01:01:20.863553+00:00"
+    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/pakistan-iran-us-ceasefire-talks.html",
+    "headline": "How Pakistan Became Key Mediator Between U.S. and Iran",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7851,
+    "published_at": "2026-04-10T01:11:31.146780+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/08/us/politics/trump-combat-political-risks.html",
-    "headline": "For Trump, Resuming Combat in Iran Would Be Risky, Even if Cease-Fire Expires",
+    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/hegseth-caine-iran-uranium.html",
+    "headline": "Hegseth Demands Iran Turn Over Uranium Stockpiles",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8988,
-    "published_at": "2026-04-09T01:01:20.859047+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-04-10T01:11:31.144387+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-hormuz-lebanon.html",
-    "headline": "Uncertainty Clouds Cease-Fire as Lebanon and Gulf States Are Struck",
+    "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html",
+    "headline": "What Is In Iran\u2019s 10-Point Proposal, and How Does It Compare to U.S. Demands?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6524,
-    "published_at": "2026-04-09T01:01:20.857917+00:00"
+    "confidence_score": 0.9951,
+    "published_at": "2026-04-10T01:11:31.140669+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
-    "headline": "\u2018I Love Viktor\u2019: Trump and Vance Cheer on Orban in Hungarian Race",
+    "source_uri": "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html",
+    "headline": "I.U.C.N. Red List Moves Emperor Penguins to \u201cEndangered\u201d",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9844,
-    "published_at": "2026-04-09T01:01:20.838144+00:00"
+    "confidence_score": 0.9898,
+    "published_at": "2026-04-10T01:11:31.115382+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/09/world/middleeast/trump-nato-rutte-iran-war.html",
+    "headline": "Trump Again Hits Out at NATO Over Iran War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-04-10T01:11:31.114150+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/09/us/politics/trump-administration-far-left-terrorism-groups.html",
+    "headline": "Trump Officials Push Allies to Pursue Antifa and Far Left as Terrorist Threats",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-04-10T01:11:31.109141+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html",
+    "headline": "Amid Trump\u2019s Threats, NATO Labors to Survive the Iran War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5184,
+    "published_at": "2026-04-10T01:11:31.099945+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-us-ceasefire-talks-negotiations.html",
+    "headline": "What We Know About the U.S.-Iran Cease-Fire Talks in Pakistan",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-04-10T01:11:31.097488+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/09/world/middleeast/us-iran-negotiations-israel-netanyahu.html",
+    "headline": "Amid U.S.-Iran Negotiations, Netanyahu\u2019s Interests May Conflict With Trump\u2019s",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-04-10T01:11:31.091242+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html",
     "headline": "What to Know About the U.S.-Iran Cease-Fire",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-09T01:01:20.831056+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-04-10T01:11:31.087530+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
-    "headline": "Iran War Live Updates: Cease-Fire Tested by Confusion Over Strait and Strikes on Lebanon",
+    "source_uri": "https://www.nytimes.com/2026/04/09/world/europe/russia-newspaper-rights-group-crackdown.html",
+    "headline": "A Newspaper Is Raided and a Rights Group Outlawed Amid Kremlin Crackdown",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9911,
+    "published_at": "2026-04-10T01:11:31.086250+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon",
+    "headline": "Iran War Live Updates: Israel Agrees to Talks With Lebanon but Keeps Striking Hezbollah",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-04-10T01:11:31.078016+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+    "headline": "Has Artemis II shown we can land on the Moon again?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-04-10T01:11:30.786871+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know about the two-week ceasefire between the US and Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9652,
+    "published_at": "2026-04-10T01:11:30.783070+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9728,
+    "published_at": "2026-04-10T01:11:30.772875+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Best-selling The Housemaid author Freida McFadden reveals true identity",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8634,
-    "published_at": "2026-04-09T01:01:20.829022+00:00"
+    "confidence_score": 0.9989,
+    "published_at": "2026-04-10T01:11:30.767631+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cn430515jzxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Fire damages roof of Rio's Olympic velodrome",
+    "source_uri": "https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss",
+    "headline": "French far-right leader romantically linked to Italian princess",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-04-09T01:01:20.481973+00:00"
+    "confidence_score": 0.9319,
+    "published_at": "2026-04-10T01:11:30.757473+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
-    "headline": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+    "source_uri": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9894,
+    "published_at": "2026-04-10T01:11:30.749725+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.996,
-    "published_at": "2026-04-09T01:01:20.478448+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-04-09T01:01:20.467421+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
-    "headline": "French couple leave Iran after more than three years in jail",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-04-09T01:01:20.466105+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9896,
-    "published_at": "2026-04-09T01:01:20.463659+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Greece to ban social media for under-15s from next year",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7648,
-    "published_at": "2026-04-09T01:01:20.448186+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
-    "headline": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9653,
-    "published_at": "2026-04-09T01:01:20.446925+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-    "headline": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-09T01:01:20.445677+00:00"
+    "published_at": "2026-04-10T01:11:30.726308+00:00"
   }
 ]
