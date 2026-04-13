@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/09/world/europe/eiffel-tower-auction.html",
-    "headline": "137-Year-Old Piece of Eiffel Tower to Be Auctioned in Paris",
+    "source_uri": "https://www.nytimes.com/2026/04/11/world/middleeast/hezbollah-israel.html",
+    "headline": "In New War With Israel, Hezbollah Defies Notion That It Was Crippled",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9917,
-    "published_at": "2026-04-12T01:15:16.003362+00:00"
+    "confidence_score": 0.9989,
+    "published_at": "2026-04-13T01:17:02.885315+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/10/world/africa/south-africa-theater-generations-mfundi-vundla.html",
-    "headline": "South African Writer Mfundi Vundla Gets Personal in His New Play",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-04-12T01:15:15.982279+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000010809735/china-truckers-oil-fuel-prices.html",
-    "headline": "Soaring Fuel Prices Squeeze China\u2019s Frugal Truckers",
+    "source_uri": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html",
+    "headline": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9906,
-    "published_at": "2026-04-12T01:15:15.976851+00:00"
+    "confidence_score": 0.9866,
+    "published_at": "2026-04-13T01:17:02.883164+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/10/world/europe/russia-north-korea.html",
-    "headline": "See You in Pyongyang: Russia Pushes Its People to Embrace North Korea",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-04-12T01:15:15.974145+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/11/world/middleeast/us-iran-talks-timeline-key-moments.html",
-    "headline": "U.S.-Iran Talks Timeline: Key Moments Between Two Adversaries",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-04-12T01:15:15.941204+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/10/world/europe/prince-harry-sentebale-libel-lawsuit.html",
-    "headline": "Prince Harry Is Sued for Libel by a Charity He Founded",
+    "source_uri": "https://www.nytimes.com/2026/04/11/world/europe/orban-loyalists-defect.html",
+    "headline": "Growing List of Orban Loyalists Defecting Before Critical Election",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-04-12T01:15:15.936292+00:00"
+    "confidence_score": 0.9954,
+    "published_at": "2026-04-13T01:17:02.882096+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
-    "headline": "Xi Meets Taiwan Opposition Leader for First Time in a Decade",
+    "source_uri": "https://www.nytimes.com/2026/04/11/world/canada/artemis-moon-jeremy-hansen-nasa-space-canada.html",
+    "headline": "When the Moon Met Canada",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-04-12T01:15:15.935042+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
-    "headline": "Lebanon: Images of a Nation Uprooted by War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9776,
-    "published_at": "2026-04-12T01:15:15.930893+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-04-13T01:17:02.873245+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/11/world/europe/britain-chagos-islands-uk.html",
     "headline": "U.K. Puts Chagos Islands Deal on Hold Following Criticism From Trump",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-04-12T01:15:15.924691+00:00"
+    "published_at": "2026-04-13T01:17:02.870279+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/11/world/asia/lu-xun-chinese-writer-communist-mascot.html",
-    "headline": "How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot",
+    "source_uri": "https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html",
+    "headline": "U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-04-12T01:15:15.922053+00:00"
+    "confidence_score": 0.971,
+    "published_at": "2026-04-13T01:17:02.867049+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Melania Trump: 'I never had a relationship with Epstein'",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html",
+    "headline": "Jailed for Love Songs? Yes, and Still Singing.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8011,
-    "published_at": "2026-04-12T01:15:15.682179+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-04-13T01:17:02.865956+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
-    "headline": "The five big sticking points in US-Iran talks",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9872,
-    "published_at": "2026-04-12T01:15:15.676589+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c4gvkpj0024o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html",
+    "headline": "What to Know About the Hungary Elections as Orban Fights to Remain in Power",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-04-12T01:15:15.672585+00:00"
+    "confidence_score": 0.5631,
+    "published_at": "2026-04-13T01:17:02.864777+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&at_campaign=rss",
-    "headline": "The prophet and the mysterious death of Charmain Speirs",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8657,
-    "published_at": "2026-04-12T01:15:15.669921+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
-    "headline": "'You are my god', Japan's PM tells British rock band Deep Purple",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
+    "headline": "Iran\u2019s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-04-12T01:15:15.667212+00:00"
+    "published_at": "2026-04-13T01:17:02.855741+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html",
+    "headline": "Scores Killed in Nigerian Military Strikes as Clashes With Militants Intensify",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9731,
-    "published_at": "2026-04-12T01:15:15.657706+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-04-13T01:17:02.851187+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Coachella kicks off with Sabrina Carpenter and surprise guests",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
+    "headline": "Rejected by Dozens of Emergency Rooms: South Korea\u2019s Medical Crisis",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-04-12T01:15:15.656344+00:00"
+    "confidence_score": 0.9963,
+    "published_at": "2026-04-13T01:17:02.847709+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
-    "headline": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.912,
-    "published_at": "2026-04-12T01:15:15.653629+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why this disillusioned Trump voter spends hours searching Epstein files",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-04-12T01:15:15.652208+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
-    "headline": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
+    "headline": "Peru Votes for President, With 35 Names on the Ballot",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-04-12T01:15:15.650361+00:00"
+    "confidence_score": 0.9304,
+    "published_at": "2026-04-13T01:17:02.846510+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/europe/who-peter-magyar-hungary-election-opposition-orban.html",
+    "headline": "Who Is Peter Magyar, the Man Who Toppled Hungary\u2019s Orban",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9633,
+    "published_at": "2026-04-13T01:17:02.837025+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
+    "headline": "Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9781,
+    "published_at": "2026-04-13T01:17:02.835774+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+    "headline": "How Hungary's knife-edge election could impact the US and Russia",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9489,
+    "published_at": "2026-04-13T01:17:02.640392+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
+    "headline": "India refuses to criminalise marital rape. This new series shines a light on it",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8847,
+    "published_at": "2026-04-13T01:17:02.634738+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+    "headline": "'We need real peace': Ukrainians have little faith in Easter truce",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-04-13T01:17:02.633562+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+    "headline": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8939,
+    "published_at": "2026-04-13T01:17:02.627739+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+    "headline": "What is a naval blockade and how would it work in Strait of Hormuz?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9932,
+    "published_at": "2026-04-13T01:17:02.623165+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Oil jumps above $100 as US to blockade Iranian ports after peace talks fail",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-04-13T01:17:02.618388+00:00"
   }
 ]
