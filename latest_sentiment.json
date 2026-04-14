@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/11/world/middleeast/hezbollah-israel.html",
-    "headline": "In New War With Israel, Hezbollah Defies Notion That It Was Crippled",
+    "source_uri": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-04-13T01:17:02.885315+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html",
-    "headline": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9866,
-    "published_at": "2026-04-13T01:17:02.883164+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/11/world/europe/orban-loyalists-defect.html",
-    "headline": "Growing List of Orban Loyalists Defecting Before Critical Election",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-04-13T01:17:02.882096+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/11/world/canada/artemis-moon-jeremy-hansen-nasa-space-canada.html",
-    "headline": "When the Moon Met Canada",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-04-13T01:17:02.873245+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/11/world/europe/britain-chagos-islands-uk.html",
-    "headline": "U.K. Puts Chagos Islands Deal on Hold Following Criticism From Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-13T01:17:02.870279+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html",
-    "headline": "U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.971,
-    "published_at": "2026-04-13T01:17:02.867049+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html",
-    "headline": "Jailed for Love Songs? Yes, and Still Singing.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-04-13T01:17:02.865956+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html",
-    "headline": "What to Know About the Hungary Elections as Orban Fights to Remain in Power",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5631,
-    "published_at": "2026-04-13T01:17:02.864777+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
-    "headline": "Iran\u2019s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-13T01:17:02.855741+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html",
-    "headline": "Scores Killed in Nigerian Military Strikes as Clashes With Militants Intensify",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-04-13T01:17:02.851187+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-04-14T01:16:10.716885+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
     "headline": "Rejected by Dozens of Emergency Rooms: South Korea\u2019s Medical Crisis",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9963,
-    "published_at": "2026-04-13T01:17:02.847709+00:00"
+    "published_at": "2026-04-14T01:16:10.715551+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
-    "headline": "Peru Votes for President, With 35 Names on the Ballot",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
+    "headline": "Asha Bhosle, Longtime Voice of Indian Cinema, Dies at 92",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9304,
-    "published_at": "2026-04-13T01:17:02.846510+00:00"
+    "confidence_score": 0.9998,
+    "published_at": "2026-04-14T01:16:10.702877+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/europe/who-peter-magyar-hungary-election-opposition-orban.html",
-    "headline": "Who Is Peter Magyar, the Man Who Toppled Hungary\u2019s Orban",
+    "source_uri": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
+    "headline": "Christine Fr\u00e9chette Is Chosen to Lead Coalition Avenir Qu\u00e9bec",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9633,
-    "published_at": "2026-04-13T01:17:02.837025+00:00"
+    "confidence_score": 0.5748,
+    "published_at": "2026-04-14T01:16:10.690745+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
-    "headline": "Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports",
+    "source_uri": "https://www.nytimes.com/2026/04/13/science/harvester-cone-ants-cleaning.html",
+    "headline": "In the Desert, a \u2018Cleaning Station\u2019 for Ants",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9781,
-    "published_at": "2026-04-13T01:17:02.835774+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-14T01:16:10.681959+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
-    "headline": "How Hungary's knife-edge election could impact the US and Russia",
+    "source_uri": "https://www.nytimes.com/2026/04/13/world/europe/iran-blockade-strait-hormuz-uk-starmer-trump.html",
+    "headline": "UK Will Not Join U.S. Blockade of Strait of Hormuz, Starmer Says",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9489,
-    "published_at": "2026-04-13T01:17:02.640392+00:00"
+    "confidence_score": 0.9771,
+    "published_at": "2026-04-14T01:16:10.676981+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
-    "headline": "India refuses to criminalise marital rape. This new series shines a light on it",
+    "source_uri": "https://www.nytimes.com/2026/04/13/world/middleeast/iran-internet-blackout.html",
+    "headline": "As Internet Blackout Hits Day 45, Iranians Bemoan State Hypocrisy and Economic Risks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8847,
-    "published_at": "2026-04-13T01:17:02.634738+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-04-14T01:16:10.670759+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-    "headline": "'We need real peace': Ukrainians have little faith in Easter truce",
+    "source_uri": "https://www.nytimes.com/2026/04/13/world/europe/hungary-orban-ukraine-zelensky.html",
+    "headline": "Defeat of Orban Removes Ukraine\u2019s Biggest Nemesis in Europe",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-04-13T01:17:02.633562+00:00"
+    "confidence_score": 0.9869,
+    "published_at": "2026-04-14T01:16:10.659262+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
-    "headline": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8939,
-    "published_at": "2026-04-13T01:17:02.627739+00:00"
+    "source_uri": "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html",
+    "headline": "Pope Leo Heads to Africa to Meet the Future of Catholicism",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-04-14T01:16:10.650329+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-    "headline": "What is a naval blockade and how would it work in Strait of Hormuz?",
+    "source_uri": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
+    "headline": "Iran War Live Updates: Iran Proposes Suspending Nuclear Activity for Up to 5 Years",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9932,
-    "published_at": "2026-04-13T01:17:02.623165+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-04-14T01:16:10.645403+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Oil jumps above $100 as US to blockade Iranian ports after peace talks fail",
+    "source_uri": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
+    "headline": "US drivers head to Native American lands for cheaper gas",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-04-13T01:17:02.618388+00:00"
+    "confidence_score": 0.985,
+    "published_at": "2026-04-14T01:16:10.537516+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/ckgeljpk4v9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Celebrities and fans pay tributes to Asha Bhosle",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9441,
+    "published_at": "2026-04-14T01:16:10.534849+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss",
+    "headline": "Political turmoil in Indian border state as nine million lose voting rights",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9722,
+    "published_at": "2026-04-14T01:16:10.532360+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+    "headline": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-14T01:16:10.522156+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+    "headline": "At least 30 feared dead in crush at Haitian tourist site",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9607,
+    "published_at": "2026-04-14T01:16:10.519606+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9898,
+    "published_at": "2026-04-14T01:16:10.512015+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Peru election drags into second day after ballot delivery fiasco",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9946,
+    "published_at": "2026-04-14T01:16:10.509472+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8961,
+    "published_at": "2026-04-14T01:16:10.505418+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-14T01:16:10.497414+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8017,
+    "published_at": "2026-04-14T01:16:10.495963+00:00"
   }
 ]
