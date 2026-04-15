@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-04-14T01:16:10.716885+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
-    "headline": "Rejected by Dozens of Emergency Rooms: South Korea\u2019s Medical Crisis",
+    "source_uri": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
+    "headline": "To Open the Strait of Hormuz, Trump Wants to Blockade Iran. Experts Are Skeptical.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-04-14T01:16:10.715551+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
-    "headline": "Asha Bhosle, Longtime Voice of Indian Cinema, Dies at 92",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-04-14T01:16:10.702877+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
-    "headline": "Christine Fr\u00e9chette Is Chosen to Lead Coalition Avenir Qu\u00e9bec",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5748,
-    "published_at": "2026-04-14T01:16:10.690745+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/13/science/harvester-cone-ants-cleaning.html",
-    "headline": "In the Desert, a \u2018Cleaning Station\u2019 for Ants",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-14T01:16:10.681959+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-04-15T01:14:25.414894+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/13/world/europe/iran-blockade-strait-hormuz-uk-starmer-trump.html",
     "headline": "UK Will Not Join U.S. Blockade of Strait of Hormuz, Starmer Says",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9771,
-    "published_at": "2026-04-14T01:16:10.676981+00:00"
+    "published_at": "2026-04-15T01:14:25.413263+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/13/world/middleeast/iran-internet-blackout.html",
-    "headline": "As Internet Blackout Hits Day 45, Iranians Bemoan State Hypocrisy and Economic Risks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-04-14T01:16:10.670759+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/13/world/europe/hungary-orban-ukraine-zelensky.html",
-    "headline": "Defeat of Orban Removes Ukraine\u2019s Biggest Nemesis in Europe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9869,
-    "published_at": "2026-04-14T01:16:10.659262+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html",
-    "headline": "Pope Leo Heads to Africa to Meet the Future of Catholicism",
+    "source_uri": "https://www.nytimes.com/2026/04/13/world/europe/russia-hungary-putin-orban.html",
+    "headline": "Hungary May No Longer Be Putin\u2019s Ally, but It Can\u2019t Afford a Full Break",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-04-14T01:16:10.650329+00:00"
+    "confidence_score": 0.9955,
+    "published_at": "2026-04-15T01:14:25.411875+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
-    "headline": "Iran War Live Updates: Iran Proposes Suspending Nuclear Activity for Up to 5 Years",
+    "source_uri": "https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html",
+    "headline": "Israel and Lebanon Seek Way Forward in Rare Direct Talks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-04-14T01:16:10.645403+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-15T01:14:25.393958+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
-    "headline": "US drivers head to Native American lands for cheaper gas",
+    "source_uri": "https://www.nytimes.com/2026/04/14/world/middleeast/italy-israel-defense-pact.html",
+    "headline": "Italy Suspends Defense Pact With Israel, Further Straining Ties",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.985,
-    "published_at": "2026-04-14T01:16:10.537516+00:00"
+    "confidence_score": 0.9264,
+    "published_at": "2026-04-15T01:14:25.386879+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html",
+    "headline": "Ship \u2018Spoofing\u2019 in Strait of Hormuz May Compound Confusion",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9249,
+    "published_at": "2026-04-15T01:14:25.374790+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/14/world/europe/norway-oil-europe-war.html",
+    "headline": "Europe Is Desperate for More Energy. Can Norway Come to the Rescue?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9808,
+    "published_at": "2026-04-15T01:14:25.369882+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/14/world/africa/benin-election-president-romuald-wadagni.html",
+    "headline": "Benin\u2019s Romuald Wadagni Poised to Win Presidential Election",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7731,
+    "published_at": "2026-04-15T01:14:25.366213+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html",
+    "headline": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary\u2019s Election",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9097,
+    "published_at": "2026-04-15T01:14:25.358673+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+    "headline": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-04-15T01:14:25.231509+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/ckgeljpk4v9o?at_medium=RSS&at_campaign=rss",
     "headline": "Celebrities and fans pay tributes to Asha Bhosle",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9441,
-    "published_at": "2026-04-14T01:16:10.534849+00:00"
+    "published_at": "2026-04-15T01:14:25.227772+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss",
-    "headline": "Political turmoil in Indian border state as nine million lose voting rights",
+    "source_uri": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss",
+    "headline": "On patrol with Canadian forces securing the Arctic as global threats grow",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9722,
-    "published_at": "2026-04-14T01:16:10.532360+00:00"
+    "confidence_score": 0.5776,
+    "published_at": "2026-04-15T01:14:25.222652+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
-    "headline": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-04-14T01:16:10.522156+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 30 feared dead in crush at Haitian tourist site",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9607,
-    "published_at": "2026-04-14T01:16:10.519606+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
+    "source_uri": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9898,
-    "published_at": "2026-04-14T01:16:10.512015+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-04-15T01:14:25.209801+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Peru election drags into second day after ballot delivery fiasco",
+    "source_uri": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-Nigerian oil minister denies taking bribes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-04-14T01:16:10.509472+00:00"
+    "confidence_score": 0.9267,
+    "published_at": "2026-04-15T01:14:25.201289+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
     "headline": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.8961,
-    "published_at": "2026-04-14T01:16:10.505418+00:00"
+    "published_at": "2026-04-15T01:14:25.198768+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-04-14T01:16:10.497414+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+    "source_uri": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8017,
-    "published_at": "2026-04-14T01:16:10.495963+00:00"
+    "confidence_score": 0.6847,
+    "published_at": "2026-04-15T01:14:25.193677+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
+    "headline": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7179,
+    "published_at": "2026-04-15T01:14:25.187183+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
+    "headline": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8978,
+    "published_at": "2026-04-15T01:14:25.181857+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
+    "headline": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-04-15T01:14:25.177918+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+    "headline": "JD Vance defends backing 'great guy' Orb\u00e1n's campaign after landslide defeat",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-15T01:14:25.176263+00:00"
   }
 ]
