@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html",
-    "headline": "Mark Carney Seals a Majority Government and Remakes Canada\u2019s Liberal Party",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-04-16T01:19:03.121950+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html",
-    "headline": "Will Viktor Orban\u2019s Legacy Live On in Brussels, Even Without Him?",
+    "source_uri": "https://www.nytimes.com/2026/04/15/science/pets-dogs-intelligence.html",
+    "headline": "In Defense of Dumb Dogs",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9988,
-    "published_at": "2026-04-16T01:19:03.116225+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/14/world/middleeast/us-iran-talks-trump.html",
-    "headline": "Trump Says 2nd Round of U.S.-Iran Talks Could Take Place This Week",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9809,
-    "published_at": "2026-04-16T01:19:03.099692+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/14/world/middleeast/carney-suspends-fuel-tax.html",
-    "headline": "Carney Suspends Gas Tax in Canada as War Drives Up Fuel Costs",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6267,
-    "published_at": "2026-04-16T01:19:03.098481+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html",
-    "headline": "Trump\u2019s Blockade Risks Upending an Emerging D\u00e9tente With China",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8504,
-    "published_at": "2026-04-16T01:19:03.097289+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html",
-    "headline": "Ship \u2018Spoofing\u2019 in Strait of Hormuz May Compound Confusion",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9249,
-    "published_at": "2026-04-16T01:19:03.094829+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/insider/frances-robles-new-york-times.html",
-    "headline": "How a Times Reporter Has Covered a Turbulent Period in Latin America",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-04-16T01:19:03.092337+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/asia/israel-lebanon-us-talks-trump.html",
-    "headline": "U.S. Applies Little Pressure to Israel to Stop the Fighting in Lebanon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-04-16T01:19:03.089953+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/europe/kanye-west-ye-france-concert.html",
-    "headline": "Kanye West Postpones Concert in France as Government Considers Banning It",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9766,
-    "published_at": "2026-04-16T01:19:03.088504+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/middleeast/saudi-soverign-fund-liv-golf.html",
-    "headline": "Saudi Fund to Back Away From LIV Golf Under Mounting Financial Pressures",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-16T01:19:03.077103+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/pope-leo-africa-trump-iran-pakistan.html",
-    "headline": "The Pope in Africa",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7115,
-    "published_at": "2026-04-16T01:19:03.073524+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/middleeast/israel-ben-gvir-hearing.html",
-    "headline": "With Iran War on Pause, Political Battle Resumes Over Israeli Democracy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-04-16T01:19:03.058900+00:00"
+    "published_at": "2026-04-17T01:16:15.191762+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/15/world/americas/claudia-sheinbaum-mexico-crime-missing-people.html",
     "headline": "Claudia Sheinbaum\u2019s War on Crime in Mexico Faces a Grim Reckoning: 133,000 Missing People",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9925,
-    "published_at": "2026-04-16T01:19:03.053072+00:00"
+    "published_at": "2026-04-17T01:16:15.182248+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html",
-    "headline": "Catholicism Thrives in Africa, but Pope\u2019s Cameroon Visit Highlights a Divide",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.98,
-    "published_at": "2026-04-16T01:19:03.048550+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel",
-    "headline": "Iran War Live Updates: Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9344,
-    "published_at": "2026-04-16T01:19:03.046340+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&at_campaign=rss",
-    "headline": "The human cost of the war in Sudan, three years on",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-04-16T01:19:02.914340+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Vance heckled as he chides Pope",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9754,
-    "published_at": "2026-04-16T01:19:02.891586+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
-    "headline": "South Africa names apartheid-era politician as new ambassador to the US",
+    "source_uri": "https://www.nytimes.com/2026/04/15/world/europe/europe-ukraine-aid-iran.html",
+    "headline": "\u2018We Cannot Lose Sight of Ukraine.\u2019 Europeans Promise More Aid to Kyiv.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-04-16T01:19:02.874105+00:00"
+    "confidence_score": 0.6548,
+    "published_at": "2026-04-17T01:16:15.181004+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
+    "source_uri": "https://www.nytimes.com/2026/04/15/world/middleeast/israel-ben-gvir-hearing.html",
+    "headline": "With Iran War on Pause, Political Battle Resumes Over Israeli Democracy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-16T01:19:02.872785+00:00"
+    "confidence_score": 0.9847,
+    "published_at": "2026-04-17T01:16:15.177194+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Nine killed in second Turkish school shooting in two days",
+    "source_uri": "https://www.nytimes.com/2026/04/15/world/middleeast/saudi-soverign-fund-liv-golf.html",
+    "headline": "Saudi Fund to Back Away From LIV Golf Under Mounting Financial Pressures",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-04-17T01:16:15.173365+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/iran-could-struggle-to-enforce-all-of-its-latest-shipping-threats-experts-say",
+    "headline": "Iran could struggle to enforce all of its latest shipping threats, experts say.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9852,
-    "published_at": "2026-04-16T01:19:02.868503+00:00"
+    "confidence_score": 0.9917,
+    "published_at": "2026-04-17T01:16:15.168908+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/asia/iran-sri-lanka-sailors.html",
+    "headline": "Sri Lanka Uses U.S.-Iran Cease-Fire to Repatriate Iranian Sailors",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5405,
+    "published_at": "2026-04-17T01:16:15.155085+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
+    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump\u2019s Timeline",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9976,
+    "published_at": "2026-04-17T01:16:15.153860+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/middleeast/iran-war-cost-congress.html",
+    "headline": "White House Declines to Offer Congress an Estimate of Iran War Cost",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-04-17T01:16:15.151253+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/climate/the-long-term-plan-to-scrub-carbon-from-the-sky.html",
+    "headline": "The Long-Term Plan to Scrub Carbon From the Sky",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9245,
+    "published_at": "2026-04-17T01:16:15.147854+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/forced-into-a-corner-by-the-us-netanyahu-agrees-to-a-cease-fire-in-lebanon",
+    "headline": "Forced into a corner by the U.S., Netanyahu agrees to a cease-fire in Lebanon.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9459,
+    "published_at": "2026-04-17T01:16:15.144434+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html",
+    "headline": "Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9847,
+    "published_at": "2026-04-17T01:16:15.132698+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
+    "headline": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9747,
+    "published_at": "2026-04-17T01:16:15.131545+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
+    "headline": "Why China Isn\u2019t Pushing Iran to Accept U.S. Demands to End War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-04-17T01:16:15.125301+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c98mr589g8do?at_medium=RSS&at_campaign=rss",
+    "headline": "Winner of \u20ac1m Picasso 'thought it was a scam', organiser tells BBC",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5871,
+    "published_at": "2026-04-17T01:16:14.847045+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Rising prices threaten Minnesota's meat raffles",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6879,
+    "published_at": "2026-04-17T01:16:14.844871+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
+    "headline": "India pushes for women's quota bill as row over parliamentary seats intensifies",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9589,
+    "published_at": "2026-04-17T01:16:14.838031+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+    "headline": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-04-17T01:16:14.835751+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-04-17T01:16:14.823901+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9706,
+    "published_at": "2026-04-17T01:16:14.800631+00:00"
   }
 ]
