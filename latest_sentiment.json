@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/15/science/pets-dogs-intelligence.html",
-    "headline": "In Defense of Dumb Dogs",
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/asia/xi-china-vietnam-security.html",
+    "headline": "Xi Alludes to Trump\u2019s Policies to Make a Case for Closer Ties to Vietnam",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-04-17T01:16:15.191762+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/americas/claudia-sheinbaum-mexico-crime-missing-people.html",
-    "headline": "Claudia Sheinbaum\u2019s War on Crime in Mexico Faces a Grim Reckoning: 133,000 Missing People",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-04-17T01:16:15.182248+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/europe/europe-ukraine-aid-iran.html",
-    "headline": "\u2018We Cannot Lose Sight of Ukraine.\u2019 Europeans Promise More Aid to Kyiv.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6548,
-    "published_at": "2026-04-17T01:16:15.181004+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/middleeast/israel-ben-gvir-hearing.html",
-    "headline": "With Iran War on Pause, Political Battle Resumes Over Israeli Democracy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-04-17T01:16:15.177194+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/15/world/middleeast/saudi-soverign-fund-liv-golf.html",
-    "headline": "Saudi Fund to Back Away From LIV Golf Under Mounting Financial Pressures",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-17T01:16:15.173365+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/iran-could-struggle-to-enforce-all-of-its-latest-shipping-threats-experts-say",
-    "headline": "Iran could struggle to enforce all of its latest shipping threats, experts say.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9917,
-    "published_at": "2026-04-17T01:16:15.168908+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/16/world/asia/iran-sri-lanka-sailors.html",
-    "headline": "Sri Lanka Uses U.S.-Iran Cease-Fire to Repatriate Iranian Sailors",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5405,
-    "published_at": "2026-04-17T01:16:15.155085+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
-    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump\u2019s Timeline",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-04-17T01:16:15.153860+00:00"
+    "confidence_score": 0.6478,
+    "published_at": "2026-04-18T01:09:58.617749+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/16/world/middleeast/iran-war-cost-congress.html",
     "headline": "White House Declines to Offer Congress an Estimate of Iran War Cost",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9992,
-    "published_at": "2026-04-17T01:16:15.151253+00:00"
+    "published_at": "2026-04-18T01:09:58.601047+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/16/climate/the-long-term-plan-to-scrub-carbon-from-the-sky.html",
-    "headline": "The Long-Term Plan to Scrub Carbon From the Sky",
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010840310/how-trumps-blockade-of-the-strait-of-hormuz-works.html",
+    "headline": "How Trump\u2019s Blockade of the Strait of Hormuz Works",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9245,
-    "published_at": "2026-04-17T01:16:15.147854+00:00"
+    "confidence_score": 0.975,
+    "published_at": "2026-04-18T01:09:58.598417+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/forced-into-a-corner-by-the-us-netanyahu-agrees-to-a-cease-fire-in-lebanon",
-    "headline": "Forced into a corner by the U.S., Netanyahu agrees to a cease-fire in Lebanon.",
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html",
+    "headline": "U.S. Completes Handover of Military Bases in Syria",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.984,
+    "published_at": "2026-04-18T01:09:58.597128+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html",
+    "headline": "Bitcoin\u2019s Greatest Mystery",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9731,
+    "published_at": "2026-04-18T01:09:58.587888+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/trump-says-he-might-go-to-pakistan-if-an-iran-deal-were-signed-there",
+    "headline": "Trump says he might go to Pakistan if an Iran deal is signed there.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.983,
+    "published_at": "2026-04-18T01:09:58.585247+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html",
+    "headline": "Iran Resisted a Powerful Attacker. Taiwan Can, Too.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9459,
-    "published_at": "2026-04-17T01:16:15.144434+00:00"
+    "confidence_score": 0.9928,
+    "published_at": "2026-04-18T01:09:58.582624+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html",
-    "headline": "Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again",
+    "source_uri": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah/israel-residents-ceasefire-lebanon-hezbollah",
+    "headline": "In northern Israel, relief at the cease-fire is overshadowed by unease.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-04-17T01:16:15.132698+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-04-18T01:09:58.579760+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html",
-    "headline": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9747,
-    "published_at": "2026-04-17T01:16:15.131545+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
-    "headline": "Why China Isn\u2019t Pushing Iran to Accept U.S. Demands to End War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-17T01:16:15.125301+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c98mr589g8do?at_medium=RSS&at_campaign=rss",
-    "headline": "Winner of \u20ac1m Picasso 'thought it was a scam', organiser tells BBC",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5871,
-    "published_at": "2026-04-17T01:16:14.847045+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Rising prices threaten Minnesota's meat raffles",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6879,
-    "published_at": "2026-04-17T01:16:14.844871+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
-    "headline": "India pushes for women's quota bill as row over parliamentary seats intensifies",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9589,
-    "published_at": "2026-04-17T01:16:14.838031+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
-    "headline": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-04-17T01:16:14.835751+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-04-17T01:16:14.823901+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+    "source_uri": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it",
+    "headline": "The U.S. blockade on ships will continue until Trump ends it, says Central Command chief.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9706,
-    "published_at": "2026-04-17T01:16:14.800631+00:00"
+    "confidence_score": 0.6012,
+    "published_at": "2026-04-18T01:09:58.568661+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-israel-ceasefire-hezbollah.html",
+    "headline": "Lebanon\u2019s Cease-Fire Buys Time, Not a Way Out",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9904,
+    "published_at": "2026-04-18T01:09:58.560238+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html",
+    "headline": "Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9956,
+    "published_at": "2026-04-18T01:09:58.555437+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html",
+    "headline": "\u2018I Just Want to Be Back\u2019: Thousands Rush South in Lebanon Under Cease-Fire",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9693,
+    "published_at": "2026-04-18T01:09:58.550644+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html",
+    "headline": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5033,
+    "published_at": "2026-04-18T01:09:58.549395+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Avengers reassemble and Top Gun flies back - Hollywood studios preview their new movies",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-04-18T01:09:58.185415+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Turkish police detain 162 people over online posts about school shootings",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-04-18T01:09:58.180183+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Rescuers to use air cushions in latest effort to save stranded whale",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-04-18T01:09:58.178859+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9901,
+    "published_at": "2026-04-18T01:09:58.177552+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Mugabe's son pleads guilty to pointing a gun in South Africa",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9742,
+    "published_at": "2026-04-18T01:09:58.163683+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Kanye West concert in Poland cancelled over antisemitic comments",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-18T01:09:58.159610+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-04-18T01:09:58.157878+00:00"
   }
 ]
