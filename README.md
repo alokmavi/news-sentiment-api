@@ -53,7 +53,7 @@ uvicorn src.main:app --reload
 ```
 The API documentation will be available at `http://127.0.0.1:8000/docs`.
 
-## API Usage Example
+## API Usage Examples
 
 **GET** `/v1/news/latest?limit=5`
 
