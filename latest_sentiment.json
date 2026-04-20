@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html",
-    "headline": "U.S. Completes Handover of Military Bases in Syria",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-04-19T01:18:05.193081+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/16/world/europe/peter-mandelson-epstein-starmer-security.html",
-    "headline": "Mandelson, a Friend of Epstein\u2019s, Became U.S. Ambassador Despite Failing Security Vetting",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9842,
-    "published_at": "2026-04-19T01:18:05.187946+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah/forced-into-a-corner-by-the-us-netanyahu-agrees-to-a-cease-fire-in-lebanon",
-    "headline": "Forced into a corner by the U.S., Netanyahu agrees to a cease-fire in Lebanon.",
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/asia/myanmar-president-amnesty.html",
+    "headline": "Myanmar Frees Ousted President, but Not Daw Aung San Suu Kyi",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9459,
-    "published_at": "2026-04-19T01:18:05.186697+00:00"
+    "confidence_score": 0.9891,
+    "published_at": "2026-04-20T01:18:05.615153+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/trump-says-he-might-go-to-pakistan-if-an-iran-deal-were-signed-there",
-    "headline": "Trump says he might go to Pakistan if an Iran deal is signed there.",
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-hezbollah-ceasefire.html",
+    "headline": "Why Lebanon\u2019s Government Has Struggled to Contain Hezbollah",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.983,
-    "published_at": "2026-04-19T01:18:05.181797+00:00"
+    "confidence_score": 0.9429,
+    "published_at": "2026-04-20T01:18:05.603403+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html",
-    "headline": "Iran War Forces America\u2019s Friends in Asia to Court Its Rivals",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7029,
-    "published_at": "2026-04-19T01:18:05.179325+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html",
-    "headline": "Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-04-19T01:18:05.176775+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/17/world/africa/botswana-dwarfism-johnson-masase.html",
-    "headline": "\u2018I Would Rather Be a Dwarf\u2019: A Comic in Botswana Prizes His Difference",
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/european-leaders-discuss-an-international-mission-to-restore-shipping-in-strait-of-hormuz.html",
+    "headline": "Europe Wants to Help Restore Shipping in the Strait. It Just Isn\u2019t Sure How.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-04-19T01:18:05.175523+00:00"
+    "confidence_score": 0.788,
+    "published_at": "2026-04-20T01:18:05.602159+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it",
-    "headline": "The U.S. blockade on ships will continue until Trump ends it, says Central Command chief.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6012,
-    "published_at": "2026-04-19T01:18:05.158061+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html",
-    "headline": "Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist",
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html",
+    "headline": "Lutnick Says Canada Trade Deal Needs to Be Reworked Ahead of Talks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9472,
-    "published_at": "2026-04-19T01:18:05.149373+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-04-20T01:18:05.600895+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/europe/100000010842261/who-is-the-new-leader-of-hungary.html",
-    "headline": "Who Is the New Leader of Hungary?",
+    "source_uri": "https://www.nytimes.com/2026/04/17/business/mark-mobius-dead.html",
+    "headline": "Mark Mobius, Pioneering Investor in Emerging Markets, Dies at 89",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8871,
-    "published_at": "2026-04-19T01:18:05.145293+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-04-20T01:18:05.598326+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/18/us/super-typhoon-sinklau-coast-guard-search.html",
-    "headline": "Six Are Missing After Cargo Ship Is Found Overturned Near Guam",
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/europe/timmy-whale-stranded-rescue-germany.html",
+    "headline": "Rescuers Try to Save Timmy, a Whale Stranded Off Germany",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-04-19T01:18:05.141639+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-04-20T01:18:05.592846+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html",
-    "headline": "\u2018I Just Want to Be Back\u2019: Thousands Rush South in Lebanon Under Cease-Fire",
+    "source_uri": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-hormuz-peace-deal.html",
+    "headline": "Amid Conflicting Messages From Trump and Iran, Hopes for Peace Deal Emerge",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9461,
+    "published_at": "2026-04-20T01:18:05.578880+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/iran-says-the-strait-of-hormuz-is-open-but-adds-that-it-is-still-under-tehrans-supervision",
+    "headline": "Iran says the Strait of Hormuz is open, but adds that it is still under Tehran\u2019s supervision.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9693,
-    "published_at": "2026-04-19T01:18:05.136868+00:00"
+    "confidence_score": 0.9603,
+    "published_at": "2026-04-20T01:18:05.577621+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Fuel truck leaves trail of fire on road in Syria",
+    "source_uri": "https://www.nytimes.com/2026/04/17/health/hiv-testing-treatment-data-pepfar.html",
+    "headline": "New PEPFAR Data Show Worrying Declines in Testing and Treatment for H.I.V.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-04-20T01:18:05.575100+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html",
+    "headline": "A Mild-Mannered Pope Finds His Voice",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7459,
-    "published_at": "2026-04-19T01:18:04.884808+00:00"
+    "confidence_score": 0.9537,
+    "published_at": "2026-04-20T01:18:05.572573+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/18/world/canada/carney-poilievre-lewis-canada-politics.html",
+    "headline": "Carney\u2019s Liberal Majority Reshapes Fortunes to the Left and the Right",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-04-20T01:18:05.566308+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-tanker-strait-of-hormuz.html",
+    "headline": "Ships Attacked in Strait of Hormuz as Iran Declares Strict Control of Vital Shipping Route",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9841,
+    "published_at": "2026-04-20T01:18:05.561218+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-cease-fire-violations-strait-of-hormuz.html",
+    "headline": "U.S. Attacks Iranian Cargo Ship as Both Countries Claim Cease-Fire Violations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9896,
+    "published_at": "2026-04-20T01:18:05.556229+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html",
+    "headline": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9865,
+    "published_at": "2026-04-20T01:18:05.547315+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html",
+    "headline": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8959,
+    "published_at": "2026-04-20T01:18:05.544811+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html",
+    "headline": "Hamas Officials Say Group Is Ready to Hand Over Some Weapons",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9877,
+    "published_at": "2026-04-20T01:18:05.533117+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
     "headline": "BBC reports from Lebanese border town as residents try to return home",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9046,
-    "published_at": "2026-04-19T01:18:04.883570+00:00"
+    "published_at": "2026-04-20T01:18:05.354015+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss",
-    "headline": "He made jazz under air raids - and built an Indian city's music scene",
+    "source_uri": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
+    "headline": "Drone footage shows huge Malaysian coastal village fire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9828,
+    "published_at": "2026-04-20T01:18:05.350164+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+    "headline": "Australia's most-decorated soldier vows to fight war crime charges",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-04-19T01:18:04.878645+00:00"
+    "confidence_score": 0.9424,
+    "published_at": "2026-04-20T01:18:05.316047+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/czxrq7rx9lqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Three sentenced for 'man in bear suit' insurance scam",
+    "source_uri": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9868,
-    "published_at": "2026-04-19T01:18:04.872294+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-    "headline": "French peacekeeper killed in southern Lebanon",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-04-19T01:18:04.868403+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Madonna joins Sabrina Carpenter to surprise Coachella",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9921,
-    "published_at": "2026-04-19T01:18:04.863286+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Pope says 'tyrants' speech was not aimed at Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-04-19T01:18:04.860732+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-    "headline": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-04-19T01:18:04.858574+00:00"
+    "confidence_score": 0.9907,
+    "published_at": "2026-04-20T01:18:05.304318+00:00"
   }
 ]
