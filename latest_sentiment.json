@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html",
-    "headline": "Trump Spat Gives Spain Leader Pedro S\u00e1nchez a Political Lifeline",
+    "source_uri": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-04-21T01:16:15.551626+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-04-22T01:14:20.630551+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html",
-    "headline": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9865,
-    "published_at": "2026-04-21T01:16:15.543947+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html",
-    "headline": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8959,
-    "published_at": "2026-04-21T01:16:15.539894+00:00"
+    "source_uri": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html",
+    "headline": "Javier Milei Tamed Argentina\u2019s Inflation. Now He Wants to Reshape Its Values.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-04-22T01:14:20.628035+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/20/world/middleeast/iran-us-talks.html",
     "headline": "U.S. and Iran Talks Appear on Track to Resume Despite Mixed Messages",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7978,
-    "published_at": "2026-04-21T01:16:15.516246+00:00"
+    "published_at": "2026-04-22T01:14:20.609908+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/20/world/europe/bulgaria-election-result-rumen-radev.html",
-    "headline": "A Decisive Win Raises Bulgarians\u2019 Hopes for Change",
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-oil-tanker-mt-tifani-us-indian-ocean.html",
+    "headline": "U.S. Military Stops and Boards M/T Tifani, Tanker Carrying Iranian Oil, Pentagon Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9792,
+    "published_at": "2026-04-22T01:14:20.598128+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/lebanon-villages-funerals.html",
+    "headline": "Lebanese Bury Their Dead Amid a Lull in Fighting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9406,
+    "published_at": "2026-04-22T01:14:20.592931+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/climate/earth-day-climate-change-hope.html",
+    "headline": "For Earth Day, a Few Signs of Hope for Our Planet",
     "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-22T01:14:20.591660+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html",
+    "headline": "Europe Wanted a Say on the Iran War, but It\u2019s Still on the Sidelines",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9612,
+    "published_at": "2026-04-22T01:14:20.581161+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/africa/nigeria-coup-plot-treason-charges.html",
+    "headline": "Nigeria Charges Six With Treason Over Coup Plot",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9945,
+    "published_at": "2026-04-22T01:14:20.578435+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+    "headline": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9014,
+    "published_at": "2026-04-22T01:14:20.577118+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html",
+    "headline": "Teotihuac\u00e1n Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-04-22T01:14:20.574508+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html",
+    "headline": "Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-04-22T01:14:20.573200+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html",
+    "headline": "Fired U.K. Official Describes \u2018Pressure\u2019 to Expedite Envoy\u2019s Appointment",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9501,
+    "published_at": "2026-04-22T01:14:20.567901+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
+    "headline": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9897,
+    "published_at": "2026-04-22T01:14:20.566505+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c15d1enqgl3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hot air balloon makes emergency landing in California backyard",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9962,
+    "published_at": "2026-04-22T01:14:20.445525+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
+    "headline": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7136,
+    "published_at": "2026-04-22T01:14:20.444169+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
+    "headline": "South Africa's police boss charged in connection with controversial health contract",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-04-22T01:14:20.433715+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
+    "headline": "Madonna offers reward for return of missing Coachella costume",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-04-21T01:16:15.506441+00:00"
+    "published_at": "2026-04-22T01:14:20.425767+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html",
-    "headline": "Tsunami Warnings Downgraded in Japan After Strong Offshore Earthquake",
+    "source_uri": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+    "headline": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.836,
-    "published_at": "2026-04-21T01:16:15.505495+00:00"
+    "confidence_score": 0.9791,
+    "published_at": "2026-04-22T01:14:20.420737+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/20/world/asia/pakistan-shiites-iran-diplomacy.html",
-    "headline": "Pakistan\u2019s Leaders Try to Contain Rising Anger Over Iran War at Home",
+    "source_uri": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-04-21T01:16:15.504530+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-04-22T01:14:20.418066+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
-    "headline": "Iran War Live Updates: Tehran and Trump Send Signals Ahead of Potential Talks",
+    "source_uri": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump buys time for Iran deal after frantic day of diplomacy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9143,
-    "published_at": "2026-04-21T01:16:15.498713+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
-    "headline": "US releases video of forces seizing Iranian ship",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9522,
-    "published_at": "2026-04-21T01:16:15.290240+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cvg09900zx5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Victory slips away as marathon runner celebrates too soon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9653,
-    "published_at": "2026-04-21T01:16:15.289243+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
-    "headline": "Are insider traders making millions from the Iran war?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-04-21T01:16:15.288239+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
-    "headline": "The insider trading suspicions looming over Trump's presidency",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7236,
-    "published_at": "2026-04-21T01:16:15.282304+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Rat poison found in HiPP baby food jar in Austria, police say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-04-21T01:16:15.278174+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cp867zy9j6ro?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 25 killed in firecracker factory blast in India",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.961,
-    "published_at": "2026-04-21T01:16:15.276184+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cn4vn021mg9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Rebel Wilson's claims against actress are 'malicious concoctions', Australian court hears",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-04-21T01:16:15.274127+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/czx9q51rldko?at_medium=RSS&at_campaign=rss",
-    "headline": "Days of Our Lives and Starship Troopers actor Patrick Muldoon dies aged 57",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5053,
-    "published_at": "2026-04-21T01:16:15.269041+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know about the Iranian ship seized by the US",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9326,
-    "published_at": "2026-04-21T01:16:15.262002+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-    "headline": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9748,
-    "published_at": "2026-04-21T01:16:15.260956+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7967,
-    "published_at": "2026-04-21T01:16:15.258571+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Canadian killed in shooting at Mexico's ancient Teotihuac\u00e1n pyramids",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-04-21T01:16:15.257322+00:00"
+    "confidence_score": 0.8463,
+    "published_at": "2026-04-22T01:14:20.396267+00:00"
   }
 ]
