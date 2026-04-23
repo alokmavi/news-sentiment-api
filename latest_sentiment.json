@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/heres-the-latest",
+    "source_uri": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news/heres-the-latest",
     "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-04-22T01:14:20.630551+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html",
-    "headline": "Javier Milei Tamed Argentina\u2019s Inflation. Now He Wants to Reshape Its Values.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-04-22T01:14:20.628035+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/20/world/middleeast/iran-us-talks.html",
-    "headline": "U.S. and Iran Talks Appear on Track to Resume Despite Mixed Messages",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7978,
-    "published_at": "2026-04-22T01:14:20.609908+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-oil-tanker-mt-tifani-us-indian-ocean.html",
-    "headline": "U.S. Military Stops and Boards M/T Tifani, Tanker Carrying Iranian Oil, Pentagon Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9792,
-    "published_at": "2026-04-22T01:14:20.598128+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/lebanon-villages-funerals.html",
-    "headline": "Lebanese Bury Their Dead Amid a Lull in Fighting",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9406,
-    "published_at": "2026-04-22T01:14:20.592931+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/21/climate/earth-day-climate-change-hope.html",
-    "headline": "For Earth Day, a Few Signs of Hope for Our Planet",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-22T01:14:20.591660+00:00"
+    "published_at": "2026-04-23T01:20:52.078161+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html",
     "headline": "Europe Wanted a Say on the Iran War, but It\u2019s Still on the Sidelines",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9612,
-    "published_at": "2026-04-22T01:14:20.581161+00:00"
+    "published_at": "2026-04-23T01:20:52.069034+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/africa/nigeria-coup-plot-treason-charges.html",
-    "headline": "Nigeria Charges Six With Treason Over Coup Plot",
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-oil-tanker-mt-tifani-us-indian-ocean.html",
+    "headline": "U.S. Military Stops and Boards M/T Tifani, Tanker Carrying Iranian Oil, Pentagon Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-04-22T01:14:20.578435+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
-    "headline": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9014,
-    "published_at": "2026-04-22T01:14:20.577118+00:00"
+    "confidence_score": 0.9792,
+    "published_at": "2026-04-23T01:20:52.067983+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html",
     "headline": "Teotihuac\u00e1n Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.997,
-    "published_at": "2026-04-22T01:14:20.574508+00:00"
+    "published_at": "2026-04-23T01:20:52.060578+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html",
-    "headline": "Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon",
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010853017/why-negotiations-with-iran-might-take-a-while.html",
+    "headline": "Why Negotiations With Iran Might Take a While",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-04-22T01:14:20.573200+00:00"
+    "confidence_score": 0.8893,
+    "published_at": "2026-04-23T01:20:52.056360+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html",
-    "headline": "Fired U.K. Official Describes \u2018Pressure\u2019 to Expedite Envoy\u2019s Appointment",
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html",
+    "headline": "What I Saw Crossing Into South Lebanon",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9501,
-    "published_at": "2026-04-22T01:14:20.567901+00:00"
+    "confidence_score": 0.8469,
+    "published_at": "2026-04-23T01:20:52.052040+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html",
+    "headline": "Proposed Lifetime Smoking Ban to Become Law in Britain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9907,
+    "published_at": "2026-04-23T01:20:52.050949+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html",
+    "headline": "Aging in Place: How Technology Might Help You Grow Old at Home",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-04-23T01:20:52.046249+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/asia/japan-earthquake-megaquake-tsunami.html",
+    "headline": "Japan Is Used to Earthquakes, but What About a Big One?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-04-23T01:20:52.045157+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-turkey-border.html",
+    "headline": "Whether for or Against the War, Iranians Say They\u2019re Feeling Economic Pain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-04-23T01:20:52.038745+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
+    "headline": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-04-23T01:20:52.037712+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html",
+    "headline": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9897,
+    "published_at": "2026-04-23T01:20:52.033304+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
     "headline": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9897,
-    "published_at": "2026-04-22T01:14:20.566505+00:00"
+    "published_at": "2026-04-23T01:20:52.028012+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/asia/south-korean-fighter-jets-photos-phones.html",
+    "headline": "Pilot Was Taking Pictures Before South Korean Fighter Jets Collided",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7532,
+    "published_at": "2026-04-23T01:20:52.026980+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
+    "headline": "Pope Leo Is Skipping Some of Africa\u2019s Biggest Catholic Nations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-04-23T01:20:52.020614+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/c15d1enqgl3o?at_medium=RSS&at_campaign=rss",
     "headline": "Hot air balloon makes emergency landing in California backyard",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9962,
-    "published_at": "2026-04-22T01:14:20.445525+00:00"
+    "published_at": "2026-04-23T01:20:51.862865+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
-    "headline": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7136,
-    "published_at": "2026-04-22T01:14:20.444169+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-04-23T01:20:51.857439+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
-    "headline": "South Africa's police boss charged in connection with controversial health contract",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-22T01:14:20.433715+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
+    "headline": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9706,
+    "published_at": "2026-04-23T01:20:51.854257+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
-    "headline": "Madonna offers reward for return of missing Coachella costume",
+    "source_uri": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-22T01:14:20.425767+00:00"
+    "confidence_score": 0.9911,
+    "published_at": "2026-04-23T01:20:51.848198+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-    "headline": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+    "source_uri": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
+    "headline": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9791,
-    "published_at": "2026-04-22T01:14:20.420737+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-04-22T01:14:20.418066+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump buys time for Iran deal after frantic day of diplomacy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8463,
-    "published_at": "2026-04-22T01:14:20.396267+00:00"
+    "confidence_score": 0.9832,
+    "published_at": "2026-04-23T01:20:51.846192+00:00"
   }
 ]
