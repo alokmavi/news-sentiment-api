@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-04-23T01:20:52.078161+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html",
-    "headline": "Europe Wanted a Say on the Iran War, but It\u2019s Still on the Sidelines",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9612,
-    "published_at": "2026-04-23T01:20:52.069034+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-oil-tanker-mt-tifani-us-indian-ocean.html",
-    "headline": "U.S. Military Stops and Boards M/T Tifani, Tanker Carrying Iranian Oil, Pentagon Says",
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
+    "headline": "Pope Leo Is Skipping Some of Africa\u2019s Biggest Catholic Nations",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9792,
-    "published_at": "2026-04-23T01:20:52.067983+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-04-24T01:18:59.032460+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html",
-    "headline": "Teotihuac\u00e1n Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings",
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
+    "headline": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-04-23T01:20:52.060578+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-04-24T01:18:59.029970+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010853017/why-negotiations-with-iran-might-take-a-while.html",
-    "headline": "Why Negotiations With Iran Might Take a While",
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-war-uae-dubai.html",
+    "headline": "Iranian Expats in U.A.E. Caught Between Home and Homeland",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8893,
-    "published_at": "2026-04-23T01:20:52.056360+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-04-24T01:18:59.026227+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html",
-    "headline": "What I Saw Crossing Into South Lebanon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8469,
-    "published_at": "2026-04-23T01:20:52.052040+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html",
-    "headline": "Proposed Lifetime Smoking Ban to Become Law in Britain",
+    "source_uri": "https://www.nytimes.com/2026/04/22/business/iran-war-oil-hoarding.html",
+    "headline": "Hoarding Is Driving Energy Prices Higher Everywhere",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-04-23T01:20:52.050949+00:00"
+    "confidence_score": 0.9588,
+    "published_at": "2026-04-24T01:18:59.023717+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html",
-    "headline": "Aging in Place: How Technology Might Help You Grow Old at Home",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-04-23T01:20:52.046249+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/22/world/asia/japan-earthquake-megaquake-tsunami.html",
-    "headline": "Japan Is Used to Earthquakes, but What About a Big One?",
+    "source_uri": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-attacked-strait-hormuz.html",
+    "headline": "Strait of Hormuz Dangers Escalate as Iran Says It Seized 2 Cargo Ships",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-04-23T01:20:52.045157+00:00"
+    "confidence_score": 0.954,
+    "published_at": "2026-04-24T01:18:59.020783+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-turkey-border.html",
-    "headline": "Whether for or Against the War, Iranians Say They\u2019re Feeling Economic Pain",
+    "source_uri": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/with-peace-talks-postponed-pakistanis-feel-the-cost-of-the-war-in-iran",
+    "headline": "With peace talks postponed, Pakistanis feel the cost of the war in Iran.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-04-23T01:20:52.038745+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html",
-    "headline": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-04-23T01:20:52.037712+00:00"
+    "confidence_score": 0.9859,
+    "published_at": "2026-04-24T01:18:59.009980+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html",
     "headline": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9897,
-    "published_at": "2026-04-23T01:20:52.033304+00:00"
+    "published_at": "2026-04-24T01:18:59.004276+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
-    "headline": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-04-23T01:20:52.028012+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/22/world/asia/south-korean-fighter-jets-photos-phones.html",
-    "headline": "Pilot Was Taking Pictures Before South Korean Fighter Jets Collided",
+    "source_uri": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html",
+    "headline": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7532,
-    "published_at": "2026-04-23T01:20:52.026980+00:00"
+    "confidence_score": 0.8986,
+    "published_at": "2026-04-24T01:18:59.002903+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
-    "headline": "Pope Leo Is Skipping Some of Africa\u2019s Biggest Catholic Nations",
+    "source_uri": "https://www.nytimes.com/2026/04/23/world/asia/duterte-icc-trial-drug-war.html",
+    "headline": "Rodrigo Duterte Will Stand Trial for Crimes Against Humanity, Court Rules",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-04-23T01:20:52.020614+00:00"
+    "confidence_score": 0.967,
+    "published_at": "2026-04-24T01:18:58.975952+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/23/world/asia/iran-australia-natural-gas-tax.html",
+    "headline": "War in Iran Gives New Fuel to a Tax Debate in Australia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-04-24T01:18:58.974604+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html",
+    "headline": "Tanzania Report Blames \u2018Outside Forces\u2019 for Deadly Election Violence",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9956,
+    "published_at": "2026-04-24T01:18:58.973252+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html",
+    "headline": "Crash That Killed 2 Americans Is a Reminder of the Depth of Security Ties in Mexico",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-04-24T01:18:58.970654+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/23/world/middleeast/kuwait-journalist-acquitted.html",
+    "headline": "Journalist Detained in Kuwait After Posting About Iran War Is Acquitted",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9287,
+    "published_at": "2026-04-24T01:18:58.969410+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/c15d1enqgl3o?at_medium=RSS&at_campaign=rss",
     "headline": "Hot air balloon makes emergency landing in California backyard",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9962,
-    "published_at": "2026-04-23T01:20:51.862865+00:00"
+    "published_at": "2026-04-24T01:18:58.819236+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-04-23T01:20:51.857439+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
-    "headline": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9706,
-    "published_at": "2026-04-23T01:20:51.854257+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
+    "source_uri": "https://www.bbc.com/news/videos/cgrl891xkpvo?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC visits migrant camp in northern France as new deal announced",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-04-23T01:20:51.848198+00:00"
+    "confidence_score": 0.6856,
+    "published_at": "2026-04-24T01:18:58.817986+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
-    "headline": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
+    "source_uri": "https://www.bbc.com/news/articles/clyrkd022ejo?at_medium=RSS&at_campaign=rss",
+    "headline": "US charges anti-extremism organisation over payments to informants in hate groups",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9827,
+    "published_at": "2026-04-24T01:18:58.806181+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump administration reclassifies cannabis as less dangerous",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9832,
-    "published_at": "2026-04-23T01:20:51.846192+00:00"
+    "confidence_score": 0.9946,
+    "published_at": "2026-04-24T01:18:58.796183+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvg0rkvjlvvo?at_medium=RSS&at_campaign=rss",
+    "headline": "US government watchdog to investigate Epstein files release",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.957,
+    "published_at": "2026-04-24T01:18:58.779897+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss",
+    "headline": "Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-04-24T01:18:58.777132+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+    "headline": "Huge chunk of glacier blocks Everest route in peak climbing season",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-24T01:18:58.774381+00:00"
   }
 ]
