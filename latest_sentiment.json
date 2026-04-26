@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html",
-    "headline": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8986,
-    "published_at": "2026-04-25T01:12:29.944563+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html",
-    "headline": "Will Bulgaria\u2019s New Leader Cast His Lot With Europe or Russia?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5084,
-    "published_at": "2026-04-25T01:12:29.935900+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/23/world/europe/germany-israel-iran-war-support.html",
-    "headline": "Germany, a Steadfast Ally of Israel, Now Voices Some Frustration",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9285,
-    "published_at": "2026-04-25T01:12:29.934902+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/23/world/middleeast/us-iran-oil-tanker-indian-ocean-mt-majestic-x.html",
-    "headline": "U.S. Forces Board a 2nd Tanker They Say Is Carrying Oil From Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9104,
-    "published_at": "2026-04-25T01:12:29.933925+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/23/world/middleeast/israel-lebanon-hezbollah-talks-ceasefire.html",
-    "headline": "How People in Lebanon Are Reacting to Talks With Israel",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9732,
-    "published_at": "2026-04-25T01:12:29.932922+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html",
     "headline": "Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.5754,
-    "published_at": "2026-04-25T01:12:29.923577+00:00"
+    "published_at": "2026-04-26T01:21:05.756386+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html",
+    "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9914,
+    "published_at": "2026-04-26T01:21:05.743999+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/24/world/americas/us-fighter-jet-deal-peru-government.html",
+    "headline": "A Disputed Jet Deal and Pressure From the Trump Administration Shake Peru\u2019s Government",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9624,
+    "published_at": "2026-04-26T01:21:05.736667+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/24/arts/venice-biennale-russia-israel.html",
+    "headline": "Venice Biennale Bars Awards for Countries Facing Crimes Against Humanity Charges",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-04-25T01:12:29.916164+00:00"
+    "confidence_score": 0.7817,
+    "published_at": "2026-04-26T01:21:05.735462+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
-    "headline": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
+    "source_uri": "https://www.nytimes.com/2026/04/24/world/middleeast/kushner-witkoff-pakistan-iran.html",
+    "headline": "Kushner and Witkoff Traveling to Pakistan to Resume Iran Talks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9811,
-    "published_at": "2026-04-25T01:12:29.915007+00:00"
+    "confidence_score": 0.9858,
+    "published_at": "2026-04-26T01:21:05.732943+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/24/world/middleeast/israel-lebanon-fighting-ceasefire.html",
-    "headline": "Israel-Lebanon Cease-Fire Tested by\u00a0Escalating Clashes",
+    "source_uri": "https://www.nytimes.com/2026/04/24/world/canada/snow-storm-canada-alberta-stranded.html",
+    "headline": "Drivers Stranded Overnight on Alberta, Canada, Highways After Snowstorm",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-04-25T01:12:29.910715+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
-    "headline": "A New Idea to Save the AMOC? Dam the Bering Strait.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9827,
-    "published_at": "2026-04-25T01:12:29.909601+00:00"
+    "confidence_score": 0.7094,
+    "published_at": "2026-04-26T01:21:05.731745+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/24/world/africa/kenya-court-abortion-ruling.html",
     "headline": "Kenyan Court Strikes Down Ruling Protecting Right to Abortion",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9209,
-    "published_at": "2026-04-25T01:12:29.903303+00:00"
+    "published_at": "2026-04-26T01:21:05.730551+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/23/world/asia/afghans-qatar-refugees-congo.html",
-    "headline": "Afghans Who Helped U.S. Forces Say They\u2019re Being Pushed Back to the Taliban",
+    "source_uri": "https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html",
+    "headline": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.99,
-    "published_at": "2026-04-25T01:12:29.900038+00:00"
+    "confidence_score": 0.9937,
+    "published_at": "2026-04-26T01:21:05.726797+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss",
-    "headline": "My five-minute phone call with President Trump",
+    "source_uri": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
+    "headline": "Lebanese Ask, \u2018What Cease-Fire?\u2019 as Israel and Hezbollah Trade Attacks in the South",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9939,
+    "published_at": "2026-04-26T01:21:05.721837+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html",
+    "headline": "2 C.I.A. Officers Killed in Mexico Crash Lacked Proper Authorization",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-04-26T01:21:05.715964+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html",
+    "headline": "As Putin Orders That the Economy Be Fixed, Russia Grasps for Solutions",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7396,
-    "published_at": "2026-04-25T01:12:29.714510+00:00"
+    "confidence_score": 0.9709,
+    "published_at": "2026-04-26T01:21:05.711359+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&at_campaign=rss",
-    "headline": "'A dangerous standoff' as Strait of Hormuz blockade continues",
+    "source_uri": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Epstein survivor: Meeting the King would be a 'grand step'",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-04-25T01:12:29.712504+00:00"
+    "confidence_score": 0.9946,
+    "published_at": "2026-04-26T01:21:05.432752+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
-    "headline": "A rumour, a lynching in India and a long wait for justice",
+    "source_uri": "https://www.bbc.com/news/articles/cnv80130zyro?at_medium=RSS&at_campaign=rss",
+    "headline": "The Kashmir town trying to win back tourists after a deadly attack",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8958,
-    "published_at": "2026-04-25T01:12:29.708379+00:00"
+    "confidence_score": 0.9652,
+    "published_at": "2026-04-26T01:21:05.425498+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx23zmxd2z3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris",
+    "source_uri": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Epstein housed abuse victims in London flats, BBC reveals",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8854,
+    "published_at": "2026-04-26T01:21:05.415864+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-04-25T01:12:29.707330+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-26T01:21:05.414734+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
-    "headline": "South Korea police arrest man for posting AI photo of runaway wolf",
+    "source_uri": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9663,
-    "published_at": "2026-04-25T01:12:29.703262+00:00"
+    "confidence_score": 0.9472,
+    "published_at": "2026-04-26T01:21:05.407567+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9877,
-    "published_at": "2026-04-25T01:12:29.701026+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Mandelson under formal investigation by EU's anti-fraud office",
+    "source_uri": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-04-25T01:12:29.696996+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-04-26T01:21:05.405100+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
-    "headline": "Pirates hijack oil tanker off the coast of Somalia",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Seven dead in major Russian attack on Ukraine",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9967,
-    "published_at": "2026-04-25T01:12:29.695914+00:00"
+    "published_at": "2026-04-26T01:21:05.398968+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9934,
+    "published_at": "2026-04-26T01:21:05.395285+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9576,
+    "published_at": "2026-04-26T01:21:05.371427+00:00"
   }
 ]
