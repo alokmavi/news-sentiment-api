@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html",
-    "headline": "Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid",
+    "source_uri": "https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html",
+    "headline": "\u2018Didi vs. Modi\u2019: A Test for the Hindu Right in India\u2019s Bengali Heartland",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9934,
+    "published_at": "2026-04-27T01:21:56.651210+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5754,
-    "published_at": "2026-04-26T01:21:05.756386+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-04-27T01:21:56.649981+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html",
-    "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
+    "source_uri": "https://www.nytimes.com/2026/04/24/world/middleeast/israel-lebanon-fighting-ceasefire.html",
+    "headline": "Israel-Lebanon Cease-Fire Tested by\u00a0Escalating Clashes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9914,
-    "published_at": "2026-04-26T01:21:05.743999+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/24/world/americas/us-fighter-jet-deal-peru-government.html",
-    "headline": "A Disputed Jet Deal and Pressure From the Trump Administration Shake Peru\u2019s Government",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9624,
-    "published_at": "2026-04-26T01:21:05.736667+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/24/arts/venice-biennale-russia-israel.html",
-    "headline": "Venice Biennale Bars Awards for Countries Facing Crimes Against Humanity Charges",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7817,
-    "published_at": "2026-04-26T01:21:05.735462+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/24/world/middleeast/kushner-witkoff-pakistan-iran.html",
-    "headline": "Kushner and Witkoff Traveling to Pakistan to Resume Iran Talks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9858,
-    "published_at": "2026-04-26T01:21:05.732943+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-04-27T01:21:56.640911+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/24/world/canada/snow-storm-canada-alberta-stranded.html",
     "headline": "Drivers Stranded Overnight on Alberta, Canada, Highways After Snowstorm",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7094,
-    "published_at": "2026-04-26T01:21:05.731745+00:00"
+    "published_at": "2026-04-27T01:21:56.629903+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/24/world/africa/kenya-court-abortion-ruling.html",
-    "headline": "Kenyan Court Strikes Down Ruling Protecting Right to Abortion",
+    "source_uri": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
+    "headline": "The Challenges Facing Canada as It Inches Toward Trade Talks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9209,
-    "published_at": "2026-04-26T01:21:05.730551+00:00"
+    "confidence_score": 0.9855,
+    "published_at": "2026-04-27T01:21:56.616485+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html",
-    "headline": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
+    "source_uri": "https://www.nytimes.com/2026/04/25/world/europe/semyon-gluzman-dead.html",
+    "headline": "Semyon Gluzman, 79, Dies; Doctor Dared to Criticize Soviet Psychiatry",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9784,
+    "published_at": "2026-04-27T01:21:56.609177+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/25/world/middleeast/families-of-iranian-children-killed-in-school-airstrike-pen-letter-to-pope.html",
+    "headline": "Families of Iranian Children Killed in School Airstrike Pen Letter to Pope",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-04-26T01:21:05.726797+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-04-27T01:21:56.606761+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
-    "headline": "Lebanese Ask, \u2018What Cease-Fire?\u2019 as Israel and Hezbollah Trade Attacks in the South",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000010806725/how-drug-cartel-gold-ends-up-at-the-us-mint.html",
+    "headline": "How Drug Cartel Gold Ends Up at the U.S. Mint",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-04-26T01:21:05.721837+00:00"
+    "confidence_score": 0.9828,
+    "published_at": "2026-04-27T01:21:56.605526+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html",
-    "headline": "2 C.I.A. Officers Killed in Mexico Crash Lacked Proper Authorization",
+    "source_uri": "https://www.nytimes.com/2026/04/26/world/trump-shooting-dinner-iran-talks.html",
+    "headline": "How a Trump Event Shooting Unfolded",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9876,
+    "published_at": "2026-04-27T01:21:56.600609+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html",
+    "headline": "How Nieves Gonz\u00e1lez\u2019s Painting of Lily Allen Made Her Famous",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9382,
+    "published_at": "2026-04-27T01:21:56.591810+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html",
+    "headline": "What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9862,
+    "published_at": "2026-04-27T01:21:56.588122+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+    "headline": "Israel\u2019s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-04-27T01:21:56.584136+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
+    "headline": "U.S. Mint Buys Drug Cartel Gold and Sells It as \u2018American\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-04-27T01:21:56.582101+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss",
+    "headline": "Video shows correspondents' dinner suspect charge checkpoint",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9968,
-    "published_at": "2026-04-26T01:21:05.715964+00:00"
+    "published_at": "2026-04-27T01:21:56.380129+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html",
-    "headline": "As Putin Orders That the Economy Be Fixed, Russia Grasps for Solutions",
+    "source_uri": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9962,
+    "published_at": "2026-04-27T01:21:56.358679+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-04-27T01:21:56.354643+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+    "headline": "Thirty-one sloths die in Florida before opening of attraction",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-04-27T01:21:56.351981+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+    "headline": "Mexico says US agents killed in crash weren't permitted to operate there",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-04-27T01:21:56.344535+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+    "headline": "Mali defence minister killed as country hit by wave of rebel attacks",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9709,
-    "published_at": "2026-04-26T01:21:05.711359+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Epstein survivor: Meeting the King would be a 'grand step'",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-04-26T01:21:05.432752+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cnv80130zyro?at_medium=RSS&at_campaign=rss",
-    "headline": "The Kashmir town trying to win back tourists after a deadly attack",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9652,
-    "published_at": "2026-04-26T01:21:05.425498+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Epstein housed abuse victims in London flats, BBC reveals",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8854,
-    "published_at": "2026-04-26T01:21:05.415864+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-04-26T01:21:05.414734+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9472,
-    "published_at": "2026-04-26T01:21:05.407567+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-04-26T01:21:05.405100+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Seven dead in major Russian attack on Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-04-26T01:21:05.398968+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-04-26T01:21:05.395285+00:00"
+    "confidence_score": 0.6536,
+    "published_at": "2026-04-27T01:21:56.341853+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
     "headline": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9576,
-    "published_at": "2026-04-26T01:21:05.371427+00:00"
+    "published_at": "2026-04-27T01:21:56.340458+00:00"
   }
 ]
