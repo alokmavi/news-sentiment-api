@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
-    "headline": "Japan\u2019s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-04-28T01:29:01.663507+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html",
-    "headline": "On Iran\u2019s Border, Cooking Oil Trade Is a Snapshot of the Country\u2019s Struggles",
+    "source_uri": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
+    "headline": "U.S. Mint Buys Drug Cartel Gold and Sells It as \u2018American\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9681,
-    "published_at": "2026-04-28T01:29:01.662226+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/25/world/middleeast/families-of-iranian-children-killed-in-school-airstrike-pen-letter-to-pope.html",
-    "headline": "Families of Iranian Children Killed in School Airstrike Pen Letter to Pope",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-04-28T01:29:01.639604+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-04-29T01:31:25.054450+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
     "headline": "How We Traced U.S. Government Gold to a Drug Cartel",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9923,
-    "published_at": "2026-04-28T01:29:01.627685+00:00"
+    "published_at": "2026-04-29T01:31:25.052479+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-lapid-bennett.html",
-    "headline": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-04-28T01:29:01.619839+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/europe/royal-visits-america-history-trump-uk.html",
-    "headline": "8 Memorable Moments From Past British Royal Visits to the U.S.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-04-28T01:29:01.615919+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/middleeast/iraq-prime-minister.html",
-    "headline": "Iraq Taps Businessman, Ali al-Zaidi, to Form New Government",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9595,
-    "published_at": "2026-04-28T01:29:01.604282+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-    "headline": "Israel\u2019s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+    "source_uri": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+    "headline": "Iran and U.S. Sink Into Awkward Limbo of \u2018No War, No Peace\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-04-28T01:29:01.601643+00:00"
+    "confidence_score": 0.9908,
+    "published_at": "2026-04-29T01:31:25.047443+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/europe/pope-leo-archbishop-canterbury-mullally-vatican.html",
-    "headline": "Archbishop of Canterbury Prays With Pope Leo at the Vatican in Historic Meeting",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-04-28T01:29:01.600322+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html",
-    "headline": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14",
+    "source_uri": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
+    "headline": "King Charles Is Coming to the U.S. at a Very Delicate Time",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.924,
-    "published_at": "2026-04-28T01:29:01.592458+00:00"
+    "confidence_score": 0.8415,
+    "published_at": "2026-04-29T01:31:25.041543+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Hope in Gaza as 300 couples get married at one time",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-04-28T01:29:01.470137+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crk1k8n1j4do?at_medium=RSS&at_campaign=rss",
-    "headline": "Remembering Raghu Rai: The photographer who showed India to itself",
+    "source_uri": "https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html",
+    "headline": "Canada Says Its Gold Is Traceable and Clean. So We Traced It.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-04-28T01:29:01.462167+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-04-29T01:31:25.037508+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss",
-    "headline": "The Chinese sports brand taking on Nike and Adidas",
+    "source_uri": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+    "headline": "Iran War Shakes Global Economy, but the U.S. Has Mostly Been Spared",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9937,
+    "published_at": "2026-04-29T01:31:25.036430+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
+    "headline": "Fighting \u2018Sacred\u2019 War in Ukraine, North Korea and Russia Pledge to Deepen Ties",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-04-28T01:29:01.460856+00:00"
+    "confidence_score": 0.9967,
+    "published_at": "2026-04-29T01:31:25.035430+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
+    "headline": "China\u2019s Economy Starts to Show Cracks From Iran War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-04-29T01:31:25.032188+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/27/world/nuclear-deal-iran-trump-assasination-charges.html",
+    "headline": "The Art of the Nuclear Deal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-29T01:31:25.021542+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/27/world/africa/mali-jnim-violence-russia.html",
+    "headline": "Mali Rebels Strike Major Blow Against Junta and Russia\u2019s Africa Corps",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9521,
+    "published_at": "2026-04-29T01:31:25.020085+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/28/world/canada/carney-budget-update.html",
+    "headline": "Prime Minister Mark Carney Says Canada\u2019s Economy Is Expected to Grow and Deficit to Fall",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9923,
+    "published_at": "2026-04-29T01:31:25.008478+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/28/world/asia/afghanistan-pakistan-university-strike.html",
+    "headline": "Afghanistan Accuses Pakistan of Artillery Strike on a University",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.992,
+    "published_at": "2026-04-29T01:31:24.999928+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss",
+    "headline": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-04-29T01:31:24.795893+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Canada's Carney launches a sovereign wealth fund. What is it?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-04-29T01:31:24.791250+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
     "headline": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.998,
-    "published_at": "2026-04-28T01:29:01.455507+00:00"
+    "published_at": "2026-04-29T01:31:24.790074+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss",
-    "headline": "Archbishop praises Pope's anti-war comments during Vatican visit",
+    "source_uri": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-04-28T01:29:01.451655+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-04-29T01:31:24.788933+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss",
-    "headline": "French teen who licked vending machine straw faces jail in Singapore",
+    "source_uri": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
+    "headline": "Venice opera house drops incoming music director after nepotism remarks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-04-28T01:29:01.449086+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-04-29T01:31:24.779497+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Plane crash in South Sudan kills all 15 on board",
+    "source_uri": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Man admits plotting attack on Taylor Swift concert in Vienna",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-28T01:29:01.446496+00:00"
+    "confidence_score": 0.9906,
+    "published_at": "2026-04-29T01:31:24.773611+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
-    "headline": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
+    "source_uri": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9901,
+    "published_at": "2026-04-29T01:31:24.772418+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-04-28T01:29:01.443794+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Michael Jackson biopic smashes box office record",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9069,
-    "published_at": "2026-04-28T01:29:01.440897+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
-    "headline": "At least four killed and dozens injured in Indonesia train crash",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-04-28T01:29:01.435787+00:00"
+    "confidence_score": 0.9502,
+    "published_at": "2026-04-29T01:31:24.771271+00:00"
   }
 ]
