@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
-    "headline": "U.S. Mint Buys Drug Cartel Gold and Sells It as \u2018American\u2019",
+    "source_uri": "https://www.nytimes.com/2026/04/27/world/africa/sabastian-sawe-kenya-running-record.html",
+    "headline": "Euphoria in Kenya After Sabastian Sawe\u2019s Record-Breaking Win",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9534,
+    "published_at": "2026-04-30T01:30:15.457826+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
+    "headline": "UAE Says It Will Leave OPEC as Iran War Strains Oil Markets",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-04-29T01:31:25.054450+00:00"
+    "published_at": "2026-04-30T01:30:15.443148+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
-    "headline": "How We Traced U.S. Government Gold to a Drug Cartel",
+    "source_uri": "https://www.nytimes.com/2026/04/28/world/middleeast/yacht-strait-hormuz-russia-oligarch.html",
+    "headline": "Luxury Yacht Linked to Russian Oligarch Passes Through Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-04-29T01:31:25.052479+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-    "headline": "Iran and U.S. Sink Into Awkward Limbo of \u2018No War, No Peace\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-04-29T01:31:25.047443+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
-    "headline": "King Charles Is Coming to the U.S. at a Very Delicate Time",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8415,
-    "published_at": "2026-04-29T01:31:25.041543+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html",
-    "headline": "Canada Says Its Gold Is Traceable and Clean. So We Traced It.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-04-29T01:31:25.037508+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
-    "headline": "Iran War Shakes Global Economy, but the U.S. Has Mostly Been Spared",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-04-29T01:31:25.036430+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
-    "headline": "Fighting \u2018Sacred\u2019 War in Ukraine, North Korea and Russia Pledge to Deepen Ties",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-04-29T01:31:25.035430+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
-    "headline": "China\u2019s Economy Starts to Show Cracks From Iran War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-04-29T01:31:25.032188+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/nuclear-deal-iran-trump-assasination-charges.html",
-    "headline": "The Art of the Nuclear Deal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-04-29T01:31:25.021542+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/27/world/africa/mali-jnim-violence-russia.html",
-    "headline": "Mali Rebels Strike Major Blow Against Junta and Russia\u2019s Africa Corps",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9521,
-    "published_at": "2026-04-29T01:31:25.020085+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/28/world/canada/carney-budget-update.html",
-    "headline": "Prime Minister Mark Carney Says Canada\u2019s Economy Is Expected to Grow and Deficit to Fall",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-04-29T01:31:25.008478+00:00"
+    "confidence_score": 0.8705,
+    "published_at": "2026-04-30T01:30:15.442045+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/28/world/asia/afghanistan-pakistan-university-strike.html",
     "headline": "Afghanistan Accuses Pakistan of Artillery Strike on a University",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.992,
-    "published_at": "2026-04-29T01:31:24.999928+00:00"
+    "published_at": "2026-04-30T01:30:15.437549+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss",
-    "headline": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-04-29T01:31:24.795893+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Canada's Carney launches a sovereign wealth fund. What is it?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-04-29T01:31:24.791250+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
-    "headline": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-04-29T01:31:24.790074+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-04-29T01:31:24.788933+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
-    "headline": "Venice opera house drops incoming music director after nepotism remarks",
+    "source_uri": "https://www.nytimes.com/live/2026/04/28/us/king-charles-us-visit-trump/uk-public-opinion",
+    "headline": "The British public has taken a dim view of the king\u2019s visit.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-04-29T01:31:24.779497+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-04-30T01:30:15.426162+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Man admits plotting attack on Taylor Swift concert in Vienna",
+    "source_uri": "https://www.nytimes.com/2026/04/29/world/iran-hormuz-toll-king-charles.html",
+    "headline": "Testing the Waters",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9906,
-    "published_at": "2026-04-29T01:31:24.773611+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-04-30T01:30:15.418086+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9901,
-    "published_at": "2026-04-29T01:31:24.772418+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Russian superyacht sails through Strait of Hormuz despite blockade",
+    "source_uri": "https://www.nytimes.com/2026/04/29/sports/hockey/buffalo-sabres-nhl-canadian-anthem.html",
+    "headline": "Hockey Fans in Buffalo Finish \u2018O Canada\u2019 After Singer\u2019s Mic Malfunctions",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9502,
-    "published_at": "2026-04-29T01:31:24.771271+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-04-30T01:30:15.415774+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html",
+    "headline": "Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9742,
+    "published_at": "2026-04-30T01:30:15.405258+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
+    "headline": "U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9784,
+    "published_at": "2026-04-30T01:30:15.402948+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
+    "headline": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-04-30T01:30:15.232426+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp3l3p7lzppo?at_medium=RSS&at_campaign=rss",
+    "headline": "Indians lost $25bn to digital fraud in 2025 - now its central bank is fighting back",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9921,
+    "published_at": "2026-04-30T01:30:15.223657+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0l28d517gjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Tupac's family files wrongful death lawsuit in LA",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9913,
+    "published_at": "2026-04-30T01:30:15.220287+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump's face to feature on commemorative US passports",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9858,
+    "published_at": "2026-04-30T01:30:15.219140+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8298,
+    "published_at": "2026-04-30T01:30:15.216699+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-04-30T01:30:15.212101+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9835,
+    "published_at": "2026-04-30T01:30:15.209949+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-04-30T01:30:15.202144+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5y9wvl0gkno?at_medium=RSS&at_campaign=rss",
+    "headline": "Florida lawmakers approve new voting maps to favour Republicans",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8154,
+    "published_at": "2026-04-30T01:30:15.201042+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+    "headline": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8353,
+    "published_at": "2026-04-30T01:30:15.196456+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
+    "headline": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-04-30T01:30:15.193019+00:00"
   }
 ]
