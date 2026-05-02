@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html",
-    "headline": "It\u2019s Not Just War That\u2019s Making the U.A.E. Leave OPEC",
+    "source_uri": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
+    "headline": "In France, Trump\u2019s Triumphal Arch Draws Eye Rolls",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-05-01T01:33:02.826140+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
-    "headline": "Gallows Humor Provides Respite From Mideast Wars",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9655,
-    "published_at": "2026-05-01T01:33:02.814377+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/29/business/meta-instagram-facebook-children.html",
-    "headline": "Meta Charged With Failing to Keep Children Off Instagram and Facebook in Europe",
-    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-05-01T01:33:02.811881+00:00"
+    "published_at": "2026-05-02T01:24:21.466669+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/29/business/energy-environment/uae-opec-oil-cartel.html",
-    "headline": "Loss of Emirates Further Weakens OPEC\u2019s Influence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9902,
-    "published_at": "2026-05-01T01:33:02.808230+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/29/world/europe/arson-keir-starmer-homes.html",
-    "headline": "Men Accused in Fires Targeting Starmer Received Orders in Russian, Prosecutors Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9913,
-    "published_at": "2026-05-01T01:33:02.803398+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html",
-    "headline": "Trump\u2019s Clash With Merz Shows It\u2019s Hard to Stay Friends With the President",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-05-01T01:33:02.799780+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html",
-    "headline": "Trump and Putin Call for a Brief Cease-Fire in Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-05-01T01:33:02.793635+00:00"
+    "source_uri": "https://www.nytimes.com/2026/04/30/world/africa/iran-war-africa-economic-consequences.html",
+    "headline": "How the War in Iran is Affecting Africa\u2019s Economy and Fuel Supply",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9843,
+    "published_at": "2026-05-02T01:24:21.460274+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/30/world/australia/missing-girl-found-dead.html",
     "headline": "Missing Indigenous Girl in Australia Is Found Dead After 5-Day Search",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.945,
-    "published_at": "2026-05-01T01:33:02.787625+00:00"
+    "published_at": "2026-05-02T01:24:21.452765+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/theater/august-wilson-italian-jitney.html",
-    "headline": "August Wilson Like You\u2019ve Never Heard Him Before: In Italian",
+    "source_uri": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
+    "headline": "Trump May Pull Troops From Germany. That Isn\u2019t as Scary as It Once Was.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8286,
-    "published_at": "2026-05-01T01:33:02.786404+00:00"
+    "confidence_score": 0.9887,
+    "published_at": "2026-05-02T01:24:21.451471+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/americas/us-flights-venezuela-caracas.html",
-    "headline": "After Seven Years, First U.S. Direct Flight Lands in Caracas",
+    "source_uri": "https://www.nytimes.com/2026/04/30/world/tim-cook-apple-oil-prices-epstein-suicide.html",
+    "headline": "The Future of Apple",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-05-01T01:33:02.781581+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-05-02T01:24:21.437372+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/30/world/middleeast/hezbollah-fiber-optic-drones.html",
     "headline": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9893,
-    "published_at": "2026-05-01T01:33:02.776614+00:00"
+    "published_at": "2026-05-02T01:24:21.434865+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html",
-    "headline": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/australia/alice-springs-jefferson-lewis-girl-kumanjayi.html",
+    "headline": "Violence Erupts in Australian Town After Arrest of Suspect in Girl\u2019s Killing",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-05-01T01:33:02.767862+00:00"
+    "confidence_score": 0.9802,
+    "published_at": "2026-05-02T01:24:21.427047+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html",
-    "headline": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/middleeast/narges-mohammadi-iran-hospialized.html",
+    "headline": "Narges Mohammadi, Iranian Nobel Laureate, Is Hospitalized",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-05-01T01:33:02.765411+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-05-02T01:24:21.420874+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/europe/bulgaria-election-peevski.html",
+    "headline": "In Bulgaria, a New Government Challenges an Old Puppet Master",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-05-01T01:33:02.541526+00:00"
+    "confidence_score": 0.9863,
+    "published_at": "2026-05-02T01:24:21.415878+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
-    "headline": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/middleeast/saudi-arabia-spending-sports-liv-golf.html",
+    "headline": "What the End of Saudi Arabia\u2019s Big-Spending Era Means for the Kingdom and Beyond",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9871,
+    "published_at": "2026-05-02T01:24:21.408294+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c3e29dy701xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Massive sea lion makes rare appearance in San Francisco",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9859,
+    "published_at": "2026-05-02T01:24:21.233969+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
+    "headline": "New CCTV footage appears to shows when shots were fired at Washington press dinner",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-05-02T01:24:21.232735+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss",
+    "headline": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-05-01T01:33:02.529742+00:00"
+    "confidence_score": 0.9262,
+    "published_at": "2026-05-02T01:24:21.225046+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Man sentenced to death for murder of toddlers at Ugandan nursery",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-05-01T01:33:02.527484+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
-    "headline": "Belgium plans to nationalise nuclear power plants",
+    "source_uri": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Venice Biennale jury resigns days before start of top art exhibition",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.612,
-    "published_at": "2026-05-01T01:33:02.522659+00:00"
+    "confidence_score": 0.6614,
+    "published_at": "2026-05-02T01:24:21.218651+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-    "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+    "source_uri": "https://www.bbc.com/news/articles/cewp2ll1zljo?at_medium=RSS&at_campaign=rss",
+    "headline": "Six injured in Washington state school stabbing",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9408,
-    "published_at": "2026-05-01T01:33:02.519159+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-05-02T01:24:21.214923+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-    "headline": "China scraps tariffs for all but one African nation",
+    "source_uri": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli police arrest man after nun attacked in Jerusalem",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9924,
-    "published_at": "2026-05-01T01:33:02.517994+00:00"
+    "confidence_score": 0.9942,
+    "published_at": "2026-05-02T01:24:21.203280+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Violence in Australian town after arrest of man over girl's murder",
+    "source_uri": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9951,
+    "published_at": "2026-05-02T01:24:21.200635+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+    "headline": "US court limits mail-order access to abortion pill mifepristone",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-05-01T01:33:02.494840+00:00"
+    "confidence_score": 0.9946,
+    "published_at": "2026-05-02T01:24:21.198111+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Australia wants to become the first country to eliminate a cancer - can it?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6742,
+    "published_at": "2026-05-02T01:24:21.194254+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Billions of meals at risk due to Iran war, says fertiliser boss",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-05-02T01:24:21.192951+00:00"
   }
 ]
