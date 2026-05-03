@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
-    "headline": "In France, Trump\u2019s Triumphal Arch Draws Eye Rolls",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-05-02T01:24:21.466669+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/africa/iran-war-africa-economic-consequences.html",
-    "headline": "How the War in Iran is Affecting Africa\u2019s Economy and Fuel Supply",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9843,
-    "published_at": "2026-05-02T01:24:21.460274+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/04/30/world/australia/missing-girl-found-dead.html",
     "headline": "Missing Indigenous Girl in Australia Is Found Dead After 5-Day Search",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.945,
-    "published_at": "2026-05-02T01:24:21.452765+00:00"
+    "published_at": "2026-05-03T01:27:28.060435+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
-    "headline": "Trump May Pull Troops From Germany. That Isn\u2019t as Scary as It Once Was.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9887,
-    "published_at": "2026-05-02T01:24:21.451471+00:00"
+    "source_uri": "https://www.nytimes.com/2026/04/30/world/middleeast/ahmed-shihab-eldin-citizenship.html",
+    "headline": "Journalist Detained in Kuwait Says He Was Stripped of Citizenship",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-05-03T01:27:28.056976+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/tim-cook-apple-oil-prices-epstein-suicide.html",
-    "headline": "The Future of Apple",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-05-02T01:24:21.437372+00:00"
+    "source_uri": "https://www.nytimes.com/2026/04/30/world/europe/king-charles-visit-trump-messages.html",
+    "headline": "Decoding the King: Brits Hear Subtle Rebuke to Trump that Americans Might Miss",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7345,
+    "published_at": "2026-05-03T01:27:28.043927+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/04/30/world/middleeast/hezbollah-fiber-optic-drones.html",
     "headline": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9893,
-    "published_at": "2026-05-02T01:24:21.434865+00:00"
+    "published_at": "2026-05-03T01:27:28.042815+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/australia/alice-springs-jefferson-lewis-girl-kumanjayi.html",
-    "headline": "Violence Erupts in Australian Town After Arrest of Suspect in Girl\u2019s Killing",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/europe/bus-driver-rescue-seine-paris.html",
+    "headline": "Very Dramatique! 4 Are Rescued After Trainee Driver Plunges Bus Into Seine",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9802,
-    "published_at": "2026-05-02T01:24:21.427047+00:00"
+    "confidence_score": 0.9709,
+    "published_at": "2026-05-03T01:27:28.028066+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/middleeast/narges-mohammadi-iran-hospialized.html",
-    "headline": "Narges Mohammadi, Iranian Nobel Laureate, Is Hospitalized",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-05-02T01:24:21.420874+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/europe/timmy-whale-germany-released.html",
+    "headline": "Timmy the Stranded Whale Is Released After an Elaborate Rescue",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-05-03T01:27:28.019037+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/europe/bulgaria-election-peevski.html",
-    "headline": "In Bulgaria, a New Government Challenges an Old Puppet Master",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/americas/us-indictment-sinaloa-governor-cartels-drugs.html",
+    "headline": "U.S. Indictment of Sinaloa\u2019s Governor Is a Reckoning for Residents of the Mexican State",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9863,
-    "published_at": "2026-05-02T01:24:21.415878+00:00"
+    "confidence_score": 0.9963,
+    "published_at": "2026-05-03T01:27:28.012241+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/middleeast/saudi-arabia-spending-sports-liv-golf.html",
-    "headline": "What the End of Saudi Arabia\u2019s Big-Spending Era Means for the Kingdom and Beyond",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/europe/russia-sabotage-lithuania.html",
+    "headline": "Lithuania Says It Broke Up Russian Sabotage and Murder Plots",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9908,
+    "published_at": "2026-05-03T01:27:28.011144+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
+    "headline": "Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9871,
-    "published_at": "2026-05-02T01:24:21.408294+00:00"
+    "confidence_score": 0.9903,
+    "published_at": "2026-05-03T01:27:28.008654+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/asia/south-korea-cherry-blossoms-japan-travel.html",
+    "headline": "South Korea\u2019s Cherry Blossoms Attract a Connoisseur: The Japanese",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-05-03T01:27:28.005080+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
+    "headline": "After Trump\u2019s Ousting of Maduro, Little Has Changed for Most Venezuelans",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8709,
+    "published_at": "2026-05-03T01:27:27.999084+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Joy as record-breaking runner Sawe returns home",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.968,
+    "published_at": "2026-05-03T01:27:27.744944+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/c3e29dy701xo?at_medium=RSS&at_campaign=rss",
     "headline": "Massive sea lion makes rare appearance in San Francisco",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9859,
-    "published_at": "2026-05-02T01:24:21.233969+00:00"
+    "published_at": "2026-05-03T01:27:27.742934+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
     "headline": "New CCTV footage appears to shows when shots were fired at Washington press dinner",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9977,
-    "published_at": "2026-05-02T01:24:21.232735+00:00"
+    "published_at": "2026-05-03T01:27:27.741777+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss",
-    "headline": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
+    "source_uri": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
+    "headline": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9262,
-    "published_at": "2026-05-02T01:24:21.225046+00:00"
+    "confidence_score": 0.9973,
+    "published_at": "2026-05-03T01:27:27.738391+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Venice Biennale jury resigns days before start of top art exhibition",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6614,
-    "published_at": "2026-05-02T01:24:21.218651+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cewp2ll1zljo?at_medium=RSS&at_campaign=rss",
-    "headline": "Six injured in Washington state school stabbing",
+    "source_uri": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-05-02T01:24:21.214923+00:00"
+    "confidence_score": 0.9899,
+    "published_at": "2026-05-03T01:27:27.731217+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli police arrest man after nun attacked in Jerusalem",
+    "source_uri": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+    "headline": "British couple jailed in Iran: 'We're likely to be here for a long time'",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-05-02T01:24:21.203280+00:00"
+    "confidence_score": 0.9947,
+    "published_at": "2026-05-03T01:27:27.730027+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-05-02T01:24:21.200635+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-05-03T01:27:27.727706+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9878,
+    "published_at": "2026-05-03T01:27:27.716472+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-    "headline": "US court limits mail-order access to abortion pill mifepristone",
+    "headline": "US Supreme Court asked to restore abortion pill access",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-05-02T01:24:21.198111+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Australia wants to become the first country to eliminate a cancer - can it?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6742,
-    "published_at": "2026-05-02T01:24:21.194254+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Billions of meals at risk due to Iran war, says fertiliser boss",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-05-02T01:24:21.192951+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-05-03T01:27:27.715493+00:00"
   }
 ]
