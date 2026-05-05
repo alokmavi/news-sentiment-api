@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/americas/mexico-rocha-indictment-sheinbaum.html",
-    "headline": "Sheinbaum\u2019s Dilemma in Mexico: Defy the U.S. or Arrest an Ally",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000010874870/why-us-officials-are-in-venezuela-right-now.html",
+    "headline": "Why U.S. Officials Are in Venezuela Right Now",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-05-04T01:26:12.316565+00:00"
+    "confidence_score": 0.8962,
+    "published_at": "2026-05-05T01:26:13.664792+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html",
-    "headline": "New Banksy Statue Causes Stir in Central London",
+    "source_uri": "https://www.nytimes.com/2026/05/01/world/middleeast/narges-mohammadi-iran-hospialized.html",
+    "headline": "Narges Mohammadi, Iranian Nobel Laureate, Is Hospitalized",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-05-05T01:26:13.663531+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/asia/south-korea-cherry-blossoms-japan-travel.html",
+    "headline": "South Korea\u2019s Cherry Blossoms Attract a Connoisseur: The Japanese",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5329,
-    "published_at": "2026-05-04T01:26:12.314063+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-05-05T01:26:13.659808+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/01/business/central-banks-gold-storage.html",
-    "headline": "Where in the World Is All That Gold Stored?",
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
+    "headline": "U.S. to Withdraw 5,000 Troops From Germany. But Thousands Will Remain.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-05-05T01:26:13.647449+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/canada/fifa-world-cup-copyright.html",
+    "headline": "Planning a World Cup Watch Party at a Bar? The \u2018FIFA Police\u2019 Are Lurking",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9901,
-    "published_at": "2026-05-04T01:26:12.308047+00:00"
+    "published_at": "2026-05-05T01:26:13.646213+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/01/business/central-banks-gold-buying.html",
-    "headline": "Why Countries Are Stocking Up on Gold",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9328,
-    "published_at": "2026-05-04T01:26:12.306802+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/asia/suu-kyi-myanmar-house-arrest-junta.html",
-    "headline": "Myanmar\u2019s Junta Claims \u2018Benevolence\u2019 for Aung San Suu Kyi. It Still Rules Cruelly.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9209,
-    "published_at": "2026-05-04T01:26:12.297852+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
-    "headline": "Trump \u2018Not Satisfied\u2019 With Iran\u2019s Proposal on Ending War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-04T01:26:12.288049+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/americas/cuba-may-day-international-workers-day.html",
-    "headline": "On May Day Cuba\u2019s Communist Leaders Deliver a Defiant Tone to the U.S.",
+    "source_uri": "https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html",
+    "headline": "Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9814,
-    "published_at": "2026-05-04T01:26:12.283113+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
-    "headline": "Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9903,
-    "published_at": "2026-05-04T01:26:12.276963+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/03/world/deepseek-china-ai-iran-india-elections.html",
-    "headline": "DeepSeek\u2019s Sequel",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-05-04T01:26:12.264785+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
-    "headline": "China Seeks an Advantage With Both Trump and Iran as War Evolves",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9682,
-    "published_at": "2026-05-04T01:26:12.263724+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
-    "headline": "How Germany May Have Misjudged Trump\u2019s Anger on Iran",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-05-04T01:26:12.259354+00:00"
+    "confidence_score": 0.5722,
+    "published_at": "2026-05-05T01:26:13.644956+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
     "headline": "How A.I. Is Transforming China\u2019s Entertainment Industry",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-05-04T01:26:12.252321+00:00"
+    "published_at": "2026-05-05T01:26:13.641231+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
-    "headline": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8089,
-    "published_at": "2026-05-04T01:26:12.067706+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html",
+    "headline": "What to Know About Elections in West Bengal and Other Indian States",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-05-05T01:26:13.636312+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+    "source_uri": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
+    "headline": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8689,
-    "published_at": "2026-05-04T01:26:12.064207+00:00"
+    "confidence_score": 0.9702,
+    "published_at": "2026-05-05T01:26:13.633869+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/africa/africans-russia-war-ukraine.html",
+    "headline": "Why Are Africans Fighting in Russia\u2019s War in Ukraine?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-05-04T01:26:12.062974+00:00"
+    "confidence_score": 0.8923,
+    "published_at": "2026-05-05T01:26:13.630194+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli police arrest man after nun attacked in Jerusalem",
+    "source_uri": "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html",
+    "headline": "U.S. Shot Down Iranian Missiles and Drones Aimed at American Vessels in Strait of Hormuz, Admiral Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-05-04T01:26:12.061696+00:00"
+    "confidence_score": 0.9821,
+    "published_at": "2026-05-05T01:26:13.619209+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump claims other presidents flouted war powers law. It's a mixed record",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/middleeast/pulitzer-saher-alghorra-breaking-news-photography.html",
+    "headline": "A Portfolio of Work From The Times\u2019s Pulitzer Prize-Winning Photographer",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-05-04T01:26:12.053547+00:00"
+    "confidence_score": 0.9227,
+    "published_at": "2026-05-05T01:26:13.618101+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+    "source_uri": "https://www.nytimes.com/2026/05/04/us/politics/american-commentator-charges-russia.html",
+    "headline": "American Commentator Who Worked for Russian TV Challenges Biden-era Charges",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-05-04T01:26:12.041336+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-05-05T01:26:13.616948+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Police officer lowered into crocodile-infested river to recover human remains",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "headline": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9753,
-    "published_at": "2026-05-04T01:26:12.039040+00:00"
+    "confidence_score": 0.9122,
+    "published_at": "2026-05-05T01:26:13.609768+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-    "headline": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
+    "headline": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5193,
-    "published_at": "2026-05-04T01:26:12.035562+00:00"
+    "confidence_score": 0.9886,
+    "published_at": "2026-05-05T01:26:13.599348+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss",
+    "headline": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9262,
+    "published_at": "2026-05-05T01:26:13.448356+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4g9l74wvd7o?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC uncovers the scammers exploiting dogs to elicit donations from animal lovers",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9558,
+    "published_at": "2026-05-05T01:26:13.438749+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+    "headline": "European leaders converge on Armenia as Russia looks on",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9957,
+    "published_at": "2026-05-05T01:26:13.433081+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Mali junta leader names himself defence minister after predecessor killed",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9956,
+    "published_at": "2026-05-05T01:26:13.424922+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+    "headline": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9933,
+    "published_at": "2026-05-05T01:26:13.417932+00:00"
   }
 ]
