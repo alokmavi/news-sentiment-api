@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000010874870/why-us-officials-are-in-venezuela-right-now.html",
-    "headline": "Why U.S. Officials Are in Venezuela Right Now",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/europe/turkmenistan-door-to-hell-darvaza-crater.html",
+    "headline": "The \u2018Gates to Hell\u2019 Are Dimming. That May Not Be a Good Thing.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8962,
-    "published_at": "2026-05-05T01:26:13.664792+00:00"
+    "confidence_score": 0.9956,
+    "published_at": "2026-05-06T01:24:17.852428+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/01/world/middleeast/narges-mohammadi-iran-hospialized.html",
-    "headline": "Narges Mohammadi, Iranian Nobel Laureate, Is Hospitalized",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+    "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-05-05T01:26:13.663531+00:00"
+    "confidence_score": 0.99,
+    "published_at": "2026-05-06T01:24:17.846123+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/02/world/asia/south-korea-cherry-blossoms-japan-travel.html",
-    "headline": "South Korea\u2019s Cherry Blossoms Attract a Connoisseur: The Japanese",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/europe/leipzig-car-ramming-germany.html",
+    "headline": "Leipzig, Germany, Car Ramming Attack Kills 2",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9964,
-    "published_at": "2026-05-05T01:26:13.659808+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
-    "headline": "U.S. to Withdraw 5,000 Troops From Germany. But Thousands Will Remain.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-05-05T01:26:13.647449+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/02/world/canada/fifa-world-cup-copyright.html",
-    "headline": "Planning a World Cup Watch Party at a Bar? The \u2018FIFA Police\u2019 Are Lurking",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9901,
-    "published_at": "2026-05-05T01:26:13.646213+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html",
-    "headline": "Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5722,
-    "published_at": "2026-05-05T01:26:13.644956+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
-    "headline": "How A.I. Is Transforming China\u2019s Entertainment Industry",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-05T01:26:13.641231+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html",
-    "headline": "What to Know About Elections in West Bengal and Other Indian States",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-05-05T01:26:13.636312+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
-    "headline": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9702,
-    "published_at": "2026-05-05T01:26:13.633869+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/africa/africans-russia-war-ukraine.html",
-    "headline": "Why Are Africans Fighting in Russia\u2019s War in Ukraine?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8923,
-    "published_at": "2026-05-05T01:26:13.630194+00:00"
+    "published_at": "2026-05-06T01:24:17.835910+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html",
     "headline": "U.S. Shot Down Iranian Missiles and Drones Aimed at American Vessels in Strait of Hormuz, Admiral Says",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9821,
-    "published_at": "2026-05-05T01:26:13.619209+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/middleeast/pulitzer-saher-alghorra-breaking-news-photography.html",
-    "headline": "A Portfolio of Work From The Times\u2019s Pulitzer Prize-Winning Photographer",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9227,
-    "published_at": "2026-05-05T01:26:13.618101+00:00"
+    "published_at": "2026-05-06T01:24:17.831904+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/04/us/politics/american-commentator-charges-russia.html",
     "headline": "American Commentator Who Worked for Russian TV Challenges Biden-era Charges",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9941,
-    "published_at": "2026-05-05T01:26:13.616948+00:00"
+    "published_at": "2026-05-06T01:24:17.829388+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
-    "headline": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "source_uri": "https://www.nytimes.com/2026/05/04/world/americas/costa-rica-newspaper-us-visas.html",
+    "headline": "U.S. Revokes Visas of Board Members at Costa Rica\u2019s Top Watchdog Newspaper",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9122,
-    "published_at": "2026-05-05T01:26:13.609768+00:00"
+    "confidence_score": 0.9763,
+    "published_at": "2026-05-06T01:24:17.826853+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html",
+    "headline": "The Venice Biennale and Its Many Flashpoints: An Explainer",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9695,
+    "published_at": "2026-05-06T01:24:17.823034+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/05/world/trump-iran-cruise-ship-spain-met-gala.html",
+    "headline": "Can Trump Strong-Arm Iran?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-05-06T01:24:17.816704+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
+    "headline": "Trump Says U.S. Pausing Efforts to Guide Ships Through Strait Blocked by Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8232,
+    "published_at": "2026-05-06T01:24:17.814268+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
     "headline": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9886,
-    "published_at": "2026-05-05T01:26:13.599348+00:00"
+    "published_at": "2026-05-06T01:24:17.805659+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss",
-    "headline": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9262,
-    "published_at": "2026-05-05T01:26:13.448356+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c4g9l74wvd7o?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC uncovers the scammers exploiting dogs to elicit donations from animal lovers",
+    "source_uri": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Voters will judge Trump on the economy - how is it doing?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9558,
-    "published_at": "2026-05-05T01:26:13.438749+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-05-06T01:24:17.643676+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-    "headline": "European leaders converge on Armenia as Russia looks on",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-05-05T01:26:13.433081+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Mali junta leader names himself defence minister after predecessor killed",
+    "source_uri": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-05-05T01:26:13.424922+00:00"
+    "confidence_score": 0.8689,
+    "published_at": "2026-05-06T01:24:17.642391+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
-    "headline": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-05-05T01:26:13.417932+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Three Russian diplomats expelled from Austria over spying accusations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9942,
+    "published_at": "2026-05-06T01:24:17.632244+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-05-06T01:24:17.630949+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ceqp9y71nq2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Rapper Kid Cudi removes British star M.I.A. from tour",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-05-06T01:24:17.629651+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+    "headline": "Explosion at China fireworks factory kills 26 people",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-05-06T01:24:17.625963+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Popular Australian author pleads guilty over child exploitation material",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-05-06T01:24:17.623389+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Apple to pay $250m to iPhone buyers over AI features lawsuit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-05-06T01:24:17.620808+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8425,
+    "published_at": "2026-05-06T01:24:17.615444+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-05-06T01:24:17.591355+00:00"
   }
 ]
