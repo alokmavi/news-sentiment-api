@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/europe/turkmenistan-door-to-hell-darvaza-crater.html",
-    "headline": "The \u2018Gates to Hell\u2019 Are Dimming. That May Not Be a Good Thing.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-05-06T01:24:17.852428+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-    "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.99,
-    "published_at": "2026-05-06T01:24:17.846123+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/europe/leipzig-car-ramming-germany.html",
-    "headline": "Leipzig, Germany, Car Ramming Attack Kills 2",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-05-06T01:24:17.835910+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html",
-    "headline": "U.S. Shot Down Iranian Missiles and Drones Aimed at American Vessels in Strait of Hormuz, Admiral Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9821,
-    "published_at": "2026-05-06T01:24:17.831904+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/04/us/politics/american-commentator-charges-russia.html",
-    "headline": "American Commentator Who Worked for Russian TV Challenges Biden-era Charges",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-05-06T01:24:17.829388+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/05/04/world/americas/costa-rica-newspaper-us-visas.html",
     "headline": "U.S. Revokes Visas of Board Members at Costa Rica\u2019s Top Watchdog Newspaper",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9763,
-    "published_at": "2026-05-06T01:24:17.826853+00:00"
+    "published_at": "2026-05-07T01:29:29.148679+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+    "headline": "Fireworks Factory Explosion in China Kills at Least 26",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.995,
+    "published_at": "2026-05-07T01:29:29.143718+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-05-07T01:29:29.142468+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html",
     "headline": "The Venice Biennale and Its Many Flashpoints: An Explainer",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9695,
-    "published_at": "2026-05-06T01:24:17.823034+00:00"
+    "published_at": "2026-05-07T01:29:29.137519+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/05/world/trump-iran-cruise-ship-spain-met-gala.html",
     "headline": "Can Trump Strong-Arm Iran?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9986,
-    "published_at": "2026-05-06T01:24:17.816704+00:00"
+    "published_at": "2026-05-07T01:29:29.131240+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
-    "headline": "Trump Says U.S. Pausing Efforts to Guide Ships Through Strait Blocked by Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8232,
-    "published_at": "2026-05-06T01:24:17.814268+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/05/health/hantavirus-outbreaks-disease-history.html",
+    "headline": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-05-07T01:29:29.124929+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
-    "headline": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9886,
-    "published_at": "2026-05-06T01:24:17.805659+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
+    "headline": "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8676,
+    "published_at": "2026-05-07T01:29:29.123693+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Voters will judge Trump on the economy - how is it doing?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-05-06T01:24:17.643676+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-hormuz-pause.html",
+    "headline": "Trump\u2019s U-turn and hopes of a deal ease tensions in energy markets.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8987,
+    "published_at": "2026-05-07T01:29:29.119866+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+    "source_uri": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
+    "headline": "New Study Shows Risks of Amazon Deforestation. And Rewards of Protection.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8689,
-    "published_at": "2026-05-06T01:24:17.642391+00:00"
+    "confidence_score": 0.961,
+    "published_at": "2026-05-07T01:29:29.113620+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Three Russian diplomats expelled from Austria over spying accusations",
+    "source_uri": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
+    "headline": "Iran Says It Is Reviewing a U.S. Proposal to End the War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-05-06T01:24:17.632244+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-05-07T01:29:29.112377+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+    "source_uri": "https://www.nytimes.com/2026/05/06/world/asia/asia-heatwave-air-conditioning-fuel-crisis.html",
+    "headline": "Air-Conditioning Is in Short Supply as Asia Swelters",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-05-06T01:24:17.630949+00:00"
+    "confidence_score": 0.9274,
+    "published_at": "2026-05-07T01:29:29.109777+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ceqp9y71nq2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Rapper Kid Cudi removes British star M.I.A. from tour",
+    "source_uri": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html",
+    "headline": "Health Authorities Monitor Hantavirus Cruise Passengers in United States",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-05-06T01:24:17.629651+00:00"
+    "confidence_score": 0.9797,
+    "published_at": "2026-05-07T01:29:29.108515+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
-    "headline": "Explosion at China fireworks factory kills 26 people",
+    "source_uri": "https://www.nytimes.com/2026/05/06/world/canada/jet-ski-hits-grey-whale-vancouver.html",
+    "headline": "Watercraft Slams Into Gray Whale Near Vancouver, Injuring Driver",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-05-06T01:24:17.625963+00:00"
+    "confidence_score": 0.6487,
+    "published_at": "2026-05-07T01:29:29.107253+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Popular Australian author pleads guilty over child exploitation material",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-05-06T01:24:17.623389+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/05/world/asia/india-modi-congress-west-bengal-elections.html",
+    "headline": "Modi\u2019s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-05-07T01:29:29.105987+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Apple to pay $250m to iPhone buyers over AI features lawsuit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-05-06T01:24:17.620808+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html",
+    "headline": "A Hotel in Venezuela\u2019s Capital Has Become the U.S. Embassy\u2019s De Facto Headquarters",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8584,
+    "published_at": "2026-05-07T01:29:28.946842+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+    "source_uri": "https://www.bbc.com/news/videos/ckgpyel2n0eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Moment Indonesian river overflows from heavy rain",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8425,
-    "published_at": "2026-05-06T01:24:17.615444+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-05-07T01:29:28.654829+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+    "source_uri": "https://www.bbc.com/news/videos/ckgpyn2plx1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Passengers evacuated from virus-hit cruise ship off Cape Verde",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-05-06T01:24:17.591355+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-05-07T01:29:28.650574+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
+    "headline": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9591,
+    "published_at": "2026-05-07T01:29:28.604826+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9545,
+    "published_at": "2026-05-07T01:29:28.526174+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9551,
+    "published_at": "2026-05-07T01:29:28.511919+00:00"
   }
 ]
