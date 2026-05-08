@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/04/world/americas/costa-rica-newspaper-us-visas.html",
-    "headline": "U.S. Revokes Visas of Board Members at Costa Rica\u2019s Top Watchdog Newspaper",
+    "source_uri": "https://www.nytimes.com/2026/05/05/world/europe/russia-ukraine-zaporizhzhia-attacks.html",
+    "headline": "Deadly Russian Strikes Rip Into Ukrainian Cities",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9763,
-    "published_at": "2026-05-07T01:29:29.148679+00:00"
+    "confidence_score": 0.9915,
+    "published_at": "2026-05-08T01:32:33.211971+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
-    "headline": "Fireworks Factory Explosion in China Kills at Least 26",
+    "source_uri": "https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html",
+    "headline": "Reclaiming the Name of the Black Hero Who Inspired \u2018Uncle Tom\u2019s Cabin\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-05-07T01:29:29.143718+00:00"
+    "confidence_score": 0.989,
+    "published_at": "2026-05-08T01:32:33.205532+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-05-07T01:29:29.142468+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html",
-    "headline": "The Venice Biennale and Its Many Flashpoints: An Explainer",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9695,
-    "published_at": "2026-05-07T01:29:29.137519+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/05/world/trump-iran-cruise-ship-spain-met-gala.html",
-    "headline": "Can Trump Strong-Arm Iran?",
+    "source_uri": "https://www.nytimes.com/2026/05/06/arts/design/khaled-sabsabi-australia-venice-biennale.html",
+    "headline": "Khaled Sabsabi\u2019s Rocky Road From Australia to the Biennale",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-05-07T01:29:29.131240+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/05/health/hantavirus-outbreaks-disease-history.html",
-    "headline": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-05-07T01:29:29.124929+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
-    "headline": "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8676,
-    "published_at": "2026-05-07T01:29:29.123693+00:00"
+    "confidence_score": 0.993,
+    "published_at": "2026-05-08T01:32:33.201862+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-hormuz-pause.html",
     "headline": "Trump\u2019s U-turn and hopes of a deal ease tensions in energy markets.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.8987,
-    "published_at": "2026-05-07T01:29:29.119866+00:00"
+    "published_at": "2026-05-08T01:32:33.199412+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
-    "headline": "New Study Shows Risks of Amazon Deforestation. And Rewards of Protection.",
+    "source_uri": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
+    "headline": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.961,
-    "published_at": "2026-05-07T01:29:29.113620+00:00"
+    "confidence_score": 0.9758,
+    "published_at": "2026-05-08T01:32:33.198172+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
-    "headline": "Iran Says It Is Reviewing a U.S. Proposal to End the War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-07T01:29:29.112377+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+    "headline": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-05-08T01:32:33.193570+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-05-08T01:32:33.192337+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/06/world/asia/asia-heatwave-air-conditioning-fuel-crisis.html",
     "headline": "Air-Conditioning Is in Short Supply as Asia Swelters",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9274,
-    "published_at": "2026-05-07T01:29:29.109777+00:00"
+    "published_at": "2026-05-08T01:32:33.183505+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html",
-    "headline": "Health Authorities Monitor Hantavirus Cruise Passengers in United States",
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict \u2018Limited\u2019 Spread",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9797,
-    "published_at": "2026-05-07T01:29:29.108515+00:00"
+    "confidence_score": 0.9812,
+    "published_at": "2026-05-08T01:32:33.176884+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/06/world/canada/jet-ski-hits-grey-whale-vancouver.html",
-    "headline": "Watercraft Slams Into Gray Whale Near Vancouver, Injuring Driver",
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/tourist-pool-loungers-refund-germany.html",
+    "headline": "German Tourist Wins Lawsuit After Not Getting a Lounge Chair by the Pool",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6487,
-    "published_at": "2026-05-07T01:29:29.107253+00:00"
+    "confidence_score": 0.9506,
+    "published_at": "2026-05-08T01:32:33.175642+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/05/world/asia/india-modi-congress-west-bengal-elections.html",
-    "headline": "Modi\u2019s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India",
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/middleeast/iran-us-deal-proposal.html",
+    "headline": "Iran and U.S. Consider One-Page Plan to End Hostilities, Iranian Officials Say",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-05-07T01:29:29.105987+00:00"
+    "confidence_score": 0.8469,
+    "published_at": "2026-05-08T01:32:33.171895+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html",
-    "headline": "A Hotel in Venezuela\u2019s Capital Has Become the U.S. Embassy\u2019s De Facto Headquarters",
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/prince-andrew-suspect-arrest-sandringham.html",
+    "headline": "Man Arrested on Suspicion of Carrying Weapon Near Former Prince Andrew\u2019s Home",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9857,
+    "published_at": "2026-05-08T01:32:33.161008+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html",
+    "headline": "China Sentences 2 Former Defense Ministers on Bribery Charges",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9966,
+    "published_at": "2026-05-08T01:32:33.159738+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/hungary-orban-china-fidesz-magyar.html",
+    "headline": "In Hungary, Voters Exposed the Limits of China\u2019s Ties to Orban",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-05-08T01:32:33.153495+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8584,
-    "published_at": "2026-05-07T01:29:28.946842+00:00"
+    "confidence_score": 0.9176,
+    "published_at": "2026-05-08T01:32:32.937555+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/ckgpyel2n0eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Moment Indonesian river overflows from heavy rain",
+    "source_uri": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+    "headline": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-05-07T01:29:28.654829+00:00"
+    "published_at": "2026-05-08T01:32:32.918185+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/ckgpyn2plx1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Passengers evacuated from virus-hit cruise ship off Cape Verde",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-05-07T01:29:28.650574+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Top BJP leader's aide shot dead in violence after Indian state election",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-05-08T01:32:32.914296+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
-    "headline": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+    "source_uri": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Superdry co-founder James Holder jailed for rape",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9591,
-    "published_at": "2026-05-07T01:29:28.604826+00:00"
+    "confidence_score": 0.9696,
+    "published_at": "2026-05-08T01:32:32.909137+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
+    "source_uri": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+    "headline": "China announces suspended death sentences for former defence ministers",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9545,
-    "published_at": "2026-05-07T01:29:28.526174+00:00"
+    "confidence_score": 0.9939,
+    "published_at": "2026-05-08T01:32:32.902601+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+    "source_uri": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9551,
-    "published_at": "2026-05-07T01:29:28.511919+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-05-08T01:32:32.891639+00:00"
   }
 ]
