@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/05/world/europe/russia-ukraine-zaporizhzhia-attacks.html",
-    "headline": "Deadly Russian Strikes Rip Into Ukrainian Cities",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-05-08T01:32:33.211971+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html",
-    "headline": "Reclaiming the Name of the Black Hero Who Inspired \u2018Uncle Tom\u2019s Cabin\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-05-08T01:32:33.205532+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/06/arts/design/khaled-sabsabi-australia-venice-biennale.html",
-    "headline": "Khaled Sabsabi\u2019s Rocky Road From Australia to the Biennale",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-05-08T01:32:33.201862+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-hormuz-pause.html",
-    "headline": "Trump\u2019s U-turn and hopes of a deal ease tensions in energy markets.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8987,
-    "published_at": "2026-05-08T01:32:33.199412+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
-    "headline": "Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9758,
-    "published_at": "2026-05-08T01:32:33.198172+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
-    "headline": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-05-08T01:32:33.193570+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-05-08T01:32:33.192337+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/06/world/asia/asia-heatwave-air-conditioning-fuel-crisis.html",
-    "headline": "Air-Conditioning Is in Short Supply as Asia Swelters",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9274,
-    "published_at": "2026-05-08T01:32:33.183505+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
-    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict \u2018Limited\u2019 Spread",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9812,
-    "published_at": "2026-05-08T01:32:33.176884+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/tourist-pool-loungers-refund-germany.html",
-    "headline": "German Tourist Wins Lawsuit After Not Getting a Lounge Chair by the Pool",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9506,
-    "published_at": "2026-05-08T01:32:33.175642+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/middleeast/iran-us-deal-proposal.html",
-    "headline": "Iran and U.S. Consider One-Page Plan to End Hostilities, Iranian Officials Say",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8469,
-    "published_at": "2026-05-08T01:32:33.171895+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/prince-andrew-suspect-arrest-sandringham.html",
-    "headline": "Man Arrested on Suspicion of Carrying Weapon Near Former Prince Andrew\u2019s Home",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-05-08T01:32:33.161008+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html",
-    "headline": "China Sentences 2 Former Defense Ministers on Bribery Charges",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-05-08T01:32:33.159738+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/hungary-orban-china-fidesz-magyar.html",
     "headline": "In Hungary, Voters Exposed the Limits of China\u2019s Ties to Orban",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-05-08T01:32:33.153495+00:00"
+    "published_at": "2026-05-09T01:29:45.137537+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/ukraine-russia-victory-day.html",
+    "headline": "Russia Ramps Up Threats Toward Ukraine Over Victory Day Parade",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.978,
+    "published_at": "2026-05-09T01:29:45.130281+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
+    "headline": "New NTSB Report Into Deadly China Eastern Crash Suggests Struggle in Cockpit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9303,
+    "published_at": "2026-05-09T01:29:45.129276+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html",
+    "headline": "Hantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-05-09T01:29:45.128259+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/venice-biennale-art-politics-iran-explosions.html",
+    "headline": "Art and Politics",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9176,
-    "published_at": "2026-05-08T01:32:32.937555+00:00"
+    "confidence_score": 0.9862,
+    "published_at": "2026-05-09T01:29:45.121340+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-    "headline": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html",
+    "headline": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-05-08T01:32:32.918185+00:00"
+    "confidence_score": 0.9574,
+    "published_at": "2026-05-09T01:29:45.120286+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Top BJP leader's aide shot dead in violence after Indian state election",
+    "source_uri": "https://www.nytimes.com/2026/05/08/climate/iran-kharg-oil-spill-hormuz.html",
+    "headline": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-05-08T01:32:32.914296+00:00"
+    "confidence_score": 0.9868,
+    "published_at": "2026-05-09T01:29:45.103786+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Superdry co-founder James Holder jailed for rape",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9696,
-    "published_at": "2026-05-08T01:32:32.909137+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/africa/festus-mogae-dead.html",
+    "headline": "Festus Mogae, Former Botswana President Who Tackled H.I.V., Dies at 86",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-05-09T01:29:45.102442+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
-    "headline": "China announces suspended death sentences for former defence ministers",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-05-08T01:32:32.902601+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/in-one-borough-on-londons-outer-reaches-conservatives-stave-off-reform-uk",
+    "headline": "In one borough on London\u2019s outer reaches, Conservatives stave off Reform U.K.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7334,
+    "published_at": "2026-05-09T01:29:45.101361+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/asia/xia-de-hong-dead.html",
+    "headline": "Xia De-hong, 94, Dies; Persecuted in China, She Starred in Daughter\u2019s Memoir",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-05-09T01:29:45.100305+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/canada/canada-hospital-ants-surgeries.html",
+    "headline": "There Are Ants in This Canadian Hospital. Again.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-08T01:32:32.891639+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-05-09T01:29:45.099269+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html",
+    "headline": "Takeaways From the 2026 U.K. Local Elections",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9024,
+    "published_at": "2026-05-09T01:29:45.098197+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html",
+    "headline": "U.F.O. Files Released by U.S. Shed Light on What the Government Knows",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9874,
+    "published_at": "2026-05-09T01:29:45.095999+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/uk-hong-kong-china-spying.html",
+    "headline": "Two Men Are Convicted of Spying for China in Britain",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9652,
+    "published_at": "2026-05-09T01:29:45.091152+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html",
+    "headline": "Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9914,
+    "published_at": "2026-05-09T01:29:45.086228+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-05-09T01:29:44.785833+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
+    "headline": "Is hojicha the next matcha? The Japanese tea creeping onto menus",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.907,
+    "published_at": "2026-05-09T01:29:44.782494+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
+    "headline": "German tourist wins payout after losing sun lounger race",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9936,
+    "published_at": "2026-05-09T01:29:44.780246+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
+    "headline": "US jet fuel could be used in Europe to ease possible shortages",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9808,
+    "published_at": "2026-05-09T01:29:44.764369+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+    "headline": "South Africa president faces call to resign after court ruling",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9846,
+    "published_at": "2026-05-09T01:29:44.763396+00:00"
   }
 ]
