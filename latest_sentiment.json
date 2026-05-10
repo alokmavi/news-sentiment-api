@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/hungary-orban-china-fidesz-magyar.html",
-    "headline": "In Hungary, Voters Exposed the Limits of China\u2019s Ties to Orban",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-09T01:29:45.137537+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/europe/ukraine-russia-victory-day.html",
-    "headline": "Russia Ramps Up Threats Toward Ukraine Over Victory Day Parade",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.978,
-    "published_at": "2026-05-09T01:29:45.130281+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
-    "headline": "New NTSB Report Into Deadly China Eastern Crash Suggests Struggle in Cockpit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9303,
-    "published_at": "2026-05-09T01:29:45.129276+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html",
-    "headline": "Hantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-05-09T01:29:45.128259+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/venice-biennale-art-politics-iran-explosions.html",
-    "headline": "Art and Politics",
+    "source_uri": "https://www.nytimes.com/2026/05/07/world/africa/trump-zambia-usaid-minerals-negotiations.html",
+    "headline": "U.S. and Zambia Feud: Trump Health Aid Deal Stalls Over Critical Minerals",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9862,
-    "published_at": "2026-05-09T01:29:45.121340+00:00"
+    "confidence_score": 0.9849,
+    "published_at": "2026-05-10T01:31:28.090781+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html",
-    "headline": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
+    "source_uri": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-05-10T01:31:28.081516+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/wales-parliament-uk-election-plaid-cymru-labour.html",
+    "headline": "Even in Labour-Loyal Wales, Voters Are Looking to Other Parties",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9574,
-    "published_at": "2026-05-09T01:29:45.120286+00:00"
+    "confidence_score": 0.9898,
+    "published_at": "2026-05-10T01:31:28.070861+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/uk-fragmented-vote-multiparty.html",
+    "headline": "Britain Has Entered a New Era of Multiparty Politics. It\u2019s Messy.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9402,
+    "published_at": "2026-05-10T01:31:28.065849+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/08/climate/iran-kharg-oil-spill-hormuz.html",
     "headline": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9868,
-    "published_at": "2026-05-09T01:29:45.103786+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/africa/festus-mogae-dead.html",
-    "headline": "Festus Mogae, Former Botswana President Who Tackled H.I.V., Dies at 86",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-05-09T01:29:45.102442+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/in-one-borough-on-londons-outer-reaches-conservatives-stave-off-reform-uk",
-    "headline": "In one borough on London\u2019s outer reaches, Conservatives stave off Reform U.K.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7334,
-    "published_at": "2026-05-09T01:29:45.101361+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/asia/xia-de-hong-dead.html",
-    "headline": "Xia De-hong, 94, Dies; Persecuted in China, She Starred in Daughter\u2019s Memoir",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-05-09T01:29:45.100305+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/canada/canada-hospital-ants-surgeries.html",
-    "headline": "There Are Ants in This Canadian Hospital. Again.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-05-09T01:29:45.099269+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html",
-    "headline": "Takeaways From the 2026 U.K. Local Elections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9024,
-    "published_at": "2026-05-09T01:29:45.098197+00:00"
+    "published_at": "2026-05-10T01:31:28.063376+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html",
     "headline": "U.F.O. Files Released by U.S. Shed Light on What the Government Knows",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9874,
-    "published_at": "2026-05-09T01:29:45.095999+00:00"
+    "published_at": "2026-05-10T01:31:28.053073+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/uk-hong-kong-china-spying.html",
-    "headline": "Two Men Are Convicted of Spying for China in Britain",
+    "source_uri": "https://www.nytimes.com/video/world/africa/100000010844833/training-for-a-marathon-in-kenya.html",
+    "headline": "Training For a Marathon in Kenya",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9652,
-    "published_at": "2026-05-09T01:29:45.091152+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-05-10T01:31:28.049091+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html",
-    "headline": "Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War",
+    "source_uri": "https://www.nytimes.com/live/2026/05/09/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9914,
-    "published_at": "2026-05-09T01:29:45.086228+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-05-10T01:31:28.043820+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+    "source_uri": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
+    "headline": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9752,
+    "published_at": "2026-05-10T01:31:28.038572+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/08/france-churches-burglaries-couple.html",
+    "headline": "The French Couple That Tried to Burgle 29 Churches in 3 Months",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-05-09T01:29:44.785833+00:00"
+    "confidence_score": 0.7944,
+    "published_at": "2026-05-10T01:31:28.037266+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
+    "headline": "Peter Magyar Takes Over as Hungary\u2019s Leader From Viktor Orban",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9462,
+    "published_at": "2026-05-10T01:31:28.031967+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html",
+    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-05-10T01:31:28.027985+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
+    "headline": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9976,
+    "published_at": "2026-05-10T01:31:28.026666+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
+    "headline": "A Scaled-Back Victory Day Parade Shows Putin\u2019s Growing Vulnerability in Ukraine War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9855,
+    "published_at": "2026-05-10T01:31:28.023964+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/czr2n44pknxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Who is Kumanjayi Little Baby and why has her death caused outrage in Australia?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.96,
+    "published_at": "2026-05-10T01:31:27.754126+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
-    "headline": "Is hojicha the next matcha? The Japanese tea creeping onto menus",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.907,
-    "published_at": "2026-05-09T01:29:44.782494+00:00"
+    "headline": "Move over matcha. Hojicha is coming to a cafe near you",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-05-10T01:31:27.737593+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
-    "headline": "German tourist wins payout after losing sun lounger race",
+    "source_uri": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Return of IS-linked families sparks debate in terror-traumatised Australia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-05-09T01:29:44.780246+00:00"
+    "confidence_score": 0.9881,
+    "published_at": "2026-05-10T01:31:27.736358+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-05-10T01:31:27.733892+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
     "headline": "US jet fuel could be used in Europe to ease possible shortages",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9808,
-    "published_at": "2026-05-09T01:29:44.764369+00:00"
+    "published_at": "2026-05-10T01:31:27.732646+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-    "headline": "South Africa president faces call to resign after court ruling",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9846,
-    "published_at": "2026-05-09T01:29:44.763396+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+    "headline": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5109,
+    "published_at": "2026-05-10T01:31:27.722790+00:00"
   }
 ]
