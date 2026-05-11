@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/07/world/africa/trump-zambia-usaid-minerals-negotiations.html",
-    "headline": "U.S. and Zambia Feud: Trump Health Aid Deal Stalls Over Critical Minerals",
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/scotland-election-vote-snp-labour-uk.html",
+    "headline": "SNP, Scotland\u2019s Pro-Independence Party, Benefits From Labour\u2019s Struggles With Voters",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9849,
-    "published_at": "2026-05-10T01:31:28.090781+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-05-11T01:49:51.826857+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-05-10T01:31:28.081516+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/wales-parliament-uk-election-plaid-cymru-labour.html",
-    "headline": "Even in Labour-Loyal Wales, Voters Are Looking to Other Parties",
+    "source_uri": "https://www.nytimes.com/2026/05/08/climate/greenpeace-energy-transfer-dakota-access-slapp.html",
+    "headline": "Greenpeace Suffers Another Blow in Court Fight With Energy Transfer",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9898,
-    "published_at": "2026-05-10T01:31:28.070861+00:00"
+    "confidence_score": 0.9344,
+    "published_at": "2026-05-11T01:49:51.822966+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/08/world/europe/uk-fragmented-vote-multiparty.html",
-    "headline": "Britain Has Entered a New Era of Multiparty Politics. It\u2019s Messy.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9402,
-    "published_at": "2026-05-10T01:31:28.065849+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/08/climate/iran-kharg-oil-spill-hormuz.html",
-    "headline": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
+    "source_uri": "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html",
+    "headline": "Before Hantavirus Outbreak, the MV Hondius Attracted \u2018a Different Type of Traveler\u2019",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9868,
-    "published_at": "2026-05-10T01:31:28.063376+00:00"
+    "confidence_score": 0.9907,
+    "published_at": "2026-05-11T01:49:51.819327+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html",
-    "headline": "U.F.O. Files Released by U.S. Shed Light on What the Government Knows",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9874,
-    "published_at": "2026-05-10T01:31:28.053073+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/africa/100000010844833/training-for-a-marathon-in-kenya.html",
-    "headline": "Training For a Marathon in Kenya",
+    "source_uri": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/in-one-borough-on-londons-outer-reaches-conservatives-stave-off-reform-uk",
+    "headline": "In one borough on London\u2019s outer reaches, Conservatives stave off Reform U.K.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-05-10T01:31:28.049091+00:00"
+    "confidence_score": 0.7334,
+    "published_at": "2026-05-11T01:49:51.818116+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
+    "headline": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9713,
+    "published_at": "2026-05-11T01:49:51.805913+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/05/09/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest",
     "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-05-10T01:31:28.043820+00:00"
+    "published_at": "2026-05-11T01:49:51.794733+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
-    "headline": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+    "source_uri": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
+    "headline": "U.S.-China Rivalry Reaches South American Skies",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9752,
-    "published_at": "2026-05-10T01:31:28.038572+00:00"
+    "confidence_score": 0.9929,
+    "published_at": "2026-05-11T01:49:51.777473+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/08/france-churches-burglaries-couple.html",
-    "headline": "The French Couple That Tried to Burgle 29 Churches in 3 Months",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7944,
-    "published_at": "2026-05-10T01:31:28.037266+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
-    "headline": "Peter Magyar Takes Over as Hungary\u2019s Leader From Viktor Orban",
+    "source_uri": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+    "headline": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9462,
-    "published_at": "2026-05-10T01:31:28.031967+00:00"
+    "confidence_score": 0.955,
+    "published_at": "2026-05-11T01:49:51.771191+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html",
-    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-10T01:31:28.027985+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
-    "headline": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-05-10T01:31:28.026666+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
-    "headline": "A Scaled-Back Victory Day Parade Shows Putin\u2019s Growing Vulnerability in Ukraine War",
+    "source_uri": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
+    "headline": "Putin\u2019s Forces Are Barely Inching Along on the Battlefield",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9855,
-    "published_at": "2026-05-10T01:31:28.023964+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-05-11T01:49:51.765321+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/czr2n44pknxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Who is Kumanjayi Little Baby and why has her death caused outrage in Australia?",
+    "source_uri": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss",
+    "headline": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-05-11T01:49:51.467587+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ce8pmrv2p1mo?at_medium=RSS&at_campaign=rss",
+    "headline": "Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.96,
-    "published_at": "2026-05-10T01:31:27.754126+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-05-11T01:49:51.464592+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
     "headline": "Move over matcha. Hojicha is coming to a cafe near you",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9974,
-    "published_at": "2026-05-10T01:31:27.737593+00:00"
+    "published_at": "2026-05-11T01:49:51.463460+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
     "headline": "Return of IS-linked families sparks debate in terror-traumatised Australia",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9881,
-    "published_at": "2026-05-10T01:31:27.736358+00:00"
+    "published_at": "2026-05-11T01:49:51.462262+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-05-10T01:31:27.733892+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
-    "headline": "US jet fuel could be used in Europe to ease possible shortages",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9808,
-    "published_at": "2026-05-10T01:31:27.732646+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-    "headline": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+    "source_uri": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
+    "headline": "How could extreme weather affect World Cup 2026?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5109,
-    "published_at": "2026-05-10T01:31:27.722790+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-05-11T01:49:51.459481+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-05-11T01:49:51.456814+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6228,
+    "published_at": "2026-05-11T01:49:51.452915+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
+    "headline": "Person killed after being hit by plane on runway at Denver airport",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9919,
+    "published_at": "2026-05-11T01:49:51.450488+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+    "headline": "Lebanon says Israeli strikes killed 39",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9497,
+    "published_at": "2026-05-11T01:49:51.441370+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
+    "headline": "Suspected boat explosion injures 11 in Miami",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8615,
+    "published_at": "2026-05-11T01:49:51.438856+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7027,
+    "published_at": "2026-05-11T01:49:51.433926+00:00"
   }
 ]
