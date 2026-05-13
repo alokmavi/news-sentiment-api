@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html",
-    "headline": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He\u2019s Still a Star.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-05-12T01:31:44.832398+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/us/politics/china-us-spy-congressional-aide.html",
-    "headline": "How China May Have Sought to Recruit a House Aide to Spy on the U.S.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9074,
-    "published_at": "2026-05-12T01:31:44.826996+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html",
-    "headline": "Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds",
+    "source_uri": "https://www.nytimes.com/2026/05/11/world/americas/pablo-escobar-hippos-colombia.html",
+    "headline": "The Fight to Euthanize Pablo Escobar\u2019s Hippos in Colombia",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9286,
-    "published_at": "2026-05-12T01:31:44.825905+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/canada/carney-canada-european-union-trade-trump.html",
-    "headline": "Canada and the European Union Are in Love. Where Can It Lead?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-05-12T01:31:44.824752+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/asia/japan-antiwar-protests-constitution.html",
-    "headline": "Why Antiwar Protesters Are Rallying in Japan",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.55,
-    "published_at": "2026-05-12T01:31:44.820152+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html",
-    "headline": "Britain\u2019s Electorate Is \u2018Splintering.\u2019 Can Its System Stand the Strain?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-05-12T01:31:44.817882+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html",
-    "headline": "The Man Who Cuts the Perfect Slice of Ham",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-05-12T01:31:44.813117+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/10/world/europe/britain-parachute-hantavirus-hondius-tristan.html",
-    "headline": "British Paratroopers Deliver Aid to Remote Islands With Possible Hantavirus Case",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.96,
-    "published_at": "2026-05-12T01:31:44.803961+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz/iran-defends-its-demands-after-trumps-rejection",
-    "headline": "Iran defends its demands after Trump\u2019s rejection.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9848,
-    "published_at": "2026-05-12T01:31:44.795935+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html",
-    "headline": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-05-12T01:31:44.793658+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html",
-    "headline": "Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8,
-    "published_at": "2026-05-12T01:31:44.791338+00:00"
+    "confidence_score": 0.9814,
+    "published_at": "2026-05-13T01:50:08.846121+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html",
     "headline": "Former Hostage Calls on All of Israel\u2019s Government to Resign",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9854,
-    "published_at": "2026-05-12T01:31:44.786738+00:00"
+    "published_at": "2026-05-13T01:50:08.821191+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
-    "headline": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9921,
-    "published_at": "2026-05-12T01:31:44.784459+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
-    "headline": "How could extreme weather affect World Cup 2026?",
+    "source_uri": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-05-12T01:31:44.574612+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-05-13T01:50:08.819600+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-05-12T01:31:44.562409+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
-    "headline": "Bosnia's powerful peace envoy quits, with questions over role's future",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-05-12T01:31:44.553416+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cgjpg20xgy5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Alaska town sees its last sunset until August",
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/europe/uk-starmer-resign-prime-minister-what-options.html",
+    "headline": "UK\u2019s Starmer Faces Calls to Resign. Here Are 4 Ways He Could Respond.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9725,
-    "published_at": "2026-05-12T01:31:44.547628+00:00"
+    "confidence_score": 0.9426,
+    "published_at": "2026-05-13T01:50:08.814576+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/africa/sudan-drones-civilian-deaths.html",
+    "headline": "Drones Are Leading Cause of Civilian Deaths in Sudan War, U.N. Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9846,
+    "published_at": "2026-05-13T01:50:08.806211+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/trump-iran-ceasefire-strikes.html",
+    "headline": "U.S. Might Restart Strikes on Iran, Trump and Hegseth Warn",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9561,
+    "published_at": "2026-05-13T01:50:08.804461+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html",
+    "headline": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9592,
+    "published_at": "2026-05-13T01:50:08.797809+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
+    "headline": "How Israel Turned Eurovision\u2019s Stage Into a Soft Power Tool",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6857,
+    "published_at": "2026-05-13T01:50:08.793378+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html",
+    "headline": "Macron Makes a Bid for New Partners in Africa",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9889,
-    "published_at": "2026-05-12T01:31:44.543085+00:00"
+    "confidence_score": 0.9943,
+    "published_at": "2026-05-13T01:50:08.789122+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-    "headline": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9607,
-    "published_at": "2026-05-12T01:31:44.541936+00:00"
+    "source_uri": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC speaks with civilians inside Iran struggling with impact of war",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9182,
+    "published_at": "2026-05-13T01:50:08.668177+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-    "headline": "EU agrees sanctions on Israeli settlers over West Bank violence",
+    "source_uri": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
+    "headline": "Move over matcha. Hojicha is coming to a cafe near you",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-05-13T01:50:08.659977+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss",
+    "headline": "Another year, another controversy for Eurovision - but fans are sticking by it",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9784,
+    "published_at": "2026-05-13T01:50:08.654648+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Canada is seeing its biggest military recruitment surge in 30 years",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-05-13T01:50:08.651918+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c99l17m2ep9o?at_medium=RSS&at_campaign=rss",
+    "headline": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-05-12T01:31:44.538514+00:00"
+    "confidence_score": 0.984,
+    "published_at": "2026-05-13T01:50:08.650613+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump's China visit set to test fragile truce",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8623,
+    "published_at": "2026-05-13T01:50:08.646631+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cz623qjqjd6o?at_medium=RSS&at_campaign=rss",
+    "headline": "I led hikers up an Indonesian volcano - and then it erupted",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8434,
+    "published_at": "2026-05-13T01:50:08.643928+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
+    "headline": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9825,
+    "published_at": "2026-05-13T01:50:08.631851+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-05-13T01:50:08.622495+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says Iran ceasefire is on 'massive life support'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-05-13T01:50:08.606969+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+    "headline": "No sign of larger hantavirus outbreak, says UN health agency",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-05-13T01:50:08.586205+00:00"
   }
 ]
