@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/11/world/americas/pablo-escobar-hippos-colombia.html",
-    "headline": "The Fight to Euthanize Pablo Escobar\u2019s Hippos in Colombia",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9814,
-    "published_at": "2026-05-13T01:50:08.846121+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html",
-    "headline": "Former Hostage Calls on All of Israel\u2019s Government to Resign",
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html",
+    "headline": "Why Keir Starmer Remains in Deep Peril After Staving Off Calls for Resignation",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9854,
-    "published_at": "2026-05-13T01:50:08.821191+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-05-14T01:53:09.561394+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
+    "headline": "U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-05-13T01:50:08.819600+00:00"
+    "confidence_score": 0.9872,
+    "published_at": "2026-05-14T01:53:09.556927+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/europe/uk-starmer-resign-prime-minister-what-options.html",
-    "headline": "UK\u2019s Starmer Faces Calls to Resign. Here Are 4 Ways He Could Respond.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9426,
-    "published_at": "2026-05-13T01:50:08.814576+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/africa/sudan-drones-civilian-deaths.html",
-    "headline": "Drones Are Leading Cause of Civilian Deaths in Sudan War, U.N. Says",
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html",
+    "headline": "Earthquake Shakes Tehran, Where Nerves Are Already Strained by Iran War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9846,
-    "published_at": "2026-05-13T01:50:08.806211+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/trump-iran-ceasefire-strikes.html",
-    "headline": "U.S. Might Restart Strikes on Iran, Trump and Hegseth Warn",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9561,
-    "published_at": "2026-05-13T01:50:08.804461+00:00"
+    "confidence_score": 0.9786,
+    "published_at": "2026-05-14T01:53:09.555841+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html",
     "headline": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9592,
-    "published_at": "2026-05-13T01:50:08.797809+00:00"
+    "published_at": "2026-05-14T01:53:09.554765+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
-    "headline": "How Israel Turned Eurovision\u2019s Stage Into a Soft Power Tool",
+    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html",
+    "headline": "Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6857,
-    "published_at": "2026-05-13T01:50:08.793378+00:00"
+    "confidence_score": 0.802,
+    "published_at": "2026-05-14T01:53:09.553684+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html",
-    "headline": "Macron Makes a Bid for New Partners in Africa",
+    "source_uri": "https://www.nytimes.com/2026/05/13/business/energy-environment/trump-federal-gas-tax.html",
+    "headline": "What to Know About the Federal Gas Tax Trump Wants to Suspend",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9795,
+    "published_at": "2026-05-14T01:53:09.545835+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html",
+    "headline": "As Starmer Rejects Calls to Resign, Some Make Comparisons to President Biden",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-05-14T01:53:09.544742+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html",
+    "headline": "King\u2019s Speech Comes at an Awkward Time for Starmer",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-05-13T01:50:08.789122+00:00"
+    "confidence_score": 0.9659,
+    "published_at": "2026-05-14T01:53:09.543645+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC speaks with civilians inside Iran struggling with impact of war",
+    "source_uri": "https://www.nytimes.com/2026/05/13/science/physics-prescod-weinstein.html",
+    "headline": "A Physicist Who Thinks in Poetry from the Cosmic Edge",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9182,
-    "published_at": "2026-05-13T01:50:08.668177+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-05-14T01:53:09.541446+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
-    "headline": "Move over matcha. Hojicha is coming to a cafe near you",
+    "source_uri": "https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html",
+    "headline": "The China Gambit: From Nixon to Trump",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.991,
+    "published_at": "2026-05-14T01:53:09.524890+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/13/world/europe/princess-catherine-italy-visit-uk-cancer.html",
+    "headline": "Catherine, Princess of Wales, to Make First Official Trip Abroad Since Cancer Diagnosis",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-05-13T01:50:08.659977+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-05-14T01:53:09.516014+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss",
-    "headline": "Another year, another controversy for Eurovision - but fans are sticking by it",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9784,
-    "published_at": "2026-05-13T01:50:08.654648+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
+    "headline": "Chaos in Philippines Senate as Duterte Ally Faces Arrest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-05-14T01:53:09.514917+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Canada is seeing its biggest military recruitment surge in 30 years",
+    "source_uri": "https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html",
+    "headline": "How China Sent a Message to Trump on His Arrival",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.974,
+    "published_at": "2026-05-14T01:53:09.510463+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
+    "headline": "The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-05-13T01:50:08.651918+00:00"
+    "published_at": "2026-05-14T01:53:09.502856+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c99l17m2ep9o?at_medium=RSS&at_campaign=rss",
-    "headline": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-05-13T01:50:08.650613+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's China visit set to test fragile truce",
+    "source_uri": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8623,
-    "published_at": "2026-05-13T01:50:08.646631+00:00"
+    "confidence_score": 0.9943,
+    "published_at": "2026-05-14T01:53:09.274680+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cz623qjqjd6o?at_medium=RSS&at_campaign=rss",
-    "headline": "I led hikers up an Indonesian volcano - and then it erupted",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8434,
-    "published_at": "2026-05-13T01:50:08.643928+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
-    "headline": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
+    "source_uri": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why welfare isn't winning elections in India like it used to",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9825,
-    "published_at": "2026-05-13T01:50:08.631851+00:00"
+    "confidence_score": 0.9875,
+    "published_at": "2026-05-14T01:53:09.260256+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+    "source_uri": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Gaza sisters win prize for turning rubble into reusable bricks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-05-13T01:50:08.622495+00:00"
+    "confidence_score": 0.9754,
+    "published_at": "2026-05-14T01:53:09.258353+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says Iran ceasefire is on 'massive life support'",
+    "source_uri": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-05-13T01:50:08.606969+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-05-14T01:53:09.257291+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-    "headline": "No sign of larger hantavirus outbreak, says UN health agency",
+    "source_uri": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Thousands of Waymos recalled after robotaxi swept into a creek",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-05-13T01:50:08.586205+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-05-14T01:53:09.247800+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+    "headline": "What to know as Trump visits Xi in China",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-05-14T01:53:09.239118+00:00"
   }
 ]
