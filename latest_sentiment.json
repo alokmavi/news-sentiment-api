@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html",
-    "headline": "Why Keir Starmer Remains in Deep Peril After Staving Off Calls for Resignation",
+    "source_uri": "https://www.nytimes.com/2026/05/13/world/canada/alberta-seperation-secession-judge.html",
+    "headline": "Alberta Separation Petition Is Dealt a Court Blow",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-05-14T01:53:09.561394+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
-    "headline": "U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9872,
-    "published_at": "2026-05-14T01:53:09.556927+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html",
-    "headline": "Earthquake Shakes Tehran, Where Nerves Are Already Strained by Iran War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9786,
-    "published_at": "2026-05-14T01:53:09.555841+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html",
-    "headline": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9592,
-    "published_at": "2026-05-14T01:53:09.554765+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html",
-    "headline": "Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.802,
-    "published_at": "2026-05-14T01:53:09.553684+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/13/business/energy-environment/trump-federal-gas-tax.html",
-    "headline": "What to Know About the Federal Gas Tax Trump Wants to Suspend",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9795,
-    "published_at": "2026-05-14T01:53:09.545835+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html",
-    "headline": "As Starmer Rejects Calls to Resign, Some Make Comparisons to President Biden",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-05-14T01:53:09.544742+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html",
-    "headline": "King\u2019s Speech Comes at an Awkward Time for Starmer",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9659,
-    "published_at": "2026-05-14T01:53:09.543645+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/13/science/physics-prescod-weinstein.html",
-    "headline": "A Physicist Who Thinks in Poetry from the Cosmic Edge",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-05-14T01:53:09.541446+00:00"
+    "confidence_score": 0.9662,
+    "published_at": "2026-05-15T01:50:38.154786+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html",
     "headline": "The China Gambit: From Nixon to Trump",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.991,
-    "published_at": "2026-05-14T01:53:09.524890+00:00"
+    "published_at": "2026-05-15T01:50:38.150100+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/13/world/europe/princess-catherine-italy-visit-uk-cancer.html",
-    "headline": "Catherine, Princess of Wales, to Make First Official Trip Abroad Since Cancer Diagnosis",
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-china-summit-temple-of-heaven-great-hall.html",
+    "headline": "Inside Trump\u2019s Summit Tour in Beijing: From Temple of Heaven to the Great Hall",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-05-14T01:53:09.516014+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-05-15T01:50:38.141738+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
-    "headline": "Chaos in Philippines Senate as Duterte Ally Faces Arrest",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-05-14T01:53:09.514917+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html",
-    "headline": "How China Sent a Message to Trump on His Arrival",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.974,
-    "published_at": "2026-05-14T01:53:09.510463+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
-    "headline": "The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors",
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-invites-xi-to-white-house-during-state-dinner-in-beijing.html",
+    "headline": "Trump Invites Xi to White House During State Dinner in Beijing",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-14T01:53:09.502856+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-05-15T01:50:38.129673+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html",
+    "headline": "What People in China Say of Trump",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.986,
+    "published_at": "2026-05-15T01:50:38.128503+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/us/politics/trump-china-xi-investment.html",
+    "headline": "Trump Might Welcome Chinese Investment, but America Is Wary",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9908,
+    "published_at": "2026-05-15T01:50:38.122526+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/europe/uk-who-is-wes-streeting.html",
+    "headline": "Who Is Wes Streeting, the Cabinet Minister Who Just Resigned From Keir Starmer\u2019s Government?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-05-15T01:50:38.121331+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/climate/trump-coal-plants-cost.html",
+    "headline": "Trump\u2019s Push to Keep Coal Plants Open Is Costing Hundreds of Millions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9857,
+    "published_at": "2026-05-15T01:50:38.120148+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html",
+    "headline": "Trump\u2019s and Xi\u2019s Body Language at the Summit Mirrored Their Styles",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-05-15T01:50:38.114048+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html",
+    "headline": "Russia Pummels Kyiv in the Largest Drone Attack of the War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9878,
+    "published_at": "2026-05-15T01:50:38.105544+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/americas/cecilia-flores-mexico-disappeared.html",
+    "headline": "Cecilia Flores Became the Voice of Mexican Mothers",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7327,
+    "published_at": "2026-05-15T01:50:38.094313+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+    "headline": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9878,
+    "published_at": "2026-05-15T01:50:38.089918+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss",
     "headline": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9943,
-    "published_at": "2026-05-14T01:53:09.274680+00:00"
+    "published_at": "2026-05-15T01:50:37.905293+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
+    "headline": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-05-15T01:50:37.904042+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
+    "headline": "How could extreme weather affect World Cup 2026?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-05-15T01:50:37.896468+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
     "headline": "Why welfare isn't winning elections in India like it used to",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9875,
-    "published_at": "2026-05-14T01:53:09.260256+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Gaza sisters win prize for turning rubble into reusable bricks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9754,
-    "published_at": "2026-05-14T01:53:09.258353+00:00"
+    "published_at": "2026-05-15T01:50:37.886316+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
     "headline": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-05-14T01:53:09.257291+00:00"
+    "published_at": "2026-05-15T01:50:37.882527+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Thousands of Waymos recalled after robotaxi swept into a creek",
+    "source_uri": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-05-14T01:53:09.247800+00:00"
+    "confidence_score": 0.9225,
+    "published_at": "2026-05-15T01:50:37.879978+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-    "headline": "What to know as Trump visits Xi in China",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-05-14T01:53:09.239118+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
+    "headline": "Shrinking Milka chocolate bar tricked consumers, says German court",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9914,
+    "published_at": "2026-05-15T01:50:37.865713+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8904,
+    "published_at": "2026-05-15T01:50:37.864434+00:00"
   }
 ]
