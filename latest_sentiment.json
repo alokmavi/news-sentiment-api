@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/europe/wes-streeting-resigns-starmer-uk-prime-minister.html",
-    "headline": "Wes Streeting Resigns and Calls for Leadership Contest to Replace Starmer",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9689,
-    "published_at": "2026-05-16T01:31:11.573384+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-invites-xi-to-white-house-during-state-dinner-in-beijing.html",
-    "headline": "Trump Invites Xi to White House During State Dinner in Beijing",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-05-16T01:31:11.572219+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html",
-    "headline": "What People in China Say of Trump",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.986,
-    "published_at": "2026-05-16T01:31:11.571114+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/india-storms-deaths-uttar-pradesh.html",
-    "headline": "Over 100 People Killed in India\u2019s Uttar Pradesh as Storms Wreak Destruction",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-05-16T01:31:11.568778+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-thucydides-trap-us-china.html",
-    "headline": "Xi Warned Trump About the \u2018Thucydides Trap\u2019 for U.S. and China. What Is It?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9545,
-    "published_at": "2026-05-16T01:31:11.560654+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/americas/cuba-oil-energy-crisis.html",
-    "headline": "Cuba Says It Has Run Out of Oil",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9742,
-    "published_at": "2026-05-16T01:31:11.549458+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html",
     "headline": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.981,
-    "published_at": "2026-05-16T01:31:11.547020+00:00"
+    "published_at": "2026-05-17T01:49:00.071262+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
-    "headline": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
+    "source_uri": "https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html",
+    "headline": "Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7089,
-    "published_at": "2026-05-16T01:31:11.542219+00:00"
+    "confidence_score": 0.9222,
+    "published_at": "2026-05-17T01:49:00.012156+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/trump-china-arms-sales.html",
-    "headline": "Trump Discussed U.S. Arms Sales With Xi \u2018In Great Detail\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-05-16T01:31:11.531266+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html",
+    "headline": "Trump and Boeing Announce China Will Purchase 200 Planes",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8994,
+    "published_at": "2026-05-17T01:48:59.862258+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/trump-xi-chinese-americans-foreign-agents-discrimination.html",
-    "headline": "Spotlight on China Adds to Some Chinese Americans\u2019 Fears",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9815,
-    "published_at": "2026-05-16T01:31:11.529998+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/trump-xi-china-meeting-beijing-reception.html",
+    "headline": "Despite Tensions, China Greets Trump With Pomp and Pageantry",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7846,
+    "published_at": "2026-05-17T01:48:59.698582+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html",
+    "headline": "Xi Pitches His Vision for Avoiding Conflict With the U.S.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.985,
+    "published_at": "2026-05-17T01:48:59.682591+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html",
+    "headline": "German Chancellor, After Iran Spat With Trump, Reports \u2018Good\u2019 Phone Call",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8783,
+    "published_at": "2026-05-17T01:48:59.652718+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
     "headline": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-05-16T01:31:11.528747+00:00"
+    "published_at": "2026-05-17T01:48:59.639037+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html",
-    "headline": "Israeli Strike Targeted Top Hamas Leader in Gaza, Officials Say",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5231,
-    "published_at": "2026-05-16T01:31:11.526419+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html",
-    "headline": "How a Drug Cartel Made a Mexican State Its Tool",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.653,
-    "published_at": "2026-05-16T01:31:11.504483+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html",
-    "headline": "Trump\u2019s \u2018Learning Curve\u2019 on China Ends With Conciliation at Summit",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9759,
-    "published_at": "2026-05-16T01:31:11.502519+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-    "headline": "New outbreak of Ebola kills 65 in eastern DR Congo",
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/maldives-diving-italians.html",
+    "headline": "Five Italians Die While Scuba Diving Deep Caves in the Maldives",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6416,
-    "published_at": "2026-05-16T01:31:11.213837+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-05-17T01:48:59.629021+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Five Italians die during cave scuba dive in Maldives",
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html",
+    "headline": "Kataib Hezbollah: What to Know",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.96,
-    "published_at": "2026-05-16T01:31:11.211450+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-05-17T01:48:59.600224+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Judge declares another mistrial in Harvey Weinstein New York rape case",
+    "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html",
+    "headline": "With Possible Ra\u00fal Castro Indictment, U.S. Eyes Venezuela Playbook",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9813,
+    "published_at": "2026-05-17T01:48:59.579022+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html",
+    "headline": "The Push to Indict Ra\u00fal Castro, Cuba\u2019s Former President",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9007,
-    "published_at": "2026-05-16T01:31:11.209057+00:00"
+    "confidence_score": 0.9421,
+    "published_at": "2026-05-17T01:48:59.573099+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
-    "headline": "AI vigilante trap snares alleged paedophile ex-teacher in France",
+    "source_uri": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html",
+    "headline": "Which Countries Are Profiting From the Iran War Oil Shock",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9852,
-    "published_at": "2026-05-16T01:31:11.207869+00:00"
+    "confidence_score": 0.9748,
+    "published_at": "2026-05-17T01:48:59.569054+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/europe/czech-saint-skull-theft-stolen-church.html",
+    "headline": "Man Stole Medieval Skull From Church and Sealed it in Concrete, Police Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9781,
-    "published_at": "2026-05-16T01:31:11.204136+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-05-17T01:48:59.543573+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
+    "headline": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-05-16T01:31:11.183105+00:00"
+    "confidence_score": 0.9827,
+    "published_at": "2026-05-17T01:48:59.161146+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
+    "headline": "How a Nature Cruise Turned Into a Nightmare",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8665,
+    "published_at": "2026-05-17T01:48:58.971924+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
+    "headline": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-05-17T01:48:58.657725+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: What did we learn from Trump's visit to China?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-05-17T01:48:58.653657+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
+    "headline": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7247,
+    "published_at": "2026-05-17T01:48:58.650675+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+    "headline": "US planning to charge ex-Cuban leader Ra\u00fal Castro",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-05-17T01:48:58.640984+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+    "headline": "Senior IS leader killed in joint operation, US and Nigeria say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9826,
+    "published_at": "2026-05-17T01:48:58.637757+00:00"
   }
 ]
