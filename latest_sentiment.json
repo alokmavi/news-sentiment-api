@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html",
-    "headline": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says",
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/africa/deportation-congo-migrants-trump.html",
+    "headline": "Inside the Congolese Hotel Where Trump Deported 15 U.S. Migrants",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.981,
-    "published_at": "2026-05-17T01:49:00.071262+00:00"
+    "confidence_score": 0.9903,
+    "published_at": "2026-05-18T01:56:54.866657+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html",
-    "headline": "Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry",
+    "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html",
+    "headline": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9222,
-    "published_at": "2026-05-17T01:49:00.012156+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html",
-    "headline": "Trump and Boeing Announce China Will Purchase 200 Planes",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8994,
-    "published_at": "2026-05-17T01:48:59.862258+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/trump-xi-china-meeting-beijing-reception.html",
-    "headline": "Despite Tensions, China Greets Trump With Pomp and Pageantry",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7846,
-    "published_at": "2026-05-17T01:48:59.698582+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html",
-    "headline": "Xi Pitches His Vision for Avoiding Conflict With the U.S.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.985,
-    "published_at": "2026-05-17T01:48:59.682591+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html",
-    "headline": "German Chancellor, After Iran Spat With Trump, Reports \u2018Good\u2019 Phone Call",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8783,
-    "published_at": "2026-05-17T01:48:59.652718+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
-    "headline": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-05-17T01:48:59.639037+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/asia/maldives-diving-italians.html",
-    "headline": "Five Italians Die While Scuba Diving Deep Caves in the Maldives",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-05-17T01:48:59.629021+00:00"
+    "confidence_score": 0.9636,
+    "published_at": "2026-05-18T01:56:54.839906+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html",
     "headline": "Kataib Hezbollah: What to Know",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9959,
-    "published_at": "2026-05-17T01:48:59.600224+00:00"
+    "published_at": "2026-05-18T01:56:54.837309+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html",
     "headline": "With Possible Ra\u00fal Castro Indictment, U.S. Eyes Venezuela Playbook",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9813,
-    "published_at": "2026-05-17T01:48:59.579022+00:00"
+    "published_at": "2026-05-18T01:56:54.833472+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html",
-    "headline": "The Push to Indict Ra\u00fal Castro, Cuba\u2019s Former President",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9421,
-    "published_at": "2026-05-17T01:48:59.573099+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html",
-    "headline": "Which Countries Are Profiting From the Iran War Oil Shock",
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html",
+    "headline": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9748,
-    "published_at": "2026-05-17T01:48:59.569054+00:00"
+    "confidence_score": 0.9929,
+    "published_at": "2026-05-18T01:56:54.829674+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/canada/cartel-gold-royal-canadian-mint.html",
+    "headline": "How a Times Reporter Found Cartel Gold at the Royal Canadian Mint",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8304,
+    "published_at": "2026-05-18T01:56:54.824580+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/16/world/europe/czech-saint-skull-theft-stolen-church.html",
     "headline": "Man Stole Medieval Skull From Church and Sealed it in Concrete, Police Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9983,
-    "published_at": "2026-05-17T01:48:59.543573+00:00"
+    "published_at": "2026-05-18T01:56:54.820755+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html",
+    "headline": "Trump Calls Xi a \u2018Friend.\u2019 But He Left China Without Any Breakthroughs.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9407,
+    "published_at": "2026-05-18T01:56:54.819411+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html",
+    "headline": "F\u00e9licien Kabuga Dies; Accused of Masterminding Rwanda\u2019s Genocide",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7395,
+    "published_at": "2026-05-18T01:56:54.818065+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/killer-robots-ukraine-ebola-qatar.html",
+    "headline": "He\u2019s Forging the Future of War",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.952,
+    "published_at": "2026-05-18T01:56:54.815549+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+    "headline": "What to Know About the Latest Ebola Outbreak",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.96,
+    "published_at": "2026-05-18T01:56:54.814328+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html",
+    "headline": "Train Crashes Into Bangkok Traffic, Killing at Least 8",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8481,
+    "published_at": "2026-05-18T01:56:54.811886+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
     "headline": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9827,
-    "published_at": "2026-05-17T01:48:59.161146+00:00"
+    "published_at": "2026-05-18T01:56:54.808093+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
-    "headline": "How a Nature Cruise Turned Into a Nightmare",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8665,
-    "published_at": "2026-05-17T01:48:58.971924+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
-    "headline": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html",
+    "headline": "Erdogan Wants Turkey to Have More Babies. Few Parents Are Listening.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-05-17T01:48:58.657725+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-05-18T01:56:54.782534+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: What did we learn from Trump's visit to China?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-05-17T01:48:58.653657+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
-    "headline": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7247,
-    "published_at": "2026-05-17T01:48:58.650675+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-    "headline": "US planning to charge ex-Cuban leader Ra\u00fal Castro",
+    "source_uri": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-05-17T01:48:58.640984+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-05-18T01:56:54.600688+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-    "headline": "Senior IS leader killed in joint operation, US and Nigeria say",
+    "source_uri": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC on the ground during march through Jerusalem's Old City",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9843,
+    "published_at": "2026-05-18T01:56:54.599397+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c2k2p8qkk58o?at_medium=RSS&at_campaign=rss",
+    "headline": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-05-18T01:56:54.595341+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss",
+    "headline": "Foreign tourists are falling out of love with Goa - here's why",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9826,
-    "published_at": "2026-05-17T01:48:58.637757+00:00"
+    "confidence_score": 0.9753,
+    "published_at": "2026-05-18T01:56:54.590273+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+    "headline": "Canadian from hantavirus-hit cruise ship tests positive",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8408,
+    "published_at": "2026-05-18T01:56:54.581228+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+    "headline": "WHO declares Ebola outbreak in DR Congo an international emergency",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-05-18T01:56:54.567421+00:00"
   }
 ]
