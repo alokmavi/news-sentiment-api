@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/15/world/africa/deportation-congo-migrants-trump.html",
-    "headline": "Inside the Congolese Hotel Where Trump Deported 15 U.S. Migrants",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9903,
-    "published_at": "2026-05-18T01:56:54.866657+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html",
-    "headline": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9636,
-    "published_at": "2026-05-18T01:56:54.839906+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html",
     "headline": "Kataib Hezbollah: What to Know",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9959,
-    "published_at": "2026-05-18T01:56:54.837309+00:00"
+    "published_at": "2026-05-19T01:56:44.798070+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html",
-    "headline": "With Possible Ra\u00fal Castro Indictment, U.S. Eyes Venezuela Playbook",
+    "source_uri": "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html",
+    "headline": "Photos: Cuba Plunges Into Darkness as U.S. Cuts Off Oil Supply",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9813,
-    "published_at": "2026-05-18T01:56:54.833472+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-05-19T01:56:44.795845+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html",
-    "headline": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-05-18T01:56:54.829674+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/canada/cartel-gold-royal-canadian-mint.html",
-    "headline": "How a Times Reporter Found Cartel Gold at the Royal Canadian Mint",
+    "source_uri": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+    "headline": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8304,
-    "published_at": "2026-05-18T01:56:54.824580+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-05-19T01:56:44.785634+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/europe/czech-saint-skull-theft-stolen-church.html",
-    "headline": "Man Stole Medieval Skull From Church and Sealed it in Concrete, Police Say",
+    "source_uri": "https://www.nytimes.com/2026/05/16/world/middleeast/settler-attacks-palestinians-west-bank.html",
+    "headline": "They Fled to Safety in Palestinian Territory, Then Settlers Attacked Again",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-05-18T01:56:54.820755+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html",
-    "headline": "Trump Calls Xi a \u2018Friend.\u2019 But He Left China Without Any Breakthroughs.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9407,
-    "published_at": "2026-05-18T01:56:54.819411+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html",
-    "headline": "F\u00e9licien Kabuga Dies; Accused of Masterminding Rwanda\u2019s Genocide",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7395,
-    "published_at": "2026-05-18T01:56:54.818065+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/17/world/killer-robots-ukraine-ebola-qatar.html",
-    "headline": "He\u2019s Forging the Future of War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.952,
-    "published_at": "2026-05-18T01:56:54.815549+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-    "headline": "What to Know About the Latest Ebola Outbreak",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.96,
-    "published_at": "2026-05-18T01:56:54.814328+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html",
-    "headline": "Train Crashes Into Bangkok Traffic, Killing at Least 8",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8481,
-    "published_at": "2026-05-18T01:56:54.811886+00:00"
+    "confidence_score": 0.9854,
+    "published_at": "2026-05-19T01:56:44.784533+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
     "headline": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9827,
-    "published_at": "2026-05-18T01:56:54.808093+00:00"
+    "published_at": "2026-05-19T01:56:44.777741+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html",
-    "headline": "Erdogan Wants Turkey to Have More Babies. Few Parents Are Listening.",
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html",
+    "headline": "How Birding Apps Are Boosting Tourism in the World\u2019s Top Bird Destination",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-05-19T01:56:44.768766+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
+    "headline": "Wave of Ukrainian Strikes Kills at Least 4, Russia Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8919,
+    "published_at": "2026-05-19T01:56:44.767581+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html",
+    "headline": "G7 Finance Ministers Look to Contain Iran Economic Fallout",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9796,
+    "published_at": "2026-05-19T01:56:44.761905+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/18/world/asia/maldives-divers-accident-bodies-found.html",
+    "headline": "Bodies of Four Italian Divers Found in Maldives Cave",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9768,
+    "published_at": "2026-05-19T01:56:44.759603+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/18/world/europe/shakira-tax-fraud-spain.html",
+    "headline": "Shakira Is Found Not Guilty of Tax Fraud in Spain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9771,
+    "published_at": "2026-05-19T01:56:44.758262+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+    "headline": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.979,
+    "published_at": "2026-05-19T01:56:44.749342+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/18/world/africa/us-airstrikes-isis-nigeria.html",
+    "headline": "U.S. Airstrikes Kill ISIS Fighters in Nigeria, Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9928,
+    "published_at": "2026-05-19T01:56:44.746020+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: What did we learn from Trump's visit to China?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-05-19T01:56:44.593468+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Moment two fighter jets collide mid-air at US air show",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-05-19T01:56:44.590110+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+    "headline": "Hezbollah drone strike videos show evolving tactics against Israel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9536,
+    "published_at": "2026-05-19T01:56:44.579952+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+    "headline": "Man drives car into pedestrians in Italy, injuring eight",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.987,
+    "published_at": "2026-05-19T01:56:44.578684+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+    "headline": "UAE reports strike near Abu Dhabi nuclear power plant",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9902,
+    "published_at": "2026-05-19T01:56:44.575247+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9862,
+    "published_at": "2026-05-19T01:56:44.563706+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-05-18T01:56:54.782534+00:00"
+    "published_at": "2026-05-19T01:56:44.562578+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+    "source_uri": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Shakira wins \u00a350m tax refund from Spanish government",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-05-18T01:56:54.600688+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC on the ground during march through Jerusalem's Old City",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9843,
-    "published_at": "2026-05-18T01:56:54.599397+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c2k2p8qkk58o?at_medium=RSS&at_campaign=rss",
-    "headline": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-05-18T01:56:54.595341+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss",
-    "headline": "Foreign tourists are falling out of love with Goa - here's why",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9753,
-    "published_at": "2026-05-18T01:56:54.590273+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
-    "headline": "Canadian from hantavirus-hit cruise ship tests positive",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8408,
-    "published_at": "2026-05-18T01:56:54.581228+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-    "headline": "WHO declares Ebola outbreak in DR Congo an international emergency",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-05-18T01:56:54.567421+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-05-19T01:56:44.561444+00:00"
   }
 ]
