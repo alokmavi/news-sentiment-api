@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
-    "headline": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9827,
-    "published_at": "2026-05-20T01:57:03.958586+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html",
-    "headline": "F\u00e9licien Kabuga Dies; Accused of Masterminding Rwanda\u2019s Genocide",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7395,
-    "published_at": "2026-05-20T01:57:03.953622+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/17/world/asia/north-korea-naegohyang-soccer-football.html",
-    "headline": "A North Korean Soccer Team Makes a Rare Visit to South Korea",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-05-20T01:57:03.948611+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html",
-    "headline": "How Birding Apps Are Boosting Tourism in the World\u2019s Top Bird Destination",
+    "source_uri": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
+    "headline": "Trump\u2019s Taiwan Gambit is Already a Gift to China",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-05-20T01:57:03.942128+00:00"
+    "confidence_score": 0.9947,
+    "published_at": "2026-05-21T01:56:05.892653+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/18/world/europe/kylian-mbappe-national-rally-france.html",
-    "headline": "Soccer Star Kylian Mbapp\u00e9 Faces Off Against France\u2019s Far Right",
+    "source_uri": "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html",
+    "headline": "Millions Recovered in FIFA Corruption Scandal May Now Be Missing Again Before World Cup",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9667,
-    "published_at": "2026-05-20T01:57:03.934241+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
-    "headline": "Trump Warns Iran the \u2018Clock Is Ticking\u2019 as Tensions Surge Again in Middle East",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9295,
-    "published_at": "2026-05-20T01:57:03.924661+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/18/world/asia/punch-monkey-japan-zoo-arrest.html",
-    "headline": "2 Americans Detained in Japan After Entering Punch the Monkey\u2019s Zoo Enclosure",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-05-20T01:57:03.921399+00:00"
+    "confidence_score": 0.9943,
+    "published_at": "2026-05-21T01:56:05.891430+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/18/world/africa/us-airstrikes-isis-nigeria.html",
     "headline": "U.S. Airstrikes Kill ISIS Fighters in Nigeria, Officials Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9928,
-    "published_at": "2026-05-20T01:57:03.916710+00:00"
+    "published_at": "2026-05-21T01:56:05.890205+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html",
-    "headline": "Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency",
+    "source_uri": "https://www.nytimes.com/2026/05/18/world/welsh-scottish-nationalism-immigration.html",
+    "headline": "When Nationalism Beats Nationalism",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-05-20T01:57:03.912477+00:00"
+    "confidence_score": 0.8249,
+    "published_at": "2026-05-21T01:56:05.884143+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/18/world/nauru-naoero-country-name-change.html",
     "headline": "Nauru Hopes You Will Call It by a New Name",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.5912,
-    "published_at": "2026-05-20T01:57:03.902258+00:00"
+    "published_at": "2026-05-21T01:56:05.876756+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/19/world/europe/married-at-first-sight-uk-rape-investigation.html",
-    "headline": "\u2018Married at First Sight\u2019 Rape Allegations Lead to Call for U.K. Investigation",
+    "source_uri": "https://www.nytimes.com/2026/05/19/world/europe/oil-spill-iran-shidvar-island.html",
+    "headline": "Oil Slick Reaches a Pristine Persian Gulf Island in Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9577,
-    "published_at": "2026-05-20T01:57:03.898286+00:00"
+    "confidence_score": 0.5464,
+    "published_at": "2026-05-21T01:56:05.875333+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
-    "headline": "Here\u2019s How Iran Could Respond to Renewed U.S.-Israeli Strikes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9492,
-    "published_at": "2026-05-20T01:57:03.887724+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/19/science/neanderthal-tooth-dentistry.html",
+    "headline": "Neanderthal Dentistry, and the Scientist Glad Not to Have Experienced It",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8494,
+    "published_at": "2026-05-21T01:56:05.868063+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/19/world/europe/us-envoy-greenland-visit.html",
-    "headline": "Trump\u2019s Special Envoy to Greenland Receives a Cold Welcome From Locals",
+    "source_uri": "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
+    "headline": "Inflation Fears Cloud G7 Economic Agenda as Iran War Persists",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-05-20T01:57:03.883707+00:00"
+    "confidence_score": 0.8944,
+    "published_at": "2026-05-21T01:56:05.865611+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
-    "headline": "Trump Says He Postponed a \u2018Very Major Attack\u2019 on Iran, Leaving Mideast on Edge",
+    "source_uri": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
+    "headline": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9919,
+    "published_at": "2026-05-21T01:56:05.853210+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html",
+    "headline": "Justice Dept. Charges Ra\u00fal Castro as Trump Escalates Pressure Campaign Against Cuba",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.979,
+    "published_at": "2026-05-21T01:56:05.850778+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/20/world/americas/cuba-reaction-castro-indictment.html",
+    "headline": "News of U.S. Indictment Slow to Reach Cubans Waiting for a Breakthrough",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7375,
+    "published_at": "2026-05-21T01:56:05.843281+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/20/business/china-boeing-planes-summit.html",
+    "headline": "China Confirms It Will Buy 200 Boeing Planes",
     "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9769,
+    "published_at": "2026-05-21T01:56:05.837183+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/20/world/europe/french-civil-servant-accused-drugging-women.html",
+    "headline": "The French Civil Servant Accused of Drugging More Than 100 Women",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9916,
+    "published_at": "2026-05-21T01:56:05.830813+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Could a football match soften North Korea-South Korea relations?",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-05-20T01:57:03.879717+00:00"
+    "published_at": "2026-05-21T01:56:05.534244+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Lights, camera, Bangaranga: Highlights from Eurovision",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8733,
-    "published_at": "2026-05-20T01:57:03.284524+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Moment two fighter jets collide mid-air at US air show",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-05-20T01:57:03.281979+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cdep67ej9z2o?at_medium=RSS&at_campaign=rss",
-    "headline": "'I sold it for over \u00a31k': Swatch launch sparks 'chaotic' scenes",
+    "source_uri": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump endorses Paxton in Texas, gambling on a challenger with baggage in a crucial race",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-05-20T01:57:03.280707+00:00"
+    "confidence_score": 0.995,
+    "published_at": "2026-05-21T01:56:05.529092+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-05-20T01:57:03.258282+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
-    "headline": "Uncontrolled California wildfires seen from space",
+    "source_uri": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Xi basks in spotlight as he hosts Putin days after Trump",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8378,
-    "published_at": "2026-05-20T01:57:03.253032+00:00"
+    "confidence_score": 0.9889,
+    "published_at": "2026-05-21T01:56:05.522820+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-    "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
+    "source_uri": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Final two bodies of missing Italians recovered from inside Maldives cave",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-05-20T01:57:03.249199+00:00"
+    "confidence_score": 0.9798,
+    "published_at": "2026-05-21T01:56:05.515222+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Lithuania's leaders take shelter during drone air alert",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-05-21T01:56:05.513953+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9292,
+    "published_at": "2026-05-21T01:56:05.505013+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-05-21T01:56:05.503731+00:00"
   }
 ]
