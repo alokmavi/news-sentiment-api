@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/19/world/europe/spain-zapatero-indicted-corruption.html",
-    "headline": "Zapatero, Spain\u2019s Former Leader, Investigated for Graft",
+    "source_uri": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
+    "headline": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8358,
+    "published_at": "2026-05-23T01:48:03.076591+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
+    "headline": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9686,
-    "published_at": "2026-05-22T01:56:44.634523+00:00"
+    "confidence_score": 0.9919,
+    "published_at": "2026-05-23T01:48:03.075349+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/19/climate/the-new-gold-rush-of-geothermal-energy.html",
-    "headline": "The New \u2018Gold Rush\u2019 of Geothermal Energy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.959,
-    "published_at": "2026-05-22T01:56:44.630813+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/20/business/china-boeing-planes-summit.html",
-    "headline": "China Confirms It Will Buy 200 Boeing Planes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9769,
-    "published_at": "2026-05-22T01:56:44.627135+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/20/world/asia/italian-divers-maldives-dead-recovery.html",
+    "headline": "Bodies of Last 2 Missing Italian Divers Recovered in the Maldives",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7827,
+    "published_at": "2026-05-23T01:48:03.074096+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/20/world/americas/cuba-independence-castro-indictment.html",
     "headline": "Why the U.S. Chose May 20 to Seek Charges Against Ra\u00fal Castro",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.8874,
-    "published_at": "2026-05-22T01:56:44.611110+00:00"
+    "published_at": "2026-05-23T01:48:03.064559+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/20/world/autocracy-cuba-castro-iran-ahmadinejad.html",
-    "headline": "Autocracy\u2019s \u2018Loyal Losers\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9357,
-    "published_at": "2026-05-22T01:56:44.607561+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/asia/trump-taiwan-president-call-weapons-sale-china.html",
-    "headline": "Trump Again Says He Will Talk to Taiwan\u2019s Leader, Risking China\u2019s Anger",
+    "source_uri": "https://www.nytimes.com/2026/05/20/us/politics/marco-rubio-cuba.html",
+    "headline": "Rubio Moves Closer to Decades-Long Goal of Transforming Cuba",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9606,
-    "published_at": "2026-05-22T01:56:44.600456+00:00"
+    "confidence_score": 0.9867,
+    "published_at": "2026-05-23T01:48:03.063296+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/middleeast/turkish-court-ruling-erdogan-ekrem-imamoglu.html",
-    "headline": "Turkish Court Ruling Means New Trouble for Erdogan\u2019s Foes",
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000010700399/how-chinas-housing-crisis-has-global-consequences.html",
+    "headline": "How China\u2019s Housing Crisis Has Global Consequences",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-05-23T01:48:03.056928+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html",
+    "headline": "A Powerful El Ni\u00f1o Is Forming. If History Is a Guide, It Could Hit Hard.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-05-23T01:48:03.052989+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/europe/germany-murder-plot-iran.html",
+    "headline": "Germany Charges Two Men With Plotting to Kill Jewish Leaders on Iran\u2019s Behalf",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9845,
+    "published_at": "2026-05-23T01:48:03.043910+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/middleeast/sanctions-albanese-free-speech.html",
+    "headline": "U.N. Official Who Says U.S. Punished Her for Speech Wins a Round in Court",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6675,
-    "published_at": "2026-05-22T01:56:44.598058+00:00"
+    "confidence_score": 0.9859,
+    "published_at": "2026-05-23T01:48:03.042694+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/21/world/britain-bonds-cuba-timmy-whale.html",
     "headline": "Britain vs. Bonds",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-05-22T01:56:44.596866+00:00"
+    "published_at": "2026-05-23T01:48:03.040200+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html",
-    "headline": "Cuba Says the Trump Administration Is Not Negotiating in Good Faith",
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/europe/greenland-protests-us-consulate.html",
+    "headline": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9664,
-    "published_at": "2026-05-22T01:56:44.586000+00:00"
+    "confidence_score": 0.9895,
+    "published_at": "2026-05-23T01:48:03.038969+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/asia/japan-fire-eternal-flame-reikado.html",
-    "headline": "Fire Destroys Sacred Buddhist Hall in Japan that Housed \u2018Eternal Flame\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.73,
-    "published_at": "2026-05-22T01:56:44.577815+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/americas/exxon-venezuela-oil-trump.html",
-    "headline": "Exxon Is Nearing a Deal to Pump Oil in Venezuela, Marking a Victory for Trump",
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html",
+    "headline": "The Hard-Line Military Fraternity Running Iran",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-05-22T01:56:44.576612+00:00"
+    "confidence_score": 0.9585,
+    "published_at": "2026-05-23T01:48:03.021625+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Could a football match soften North Korea-South Korea relations?",
+    "source_uri": "https://www.nytimes.com/2026/05/22/world/europe/poland-troops-trump.html",
+    "headline": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9393,
+    "published_at": "2026-05-23T01:48:03.014702+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
+    "headline": "Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-05-23T01:48:03.013341+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
+    "headline": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9741,
+    "published_at": "2026-05-23T01:48:03.008928+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
+    "headline": "How Cuban-Americans feel about Ra\u00fal Castro's indictment",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9861,
+    "published_at": "2026-05-23T01:48:02.739699+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-05-22T01:56:44.340129+00:00"
+    "confidence_score": 0.9956,
+    "published_at": "2026-05-23T01:48:02.738438+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8899,
-    "published_at": "2026-05-22T01:56:44.333008+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know about the San Diego mosque attack suspects",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9896,
-    "published_at": "2026-05-22T01:56:44.330515+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-05-22T01:56:44.326585+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+    "source_uri": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+    "headline": "Why thousands of stock trades tied to Trump are raising eyebrows",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-05-22T01:56:44.320473+00:00"
+    "confidence_score": 0.8881,
+    "published_at": "2026-05-23T01:48:02.737206+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+    "source_uri": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
+    "headline": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6769,
-    "published_at": "2026-05-22T01:56:44.319313+00:00"
+    "confidence_score": 0.9958,
+    "published_at": "2026-05-23T01:48:02.733568+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nvidia's latest record earnings fail to impress investors",
+    "source_uri": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ebola risk raised to 'very high' in DR Congo",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-05-22T01:56:44.314548+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Gonorrhoea and syphilis hit record levels in Europe",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9708,
-    "published_at": "2026-05-22T01:56:44.308395+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran steps up claim to control Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9837,
-    "published_at": "2026-05-22T01:56:44.303212+00:00"
+    "confidence_score": 0.991,
+    "published_at": "2026-05-23T01:48:02.718727+00:00"
   }
 ]
