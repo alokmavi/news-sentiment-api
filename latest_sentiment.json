@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
-    "headline": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/asia/filmmaker-miru-nair-india-zohran-mamdani.html",
+    "headline": "Mira Nair Finds a New Audience as Mother of Zohran Mamdani",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-05-24T01:54:16.048593+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html",
+    "headline": "In Berlin, Cars Are a Culture War Flashpoint",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7888,
+    "published_at": "2026-05-24T01:54:16.045056+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/asia/japan-fire-eternal-flame-reikado.html",
+    "headline": "Fire Destroys Sacred Buddhist Hall in Japan that Housed \u2018Eternal Flame\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8358,
-    "published_at": "2026-05-23T01:48:03.076591+00:00"
+    "confidence_score": 0.73,
+    "published_at": "2026-05-24T01:54:16.043835+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
-    "headline": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-05-23T01:48:03.075349+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/20/world/asia/italian-divers-maldives-dead-recovery.html",
-    "headline": "Bodies of Last 2 Missing Italian Divers Recovered in the Maldives",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7827,
-    "published_at": "2026-05-23T01:48:03.074096+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/20/world/americas/cuba-independence-castro-indictment.html",
-    "headline": "Why the U.S. Chose May 20 to Seek Charges Against Ra\u00fal Castro",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8874,
-    "published_at": "2026-05-23T01:48:03.064559+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/20/us/politics/marco-rubio-cuba.html",
-    "headline": "Rubio Moves Closer to Decades-Long Goal of Transforming Cuba",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9867,
-    "published_at": "2026-05-23T01:48:03.063296+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000010700399/how-chinas-housing-crisis-has-global-consequences.html",
-    "headline": "How China\u2019s Housing Crisis Has Global Consequences",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-05-23T01:48:03.056928+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html",
-    "headline": "A Powerful El Ni\u00f1o Is Forming. If History Is a Guide, It Could Hit Hard.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-05-23T01:48:03.052989+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/europe/germany-murder-plot-iran.html",
-    "headline": "Germany Charges Two Men With Plotting to Kill Jewish Leaders on Iran\u2019s Behalf",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9845,
-    "published_at": "2026-05-23T01:48:03.043910+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/middleeast/sanctions-albanese-free-speech.html",
-    "headline": "U.N. Official Who Says U.S. Punished Her for Speech Wins a Round in Court",
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/americas/pilot-charged-raul-castro-indictment.html",
+    "headline": "Cuban Pilot in Florida Is a Defendant in Ra\u00fal Castro Indictment",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9859,
-    "published_at": "2026-05-23T01:48:03.042694+00:00"
+    "confidence_score": 0.506,
+    "published_at": "2026-05-24T01:54:16.028272+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/britain-bonds-cuba-timmy-whale.html",
-    "headline": "Britain vs. Bonds",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-05-23T01:48:03.040200+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/europe/greenland-protests-us-consulate.html",
-    "headline": "In Greenland, Protesters Denounce Opening of Bigger U.S. Consulate",
+    "source_uri": "https://www.nytimes.com/2026/05/21/world/americas/cuba-raul-castro-murder-indictment.html",
+    "headline": "Cuba Celebrates Ra\u00fal Castro After the U.S. Accuses Him of Murder",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9895,
-    "published_at": "2026-05-23T01:48:03.038969+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html",
-    "headline": "The Hard-Line Military Fraternity Running Iran",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9585,
-    "published_at": "2026-05-23T01:48:03.021625+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/22/world/europe/poland-troops-trump.html",
-    "headline": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9393,
-    "published_at": "2026-05-23T01:48:03.014702+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
-    "headline": "Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-05-23T01:48:03.013341+00:00"
+    "confidence_score": 0.923,
+    "published_at": "2026-05-24T01:54:16.025760+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
     "headline": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9741,
-    "published_at": "2026-05-23T01:48:03.008928+00:00"
+    "published_at": "2026-05-24T01:54:16.017354+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
-    "headline": "How Cuban-Americans feel about Ra\u00fal Castro's indictment",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9861,
-    "published_at": "2026-05-23T01:48:02.739699+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+    "source_uri": "https://www.nytimes.com/2026/05/22/world/africa/ebola-south-sudan-congo.html",
+    "headline": "On the Ground in South Sudan: Why Akobo Faces an Ebola Risk",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-05-23T01:48:02.738438+00:00"
+    "confidence_score": 0.9455,
+    "published_at": "2026-05-24T01:54:16.016157+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
-    "headline": "Why thousands of stock trades tied to Trump are raising eyebrows",
+    "source_uri": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
+    "headline": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9982,
+    "published_at": "2026-05-24T01:54:16.008832+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/23/world/canada/canada-arctic-olympics-yellowknife.html",
+    "headline": "At the Arctic Games, Canada and Greenland vs. Trump Feels Like Its Own Sport",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8881,
-    "published_at": "2026-05-23T01:48:02.737206+00:00"
+    "confidence_score": 0.9961,
+    "published_at": "2026-05-24T01:54:16.002732+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
-    "headline": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-05-23T01:48:02.733568+00:00"
+    "source_uri": "https://www.nytimes.com/2026/05/23/briefing/track-changes.html",
+    "headline": "Track Changes",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8191,
+    "published_at": "2026-05-24T01:54:16.001503+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ebola risk raised to 'very high' in DR Congo",
+    "source_uri": "https://www.nytimes.com/2026/05/23/us/politics/britain-strait-of-hormuz-iran.html",
+    "headline": "Britain Preparing for Mission That Could Clear Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-05-23T01:48:02.718727+00:00"
+    "confidence_score": 0.8505,
+    "published_at": "2026-05-24T01:54:15.979526+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran steps up claim to control Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9837,
+    "published_at": "2026-05-24T01:54:15.854079+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-05-24T01:54:15.849663+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9779,
+    "published_at": "2026-05-24T01:54:15.848520+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
+    "headline": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6059,
+    "published_at": "2026-05-24T01:54:15.846253+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+    "headline": "Rubio tries to reassure Nato allies over US troop deployments",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9928,
+    "published_at": "2026-05-24T01:54:15.839295+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
+    "headline": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9886,
+    "published_at": "2026-05-24T01:54:15.835994+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
+    "headline": "F1 great Prost 'injured as masked gang raid home'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9929,
+    "published_at": "2026-05-24T01:54:15.823262+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+    "headline": "At least 82 killed in Chinese coal mine explosion",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-05-24T01:54:15.818408+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+    "headline": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7253,
+    "published_at": "2026-05-24T01:54:15.817111+00:00"
   }
 ]
