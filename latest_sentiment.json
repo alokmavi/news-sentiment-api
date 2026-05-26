@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/21/world/americas/mexico-election-interference-trump.html",
-    "headline": "In Jab at Trump, Mexico Targets Foreign Election Meddling",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8596,
-    "published_at": "2026-05-25T02:00:26.752286+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/22/world/asia/manhunt-philippines-bato-dela-rosa-fugitive.html",
-    "headline": "Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-05-25T02:00:26.751235+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/22/world/europe/russia-belgorod-governor.html",
-    "headline": "From General to Governor: Putin Pushes a \u2018New Elite\u2019 of War Veterans",
+    "source_uri": "https://www.nytimes.com/2026/05/23/us/jellyfish-facts-beach-sting-safety.html",
+    "headline": "How to Stay Safe Around Jellyfish This Beach Season",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8942,
-    "published_at": "2026-05-25T02:00:26.749087+00:00"
+    "confidence_score": 0.9976,
+    "published_at": "2026-05-26T01:52:49.037580+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
     "headline": "Trump\u2019s Pursuit of a Partnership With China Raises Concerns in India",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.6726,
-    "published_at": "2026-05-25T02:00:26.729458+00:00"
+    "published_at": "2026-05-26T01:52:49.035006+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/23/briefing/track-changes.html",
-    "headline": "Track Changes",
+    "source_uri": "https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html",
+    "headline": "A Lull in Fighting Gave Time to Bury Their Dead",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8191,
-    "published_at": "2026-05-25T02:00:26.726157+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-05-26T01:52:49.024108+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/23/world/europe/greece-november-17-alexandros-giotopoulos.html",
-    "headline": "Alexandros Giotopoulos of November 17, Greek Militant Group, Is Freed",
+    "source_uri": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html",
+    "headline": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-05-25T02:00:26.722825+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
-    "headline": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-05-25T02:00:26.721728+00:00"
+    "confidence_score": 0.9898,
+    "published_at": "2026-05-26T01:52:49.022855+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-peace-deal-trump-proposal.html",
     "headline": "Many Questions, Few Details in Latest Iran Peace Proposal",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9993,
-    "published_at": "2026-05-25T02:00:26.717350+00:00"
+    "published_at": "2026-05-26T01:52:49.020222+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html",
-    "headline": "Iran Agreed to Give Up Enriched Uranium in Deal Announced by Trump, U.S. Officials Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-05-25T02:00:26.716233+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html",
-    "headline": "What to Know About the Potential U.S.-Iran Peace Deal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-05-25T02:00:26.712875+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html",
-    "headline": "Senate Republicans Cast Doubt on a Potential Peace Deal With Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-05-25T02:00:26.708463+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html",
-    "headline": "Iranian Officials Say Proposed Peace Deal Would Open Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-05-25T02:00:26.705092+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+    "source_uri": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html",
+    "headline": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
     "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.988,
+    "published_at": "2026-05-26T01:52:49.007940+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html",
+    "headline": "Rubio Rebukes Hezbollah Chief Over Call for Lebanese to \u2018Take to the Streets\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.969,
+    "published_at": "2026-05-26T01:52:48.995863+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
+    "headline": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9956,
-    "published_at": "2026-05-25T02:00:26.177287+00:00"
+    "published_at": "2026-05-26T01:52:48.984281+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-    "headline": "'No means no': Greenlanders protest against Trump outside new US consulate",
+    "source_uri": "https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html",
+    "headline": "How a Curious FIFA Deal Gave Fox a Huge Bargain for World Cup Broadcast Rights",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9796,
-    "published_at": "2026-05-25T02:00:26.172875+00:00"
+    "confidence_score": 0.9914,
+    "published_at": "2026-05-26T01:52:48.979376+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-    "headline": "How Saudi Arabia's spending spree reached the end of the line",
+    "source_uri": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html",
+    "headline": "Pope Leo Has Released an Encyclical About A.I. Why Is That Important?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-05-25T02:00:26.149181+00:00"
+    "confidence_score": 0.8683,
+    "published_at": "2026-05-26T01:52:48.976905+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-    "headline": "India's parody 'cockroach party' claims website has been blocked",
+    "source_uri": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html",
+    "headline": "\u2018A Dangerous Bluff\u2019: Carney Likens Alberta Referendum to Brexit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-05-26T01:52:48.973185+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+    "headline": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-05-26T01:52:48.836481+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+    "headline": "One killed and many feared trapped under collapsed building in Philippines",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-05-26T01:52:48.831505+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+    "headline": "Blast targeting train kills at least 20 in Pakistan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-05-26T01:52:48.830283+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Senegal's leadership row mounts as parliament speaker resigns",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9741,
+    "published_at": "2026-05-26T01:52:48.825199+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
+    "headline": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9851,
+    "published_at": "2026-05-26T01:52:48.824031+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+    "headline": "Anger grows after China's deadliest coal mining disaster in years",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9801,
+    "published_at": "2026-05-26T01:52:48.822882+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+    "headline": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.947,
-    "published_at": "2026-05-25T02:00:26.143431+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-05-26T01:52:48.818981+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-    "headline": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+    "source_uri": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+    "headline": "White House gunman had previous run-ins with Secret Service, court documents show",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-05-25T02:00:26.142259+00:00"
+    "confidence_score": 0.9853,
+    "published_at": "2026-05-26T01:52:48.815253+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-    "headline": "F1 great Prost 'injured as masked gang raid home'",
+    "source_uri": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Oil prices slide on hopes of US-Iran peace deal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-05-25T02:00:26.133600+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Red Cross volunteers die from suspected Ebola in DR Congo",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9917,
-    "published_at": "2026-05-25T02:00:26.130830+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
-    "headline": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9896,
-    "published_at": "2026-05-25T02:00:26.128442+00:00"
+    "confidence_score": 0.9844,
+    "published_at": "2026-05-26T01:52:48.811732+00:00"
   }
 ]
