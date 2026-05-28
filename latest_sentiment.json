@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-05-27T02:00:37.385973+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html",
-    "headline": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-05-27T02:00:37.383929+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html",
-    "headline": "Fate of War in Lebanon Rests Mostly With Outside Powers",
+    "source_uri": "https://www.nytimes.com/2026/05/25/world/middleeast/us-iran-strikes.html",
+    "headline": "U.S. Carries Out Renewed Strikes in Southern Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9659,
-    "published_at": "2026-05-27T02:00:37.382932+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/24/world/middleeast/rubio-iran-nuclear.html",
-    "headline": "Rubio Says Details on Iran Nuclear Program Still to Be Negotiated",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7149,
-    "published_at": "2026-05-27T02:00:37.378353+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html",
-    "headline": "In City at Center of Ebola Crisis, \u2018the Virus Is Far Ahead of Us\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9835,
-    "published_at": "2026-05-27T02:00:37.376246+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
-    "headline": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-05-27T02:00:37.360472+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/26/health/lenacapavir-hiv-zambia.html",
-    "headline": "A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-05-27T02:00:37.356104+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html",
-    "headline": "To Understand Pope Leo\u2019s Efforts on A.I., Look at the Man Shaking His Hand",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8032,
-    "published_at": "2026-05-27T02:00:37.354811+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html",
-    "headline": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7416,
-    "published_at": "2026-05-27T02:00:37.353819+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html",
-    "headline": "A Dissident Escapes China by Rubber Boat and Lands in South Korea",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9805,
-    "published_at": "2026-05-27T02:00:37.352853+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html",
-    "headline": "Iceland Warms to Europe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9699,
-    "published_at": "2026-05-27T02:00:37.346927+00:00"
+    "confidence_score": 0.9909,
+    "published_at": "2026-05-28T01:32:19.855425+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/05/26/world/asia/india-manipur-violence-ethnic-conflict.html",
     "headline": "Inside India\u2019s Manipur State, Where Violence and Division Are Routine",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9877,
-    "published_at": "2026-05-27T02:00:37.335925+00:00"
+    "published_at": "2026-05-28T01:32:19.854369+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
-    "headline": "Iceland, Rattled by Trump\u2019s Greenland Threats, Weighs Joining the E.U.",
+    "source_uri": "https://www.nytimes.com/2026/05/26/health/lenacapavir-hiv-zambia.html",
+    "headline": "A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9571,
-    "published_at": "2026-05-27T02:00:37.334891+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-05-28T01:32:19.849114+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/clyppgdl3xwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Drones crash into water after Sydney light show malfunction",
+    "source_uri": "https://www.nytimes.com/2026/05/26/world/americas/dominican-republic-haiti-hospital-deportations.html",
+    "headline": "Threat of Deportations Leads to Risky Childbirth for Haitian Mothers",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9458,
-    "published_at": "2026-05-27T02:00:37.128369+00:00"
+    "confidence_score": 0.9833,
+    "published_at": "2026-05-28T01:32:19.848048+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html",
+    "headline": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7416,
+    "published_at": "2026-05-28T01:32:19.844899+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/26/world/middleeast/us-iran-strikes.html",
+    "headline": "U.S. Said to Have Observed Series of Iranian Threats Before Latest Strikes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7328,
+    "published_at": "2026-05-28T01:32:19.836511+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html",
+    "headline": "Iceland Warms to Europe",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9699,
+    "published_at": "2026-05-28T01:32:19.833452+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
+    "headline": "High-Level British Spy Warns of Expanding Russia Threat",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-05-28T01:32:19.832438+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html",
+    "headline": "Five People Stuck in Flooded Laos Cave Are Found Alive",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-05-28T01:32:19.827438+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html",
+    "headline": "Trump Says He Feels No Political Pressure to Make an Iran Deal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9939,
+    "published_at": "2026-05-28T01:32:19.824422+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
+    "headline": "A Quiet Pacific Village Becomes China\u2019s Security Testing Ground",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-05-28T01:32:19.807245+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss",
     "headline": "Watch: Bridge collapses and car swept away in China river",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9422,
-    "published_at": "2026-05-27T02:00:37.127245+00:00"
+    "published_at": "2026-05-28T01:32:19.667157+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-    "headline": "How Saudi Arabia's spending spree reached the end of the line",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-05-27T02:00:37.122215+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Wave of child abuse cases shakes schools in Paris",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9503,
-    "published_at": "2026-05-27T02:00:37.120958+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/sport/tennis/articles/cr7ppkp598zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Osaka sparkles in golden French Open outfit",
+    "source_uri": "https://www.bbc.com/news/videos/cy522zrkr7lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Paris 'punishingly hot' as Western Europe hit by heatwave",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-05-27T02:00:37.118548+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-05-28T01:32:19.665942+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran condemns US strikes as 'gross violation' of ceasefire",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.974,
-    "published_at": "2026-05-27T02:00:37.105213+00:00"
+    "source_uri": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: UFC arena construction begins at White House ahead of fight",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-05-28T01:32:19.664903+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Dozens killed in Lebanon as Israel intensifies strikes",
+    "source_uri": "https://www.bbc.com/news/articles/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss",
+    "headline": "How my brother went from liberal Hollywood actor to manosphere 'messiah'",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-05-27T02:00:37.086869+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-05-28T01:32:19.659701+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
+    "headline": "We analysed thousands of Trump's posts - here's what we found",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.526,
+    "published_at": "2026-05-28T01:32:19.658638+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
+    "headline": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9799,
+    "published_at": "2026-05-28T01:32:19.657566+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9878,
+    "published_at": "2026-05-28T01:32:19.651102+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-05-28T01:32:19.647099+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-05-28T01:32:19.645060+00:00"
   }
 ]
