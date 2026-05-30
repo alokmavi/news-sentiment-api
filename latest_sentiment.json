@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
-    "headline": "High-Level British Spy Warns of Expanding Russia Threat",
+    "source_uri": "https://www.nytimes.com/2026/05/27/world/canada/carney-canada-military-spending-saab-air-force.html",
+    "headline": "Canada Rejects U.S. Military Suppliers in Favor of Swedish Aircraft",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-05-29T01:54:04.348020+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-05-30T01:50:20.357426+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html",
-    "headline": "Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8322,
-    "published_at": "2026-05-29T01:54:04.339872+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html",
-    "headline": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists",
+    "source_uri": "https://www.nytimes.com/2026/05/27/world/africa/south-africa-ghana-immigration-protests.html",
+    "headline": "Why Ghana Is Evacuating Hundreds of Its Citizens From South Africa",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9375,
-    "published_at": "2026-05-29T01:54:04.338685+00:00"
+    "confidence_score": 0.7123,
+    "published_at": "2026-05-30T01:50:20.353949+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html",
-    "headline": "Five People Stuck in Flooded Laos Cave Are Found Alive",
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
+    "headline": "Why Pakistan and Afghanistan Are Still Fighting",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-05-29T01:54:04.337493+00:00"
+    "confidence_score": 0.9804,
+    "published_at": "2026-05-30T01:50:20.350439+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/27/world/europe/russia-ukraine-kyiv-attacks.html",
-    "headline": "Could Russia Hit Harder? It at Least Wants Ukraine to Think So.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-05-29T01:54:04.335079+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/27/world/middleeast/trump-oman-strait-hormuz.html",
-    "headline": "Trump Threatens Oman Over the Strait, Then Says, \u2018They\u2019ll Be Fine.\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9499,
-    "published_at": "2026-05-29T01:54:04.325968+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html",
-    "headline": "U.S. Strikes Military Sites in Iran for Second Time in 3 Days",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-05-29T01:54:04.322628+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html",
+    "headline": "Guatemala Agrees to Joint Drug Gang Strikes With U.S., Expanding Trump\u2019s Campaign",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-05-29T01:54:04.321506+00:00"
+    "confidence_score": 0.9719,
+    "published_at": "2026-05-30T01:50:20.345885+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html",
-    "headline": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9764,
-    "published_at": "2026-05-29T01:54:04.319249+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html",
-    "headline": "In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-05-29T01:54:04.312564+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/28/world/europe/messina-denaro-mafia-assets.html",
-    "headline": "Italian Police Uncover Dead Mob Boss\u2019s $230 Million Business Empire",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9505,
-    "published_at": "2026-05-29T01:54:04.309206+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html",
-    "headline": "How Ukraine\u2019s Street Style Is Shaped by the War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9773,
-    "published_at": "2026-05-29T01:54:04.296705+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/ckgp8mrj5ggo?at_medium=RSS&at_campaign=rss",
-    "headline": "In court as Matthew Perry's assistant sentenced",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9789,
-    "published_at": "2026-05-29T01:54:04.113510+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Is 'out of control' US tipping culture spreading overseas?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-05-29T01:54:04.109039+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss",
-    "headline": "How my brother went from liberal Hollywood actor to manosphere 'messiah'",
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html",
+    "headline": "The Mideast Is Baffled by Trump\u2019s Call to Expand Abraham Accords",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-05-29T01:54:04.107943+00:00"
+    "published_at": "2026-05-30T01:50:20.342417+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/asia/kim-soo-hyun-youtube-arrest.html",
+    "headline": "YouTuber Defamed Movie Star Using A.I., South Korean Police Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9836,
-    "published_at": "2026-05-29T01:54:04.105575+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-05-30T01:50:20.341227+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Woman caught after 30 years on the run is jailed for armed robberies",
+    "source_uri": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/the-us-re-sanctioned-a-un-legal-expert-critical-of-israel",
+    "headline": "The U.S. re-sanctioned a U.N. legal expert critical of Israel.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-05-30T01:50:20.335262+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-gaza-hamas-70-percent.html",
+    "headline": "Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-05-30T01:50:20.334110+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/europe/taylor-swift-concert-vienna-guilty.html",
+    "headline": "Austrian Man Convicted of Planning Attack at Taylor Swift Concert in Vienna",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9962,
+    "published_at": "2026-05-30T01:50:20.332952+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html",
+    "headline": "Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9346,
+    "published_at": "2026-05-30T01:50:20.329436+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/29/world/canada/kenneth-law-canada-poison.html",
+    "headline": "Canadian Man Pleads Guilty to Aiding 14 Suicides",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9882,
+    "published_at": "2026-05-30T01:50:20.316422+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/29/world/europe/nato-article-4-romania-russia.html",
+    "headline": "Romania Says It Could Invoke NATO\u2019s Article 4. What Would That Do?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9779,
+    "published_at": "2026-05-30T01:50:20.311754+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html",
+    "headline": "Vietnam\u2019s Leader Warns Asia About the Risks of Superpower Conflict",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9862,
+    "published_at": "2026-05-30T01:50:20.309417+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+    "headline": "After Orban\u2019s Defeat, Hungary Is Poised to Get Billions From E.U.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-05-30T01:50:20.307081+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+    "headline": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9322,
+    "published_at": "2026-05-30T01:50:19.793808+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Man arrested after three injured in stabbing at Swiss train station",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.99,
+    "published_at": "2026-05-30T01:50:19.786561+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
+    "headline": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9761,
+    "published_at": "2026-05-30T01:50:19.781401+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9885,
+    "published_at": "2026-05-30T01:50:19.774094+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9444,
-    "published_at": "2026-05-29T01:54:04.103372+00:00"
+    "confidence_score": 0.9027,
+    "published_at": "2026-05-30T01:50:19.770597+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-    "headline": "Questions over safety as 16 pupils die in another Kenya school fire",
+    "source_uri": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel put on UN sexual violence in warzones blacklist for first time",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9828,
-    "published_at": "2026-05-29T01:54:04.089927+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel hits Lebanese capital in 'targeted strike'",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9206,
-    "published_at": "2026-05-29T01:54:04.087697+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9724,
-    "published_at": "2026-05-29T01:54:04.086576+00:00"
+    "confidence_score": 0.9605,
+    "published_at": "2026-05-30T01:50:19.768239+00:00"
   }
 ]
