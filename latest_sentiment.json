@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal/heres-the-latest",
+    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html",
+    "headline": "The Russian Drone That Hit Romania Also Hit European Confidence",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-06-02T02:11:44.964406+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/ye-travis-scott-italy-concerts.html",
+    "headline": "Ye and Travis Scott Concerts Canceled in Italy Over Security Fears",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9948,
+    "published_at": "2026-06-02T02:11:44.952466+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html",
+    "headline": "A Big Bang, a Fire and Panic as War Enters Romanian Homes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.935,
+    "published_at": "2026-06-02T02:11:44.948512+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html",
+    "headline": "Iran\u2019s Team Trains in Limbo for World Cup Overshadowed by War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.994,
+    "published_at": "2026-06-02T02:11:44.947193+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
+    "headline": "In Taiwan, \u2018Mainland Spouses\u2019 From China Become a Focus of Infiltration Fears",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9123,
+    "published_at": "2026-06-02T02:11:44.944571+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/31/world/china-surveillance-solomon-islands-trump-nepal.html",
+    "headline": "China Exports Surveillance",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9869,
+    "published_at": "2026-06-02T02:11:44.933015+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon/heres-the-latest",
     "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-06-01T02:10:16.413007+00:00"
+    "published_at": "2026-06-02T02:11:44.929256+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html",
-    "headline": "Vietnam\u2019s Leader Warns Asia About the Risks of Superpower Conflict",
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/middleeast/netanyahu-israel-attack-beirut-lebanon.html",
+    "headline": "Netanyahu Orders Israeli Military to Attack Beirut Suburbs",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9862,
-    "published_at": "2026-06-01T02:10:16.406492+00:00"
+    "confidence_score": 0.9849,
+    "published_at": "2026-06-02T02:11:44.924324+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/29/world/africa/kenya-school-fire-arrests-students.html",
-    "headline": "Kenya Arrests 8 Students After Fire at School Dorm Kills 16",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9666,
-    "published_at": "2026-06-01T02:10:16.402655+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/29/world/africa/abdrabbuh-mansour-hadi-dead.html",
-    "headline": "Abdu Rabbu Mansour Hadi, Exiled Ex-President of Yemen, Dies at 80",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-06-01T02:10:16.401367+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/29/world/middleeast/israel-russia-un-sexual-violence.html",
-    "headline": "U.N. Adds Israeli and Russian Forces to Sexual Violence List",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9879,
-    "published_at": "2026-06-01T02:10:16.400068+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html",
-    "headline": "Iran\u2019s Hard-Liners Try to Derail Potential Deal With the U.S.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-06-01T02:10:16.396243+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
-    "headline": "Lithuania, Once Occupied by Germany, Is Glad German Troops Are Back",
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/middleeast/hezbollah-israel-truce.html",
+    "headline": "Hezbollah Ally Says the Iran-Backed Group Wants a New Truce With Israel",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-06-01T02:10:16.394909+00:00"
+    "confidence_score": 0.5101,
+    "published_at": "2026-06-02T02:11:44.921746+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html",
-    "headline": "Colombia\u2019s Elections Are a Crucial Test for the Left in Latin America",
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html",
+    "headline": "Trump Says Israel and Hezbollah Will Hold Off on New Military Action",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-06-01T02:10:16.391095+00:00"
+    "confidence_score": 0.8675,
+    "published_at": "2026-06-02T02:11:44.919311+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
-    "headline": "Joby Demonstrated its Air Taxi in Manhattan, but You Can\u2019t Fly in It Yet",
+    "source_uri": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html",
+    "headline": "As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-06-01T02:10:16.377969+00:00"
+    "confidence_score": 0.9942,
+    "published_at": "2026-06-02T02:11:44.911663+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/31/world/asia/india-hindu-king-shivaji.html",
-    "headline": "India\u2019s Hindu Right Has a New Hero: A 17th-Century Warrior King",
+    "source_uri": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html",
+    "headline": "Colombia Presidential Election Heads to a Runoff",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7501,
+    "published_at": "2026-06-02T02:11:44.910410+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html",
+    "headline": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-06-02T02:11:44.906573+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/europe/mandelson-files-epstein-starmer-uk.html",
+    "headline": "UK Releases More Files About Mandelson, Ex-Diplomat With Ties to Epstein",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9841,
+    "published_at": "2026-06-02T02:11:44.900255+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss",
+    "headline": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-06-01T02:10:16.376629+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/greenland-trump-clifford-stanley.html",
-    "headline": "Who\u2019s the Vegas Retiree With the Big Offer for Greenland?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-01T02:10:16.368884+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html",
-    "headline": "Across the Middle East, Muslims Mark Eid Amid War and Crisis",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-01T02:10:16.367598+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c4g8xy2n2zdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Can Americans spell the National Spelling Bee\u2019s winning words?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-06-01T02:10:16.216756+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Between celebration and confrontation: Paris after PSG victory",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9651,
-    "published_at": "2026-06-01T02:10:16.211608+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss",
-    "headline": "'It's like a decaying body': Australian farmers battle mouse plague",
-    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-06-01T02:10:16.207763+00:00"
+    "published_at": "2026-06-02T02:11:44.695036+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
-    "headline": "Four more men freed from flooded Laos cave after 10 days",
+    "source_uri": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-01T02:10:16.197533+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-06-01T02:10:16.193936+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-06-01T02:10:16.192685+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
-    "headline": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9882,
-    "published_at": "2026-06-01T02:10:16.188893+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-06-02T02:11:44.691417+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
     "headline": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9879,
-    "published_at": "2026-06-01T02:10:16.178794+00:00"
+    "published_at": "2026-06-02T02:11:44.674418+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Laos cave survivors help with plan to find last two missing men",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6427,
+    "published_at": "2026-06-02T02:11:44.671870+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
+    "headline": "South Africa made to look like fools over World Cup visa issues, says minister",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.967,
+    "published_at": "2026-06-02T02:11:44.667056+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-06-02T02:11:44.649799+00:00"
   }
 ]
