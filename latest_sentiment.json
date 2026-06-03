@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html",
-    "headline": "The Russian Drone That Hit Romania Also Hit European Confidence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-06-02T02:11:44.964406+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/ye-travis-scott-italy-concerts.html",
-    "headline": "Ye and Travis Scott Concerts Canceled in Italy Over Security Fears",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-06-02T02:11:44.952466+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html",
-    "headline": "A Big Bang, a Fire and Panic as War Enters Romanian Homes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.935,
-    "published_at": "2026-06-02T02:11:44.948512+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html",
-    "headline": "Iran\u2019s Team Trains in Limbo for World Cup Overshadowed by War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-06-02T02:11:44.947193+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
-    "headline": "In Taiwan, \u2018Mainland Spouses\u2019 From China Become a Focus of Infiltration Fears",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9123,
-    "published_at": "2026-06-02T02:11:44.944571+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/05/31/world/china-surveillance-solomon-islands-trump-nepal.html",
     "headline": "China Exports Surveillance",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9869,
-    "published_at": "2026-06-02T02:11:44.933015+00:00"
+    "published_at": "2026-06-03T02:29:16.208929+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-02T02:11:44.929256+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/middleeast/netanyahu-israel-attack-beirut-lebanon.html",
-    "headline": "Netanyahu Orders Israeli Military to Attack Beirut Suburbs",
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/asia/taiwan-china-new-york-times-expulsion.html",
+    "headline": "Taiwan Criticizes China\u2019s Expulsion of New York Times Reporter",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9849,
-    "published_at": "2026-06-02T02:11:44.924324+00:00"
+    "confidence_score": 0.9926,
+    "published_at": "2026-06-03T02:29:16.205228+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/middleeast/hezbollah-israel-truce.html",
-    "headline": "Hezbollah Ally Says the Iran-Backed Group Wants a New Truce With Israel",
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/ebola-epicenter-congo-alberta-referendum.html",
+    "headline": "Inside the Ebola Outbreak",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5101,
-    "published_at": "2026-06-02T02:11:44.921746+00:00"
+    "confidence_score": 0.9835,
+    "published_at": "2026-06-03T02:29:16.186515+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html",
-    "headline": "Trump Says Israel and Hezbollah Will Hold Off on New Military Action",
+    "source_uri": "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html",
+    "headline": "Trump Finds High-Wire Iran Negotiations \u2018Very Boring\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-06-03T02:29:16.182839+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html",
+    "headline": "Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8675,
-    "published_at": "2026-06-02T02:11:44.919311+00:00"
+    "confidence_score": 0.875,
+    "published_at": "2026-06-03T02:29:16.175434+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html",
-    "headline": "As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-06-02T02:11:44.911663+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html",
-    "headline": "Colombia Presidential Election Heads to a Runoff",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7501,
-    "published_at": "2026-06-02T02:11:44.910410+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html",
-    "headline": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-06-02T02:11:44.906573+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/europe/mandelson-files-epstein-starmer-uk.html",
-    "headline": "UK Releases More Files About Mandelson, Ex-Diplomat With Ties to Epstein",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9841,
-    "published_at": "2026-06-02T02:11:44.900255+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss",
-    "headline": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/lebanon-israel-hezbollah-iran-ukraine-russia.html",
+    "headline": "Hezbollah\u2019s Drones",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-06-02T02:11:44.695036+00:00"
+    "confidence_score": 0.9739,
+    "published_at": "2026-06-03T02:29:16.162633+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/americas/venezuela-economy-cumana.html",
+    "headline": "An Industrial Gem in Venezuela Now Embodies the Country\u2019s Decay",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-06-02T02:11:44.691417+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-06-03T02:29:16.157610+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-    "headline": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9879,
-    "published_at": "2026-06-02T02:11:44.674418+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Laos cave survivors help with plan to find last two missing men",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6427,
-    "published_at": "2026-06-02T02:11:44.671870+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
-    "headline": "South Africa made to look like fools over World Cup visa issues, says minister",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.967,
-    "published_at": "2026-06-02T02:11:44.667056+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/middleeast/israel-lebanon-hezbollah.html",
+    "headline": "How Hezbollah Drones Changed Israel\u2019s Strategy in Lebanon",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-06-02T02:11:44.649799+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-06-03T02:29:16.152453+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/europe/albania-kushner-protests-hotel.html",
+    "headline": "Protests Grow in Albania Over Kushner-Linked Project",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9791,
+    "published_at": "2026-06-03T02:29:16.149978+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/americas/us-colombia-gold-blacklist-sanctions.html",
+    "headline": "U.S. Was Asked to Blacklist Colombian Cartel Gold. It Was Also Buying It.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-06-03T02:29:16.147403+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgepl7ler5eo?at_medium=RSS&at_campaign=rss",
+    "headline": "How health workers in DR Congo are treating Ebola and staying safe",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-06-03T02:29:15.943553+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&at_campaign=rss",
+    "headline": "'Mornings and nights no longer exist' at 47C:  A day in the hottest place in India",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-06-03T02:29:15.934747+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Italians bemused by Milan bull mosaic restoration",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-06-03T02:29:15.929719+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0723mr8j3po?at_medium=RSS&at_campaign=rss",
+    "headline": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9751,
+    "published_at": "2026-06-03T02:29:15.927119+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
+    "headline": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7604,
+    "published_at": "2026-06-03T02:29:15.918772+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss",
+    "headline": "South Africa police investigate killing of two Mozambican men",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-06-03T02:29:15.915119+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
+    "headline": "Two arrested after four migrant farm workers killed in Italy minivan fire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-06-03T02:29:15.913883+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss",
+    "headline": "Maga influencer admits London Tube station assault",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9869,
+    "published_at": "2026-06-03T02:29:15.911385+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
+    "headline": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.926,
+    "published_at": "2026-06-03T02:29:15.906295+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+    "headline": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9001,
+    "published_at": "2026-06-03T02:29:15.902449+00:00"
   }
 ]
