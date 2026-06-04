@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/05/31/world/china-surveillance-solomon-islands-trump-nepal.html",
-    "headline": "China Exports Surveillance",
+    "source_uri": "https://www.nytimes.com/2026/06/01/world/americas/trump-colombia-election-abelardo-de-la-espriella.html",
+    "headline": "Trump Stands to Gain a Key Ally in Colombia\u2019s Upcoming Election",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9869,
-    "published_at": "2026-06-03T02:29:16.208929+00:00"
+    "confidence_score": 0.6061,
+    "published_at": "2026-06-04T02:17:13.043621+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/asia/taiwan-china-new-york-times-expulsion.html",
-    "headline": "Taiwan Criticizes China\u2019s Expulsion of New York Times Reporter",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-06-03T02:29:16.205228+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/ebola-epicenter-congo-alberta-referendum.html",
-    "headline": "Inside the Ebola Outbreak",
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/americas/stray-dog-caramelos-brazil-mexico.html",
+    "headline": "A Stray Dog Became a Cultural Symbol in Brazil. Now, Mexico Is Claiming It.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9835,
-    "published_at": "2026-06-03T02:29:16.186515+00:00"
+    "confidence_score": 0.9646,
+    "published_at": "2026-06-04T02:17:13.037970+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html",
-    "headline": "Trump Finds High-Wire Iran Negotiations \u2018Very Boring\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-06-03T02:29:16.182839+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html",
-    "headline": "Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices",
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/australia/la-la-land-sydney-concert-audience-member.html",
+    "headline": "\u2018La La Land\u2019 Orchestral Performance Saved by Keyboardist in the Audience",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.875,
-    "published_at": "2026-06-03T02:29:16.175434+00:00"
+    "confidence_score": 0.8589,
+    "published_at": "2026-06-04T02:17:13.034284+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/middleeast/ayatollah-khamenei-funeral-iran.html",
+    "headline": "Iran Reveals 3-Day Funeral Plan for Ayatollah Khamenei, After Long Delay",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9886,
+    "published_at": "2026-06-04T02:17:13.033370+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/asia/south-korea-election.html",
+    "headline": "What to Know About South Korea\u2019s Elections",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6467,
+    "published_at": "2026-06-04T02:17:13.027738+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/02/world/lebanon-israel-hezbollah-iran-ukraine-russia.html",
     "headline": "Hezbollah\u2019s Drones",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9739,
-    "published_at": "2026-06-03T02:29:16.162633+00:00"
+    "published_at": "2026-06-04T02:17:13.026166+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/americas/venezuela-economy-cumana.html",
-    "headline": "An Industrial Gem in Venezuela Now Embodies the Country\u2019s Decay",
+    "source_uri": "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html",
+    "headline": "War Games and Warnings on Strait of Hormuz Went Unheeded by Trump",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-03T02:29:16.157610+00:00"
+    "confidence_score": 0.9937,
+    "published_at": "2026-06-04T02:17:13.024359+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/middleeast/israel-lebanon-hezbollah.html",
-    "headline": "How Hezbollah Drones Changed Israel\u2019s Strategy in Lebanon",
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/americas/trump-endorses-colombia-de-la-espriella.html",
+    "headline": "Trump Endorses Abelardo De La Espriella, Right-Wing Presidential Candidate in Colombia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-06-03T02:29:16.152453+00:00"
+    "confidence_score": 0.9746,
+    "published_at": "2026-06-04T02:17:13.023468+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/europe/albania-kushner-protests-hotel.html",
-    "headline": "Protests Grow in Albania Over Kushner-Linked Project",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9791,
-    "published_at": "2026-06-03T02:29:16.149978+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/americas/us-colombia-gold-blacklist-sanctions.html",
-    "headline": "U.S. Was Asked to Blacklist Colombian Cartel Gold. It Was Also Buying It.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-06-03T02:29:16.147403+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cgepl7ler5eo?at_medium=RSS&at_campaign=rss",
-    "headline": "How health workers in DR Congo are treating Ebola and staying safe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-06-03T02:29:15.943553+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&at_campaign=rss",
-    "headline": "'Mornings and nights no longer exist' at 47C:  A day in the hottest place in India",
+    "source_uri": "https://www.nytimes.com/video/world/europe/100000010925753/ukraines-daily-moment-of-silence.html",
+    "headline": "Ukraine\u2019s Daily Moment of Silence",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-06-03T02:29:15.934747+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-06-04T02:17:13.021613+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Italians bemused by Milan bull mosaic restoration",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-06-03T02:29:15.929719+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c0723mr8j3po?at_medium=RSS&at_campaign=rss",
-    "headline": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9751,
-    "published_at": "2026-06-03T02:29:15.927119+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
-    "headline": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
+    "source_uri": "https://www.nytimes.com/2026/06/03/world/middleeast/trump-iran-ayatollah-netanyahu.html",
+    "headline": "Trump Confirms He Called Netanyahu \u2018Crazy\u2019 and Hopes to Meet Iran\u2019s Supreme Leader",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7604,
-    "published_at": "2026-06-03T02:29:15.918772+00:00"
+    "confidence_score": 0.8304,
+    "published_at": "2026-06-04T02:17:13.016892+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss",
-    "headline": "South Africa police investigate killing of two Mozambican men",
+    "source_uri": "https://www.nytimes.com/2026/06/03/world/europe/italy-migrants-burned.html",
+    "headline": "Four Immigrant Workers Burned to Death in Italy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-06-03T02:29:15.915119+00:00"
+    "confidence_score": 0.9937,
+    "published_at": "2026-06-04T02:17:13.010378+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
-    "headline": "Two arrested after four migrant farm workers killed in Italy minivan fire",
+    "source_uri": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html",
+    "headline": "Bombs Raining Down on Ukraine Can\u2019t Hide Signs of Russia\u2019s Faltering War",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.998,
-    "published_at": "2026-06-03T02:29:15.913883+00:00"
+    "published_at": "2026-06-04T02:17:13.003897+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss",
-    "headline": "Maga influencer admits London Tube station assault",
+    "source_uri": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Between celebration and confrontation: Paris after PSG victory",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9869,
-    "published_at": "2026-06-03T02:29:15.911385+00:00"
+    "confidence_score": 0.9651,
+    "published_at": "2026-06-04T02:17:12.915227+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
-    "headline": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
+    "source_uri": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss",
+    "headline": "The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.926,
-    "published_at": "2026-06-03T02:29:15.906295+00:00"
+    "confidence_score": 0.9956,
+    "published_at": "2026-06-04T02:17:12.910615+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-    "headline": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+    "source_uri": "https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&at_campaign=rss",
+    "headline": "From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-06-04T02:17:12.908647+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Canada has generic Ozempic, and the US doesn't",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9326,
+    "published_at": "2026-06-04T02:17:12.906814+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Indonesia's Prabowo fires head of free meals scheme plagued by poisonings",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9001,
-    "published_at": "2026-06-03T02:29:15.902449+00:00"
+    "confidence_score": 0.9989,
+    "published_at": "2026-06-04T02:17:12.905881+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Man attacked by bear at steel works in Japan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-06-04T02:17:12.904959+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss",
+    "headline": "Director Wim Wenders withdraws 1975 film over actress's teen topless scene",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-06-04T02:17:12.895676+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9896,
+    "published_at": "2026-06-04T02:17:12.890023+00:00"
   }
 ]
