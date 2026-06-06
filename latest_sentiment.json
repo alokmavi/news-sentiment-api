@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/01/world/americas/trump-colombia-election-abelardo-de-la-espriella.html",
-    "headline": "Trump Stands to Gain a Key Ally in Colombia\u2019s Upcoming Election",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6061,
-    "published_at": "2026-06-04T02:17:13.043621+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/americas/stray-dog-caramelos-brazil-mexico.html",
-    "headline": "A Stray Dog Became a Cultural Symbol in Brazil. Now, Mexico Is Claiming It.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9646,
-    "published_at": "2026-06-04T02:17:13.037970+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/australia/la-la-land-sydney-concert-audience-member.html",
-    "headline": "\u2018La La Land\u2019 Orchestral Performance Saved by Keyboardist in the Audience",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8589,
-    "published_at": "2026-06-04T02:17:13.034284+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/middleeast/ayatollah-khamenei-funeral-iran.html",
-    "headline": "Iran Reveals 3-Day Funeral Plan for Ayatollah Khamenei, After Long Delay",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9886,
-    "published_at": "2026-06-04T02:17:13.033370+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/asia/south-korea-election.html",
-    "headline": "What to Know About South Korea\u2019s Elections",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6467,
-    "published_at": "2026-06-04T02:17:13.027738+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/lebanon-israel-hezbollah-iran-ukraine-russia.html",
-    "headline": "Hezbollah\u2019s Drones",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9739,
-    "published_at": "2026-06-04T02:17:13.026166+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html",
-    "headline": "War Games and Warnings on Strait of Hormuz Went Unheeded by Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-06-04T02:17:13.024359+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/americas/trump-endorses-colombia-de-la-espriella.html",
-    "headline": "Trump Endorses Abelardo De La Espriella, Right-Wing Presidential Candidate in Colombia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9746,
-    "published_at": "2026-06-04T02:17:13.023468+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/europe/100000010925753/ukraines-daily-moment-of-silence.html",
-    "headline": "Ukraine\u2019s Daily Moment of Silence",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-06-04T02:17:13.021613+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/06/03/world/middleeast/trump-iran-ayatollah-netanyahu.html",
     "headline": "Trump Confirms He Called Netanyahu \u2018Crazy\u2019 and Hopes to Meet Iran\u2019s Supreme Leader",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.8304,
-    "published_at": "2026-06-04T02:17:13.016892+00:00"
+    "published_at": "2026-06-06T01:52:47.991899+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/03/world/europe/italy-migrants-burned.html",
-    "headline": "Four Immigrant Workers Burned to Death in Italy",
+    "source_uri": "https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html",
+    "headline": "Priest\u2019s Ebola Death Stirs Fear and Doubt in Congolese Town",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-06-04T02:17:13.010378+00:00"
+    "confidence_score": 0.9929,
+    "published_at": "2026-06-06T01:52:47.967264+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html",
-    "headline": "Bombs Raining Down on Ukraine Can\u2019t Hide Signs of Russia\u2019s Faltering War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-06-04T02:17:13.003897+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Between celebration and confrontation: Paris after PSG victory",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9651,
-    "published_at": "2026-06-04T02:17:12.915227+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss",
-    "headline": "The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-06-04T02:17:12.910615+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&at_campaign=rss",
-    "headline": "From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries",
+    "source_uri": "https://www.nytimes.com/2026/06/04/world/americas/colombia-president-de-la-espriella-us-citizen.html",
+    "headline": "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia\u2019s President?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-06-04T02:17:12.908647+00:00"
+    "confidence_score": 0.9714,
+    "published_at": "2026-06-06T01:52:47.965899+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Canada has generic Ozempic, and the US doesn't",
+    "source_uri": "https://www.nytimes.com/2026/06/04/climate/deep-sea-mining-metals-company.html",
+    "headline": "How One Company Plans to Mine the Bottom of the Sea",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9326,
-    "published_at": "2026-06-04T02:17:12.906814+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-06-06T01:52:47.957060+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Indonesia's Prabowo fires head of free meals scheme plagued by poisonings",
+    "source_uri": "https://www.nytimes.com/2026/06/04/world/middleeast/lebanon-israel-ceasefire-hezbollah-strikes.html",
+    "headline": "Latest Israel-Lebanon Cease-Fire Shows Little Sign of Taking Hold",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-06-04T02:17:12.905881+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-06-06T01:52:47.955240+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Man attacked by bear at steel works in Japan",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-06-04T02:17:12.904959+00:00"
+    "source_uri": "https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html",
+    "headline": "Wary of U.S., Carney Bets on AI Strategy for Canada",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9875,
+    "published_at": "2026-06-06T01:52:47.950895+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss",
-    "headline": "Director Wim Wenders withdraws 1975 film over actress's teen topless scene",
+    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/ye-tour-netherlands.html",
+    "headline": "Ye Concerts Have Been Canceled Across Europe. Why Not in the Netherlands?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-06-04T02:17:12.895676+00:00"
+    "confidence_score": 0.9815,
+    "published_at": "2026-06-06T01:52:47.943247+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+    "source_uri": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html",
+    "headline": "Amid War, Iran\u2019s Soccer Leader Works to Get His Team to the World Cup",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9896,
-    "published_at": "2026-06-04T02:17:12.890023+00:00"
+    "confidence_score": 0.9726,
+    "published_at": "2026-06-06T01:52:47.934601+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html",
+    "headline": "Russia Floods Armenia With Disinformation Ahead of Election",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-06-06T01:52:47.923313+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
+    "headline": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9919,
+    "published_at": "2026-06-06T01:52:47.922027+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Robodogs and helicopters: One Mexican city's approach to World Cup security",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-06-06T01:52:47.766064+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6356,
+    "published_at": "2026-06-06T01:52:47.763545+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
+    "headline": "'It looks black' - Americans react to Reflecting Pool's completed paint job",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9437,
+    "published_at": "2026-06-06T01:52:47.760873+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8811,
+    "published_at": "2026-06-06T01:52:47.750856+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8748,
+    "published_at": "2026-06-06T01:52:47.744607+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
+    "headline": "US journalist pleads guilty to working as China's agent",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9719,
+    "published_at": "2026-06-06T01:52:47.743357+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9931,
+    "published_at": "2026-06-06T01:52:47.742125+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9701,
+    "published_at": "2026-06-06T01:52:47.740882+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
+    "headline": "US actor James Handy stabbed to death, with girlfriend's son arrested",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-06-06T01:52:47.737017+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+    "headline": "Astronauts return to ISS after sheltering during air leak repair attempt",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9693,
+    "published_at": "2026-06-06T01:52:47.733097+00:00"
   }
 ]
