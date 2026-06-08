@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/04/world/australia/new-zealand-taiwan-china-travel-ban.html",
-    "headline": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
+    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html",
+    "headline": "Russia Floods Armenia With Disinformation Ahead of Election",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-06-08T02:11:21.050655+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/05/world/africa/congo-ebola-gold-mine.html",
+    "headline": "The Gold Mines at the Heart of This Ebola Outbreak",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9393,
+    "published_at": "2026-06-08T02:11:21.049465+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
+    "headline": "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-06-07T02:06:09.688492+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
-    "headline": "Ireland, Seen as a Weak Link in Europe\u2019s Defense, Is Trying to Bulk Up",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9878,
-    "published_at": "2026-06-07T02:06:09.687113+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/04/climate/urban-light-pollution-pollen-allergies.html",
-    "headline": "Urban Light Pollution Might Be Worsening Allergies",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-06-07T02:06:09.685799+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-07T02:06:09.680739+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html",
-    "headline": "Hezbollah\u2019s Fiber-Optic Drones Expose Cracks in Israeli Defenses",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-06-07T02:06:09.678218+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-    "headline": "Fighting in Somalia\u2019s Capital, Mogadishu: What\u2019s Happening and Why It Matters",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-06-07T02:06:09.676941+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/04/climate/deep-sea-mining-metals-company.html",
-    "headline": "How One Company Plans to Mine the Bottom of the Sea",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-06-07T02:06:09.673137+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/04/world/middleeast/lebanon-israel-ceasefire-hezbollah-strikes.html",
-    "headline": "Latest Israel-Lebanon Cease-Fire Shows Little Sign of Taking Hold",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-06-07T02:06:09.671903+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html",
-    "headline": "House Passes Ukraine Aid in Defiance of Republican Leaders",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9388,
-    "published_at": "2026-06-07T02:06:09.661627+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
-    "headline": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-06-07T02:06:09.651367+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/norway-princess-lung-transplant.html",
-    "headline": "Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-06-07T02:06:09.646144+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html",
-    "headline": "A Question Swirling Around Putin\u2019s Big Conference: Could the War End?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-06-07T02:06:09.644891+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/05/world/asia/missing-sherpa-mount-everest-found.html",
-    "headline": "A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-06-07T02:06:09.642228+00:00"
+    "confidence_score": 0.6723,
+    "published_at": "2026-06-08T02:11:21.040894+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/05/world/europe/pamela-hicks-dead.html",
     "headline": "Pamela Hicks, Lady-in-Waiting to Elizabeth II of Britain, Dies at 97",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-06-07T02:06:09.640875+00:00"
+    "published_at": "2026-06-08T02:11:21.034769+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/06/world/africa/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html",
-    "headline": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-06-07T02:06:09.638218+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/06/world/canada/world-cup-canada-toronto-vancouver.html",
-    "headline": "The World Cup Comes to Canada. But Does Anyone Care?",
+    "source_uri": "https://www.nytimes.com/2026/06/06/world/africa/mali-rebels-fighting-jnim-isis.html",
+    "headline": "Mali Conflict Escalates as Rebel Alliance Seizes Key Cities",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-07T02:06:09.637019+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/06/briefing/balancing-act.html",
-    "headline": "Balancing Act",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7565,
-    "published_at": "2026-06-07T02:06:09.635765+00:00"
+    "confidence_score": 0.9976,
+    "published_at": "2026-06-08T02:11:21.032269+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html",
     "headline": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9994,
-    "published_at": "2026-06-07T02:06:09.631972+00:00"
+    "published_at": "2026-06-08T02:11:21.018903+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
-    "headline": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
+    "source_uri": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
+    "headline": "Trump Says Iran Has Made a \u2018Big\u2019 Nuclear Promise. It Isn\u2019t New.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-06-07T02:06:09.630737+00:00"
+    "confidence_score": 0.5414,
+    "published_at": "2026-06-08T02:11:21.015234+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Armenia braces for election as Russia piles pressure on pro-West government",
+    "source_uri": "https://www.nytimes.com/2026/06/06/world/africa/senegal-faye-sonko-young-fight.html",
+    "headline": "A President, His Prime Minister and the Bitter Rift Dividing Senegal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8664,
-    "published_at": "2026-06-07T02:06:09.363145+00:00"
+    "confidence_score": 0.8519,
+    "published_at": "2026-06-08T02:11:21.004293+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+    "headline": "Mexico City\u2019s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-06-08T02:11:21.000519+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election.html",
+    "headline": "Peru\u2019s Presidential Runoff in a Dead Heat",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-06-08T02:11:20.998044+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
+    "headline": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-06-08T02:11:20.994229+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
+    "headline": "'It looks black' - Americans react to Reflecting Pool's completed paint job",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9437,
+    "published_at": "2026-06-08T02:11:20.687475+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-06-08T02:11:20.680156+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+    "headline": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-06-08T02:11:20.675215+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
+    "headline": "'We don't look at the sky anymore': The Air India crash victims who were not on the plane",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-06-08T02:11:20.673899+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+    "headline": "Eriksen conscious after collapsing in Denmark game",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9829,
+    "published_at": "2026-06-08T02:11:20.672640+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+    "headline": "One dead, five injured after shooting in Israel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9945,
+    "published_at": "2026-06-08T02:11:20.667621+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Oil prices edge higher after strikes on Israel test ceasefire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9873,
+    "published_at": "2026-06-08T02:11:20.666405+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+    "headline": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-06-08T02:11:20.662747+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+    "headline": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9122,
+    "published_at": "2026-06-08T02:11:20.661543+00:00"
   }
 ]
