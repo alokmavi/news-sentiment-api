@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/06/world/canada/world-cup-canada-toronto-vancouver.html",
-    "headline": "The World Cup Comes to Canada. But Does Anyone Care?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-09T01:49:25.375828+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
-    "headline": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
+    "source_uri": "https://www.nytimes.com/2026/06/08/world/asia/pakistan-heat-wave.html",
+    "headline": "Searching for Shade When It\u2019s 125 Degrees",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-06-09T01:49:25.365528+00:00"
+    "confidence_score": 0.9914,
+    "published_at": "2026-06-10T01:59:45.045255+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/07/world/europe/germany-neo-nazi-mayor-election.html",
-    "headline": "Neo-Nazi Party Member Loses Close Mayoral Race in German Town",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-06-09T01:49:25.363168+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
-    "headline": "Arab Gunman Kills One in Attack on Central Israel",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9445,
-    "published_at": "2026-06-09T01:49:25.358545+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html",
-    "headline": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-06-09T01:49:25.356240+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
-    "headline": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-09T01:49:25.355012+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles/heres-the-latest",
+    "source_uri": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks/heres-the-latest",
     "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-06-09T01:49:25.351379+00:00"
+    "published_at": "2026-06-10T01:59:45.044156+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-tehran-israel-attacks.html",
-    "headline": "No Calm for Tehran\u2019s Residents as Iran-Israel Fighting Resumes",
+    "source_uri": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
+    "headline": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-06-09T01:49:25.347956+00:00"
+    "confidence_score": 0.9828,
+    "published_at": "2026-06-10T01:59:45.036416+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/middleeast/what-is-iran-mahshahr-petrochemical-plant.html",
-    "headline": "What to Know About Mahshahr, the Iranian Petrochemical Complex That Israel Targeted",
+    "source_uri": "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html",
+    "headline": "Are U.S. and Israel on the Same Page in Mideast Wars?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9879,
-    "published_at": "2026-06-09T01:49:25.346962+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-06-10T01:59:45.035173+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/08/world/europe/patrick-bruel-questioning-rape-sexual-assault.html",
+    "headline": "Patrick Bruel, French Singer, Is Taken Into Custody Over Sex Assault Claims",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9727,
+    "published_at": "2026-06-10T01:59:45.031740+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/08/world/asia/chinese-businesses-north-korea.html",
     "headline": "Videos Show Chinese Businesses Hawking North Korean Labor",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9909,
-    "published_at": "2026-06-09T01:49:25.340089+00:00"
+    "published_at": "2026-06-10T01:59:45.027152+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/middleeast/iran-israel-strikes-ceasefire-hezbollah.html",
-    "headline": "Iran and Israel Pull Back, After Fierce Exchange of Attacks",
+    "source_uri": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html",
+    "headline": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-06-09T01:49:25.338119+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-06-10T01:59:45.021096+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election.html",
-    "headline": "Peru\u2019s Presidential Runoff in a Dead Heat",
+    "source_uri": "https://www.nytimes.com/2026/06/09/us/politics/eileen-wang-arcadia-california-mayor-china.html",
+    "headline": "The Ex-Mayor of Arcadia, Her Boyfriend and the Chinese Government",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-06-09T01:49:25.335124+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-06-10T01:59:45.019903+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/middleeast/israel-iran-strikes-regional-gains.html",
-    "headline": "Why Iran Risked an Attack on Israel",
+    "source_uri": "https://www.nytimes.com/2026/06/09/world/europe/robot-david-penn-magic-circle.html",
+    "headline": "D4RLYL, a Robot Magician, Is Denied Membership in The Magic Circle",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7704,
+    "published_at": "2026-06-10T01:59:45.012583+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
+    "headline": "Iran War Live Updates: U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9613,
-    "published_at": "2026-06-09T01:49:25.329249+00:00"
+    "confidence_score": 0.965,
+    "published_at": "2026-06-10T01:59:44.986348+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9055,
-    "published_at": "2026-06-09T01:49:25.039167+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Has Trump lost control of the Iran war?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5452,
-    "published_at": "2026-06-09T01:49:25.038219+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Southern Lights timelapse filmed from space",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9881,
-    "published_at": "2026-06-09T01:49:25.037255+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+    "headline": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-06-10T01:59:44.870721+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
     "headline": "'We don't look at the sky any more': The Air India crash victims who were not on the plane",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9973,
-    "published_at": "2026-06-09T01:49:25.031248+00:00"
+    "published_at": "2026-06-10T01:59:44.868291+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Zelensky's close European allies set out five conditions for peace talks",
+    "source_uri": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+    "headline": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-06-10T01:59:44.865908+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9309,
-    "published_at": "2026-06-09T01:49:25.024541+00:00"
+    "confidence_score": 0.9893,
+    "published_at": "2026-06-10T01:59:44.863484+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
-    "headline": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
+    "source_uri": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
+    "headline": "Does referee case show Fifa has lost control of its own World Cup?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-06-10T01:59:44.857983+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Please send help': Crew's distress call after ship hit by US missile",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9575,
+    "published_at": "2026-06-10T01:59:44.854402+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+    "headline": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-06-10T01:59:44.850955+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ariana Grande and Ethan Slater split after three years",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-06-09T01:49:25.017544+00:00"
+    "published_at": "2026-06-10T01:59:44.843992+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+    "source_uri": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Williams rolls back the years on return at Queen's",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-06-10T01:59:44.842835+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Two reportedly killed as women take part in rare protest in Afghanistan",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-06-09T01:49:24.992574+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-06-10T01:59:44.837982+00:00"
   }
 ]
