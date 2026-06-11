@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/asia/pakistan-heat-wave.html",
-    "headline": "Searching for Shade When It\u2019s 125 Degrees",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9914,
-    "published_at": "2026-06-10T01:59:45.045255+00:00"
+    "source_uri": "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html",
+    "headline": "Netanyahu\u2019s Bow to Trump\u2019s Iran Pressure Spurs New Criticism",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9925,
+    "published_at": "2026-06-11T02:11:51.613495+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks/heres-the-latest",
+    "source_uri": "https://www.nytimes.com/2026/06/09/world/europe/pope-leo-bad-bunny.html",
+    "headline": "Pope Leo Meets Bad Bunny",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-06-11T02:11:51.601544+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us/heres-the-latest",
     "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-06-10T01:59:45.044156+00:00"
+    "published_at": "2026-06-11T02:11:51.588355+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
-    "headline": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
+    "source_uri": "https://www.nytimes.com/video/world/100000010854469/visiting-a-soldiers-funeral-in-ukraine.html",
+    "headline": "Visiting a Soldier\u2019s Funeral in Ukraine",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9828,
-    "published_at": "2026-06-10T01:59:45.036416+00:00"
+    "confidence_score": 0.855,
+    "published_at": "2026-06-11T02:11:51.586873+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html",
-    "headline": "Are U.S. and Israel on the Same Page in Mideast Wars?",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/middleeast/indian-sailors-rescued-us-missile-ship-oman.html",
+    "headline": "Indian Sailors Made Frantic Calls for Help After U.S. Missile Strike off Oman",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-06-10T01:59:45.035173+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-06-11T02:11:51.584280+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/europe/patrick-bruel-questioning-rape-sexual-assault.html",
-    "headline": "Patrick Bruel, French Singer, Is Taken Into Custody Over Sex Assault Claims",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/africa/souleymane-diallo-dead.html",
+    "headline": "Souleymane Diallo Dies at 80; Daring, Mocking Journalist in Guinea",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9936,
+    "published_at": "2026-06-11T02:11:51.577661+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/world-cup-mexico-iran-epstein.html",
+    "headline": "A Very Different World Cup",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9727,
-    "published_at": "2026-06-10T01:59:45.031740+00:00"
+    "confidence_score": 0.9866,
+    "published_at": "2026-06-11T02:11:51.574870+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/world/asia/chinese-businesses-north-korea.html",
-    "headline": "Videos Show Chinese Businesses Hawking North Korean Labor",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/australia/australia-social-media-ban-under-16.html",
+    "headline": "Australia\u2019s Social Media Ban Is Floundering. Can It Still Help Younger Kids?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-06-10T01:59:45.027152+00:00"
+    "confidence_score": 0.9898,
+    "published_at": "2026-06-11T02:11:51.570770+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html",
-    "headline": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-06-10T01:59:45.021096+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/09/us/politics/eileen-wang-arcadia-california-mayor-china.html",
-    "headline": "The Ex-Mayor of Arcadia, Her Boyfriend and the Chinese Government",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-06-10T01:59:45.019903+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/09/world/europe/robot-david-penn-magic-circle.html",
-    "headline": "D4RLYL, a Robot Magician, Is Denied Membership in The Magic Circle",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/europe/fifa-president-world-cup.html",
+    "headline": "FIFA President Tells World Cup Critics to \u2018Chill\u2019 About Concerns",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7704,
-    "published_at": "2026-06-10T01:59:45.012583+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-06-11T02:11:51.569359+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-    "headline": "Iran War Live Updates: U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/europe/pope-leo-sagrada-familia-barcelona-visit.html",
+    "headline": "Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.965,
-    "published_at": "2026-06-10T01:59:44.986348+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-06-11T02:11:51.561240+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
-    "headline": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+    "source_uri": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump tells BBC Netanyahu did not defy him",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-10T01:59:44.870721+00:00"
+    "confidence_score": 0.7775,
+    "published_at": "2026-06-11T02:11:51.398631+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
-    "headline": "'We don't look at the sky any more': The Air India crash victims who were not on the plane",
+    "source_uri": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+    "headline": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-06-10T01:59:44.868291+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-06-11T02:11:51.380696+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
-    "headline": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-06-10T01:59:44.865908+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+    "source_uri": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9893,
-    "published_at": "2026-06-10T01:59:44.863484+00:00"
+    "confidence_score": 0.8799,
+    "published_at": "2026-06-11T02:11:51.375582+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
-    "headline": "Does referee case show Fifa has lost control of its own World Cup?",
+    "source_uri": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-06-10T01:59:44.857983+00:00"
+    "confidence_score": 0.9967,
+    "published_at": "2026-06-11T02:11:51.373042+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
-    "headline": "'Please send help': Crew's distress call after ship hit by US missile",
+    "source_uri": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
+    "headline": "I have right papers and visa - barred referee Artan",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9575,
-    "published_at": "2026-06-10T01:59:44.854402+00:00"
+    "confidence_score": 0.9922,
+    "published_at": "2026-06-11T02:11:51.370481+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
-    "headline": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+    "source_uri": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+    "headline": "World's largest chipmaker does not rule out price rises as costs increase",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-06-10T01:59:44.850955+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-06-11T02:11:51.369202+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ariana Grande and Ethan Slater split after three years",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-06-10T01:59:44.843992+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Williams rolls back the years on return at Queen's",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-06-10T01:59:44.842835+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Two reportedly killed as women take part in rare protest in Afghanistan",
+    "source_uri": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
+    "headline": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-06-10T01:59:44.837982+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-06-11T02:11:51.363847+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine says missiles hit military plant deep inside Russia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9952,
+    "published_at": "2026-06-11T02:11:51.353695+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+    "headline": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9976,
+    "published_at": "2026-06-11T02:11:51.348448+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
+    "headline": "An Everest guide's miraculous survival raises questions for tourism industry",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-06-11T02:11:51.342020+00:00"
   }
 ]
