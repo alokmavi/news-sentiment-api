@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html",
-    "headline": "Netanyahu\u2019s Bow to Trump\u2019s Iran Pressure Spurs New Criticism",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html",
+    "headline": "Night of Violence Grips Belfast After Stabbing Attack",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-06-11T02:11:51.613495+00:00"
+    "confidence_score": 0.9896,
+    "published_at": "2026-06-12T02:07:34.198646+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/09/world/europe/pope-leo-bad-bunny.html",
-    "headline": "Pope Leo Meets Bad Bunny",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-06-11T02:11:51.601544+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/africa/somalia-referee-world-cup-artan.html",
+    "headline": "Somali World Cup Referee Denied Entry to U.S. Returns Home to Hero\u2019s Welcome",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-11T02:11:51.588355+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/100000010854469/visiting-a-soldiers-funeral-in-ukraine.html",
-    "headline": "Visiting a Soldier\u2019s Funeral in Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.855,
-    "published_at": "2026-06-11T02:11:51.586873+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-06-12T02:07:34.196266+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/10/world/middleeast/indian-sailors-rescued-us-missile-ship-oman.html",
     "headline": "Indian Sailors Made Frantic Calls for Help After U.S. Missile Strike off Oman",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.998,
-    "published_at": "2026-06-11T02:11:51.584280+00:00"
+    "published_at": "2026-06-12T02:07:34.195072+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/10/world/africa/souleymane-diallo-dead.html",
-    "headline": "Souleymane Diallo Dies at 80; Daring, Mocking Journalist in Guinea",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/middleeast/drinking-water-facilities-hit-by-strikes-in-iran-state-media-reports.html",
+    "headline": "Drinking Water Facilities Hit by Strikes in Iran, State Media Reports",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-06-11T02:11:51.577661+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-06-12T02:07:34.193705+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/10/world/world-cup-mexico-iran-epstein.html",
-    "headline": "A Very Different World Cup",
+    "source_uri": "https://www.nytimes.com/2026/06/10/world/middleeast/gulf-arab-nations-condemn-new-iranian-attacks-on-bahrain-and-kuwait.html",
+    "headline": "Gulf Arab nations condemn new Iranian attacks on Bahrain and Kuwait.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9831,
+    "published_at": "2026-06-12T02:07:34.187282+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel/the-latest-us-strikes-targeted-irans-ability-to-control-the-strait-of-hormuz-an-official-says",
+    "headline": "The latest U.S. strikes targeted Iran\u2019s ability to control the Strait of Hormuz, an official says.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9836,
+    "published_at": "2026-06-12T02:07:34.161406+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
+    "headline": "NOAA Issues El Nino Advisory",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9781,
+    "published_at": "2026-06-12T02:07:34.152982+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/11/science/ecology-mycorrhizal-fungus.html",
+    "headline": "Scientists Measure Earth\u2019s Vast Underground Fungal Webs",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9866,
-    "published_at": "2026-06-11T02:11:51.574870+00:00"
+    "confidence_score": 0.9864,
+    "published_at": "2026-06-12T02:07:34.151653+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/10/world/australia/australia-social-media-ban-under-16.html",
-    "headline": "Australia\u2019s Social Media Ban Is Floundering. Can It Still Help Younger Kids?",
+    "source_uri": "https://www.nytimes.com/2026/06/11/world/middleeast/trump-retracts-threat-iran.html",
+    "headline": "Trump, in Latest Pivot, Retracts Threat to Strike Iran Again and Widen the War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9898,
-    "published_at": "2026-06-11T02:11:51.570770+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-06-12T02:07:34.146485+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/10/world/europe/fifa-president-world-cup.html",
-    "headline": "FIFA President Tells World Cup Critics to \u2018Chill\u2019 About Concerns",
+    "source_uri": "https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html",
+    "headline": "Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9871,
+    "published_at": "2026-06-12T02:07:34.137195+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+    "headline": "The War in Ukraine Has Now Gone On Longer Than World War I",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-06-11T02:11:51.569359+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-06-12T02:07:34.134643+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/10/world/europe/pope-leo-sagrada-familia-barcelona-visit.html",
-    "headline": "Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-11T02:11:51.561240+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump tells BBC Netanyahu did not defy him",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7775,
-    "published_at": "2026-06-11T02:11:51.398631+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
-    "headline": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+    "source_uri": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-06-11T02:11:51.380696+00:00"
+    "confidence_score": 0.5038,
+    "published_at": "2026-06-12T02:07:33.753308+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
+    "source_uri": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+    "headline": "Fireworks illuminate Barcelona's Sagrada Fam\u00edlia during Pope visit",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8799,
-    "published_at": "2026-06-11T02:11:51.375582+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-06-12T02:07:33.752046+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
+    "source_uri": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Social media on trial: Four important cases to watch",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-06-11T02:11:51.373042+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-06-12T02:07:33.737388+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
-    "headline": "I have right papers and visa - barred referee Artan",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-06-11T02:11:51.370481+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-    "headline": "World's largest chipmaker does not rule out price rises as costs increase",
+    "source_uri": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-06-11T02:11:51.369202+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
-    "headline": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-06-11T02:11:51.363847+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukraine says missiles hit military plant deep inside Russia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-06-11T02:11:51.353695+00:00"
+    "confidence_score": 0.7506,
+    "published_at": "2026-06-12T02:07:33.732175+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
     "headline": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-06-11T02:11:51.348448+00:00"
+    "published_at": "2026-06-12T02:07:33.729565+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
-    "headline": "An Everest guide's miraculous survival raises questions for tourism industry",
+    "source_uri": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
+    "headline": "Thai court sentences two men to death over Bangkok shrine bombing",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-06-11T02:11:51.342020+00:00"
+    "confidence_score": 0.9931,
+    "published_at": "2026-06-12T02:07:33.724060+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
+    "headline": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6171,
+    "published_at": "2026-06-12T02:07:33.721413+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7222,
+    "published_at": "2026-06-12T02:07:33.720047+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+    "headline": "The furious dispute over what caused Air India flight 171 to crash",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9911,
+    "published_at": "2026-06-12T02:07:33.714542+00:00"
   }
 ]
