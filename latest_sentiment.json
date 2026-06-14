@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html",
-    "headline": "Analysis of Satellite Image and Videos Suggest Precision U.S. Strikes on Iranian Water Facility",
+    "source_uri": "https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html",
+    "headline": "Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-13T02:00:11.172559+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-    "headline": "The War in Ukraine Has Now Gone On Longer Than World War I",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-06-13T02:00:11.169564+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/asia/south-korea-coupang-fine.html",
-    "headline": "\u2018Amazon.com of South Korea\u2019 Is Fined a Record $409 Million",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.797,
-    "published_at": "2026-06-13T02:00:11.166465+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/europe/uk-defense-secretary-resigns-healey-starmer.html",
-    "headline": "U.K. Defense Secretary Resigns, in a Blow to Starmer",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-06-13T02:00:11.163429+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-us-war-strikes-ceasefire.html",
-    "headline": "Can the U.S.-Iran Cease-Fire Survive Days of Strikes?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-06-13T02:00:11.158206+00:00"
+    "confidence_score": 0.9871,
+    "published_at": "2026-06-14T02:09:57.848536+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/11/world/europe/northern-ireland-stabbing-immigration.html",
     "headline": "In the U.K., a Violent Cycle: Hateful Attacks, Right-Wing Agitation and Riots",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9764,
-    "published_at": "2026-06-13T02:00:11.155109+00:00"
+    "published_at": "2026-06-14T02:09:57.846032+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/europe/un-refugees-displaced-war-drop.html",
-    "headline": "Refugees\u2019 Numbers Drop, but Many Return to Turmoil at Home, U.N. Says",
+    "source_uri": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html",
+    "headline": "Iran\u2019s Attacks on Gulf States Underscore Targeted Countries\u2019 Dependence on U.S.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9587,
-    "published_at": "2026-06-13T02:00:11.152125+00:00"
+    "confidence_score": 0.9062,
+    "published_at": "2026-06-14T02:09:57.844787+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html",
-    "headline": "As World Cup Begins, Mexico City Becomes a Global Stage",
+    "source_uri": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-06-13T02:00:11.146246+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-06-14T02:09:57.823210+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/lebanon-israel-war-trump-iran.html",
+    "headline": "Despite Talk of an Iran Peace Deal, Lebanon\u2019s War Grinds On",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8977,
+    "published_at": "2026-06-14T02:09:57.818030+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/pope-leo-spain-secular-catholic.html",
+    "headline": "Spain\u2019s Church Hopes Pope Trip Will Stem Secular Tide",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-06-14T02:09:57.812825+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html",
     "headline": "As Speculation Swirls About the Emerging Iran Deal, Here\u2019s What We Know",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9994,
-    "published_at": "2026-06-13T02:00:11.135493+00:00"
+    "published_at": "2026-06-14T02:09:57.811543+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html",
-    "headline": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/asia/taliban-protests-afghanistan.html",
+    "headline": "Afghans Hold Rare Public Protests Against Taliban Rules",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-06-13T02:00:11.134527+00:00"
+    "confidence_score": 0.7821,
+    "published_at": "2026-06-14T02:09:57.806434+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/13/science/world-cup-grass-pitch.html",
+    "headline": "The Scientific Quest for Perfect World Cup Pitch",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-06-14T02:09:57.803911+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/13/world/americas/top-haitian-security-official-kidnapped.html",
+    "headline": "Top Haitian Security Official Kidnapped",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9926,
+    "published_at": "2026-06-14T02:09:57.797761+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/ukraine-drone-races.html",
+    "headline": "Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9697,
+    "published_at": "2026-06-14T02:09:57.796499+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html",
     "headline": "Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9867,
-    "published_at": "2026-06-13T02:00:11.121457+00:00"
+    "published_at": "2026-06-14T02:09:57.795222+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
-    "headline": "Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+    "headline": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6194,
+    "published_at": "2026-06-14T02:09:57.793799+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
+    "headline": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-06-14T02:09:57.789820+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+    "headline": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-06-13T02:00:11.116207+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-06-14T02:09:57.784574+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
-    "headline": "A sneak peek inside Mexico\u2019s iconic Azteca Stadium before World Cup kickoff",
+    "source_uri": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
+    "headline": "The college scam that promised students fleeing war a new life in Finland",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-06-13T02:00:10.884476+00:00"
+    "confidence_score": 0.5387,
+    "published_at": "2026-06-14T02:09:57.595286+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
-    "headline": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
+    "source_uri": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
+    "headline": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9373,
+    "published_at": "2026-06-14T02:09:57.594022+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+    "headline": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7157,
+    "published_at": "2026-06-14T02:09:57.590074+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-06-13T02:00:10.879169+00:00"
+    "confidence_score": 0.8128,
+    "published_at": "2026-06-14T02:09:57.588725+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwy0v85ldyjo?at_medium=RSS&at_campaign=rss",
-    "headline": "What do Puerto Ricans think of the viral song about their homeland?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-06-13T02:00:10.876963+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why the economics make this the craziest World Cup ever",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-13T02:00:10.875879+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-    "headline": "King leads tributes to 'giant of the art world' David Hockney",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-13T02:00:10.872609+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-    "headline": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+    "source_uri": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+    "headline": "Woman seriously injured in shark attack at Sydney beach",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-06-13T02:00:10.870434+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-    "headline": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-06-13T02:00:10.867153+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9545,
-    "published_at": "2026-06-13T02:00:10.844590+00:00"
+    "confidence_score": 0.9953,
+    "published_at": "2026-06-14T02:09:57.583441+00:00"
   }
 ]
