@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html",
-    "headline": "Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9871,
-    "published_at": "2026-06-14T02:09:57.848536+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/europe/northern-ireland-stabbing-immigration.html",
-    "headline": "In the U.K., a Violent Cycle: Hateful Attacks, Right-Wing Agitation and Riots",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9764,
-    "published_at": "2026-06-14T02:09:57.846032+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html",
-    "headline": "Iran\u2019s Attacks on Gulf States Underscore Targeted Countries\u2019 Dependence on U.S.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9062,
-    "published_at": "2026-06-14T02:09:57.844787+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
+    "headline": "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-14T02:09:57.823210+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-06-15T02:14:12.628069+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/lebanon-israel-war-trump-iran.html",
-    "headline": "Despite Talk of an Iran Peace Deal, Lebanon\u2019s War Grinds On",
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
+    "headline": "\u2018Operation Pushkin\u2019: Paris Trial Puts Spotlight on Rare-Book Heists",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8977,
-    "published_at": "2026-06-14T02:09:57.818030+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/pope-leo-spain-secular-catholic.html",
-    "headline": "Spain\u2019s Church Hopes Pope Trip Will Stem Secular Tide",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-06-14T02:09:57.812825+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html",
-    "headline": "As Speculation Swirls About the Emerging Iran Deal, Here\u2019s What We Know",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-14T02:09:57.811543+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/asia/taliban-protests-afghanistan.html",
-    "headline": "Afghans Hold Rare Public Protests Against Taliban Rules",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7821,
-    "published_at": "2026-06-14T02:09:57.806434+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/13/science/world-cup-grass-pitch.html",
-    "headline": "The Scientific Quest for Perfect World Cup Pitch",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-06-14T02:09:57.803911+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/13/world/americas/top-haitian-security-official-kidnapped.html",
-    "headline": "Top Haitian Security Official Kidnapped",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-06-14T02:09:57.797761+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/ukraine-drone-races.html",
-    "headline": "Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9697,
-    "published_at": "2026-06-14T02:09:57.796499+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html",
-    "headline": "Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9867,
-    "published_at": "2026-06-14T02:09:57.795222+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-06-15T02:14:12.626917+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
     "headline": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.6194,
-    "published_at": "2026-06-14T02:09:57.793799+00:00"
+    "published_at": "2026-06-15T02:14:12.624687+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/ukraine-drone-races.html",
+    "headline": "Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9697,
+    "published_at": "2026-06-15T02:14:12.623573+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
+    "headline": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9919,
+    "published_at": "2026-06-15T02:14:12.619093+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/asia/india-air-crash-report-families.html",
+    "headline": "Families of Air India Crash Victims Seek Answers One Year On",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9942,
+    "published_at": "2026-06-15T02:14:12.615770+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/israel-base-jenin-oslo.html",
+    "headline": "Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9845,
+    "published_at": "2026-06-15T02:14:12.614644+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html",
+    "headline": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-06-15T02:14:12.610038+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/12/world/australia/australia-mouse-plague.html",
+    "headline": "Western Australia Is Battling a Mouse Plague",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-06-15T02:14:12.608928+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
     "headline": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9983,
-    "published_at": "2026-06-14T02:09:57.789820+00:00"
+    "published_at": "2026-06-15T02:14:12.605495+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
-    "headline": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
+    "source_uri": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
+    "headline": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-06-14T02:09:57.784574+00:00"
+    "confidence_score": 0.9753,
+    "published_at": "2026-06-15T02:14:12.600927+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
-    "headline": "The college scam that promised students fleeing war a new life in Finland",
+    "source_uri": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5387,
-    "published_at": "2026-06-14T02:09:57.595286+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-06-15T02:14:12.593947+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
-    "headline": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+    "source_uri": "https://www.nytimes.com/2026/06/14/world/world-cup-iran-lebanon-trump-birthday.html",
+    "headline": "War and the World Cup",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9373,
-    "published_at": "2026-06-14T02:09:57.594022+00:00"
+    "confidence_score": 0.9487,
+    "published_at": "2026-06-15T02:14:12.587985+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-    "headline": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7157,
-    "published_at": "2026-06-14T02:09:57.590074+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+    "headline": "What to Know About the Ebola Outbreak",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8128,
-    "published_at": "2026-06-14T02:09:57.588725+00:00"
+    "confidence_score": 0.9913,
+    "published_at": "2026-06-15T02:14:12.584368+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
-    "headline": "Woman seriously injured in shark attack at Sydney beach",
+    "source_uri": "https://www.nytimes.com/2026/06/14/world/americas/world-cup-curacao-netherlands-soccer.html",
+    "headline": "Cura\u00e7ao Is the Smallest Country Ever to Reach the World Cup",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-06-15T02:14:12.574981+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
+    "headline": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-06-14T02:09:57.583441+00:00"
+    "confidence_score": 0.9088,
+    "published_at": "2026-06-15T02:14:12.572562+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Why is Trump not at the World Cup?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-06-15T02:14:12.341526+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&at_campaign=rss",
+    "headline": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-06-15T02:14:12.337654+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Norway braces for verdict in rape trial of crown princess's son H\u00f8iby",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.948,
+    "published_at": "2026-06-15T02:14:12.323687+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+    "headline": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-06-15T02:14:12.321327+00:00"
   }
 ]
