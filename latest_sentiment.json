@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
-    "headline": "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-06-15T02:14:12.628069+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-    "headline": "\u2018Operation Pushkin\u2019: Paris Trial Puts Spotlight on Rare-Book Heists",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-06-15T02:14:12.626917+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
-    "headline": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6194,
-    "published_at": "2026-06-15T02:14:12.624687+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/europe/ukraine-drone-races.html",
-    "headline": "Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9697,
-    "published_at": "2026-06-15T02:14:12.623573+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-    "headline": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-06-15T02:14:12.619093+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/asia/india-air-crash-report-families.html",
-    "headline": "Families of Air India Crash Victims Seek Answers One Year On",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-06-15T02:14:12.615770+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/middleeast/israel-base-jenin-oslo.html",
-    "headline": "Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9845,
-    "published_at": "2026-06-15T02:14:12.614644+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html",
-    "headline": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-06-15T02:14:12.610038+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/12/world/australia/australia-mouse-plague.html",
-    "headline": "Western Australia Is Battling a Mouse Plague",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-06-15T02:14:12.608928+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
-    "headline": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-06-15T02:14:12.605495+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
-    "headline": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9753,
-    "published_at": "2026-06-15T02:14:12.600927+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
     "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-06-15T02:14:12.593947+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/14/world/world-cup-iran-lebanon-trump-birthday.html",
-    "headline": "War and the World Cup",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9487,
-    "published_at": "2026-06-15T02:14:12.587985+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-    "headline": "What to Know About the Ebola Outbreak",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9913,
-    "published_at": "2026-06-15T02:14:12.584368+00:00"
+    "published_at": "2026-06-16T02:18:04.222204+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/14/world/americas/world-cup-curacao-netherlands-soccer.html",
     "headline": "Cura\u00e7ao Is the Smallest Country Ever to Reach the World Cup",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9998,
-    "published_at": "2026-06-15T02:14:12.574981+00:00"
+    "published_at": "2026-06-16T02:18:04.220952+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
-    "headline": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
+    "source_uri": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html",
+    "headline": "Switzerland Rejects Measure to Cap Its Population at 10 Million",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9808,
+    "published_at": "2026-06-16T02:18:04.213552+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
+    "headline": "Singer Oliver Tree Presumed Dead After Helicopter Crash in Brazil",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9088,
-    "published_at": "2026-06-15T02:14:12.572562+00:00"
+    "confidence_score": 0.9909,
+    "published_at": "2026-06-16T02:18:04.207269+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Why is Trump not at the World Cup?",
+    "source_uri": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/world-leaders-welcome-news-the-strait-of-hormuz-could-soon-reopen",
+    "headline": "World leaders welcome news that the Strait of Hormuz could soon reopen.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-06-16T02:18:04.204793+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-reaction-cease-fire-deal.html",
+    "headline": "Many Iranians Express Relief Over Agreement to End the War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-06-15T02:14:12.341526+00:00"
+    "confidence_score": 0.9221,
+    "published_at": "2026-06-16T02:18:04.203537+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&at_campaign=rss",
-    "headline": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+    "source_uri": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "headline": "China Moves the Price of Oil, Even When It Buys Less",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9661,
+    "published_at": "2026-06-16T02:18:04.198503+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-agreement-lebanon.html",
+    "headline": "U.S.-Iran Agreement Leaves Lebanon\u2019s Fate Murky",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-06-16T02:18:04.194444+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-strait-weapons-israel.html",
+    "headline": "Why the U.S.-Iran Deal Might Work, and Why It Might Not",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9957,
+    "published_at": "2026-06-16T02:18:04.190401+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-dormition-cathedral-strike.html",
+    "headline": "As Russia Strikes Ukraine, a Cultural Symbol Catches Fire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9738,
+    "published_at": "2026-06-16T02:18:04.185038+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-agreement-questions.html",
+    "headline": "The (Mostly) Unanswered Questions at the Heart of a U.S.-Iran Accord",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-06-16T02:18:04.179692+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+    "headline": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9837,
+    "published_at": "2026-06-16T02:18:04.172894+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/europe/november-17-giotopoulos-prison-release.html",
+    "headline": "Convicted Leader of Greek Militant Group Ordered Back to Prison",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6023,
+    "published_at": "2026-06-16T02:18:04.171575+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
+    "headline": "With Its Biggest E.U. Opponent Gone, Ukraine Is Advancing in Its Bid to Join",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9712,
+    "published_at": "2026-06-16T02:18:04.162893+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html",
+    "headline": "Inside Colombia\u2019s Never-Ending Drug War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9245,
+    "published_at": "2026-06-16T02:18:04.161509+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
+    "headline": "The costs and challenges facing the 2026 World Cup",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9662,
+    "published_at": "2026-06-16T02:18:03.947528+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Protesters clash with police ahead of G7 summit in France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9588,
+    "published_at": "2026-06-16T02:18:03.944928+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-06-15T02:14:12.337654+00:00"
+    "published_at": "2026-06-16T02:18:03.931616+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Norway braces for verdict in rape trial of crown princess's son H\u00f8iby",
+    "source_uri": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
+    "headline": "China detains two leaders of influential underground church",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.948,
-    "published_at": "2026-06-15T02:14:12.323687+00:00"
+    "confidence_score": 0.986,
+    "published_at": "2026-06-16T02:18:03.925027+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
-    "headline": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-06-15T02:14:12.321327+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+    "headline": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9843,
+    "published_at": "2026-06-16T02:18:03.910065+00:00"
   }
 ]
