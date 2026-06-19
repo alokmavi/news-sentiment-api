@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html",
-    "headline": "Why Team Iran Is in a Tough Spot at the World Cup",
+    "source_uri": "https://www.nytimes.com/2026/06/17/world/americas/ecuador-kichwa-language-andes.html",
+    "headline": "How Ecuador\u2019s Andes Created a Language of Its Own",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8114,
-    "published_at": "2026-06-18T02:11:28.337077+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html",
-    "headline": "Who Are the Leaders at the G7 Summit in France?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-06-18T02:11:28.324165+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/16/world/canada/british-columbia-water-park-cultus-lake-injuries.html",
-    "headline": "12 Injured at Cultus Lake Water Park, Possibly by Electricity, in British Columbia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9727,
-    "published_at": "2026-06-18T02:11:28.317144+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html",
-    "headline": "Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-06-18T02:11:28.314775+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html",
-    "headline": "Roy Hattersley, Frontline Warrior of British Politics, Dies at 93",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-06-18T02:11:28.311198+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france/g7-evian-summit",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9871,
-    "published_at": "2026-06-18T02:11:28.310022+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html",
-    "headline": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6019,
-    "published_at": "2026-06-18T02:11:28.302928+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/17/world/americas/jamaica-us-third-country-deportees.html",
-    "headline": "Jamaica in Talks With U.S. to Temporarily Hold Deported Migrants",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9844,
-    "published_at": "2026-06-18T02:11:28.299344+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/17/health/pepfar-cdc-cuts.html",
-    "headline": "New Plan Scales Back C.D.C.\u2019s Work on Diseases Abroad",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-06-18T02:11:28.298145+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/17/world/europe/us-iran-oil-sanctions.html",
-    "headline": "U.S. Will Waive Oil Sanctions That Have Long Crimped Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-06-18T02:11:28.296912+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
-    "headline": "After a Bitter Split, European Leaders Play Nice With Trump",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7164,
-    "published_at": "2026-06-18T02:11:28.279629+00:00"
+    "confidence_score": 0.8301,
+    "published_at": "2026-06-19T02:40:10.231633+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/17/world/europe/russia-ukraine-crimea-fuel-shortages.html",
     "headline": "Ukraine Tries to Cut Off Crimea, Choking Russian Supply Routes",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-06-18T02:11:28.277309+00:00"
+    "published_at": "2026-06-19T02:40:10.229183+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+    "source_uri": "https://www.nytimes.com/2026/06/17/world/europe/g7-summit-ai-tech-leaders-openai-anthropic.html",
+    "headline": "Tech C.E.O.s to Discuss A.I. With G7 Leaders",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9851,
-    "published_at": "2026-06-18T02:11:28.040035+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-06-19T02:40:10.222855+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce95gvpn535o?at_medium=RSS&at_campaign=rss",
-    "headline": "India: Why a country of 1.4 billion is not in the football World Cup",
+    "source_uri": "https://www.nytimes.com/2026/06/17/science/oldest-plague-siberian-skeletons.html",
+    "headline": "A Deadly Outbreak of Plague, Nearly 5,000 Years Before the Black Death",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-06-18T02:11:28.034147+00:00"
+    "confidence_score": 0.9833,
+    "published_at": "2026-06-19T02:40:10.220256+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Equatorial Guinea government resigns after failing to meet targets",
+    "source_uri": "https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html",
+    "headline": "Teenagers vs. Social Media Bans",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-06-18T02:11:28.023540+00:00"
+    "confidence_score": 0.6853,
+    "published_at": "2026-06-19T02:40:10.207617+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
-    "headline": "Nigerian man jailed for storing human faeces outside his home",
+    "source_uri": "https://www.nytimes.com/2026/06/17/world/middleeast/iran-world-cup-united-states.html",
+    "headline": "Team Medic Recounts Iran\u2019s \u2018Stressful\u2019 World Cup Debut in L.A.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-06-18T02:11:28.021073+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-06-19T02:40:10.200206+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html",
+    "headline": "Taiwan\u2019s President Says He Trusts Trump to Approve Arms Sales",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-06-19T02:40:10.197673+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-06-19T02:40:10.193917+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/18/world/middleeast/gulf-states-us-iran-deal.html",
+    "headline": "Gulf States Are Frustrated by Failure to Tackle Iran\u2019s Missiles, Analysts Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9959,
+    "published_at": "2026-06-19T02:40:10.192644+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/18/us/world-cup-hydration-breaks.html",
+    "headline": "Many World Cup Fans Would Rather Skip the Hydration Breaks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-06-19T02:40:10.190042+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-election.html",
+    "headline": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-06-19T02:40:10.183099+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+    "headline": "Gunmen Attack a Major Airport in Niger",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9834,
+    "published_at": "2026-06-19T02:40:10.168753+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/18/world/europe/iran-united-states-deal-israel.html",
+    "headline": "Iran and the U.S. Have an Understanding. Will It Lead to a Deal?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9937,
+    "published_at": "2026-06-19T02:40:10.166043+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Weapons, money and ships: How is this Iran deal different from others?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9038,
+    "published_at": "2026-06-19T02:40:10.027019+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9197,
+    "published_at": "2026-06-19T02:40:10.023017+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
     "headline": "UN experts demand Iranians free Foremans",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-06-18T02:11:28.013928+00:00"
+    "published_at": "2026-06-19T02:40:10.020259+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
-    "headline": "Serial killer who murdered eight women in Long Island town imprisoned for life",
+    "source_uri": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9811,
+    "published_at": "2026-06-19T02:40:10.007523+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cr5jdy92gyeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Bird flu kills more than 75% of baby seals on remote Australian island, study finds",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9895,
+    "published_at": "2026-06-19T02:40:10.004854+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+    "headline": "Thirty-five killed as gunmen attack Niger's biggest airport",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9816,
+    "published_at": "2026-06-19T02:40:09.995206+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+    "headline": "What Iran and US get from deal and why both could struggle to keep it",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9838,
-    "published_at": "2026-06-18T02:11:28.011559+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-18T02:11:28.009139+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
-    "headline": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9868,
-    "published_at": "2026-06-18T02:11:28.007942+00:00"
+    "confidence_score": 0.9839,
+    "published_at": "2026-06-19T02:40:09.992477+00:00"
   }
 ]
