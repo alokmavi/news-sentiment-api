@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html",
-    "headline": "Before Making a Deal, Trump Demanded Iran\u2019s Surrender. He Got a Surprise.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-06-20T02:01:07.232988+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/17/world/middleeast/iran-world-cup-united-states.html",
-    "headline": "Team Medic Recounts Iran\u2019s \u2018Stressful\u2019 World Cup Debut in L.A.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-06-20T02:01:07.232038+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/18/world/canada/canadian-citizenship-guide.html",
-    "headline": "What to Know About Canada\u2019s New Citizenship Eligibility Requirements and How to Apply",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-06-20T02:01:07.227161+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9726,
-    "published_at": "2026-06-20T02:01:07.226133+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/18/technology/telegram-ban-india.html",
-    "headline": "As India Temporarily Bans Telegram, Which Other Countries Have Restricted the Messaging App?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-06-20T02:01:07.224232+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/18/world/asia/afghanistan-taliban-smartphone-ban.html",
-    "headline": "Afghanistan Issues Ban on Smartphones for Civil Servants and Military",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-20T02:01:07.219277+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/18/world/europe/crocodile-attack-england-zoo.html",
-    "headline": "Man Forced Boy, 3, Into Crocodile Pen at English Zoo, Police Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9802,
-    "published_at": "2026-06-20T02:01:07.208695+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html",
-    "headline": "Who Is Andy Burnham, the Man Who Could Be Britain\u2019s Next Prime Minister?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-06-20T02:01:07.205728+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal/heres-the-latest",
     "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-06-20T02:01:07.202634+00:00"
+    "published_at": "2026-06-21T02:12:53.511405+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html",
-    "headline": "Deadly Violence Rocks Lebanon in Threat to U.S.-Iran Deal",
+    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/burnham-prime-minister-starmer-uk.html",
+    "headline": "How Quickly Could Andy Burnham Become U.K. Prime Minister?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9798,
+    "published_at": "2026-06-21T02:12:53.507996+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attacks-ballistic-missiles.html",
+    "headline": "A Missing Ingredient in Ukraine\u2019s Barrages on Russia: Ballistic Missiles",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-06-20T02:01:07.201662+00:00"
+    "confidence_score": 0.9394,
+    "published_at": "2026-06-21T02:12:53.505789+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+    "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.991,
+    "published_at": "2026-06-21T02:12:53.499053+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/janice-nix-scalding-killing-london-1978.html",
     "headline": "Woman Receives 12-Year Sentence for 1978 Scalding Death of Stepdaughter, 5",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9955,
-    "published_at": "2026-06-20T02:01:07.197766+00:00"
+    "published_at": "2026-06-21T02:12:53.496785+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
-    "headline": "Trains Collide in UK, Killing at Least One and Injuring Dozens of Others",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-06-20T02:01:07.195794+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/us/fifa-world-cup/canadas-postcard-moment-at-the-world-cup-is-more-than-the-teams-victory",
+    "headline": "Canada\u2019s postcard moment at the World Cup is more than the team\u2019s victory.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-06-21T02:12:53.486474+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html",
-    "headline": "Italy Doesn\u2019t \u2018Beg,\u2019 Giorgia Meloni Tells Trump",
+    "source_uri": "https://www.nytimes.com/2026/06/20/world/europe/edinburgh-stabbing-arrest-injuries.html",
+    "headline": "Man Is Arrested in Scotland After Rampage Leaves 5 Hurt",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-06-20T02:01:07.186034+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-06-21T02:12:53.483063+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html",
     "headline": "Burnham\u2019s Stunning Victory in Makerfield Election May Trigger Starmer\u2019s Last Stand",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-06-20T02:01:07.184999+00:00"
+    "published_at": "2026-06-21T02:12:53.477332+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+    "source_uri": "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html",
+    "headline": "U.S. to End AIDS Funding for South Africa",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-06-21T02:12:53.476176+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+    "headline": "\u2018Game Changer\u2019? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.657,
+    "published_at": "2026-06-21T02:12:53.473918+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html",
+    "headline": "Cape Verde Will Count on Vozinha Against Uruguay at the World Cup",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9851,
-    "published_at": "2026-06-20T02:01:07.037280+00:00"
+    "confidence_score": 0.8761,
+    "published_at": "2026-06-21T02:12:53.470481+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
-    "headline": "Moment Trump signs US-Iran agreement at Palace of Versailles",
+    "source_uri": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
+    "headline": "Mideast Live Updates: Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-06-21T02:12:53.463553+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c5yzgxd428qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Should the US impose a teen social media ban like the UK?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9884,
+    "published_at": "2026-06-21T02:12:53.119235+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9868,
-    "published_at": "2026-06-20T02:01:07.035212+00:00"
+    "confidence_score": 0.9965,
+    "published_at": "2026-06-21T02:12:53.117041+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
-    "headline": "'We had to get out of the way': The backlash over delivery robots",
+    "source_uri": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-06-20T02:01:07.027963+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9811,
-    "published_at": "2026-06-20T02:01:07.021179+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
-    "headline": "Lawyer in high-profile Ugandan treason case charged with related offence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9755,
-    "published_at": "2026-06-20T02:01:07.020206+00:00"
+    "confidence_score": 0.8094,
+    "published_at": "2026-06-21T02:12:53.105591+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
     "headline": "Hegseth renews Nato criticism and says US will review presence in Europe",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9607,
-    "published_at": "2026-06-20T02:01:07.014186+00:00"
+    "published_at": "2026-06-21T02:12:53.103522+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+    "headline": "In Trump's shadow, Vance becomes face of Iran deal",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8607,
+    "published_at": "2026-06-21T02:12:53.098200+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
+    "headline": "UK actress charged with importing meth worth almost A$300m into Australia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-06-21T02:12:53.096175+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-06-21T02:12:53.089048+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-06-21T02:12:53.078257+00:00"
   }
 ]
