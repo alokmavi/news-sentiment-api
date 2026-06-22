@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-21T02:12:53.511405+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/burnham-prime-minister-starmer-uk.html",
-    "headline": "How Quickly Could Andy Burnham Become U.K. Prime Minister?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9798,
-    "published_at": "2026-06-21T02:12:53.507996+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attacks-ballistic-missiles.html",
-    "headline": "A Missing Ingredient in Ukraine\u2019s Barrages on Russia: Ballistic Missiles",
+    "source_uri": "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html",
+    "headline": "Iran\u2019s Supreme Leader Says He Dislikes Deal With U.S., but Allowed It",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9394,
-    "published_at": "2026-06-21T02:12:53.505789+00:00"
+    "confidence_score": 0.5106,
+    "published_at": "2026-06-22T02:16:37.190714+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
     "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.991,
-    "published_at": "2026-06-21T02:12:53.499053+00:00"
+    "published_at": "2026-06-22T02:16:37.184483+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/janice-nix-scalding-killing-london-1978.html",
-    "headline": "Woman Receives 12-Year Sentence for 1978 Scalding Death of Stepdaughter, 5",
+    "source_uri": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html",
+    "headline": "Lebanon Cease-Fire Bolsters U.S.-Iran Truce, After a Shaky Start",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-06-21T02:12:53.496785+00:00"
+    "confidence_score": 0.9951,
+    "published_at": "2026-06-22T02:16:37.178854+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/us/fifa-world-cup/canadas-postcard-moment-at-the-world-cup-is-more-than-the-teams-victory",
-    "headline": "Canada\u2019s postcard moment at the World Cup is more than the team\u2019s victory.",
+    "source_uri": "https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html",
+    "headline": "Trump Called Iv\u00e1n Cepeda a \u2018Radical Left Marxist.\u2019 Can He Be Colombia\u2019s President?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-06-21T02:12:53.486474+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/20/world/europe/edinburgh-stabbing-arrest-injuries.html",
-    "headline": "Man Is Arrested in Scotland After Rampage Leaves 5 Hurt",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-06-21T02:12:53.483063+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html",
-    "headline": "Burnham\u2019s Stunning Victory in Makerfield Election May Trigger Starmer\u2019s Last Stand",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-06-21T02:12:53.477332+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html",
-    "headline": "U.S. to End AIDS Funding for South Africa",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-06-21T02:12:53.476176+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-    "headline": "\u2018Game Changer\u2019? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.657,
-    "published_at": "2026-06-21T02:12:53.473918+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html",
-    "headline": "Cape Verde Will Count on Vozinha Against Uruguay at the World Cup",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8761,
-    "published_at": "2026-06-21T02:12:53.470481+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
-    "headline": "Mideast Live Updates: Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-06-21T02:12:53.463553+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c5yzgxd428qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Should the US impose a teen social media ban like the UK?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-06-21T02:12:53.119235+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-06-21T02:12:53.117041+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8094,
-    "published_at": "2026-06-21T02:12:53.105591+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hegseth renews Nato criticism and says US will review presence in Europe",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9607,
-    "published_at": "2026-06-21T02:12:53.103522+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-    "headline": "In Trump's shadow, Vance becomes face of Iran deal",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8607,
-    "published_at": "2026-06-21T02:12:53.098200+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
-    "headline": "UK actress charged with importing meth worth almost A$300m into Australia",
-    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9954,
-    "published_at": "2026-06-21T02:12:53.096175+00:00"
+    "published_at": "2026-06-22T02:16:37.175401+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-06-22T02:16:37.171999+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html",
+    "headline": "Uncertainty Remains Over the Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9887,
+    "published_at": "2026-06-22T02:16:37.148667+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
+    "headline": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-06-22T02:16:37.145236+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html",
+    "headline": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-06-22T02:16:37.140710+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html",
+    "headline": "Luxury Kushner Project Collides With Albanian Discontent",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.985,
+    "published_at": "2026-06-22T02:16:37.139577+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html",
+    "headline": "Keir Starmer Reflects on \u2018Political Challenges\u2019 as Pressure to Resign Mounts",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9841,
+    "published_at": "2026-06-22T02:16:37.133842+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+    "headline": "Mideast Live Updates: First Round of U.S.-Iran Talks Conclude, Mediators Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9179,
+    "published_at": "2026-06-22T02:16:37.132605+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
+    "headline": "Would you choose to take a 22-hour non-stop flight?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9807,
+    "published_at": "2026-06-22T02:16:36.832345+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Parisians cool off in canal amid 'red alert' heatwave",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9163,
+    "published_at": "2026-06-22T02:16:36.829863+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Weapons, money and ships: How is this Iran deal different from others?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9038,
+    "published_at": "2026-06-22T02:16:36.827400+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-06-22T02:16:36.814409+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Morocco captain Achraf Hakimi to stand trial for rape",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9315,
+    "published_at": "2026-06-22T02:16:36.810967+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
     "headline": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9992,
-    "published_at": "2026-06-21T02:12:53.089048+00:00"
+    "published_at": "2026-06-22T02:16:36.809857+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+    "source_uri": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+    "headline": "African and Caribbean nations call for formal apology for transatlantic slavery",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-06-21T02:12:53.078257+00:00"
+    "confidence_score": 0.9718,
+    "published_at": "2026-06-22T02:16:36.799799+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-06-22T02:16:36.794227+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Half of France under red heat alert as alcohol banned at street music festival",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9799,
+    "published_at": "2026-06-22T02:16:36.791956+00:00"
   }
 ]
