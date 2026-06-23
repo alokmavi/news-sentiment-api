@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html",
-    "headline": "Iran\u2019s Supreme Leader Says He Dislikes Deal With U.S., but Allowed It",
+    "source_uri": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
+    "headline": "While the World Scrambles for Oil, China Sits on Full Tanks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5106,
-    "published_at": "2026-06-22T02:16:37.190714+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-06-23T01:55:38.173390+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
-    "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-06-22T02:16:37.184483+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html",
-    "headline": "Lebanon Cease-Fire Bolsters U.S.-Iran Truce, After a Shaky Start",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-06-22T02:16:37.178854+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html",
-    "headline": "Trump Called Iv\u00e1n Cepeda a \u2018Radical Left Marxist.\u2019 Can He Be Colombia\u2019s President?",
+    "source_uri": "https://www.nytimes.com/2026/06/21/world/middleeast/us-iran-negotiations-issues.html",
+    "headline": "U.S. and Iran Have Plenty to Negotiate Beyond Nuclear Issues",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-06-22T02:16:37.175401+00:00"
+    "confidence_score": 0.9848,
+    "published_at": "2026-06-23T01:55:38.161088+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-22T02:16:37.171999+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html",
-    "headline": "Uncertainty Remains Over the Strait of Hormuz",
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/will-do-iran-us-peace-talks-lebanon-hormuz.html",
+    "headline": "The Guardrails Designed to Protect U.S.-Iran Talks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9887,
-    "published_at": "2026-06-22T02:16:37.148667+00:00"
+    "confidence_score": 0.9276,
+    "published_at": "2026-06-23T01:55:38.146980+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-    "headline": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-06-22T02:16:37.145236+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html",
-    "headline": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/jeffrey-donaldson-child-abuse-rape-guilty-dup.html",
+    "headline": "Jeffrey Donaldson, Longtime Northern Irish Political Leader, Is Convicted of Child Sex Abuse",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-06-22T02:16:37.140710+00:00"
+    "confidence_score": 0.94,
+    "published_at": "2026-06-23T01:55:38.140789+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html",
-    "headline": "Luxury Kushner Project Collides With Albanian Discontent",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.985,
-    "published_at": "2026-06-22T02:16:37.139577+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html",
-    "headline": "Keir Starmer Reflects on \u2018Political Challenges\u2019 as Pressure to Resign Mounts",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9841,
-    "published_at": "2026-06-22T02:16:37.133842+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
-    "headline": "Mideast Live Updates: First Round of U.S.-Iran Talks Conclude, Mediators Say",
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/vance-iran-talks-progress.html",
+    "headline": "Vance Claims Progress in First Day of Iran Talks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9179,
-    "published_at": "2026-06-22T02:16:37.132605+00:00"
+    "confidence_score": 0.9934,
+    "published_at": "2026-06-23T01:55:38.135895+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html",
+    "headline": "Does This Radio Host Really Know Everyone in Wales?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-06-23T01:55:38.127345+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
+    "headline": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8792,
+    "published_at": "2026-06-23T01:55:38.126077+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
+    "headline": "First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-06-23T01:55:38.123574+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-russia-crimea-attacks.html",
+    "headline": "Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8545,
+    "published_at": "2026-06-23T01:55:38.122253+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/americas/colombia-president-de-la-espriella-trump-drug-war.html",
+    "headline": "How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-06-23T01:55:38.120953+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
+    "headline": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-06-23T01:55:38.117056+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
+    "headline": "Cuba\u2019s Fuel Crisis Brings Schools to a Standstill",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-06-23T01:55:38.114457+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Will Putin change tactics after Ukrainian drone attacks?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9601,
+    "published_at": "2026-06-23T01:55:37.994633+00:00"
   },
   {
     "source_uri": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
     "headline": "Would you choose to take a 22-hour non-stop flight?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9807,
-    "published_at": "2026-06-22T02:16:36.832345+00:00"
+    "published_at": "2026-06-23T01:55:37.991650+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Parisians cool off in canal amid 'red alert' heatwave",
+    "source_uri": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why an AI company cleaned my New York City apartment for free",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-06-23T01:55:37.981269+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+    "headline": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-06-23T01:55:37.968359+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
+    "headline": "China's import of custard apples is sparking fears in Taiwan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-06-23T01:55:37.959689+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.com/news/articles/cjegydvzpzqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Guinea bans exports of raw gold to boost local refining",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9163,
-    "published_at": "2026-06-22T02:16:36.829863+00:00"
+    "confidence_score": 0.9356,
+    "published_at": "2026-06-23T01:55:37.951949+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Weapons, money and ships: How is this Iran deal different from others?",
+    "source_uri": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
+    "headline": "Japan quintuples visa fees in first price hike since 1978",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9038,
-    "published_at": "2026-06-22T02:16:36.827400+00:00"
+    "confidence_score": 0.9888,
+    "published_at": "2026-06-23T01:55:37.950649+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
-    "headline": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-06-22T02:16:36.814409+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Morocco captain Achraf Hakimi to stand trial for rape",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9315,
-    "published_at": "2026-06-22T02:16:36.810967+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-06-22T02:16:36.809857+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-    "headline": "African and Caribbean nations call for formal apology for transatlantic slavery",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9718,
-    "published_at": "2026-06-22T02:16:36.799799+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-06-22T02:16:36.794227+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Half of France under red heat alert as alcohol banned at street music festival",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9799,
-    "published_at": "2026-06-22T02:16:36.791956+00:00"
+    "source_uri": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6944,
+    "published_at": "2026-06-23T01:55:37.949289+00:00"
   }
 ]
