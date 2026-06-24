@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
-    "headline": "While the World Scrambles for Oil, China Sits on Full Tanks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-06-23T01:55:38.173390+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/21/world/middleeast/us-iran-negotiations-issues.html",
-    "headline": "U.S. and Iran Have Plenty to Negotiate Beyond Nuclear Issues",
+    "source_uri": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9848,
-    "published_at": "2026-06-23T01:55:38.161088+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-06-24T01:53:46.841820+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/will-do-iran-us-peace-talks-lebanon-hormuz.html",
     "headline": "The Guardrails Designed to Protect U.S.-Iran Talks",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9276,
-    "published_at": "2026-06-23T01:55:38.146980+00:00"
+    "published_at": "2026-06-24T01:53:46.836512+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/jeffrey-donaldson-child-abuse-rape-guilty-dup.html",
-    "headline": "Jeffrey Donaldson, Longtime Northern Irish Political Leader, Is Convicted of Child Sex Abuse",
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/israel-lebanon-hezbollah-truce.html",
+    "headline": "Israel Holds to Lebanon Truce, With Troops Kept on Defense",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.94,
-    "published_at": "2026-06-23T01:55:38.140789+00:00"
+    "confidence_score": 0.9885,
+    "published_at": "2026-06-24T01:53:46.828851+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/vance-iran-talks-progress.html",
-    "headline": "Vance Claims Progress in First Day of Iran Talks",
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/spain-abalos-sentenced-corruption-sanchez.html",
+    "headline": "Former Ally to Spain\u2019s Prime Minister Is Sentenced to 24 Years in Prison on Bribery Charges",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-06-23T01:55:38.135895+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html",
-    "headline": "Does This Radio Host Really Know Everyone in Wales?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-06-23T01:55:38.127345+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/afganistan-taliban-brussels-deportees.html",
-    "headline": "Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8792,
-    "published_at": "2026-06-23T01:55:38.126077+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
-    "headline": "First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-06-23T01:55:38.123574+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-russia-crimea-attacks.html",
-    "headline": "Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8545,
-    "published_at": "2026-06-23T01:55:38.122253+00:00"
+    "confidence_score": 0.9805,
+    "published_at": "2026-06-24T01:53:46.827563+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/22/world/americas/colombia-president-de-la-espriella-trump-drug-war.html",
     "headline": "How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9981,
-    "published_at": "2026-06-23T01:55:38.120953+00:00"
+    "published_at": "2026-06-24T01:53:46.824984+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
-    "headline": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
+    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/iran-world-cup-locker-room-note.html",
+    "headline": "Iran Team Leaves Locker Room Note: The \u2018Spirit of Iran Remains Alive and Steadfast\u2019",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-06-24T01:53:46.810814+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/heat-wave-france-drowning-deaths.html",
+    "headline": "40 People Drown in France Amid Scorching Temperatures",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-06-23T01:55:38.117056+00:00"
+    "confidence_score": 0.9916,
+    "published_at": "2026-06-24T01:53:46.805458+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
-    "headline": "Cuba\u2019s Fuel Crisis Brings Schools to a Standstill",
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/middleeast/israel-soldiers-lebanon-shooting-hezbollah.html",
+    "headline": "Israeli Soldiers Fatally Shoot 2 People in Southern Lebanon, Health Officials Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-06-23T01:55:38.114457+00:00"
+    "confidence_score": 0.9958,
+    "published_at": "2026-06-24T01:53:46.801555+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Will Putin change tactics after Ukrainian drone attacks?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9601,
-    "published_at": "2026-06-23T01:55:37.994633+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
-    "headline": "Would you choose to take a 22-hour non-stop flight?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9807,
-    "published_at": "2026-06-23T01:55:37.991650+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why an AI company cleaned my New York City apartment for free",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-06-23T01:55:37.981269+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-    "headline": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-06-23T01:55:37.968359+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
-    "headline": "China's import of custard apples is sparking fears in Taiwan",
+    "source_uri": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
+    "headline": "Artist Pulls Work From London Museum After Clash Over Churchill\u2019s Legacy",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9988,
-    "published_at": "2026-06-23T01:55:37.959689+00:00"
+    "published_at": "2026-06-24T01:53:46.800291+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cjegydvzpzqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Guinea bans exports of raw gold to boost local refining",
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html",
+    "headline": "Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France\u2019s Panth\u00e9on",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9356,
-    "published_at": "2026-06-23T01:55:37.951949+00:00"
+    "confidence_score": 0.9955,
+    "published_at": "2026-06-24T01:53:46.780187+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
-    "headline": "Japan quintuples visa fees in first price hike since 1978",
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/africa/sudan-war-rsf-atrocities.html",
+    "headline": "U.S. Warns of \u2018Imminent\u2019 Atrocities in El Obeid, Sudan",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-06-23T01:55:37.950649+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-06-24T01:53:46.778886+00:00"
   },
   {
-    "source_uri": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html",
+    "headline": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-06-24T01:53:46.776209+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/americas/venezuela-oil-delcy-rodriguez-trump.html",
+    "headline": "Delcy Rodr\u00edguez, Venezuela\u2019s President, Struggles to Uphold Trump\u2019s Narrative of Success",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-06-24T01:53:46.773377+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+    "headline": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-06-24T01:53:46.770447+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Stanford was their golden ticket - could AI help or hinder that?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6944,
-    "published_at": "2026-06-23T01:55:37.949289+00:00"
+    "confidence_score": 0.9646,
+    "published_at": "2026-06-24T01:53:46.469626+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+    "headline": "At least 13 killed and dozens injured after Qatar gas explosion",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-06-24T01:53:46.462914+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9889,
+    "published_at": "2026-06-24T01:53:46.455321+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ransom note claims Nancy Guthrie died after abduction",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-06-24T01:53:46.452702+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+    "headline": "Spider which uses spring trap to capture prey discovered in Australia",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9338,
+    "published_at": "2026-06-24T01:53:46.446103+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-06-24T01:53:46.439310+00:00"
   }
 ]
