@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-24T01:53:46.841820+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/will-do-iran-us-peace-talks-lebanon-hormuz.html",
-    "headline": "The Guardrails Designed to Protect U.S.-Iran Talks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9276,
-    "published_at": "2026-06-24T01:53:46.836512+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/israel-lebanon-hezbollah-truce.html",
-    "headline": "Israel Holds to Lebanon Truce, With Troops Kept on Defense",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9885,
-    "published_at": "2026-06-24T01:53:46.828851+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/europe/spain-abalos-sentenced-corruption-sanchez.html",
-    "headline": "Former Ally to Spain\u2019s Prime Minister Is Sentenced to 24 Years in Prison on Bribery Charges",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9805,
-    "published_at": "2026-06-24T01:53:46.827563+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/americas/colombia-president-de-la-espriella-trump-drug-war.html",
-    "headline": "How Will Colombia\u2019s New President Fuel Trump\u2019s Drug War?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-06-24T01:53:46.824984+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/iran-world-cup-locker-room-note.html",
     "headline": "Iran Team Leaves Locker Room Note: The \u2018Spirit of Iran Remains Alive and Steadfast\u2019",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9998,
-    "published_at": "2026-06-24T01:53:46.810814+00:00"
+    "published_at": "2026-06-25T01:57:55.739908+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/heat-wave-france-drowning-deaths.html",
     "headline": "40 People Drown in France Amid Scorching Temperatures",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9916,
-    "published_at": "2026-06-24T01:53:46.805458+00:00"
+    "published_at": "2026-06-25T01:57:55.724683+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/middleeast/israel-soldiers-lebanon-shooting-hezbollah.html",
-    "headline": "Israeli Soldiers Fatally Shoot 2 People in Southern Lebanon, Health Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/scotland-peter-murrell-nicola-sturgeon-scottish-national-party.html",
+    "headline": "The Extraordinary Embezzlement Case That Rocked Scottish Politics",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-06-24T01:53:46.801555+00:00"
+    "confidence_score": 0.9898,
+    "published_at": "2026-06-25T01:57:55.723422+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
     "headline": "Artist Pulls Work From London Museum After Clash Over Churchill\u2019s Legacy",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9988,
-    "published_at": "2026-06-24T01:53:46.800291+00:00"
+    "published_at": "2026-06-25T01:57:55.714726+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html",
-    "headline": "Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France\u2019s Panth\u00e9on",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-06-24T01:53:46.780187+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/africa/sudan-war-rsf-atrocities.html",
-    "headline": "U.S. Warns of \u2018Imminent\u2019 Atrocities in El Obeid, Sudan",
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/trump-us-colombia-europe-heat-world-cup.html",
+    "headline": "Trump\u2019s Colombia Prize",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9993,
-    "published_at": "2026-06-24T01:53:46.778886+00:00"
+    "published_at": "2026-06-25T01:57:55.708452+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html",
-    "headline": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-06-24T01:53:46.776209+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/americas/venezuela-oil-delcy-rodriguez-trump.html",
-    "headline": "Delcy Rodr\u00edguez, Venezuela\u2019s President, Struggles to Uphold Trump\u2019s Narrative of Success",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-06-24T01:53:46.773377+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
-    "headline": "How Mark Rutte of NATO Manages an Unpredictable Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-06-24T01:53:46.770447+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Stanford was their golden ticket - could AI help or hinder that?",
+    "source_uri": "https://www.nytimes.com/2026/06/23/world/australia/australia-albanese-prime-minister-popularity.html",
+    "headline": "Is the Australian Prime Minister\u2019s Pragmatism Enough in Uncertain Times?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9646,
-    "published_at": "2026-06-24T01:53:46.469626+00:00"
+    "confidence_score": 0.992,
+    "published_at": "2026-06-25T01:57:55.707192+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 13 killed and dozens injured after Qatar gas explosion",
+    "source_uri": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
+    "headline": "China Detained 2 Japanese on Suspicion of Smuggling",
     "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9812,
+    "published_at": "2026-06-25T01:57:55.703372+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html",
+    "headline": "Why Is Europe the Fastest-Warming Continent",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-06-25T01:57:55.702051+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe-climate-heat-wave-ebola-world-cup.html",
+    "headline": "A Climate Chaos Maker",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9462,
+    "published_at": "2026-06-25T01:57:55.700787+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
+    "headline": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-06-24T01:53:46.462914+00:00"
+    "published_at": "2026-06-25T01:57:55.696987+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/spain-sanchez-corruption.html",
+    "headline": "The Wife of Spain\u2019s Leader Is Accused of Graft. It May Actually Help Him.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9889,
-    "published_at": "2026-06-24T01:53:46.455321+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-06-25T01:57:55.693193+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ransom note claims Nancy Guthrie died after abduction",
+    "source_uri": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
+    "headline": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-06-24T01:53:46.452702+00:00"
+    "confidence_score": 0.939,
+    "published_at": "2026-06-25T01:57:55.689473+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-    "headline": "Spider which uses spring trap to capture prey discovered in Australia",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9338,
-    "published_at": "2026-06-24T01:53:46.446103+00:00"
+    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html",
+    "headline": "Extreme Heat Across Europe Creates Divide Over Leaving Schools Open",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5306,
+    "published_at": "2026-06-25T01:57:55.688281+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html",
+    "headline": "Iran\u2019s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9576,
+    "published_at": "2026-06-25T01:57:55.679862+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Parisians cool off in canal amid 'red alert' heatwave",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-06-24T01:53:46.439310+00:00"
+    "confidence_score": 0.9163,
+    "published_at": "2026-06-25T01:57:55.578361+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9894,
+    "published_at": "2026-06-25T01:57:55.576969+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
+    "headline": "'We're begging' - Savannah Guthrie pleads for help as details of her mother\u2019s case emerge",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9824,
+    "published_at": "2026-06-25T01:57:55.575716+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-06-25T01:57:55.567173+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+    "headline": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9812,
+    "published_at": "2026-06-25T01:57:55.559470+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
+    "headline": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-06-25T01:57:55.555555+00:00"
   }
 ]
