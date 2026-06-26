@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/22/world/middleeast/iran-world-cup-locker-room-note.html",
-    "headline": "Iran Team Leaves Locker Room Note: The \u2018Spirit of Iran Remains Alive and Steadfast\u2019",
+    "source_uri": "https://www.nytimes.com/live/2026/06/24/world/venezuela-earthquake/earthquake-venezuela",
+    "headline": "Venezuela Hit by 7.1-Magnitude Earthquake",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8335,
+    "published_at": "2026-06-26T01:59:44.196117+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake-caracas.html",
+    "headline": "Venezuela Residents Describe Terror as Deadly Earthquake Struck",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9831,
+    "published_at": "2026-06-26T01:59:44.191273+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france/heres-the-latest",
+    "headline": "Deadly Heat Scorches Europe",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-06-25T01:57:55.739908+00:00"
+    "confidence_score": 0.9301,
+    "published_at": "2026-06-26T01:59:44.190057+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/heat-wave-france-drowning-deaths.html",
-    "headline": "40 People Drown in France Amid Scorching Temperatures",
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/car-ramming-mexico-world-cup-cabo-san-lucas.html",
+    "headline": "Driver Plows Into Crowd of World Cup Fans in Mexico, Authorities Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-06-25T01:57:55.724683+00:00"
+    "confidence_score": 0.9626,
+    "published_at": "2026-06-26T01:59:44.180405+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/europe/scotland-peter-murrell-nicola-sturgeon-scottish-national-party.html",
-    "headline": "The Extraordinary Embezzlement Case That Rocked Scottish Politics",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9898,
-    "published_at": "2026-06-25T01:57:55.723422+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
-    "headline": "Artist Pulls Work From London Museum After Clash Over Churchill\u2019s Legacy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-06-25T01:57:55.714726+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/trump-us-colombia-europe-heat-world-cup.html",
-    "headline": "Trump\u2019s Colombia Prize",
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/europe/france-children-heat-cars-deaths.html",
+    "headline": "Latest Victims of France\u2019s Heat Wave: Children Locked in Family Cars",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-06-25T01:57:55.708452+00:00"
+    "confidence_score": 0.6234,
+    "published_at": "2026-06-26T01:59:44.175397+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/23/world/australia/australia-albanese-prime-minister-popularity.html",
-    "headline": "Is the Australian Prime Minister\u2019s Pragmatism Enough in Uncertain Times?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-06-25T01:57:55.707192+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
-    "headline": "China Detained 2 Japanese on Suspicion of Smuggling",
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/devastating-earthquakes-will-test-venezuelas-newfound-alliance-with-us.html",
+    "headline": "Devastating Earthquakes Will Test Venezuela\u2019s Newfound Alliance With U.S.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9812,
-    "published_at": "2026-06-25T01:57:55.703372+00:00"
+    "confidence_score": 0.5587,
+    "published_at": "2026-06-26T01:59:44.170132+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html",
-    "headline": "Why Is Europe the Fastest-Warming Continent",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-06-25T01:57:55.702051+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe-climate-heat-wave-ebola-world-cup.html",
-    "headline": "A Climate Chaos Maker",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9462,
-    "published_at": "2026-06-25T01:57:55.700787+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
-    "headline": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-06-25T01:57:55.696987+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/spain-sanchez-corruption.html",
-    "headline": "The Wife of Spain\u2019s Leader Is Accused of Graft. It May Actually Help Him.",
+    "source_uri": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+    "headline": "Global Warming Upends London Climate Week",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-06-25T01:57:55.693193+00:00"
+    "confidence_score": 0.9919,
+    "published_at": "2026-06-26T01:59:44.168915+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
-    "headline": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.939,
-    "published_at": "2026-06-25T01:57:55.689473+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html",
-    "headline": "Extreme Heat Across Europe Creates Divide Over Leaving Schools Open",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5306,
-    "published_at": "2026-06-25T01:57:55.688281+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html",
-    "headline": "Iran\u2019s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9576,
-    "published_at": "2026-06-25T01:57:55.679862+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Parisians cool off in canal amid 'red alert' heatwave",
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/asia/north-korea-destroyer-nuclear.html",
+    "headline": "North Korea Deploys Its First Destroyer, Vowing to Project Nuclear Power by Sea",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9163,
-    "published_at": "2026-06-25T01:57:55.578361+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-06-26T01:59:44.154514+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html",
+    "headline": "King Charles III Has Paid More Than $39.6 Million in Taxes, Palace Discloses in a U.K. First",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9637,
+    "published_at": "2026-06-26T01:59:44.149224+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
+    "headline": "Iraq\u2019s New Leader Faces Resistance Trying to Bring Militias Under State Control",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9521,
+    "published_at": "2026-06-26T01:59:44.145192+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/africa/south-sudan-usaid-education.html",
+    "headline": "Can a Youth Boom Survive South Sudan\u2019s Education Crisis?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-06-26T01:59:44.143833+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html",
+    "headline": "Deadly Heat Wave in Europe Continues to Smash Temperature Records",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9836,
+    "published_at": "2026-06-26T01:59:44.142390+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
     "headline": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9894,
-    "published_at": "2026-06-25T01:57:55.576969+00:00"
+    "published_at": "2026-06-26T01:59:43.876136+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
-    "headline": "'We're begging' - Savannah Guthrie pleads for help as details of her mother\u2019s case emerge",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9824,
-    "published_at": "2026-06-25T01:57:55.575716+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
+    "headline": "The ICE raids are over, but some Minnesotans say they still live in fear",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-06-26T01:59:43.869345+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+    "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-06-25T01:57:55.567173+00:00"
+    "confidence_score": 0.9921,
+    "published_at": "2026-06-26T01:59:43.862636+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
-    "headline": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9812,
-    "published_at": "2026-06-25T01:57:55.559470+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-06-26T01:59:43.856042+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
-    "headline": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-06-25T01:57:55.555555+00:00"
+    "confidence_score": 0.8152,
+    "published_at": "2026-06-26T01:59:43.847972+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+    "headline": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-06-26T01:59:43.845390+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+    "headline": "People flee as building collapses on Caracas outskirts",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-06-26T01:59:43.840186+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-06-26T01:59:43.819265+00:00"
   }
 ]
