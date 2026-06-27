@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/24/world/venezuela-earthquake/earthquake-venezuela",
-    "headline": "Venezuela Hit by 7.1-Magnitude Earthquake",
+    "source_uri": "https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html",
+    "headline": "Why the Venezuelan Earthquakes Happened, and What to Expect Next",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8335,
-    "published_at": "2026-06-26T01:59:44.196117+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake-caracas.html",
-    "headline": "Venezuela Residents Describe Terror as Deadly Earthquake Struck",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9831,
-    "published_at": "2026-06-26T01:59:44.191273+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france/heres-the-latest",
-    "headline": "Deadly Heat Scorches Europe",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9301,
-    "published_at": "2026-06-26T01:59:44.190057+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/car-ramming-mexico-world-cup-cabo-san-lucas.html",
-    "headline": "Driver Plows Into Crowd of World Cup Fans in Mexico, Authorities Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9626,
-    "published_at": "2026-06-26T01:59:44.180405+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/europe/france-children-heat-cars-deaths.html",
-    "headline": "Latest Victims of France\u2019s Heat Wave: Children Locked in Family Cars",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6234,
-    "published_at": "2026-06-26T01:59:44.175397+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/devastating-earthquakes-will-test-venezuelas-newfound-alliance-with-us.html",
-    "headline": "Devastating Earthquakes Will Test Venezuela\u2019s Newfound Alliance With U.S.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5587,
-    "published_at": "2026-06-26T01:59:44.170132+00:00"
+    "confidence_score": 0.9917,
+    "published_at": "2026-06-27T01:52:48.106476+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
     "headline": "Global Warming Upends London Climate Week",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9919,
-    "published_at": "2026-06-26T01:59:44.168915+00:00"
+    "published_at": "2026-06-27T01:52:48.096632+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/asia/north-korea-destroyer-nuclear.html",
-    "headline": "North Korea Deploys Its First Destroyer, Vowing to Project Nuclear Power by Sea",
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/haitians-syrians-deportations-us.html",
+    "headline": "After Supreme Court TPS Ruling, What Conditions May Haitian and Syrian Deportees Face?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9642,
+    "published_at": "2026-06-27T01:52:48.095305+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html",
+    "headline": "Praying for Rescues as Hope Fades After Venezuela\u2019s Double Quake",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-06-26T01:59:44.154514+00:00"
+    "confidence_score": 0.9922,
+    "published_at": "2026-06-27T01:52:48.090110+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html",
-    "headline": "King Charles III Has Paid More Than $39.6 Million in Taxes, Palace Discloses in a U.K. First",
+    "source_uri": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html",
+    "headline": "Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9637,
-    "published_at": "2026-06-26T01:59:44.149224+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
-    "headline": "Iraq\u2019s New Leader Faces Resistance Trying to Bring Militias Under State Control",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9521,
-    "published_at": "2026-06-26T01:59:44.145192+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/africa/south-sudan-usaid-education.html",
-    "headline": "Can a Youth Boom Survive South Sudan\u2019s Education Crisis?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-06-26T01:59:44.143833+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html",
-    "headline": "Deadly Heat Wave in Europe Continues to Smash Temperature Records",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9836,
-    "published_at": "2026-06-26T01:59:44.142390+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9894,
-    "published_at": "2026-06-26T01:59:43.876136+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
-    "headline": "The ICE raids are over, but some Minnesotans say they still live in fear",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-06-26T01:59:43.869345+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-    "headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9921,
-    "published_at": "2026-06-26T01:59:43.862636+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-06-26T01:59:43.856042+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8152,
-    "published_at": "2026-06-26T01:59:43.847972+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-    "headline": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-06-26T01:59:43.845390+00:00"
+    "published_at": "2026-06-27T01:52:48.087654+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-    "headline": "People flee as building collapses on Caracas outskirts",
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/asia/iran-war-korea-jet-fuel.html",
+    "headline": "How a Jet Fuel Refinery Is Scrambling After the Iran War Oil Shock",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-06-26T01:59:43.840186+00:00"
+    "confidence_score": 0.9855,
+    "published_at": "2026-06-27T01:52:48.081578+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-survivors-displaced.html",
+    "headline": "Venezuelans Displaced by Quakes Sleep in Streets, Plazas and Cars",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-06-26T01:59:43.819265+00:00"
+    "confidence_score": 0.9937,
+    "published_at": "2026-06-27T01:52:48.078929+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake/survivors-la-guaira-hospital",
+    "headline": "Survivors in quake-hit La Guaira tell of loss and rescue.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9071,
+    "published_at": "2026-06-27T01:52:48.077566+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquakes-rescues.html",
+    "headline": "In Venezuela\u2019s Rubble, Listening for Whispers And Longing for Help",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-06-27T01:52:48.066106+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-military-response.html",
+    "headline": "As Foreign Aid Arrived, Many Venezuelans Asked: \u2018Where is Our Military?\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9837,
+    "published_at": "2026-06-27T01:52:48.063581+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/asia/world-cup-myanmar-junta.html",
+    "headline": "World Cups Fans in Myanmar Boycott Junta-Linked Broadcasts",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9811,
+    "published_at": "2026-06-27T01:52:48.053328+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html",
+    "headline": "Iran\u2019s Long World Cup Journey Defined by War and Political Tension",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-06-27T01:52:48.050885+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/europe/germany-christmas-market-doctor.html",
+    "headline": "Psychiatrist Who Killed Six at German Christmas Market Is Jailed for Life",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-06-27T01:52:48.049692+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
+    "headline": "Europe\u2019s Scorching Heat Is Gradually Moving East",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9557,
+    "published_at": "2026-06-27T01:52:48.048392+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
+    "headline": "How Three Months of War Changed the Gulf Forever",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-06-27T01:52:48.042182+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
+    "headline": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9948,
+    "published_at": "2026-06-27T01:52:48.040921+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+    "headline": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-06-27T01:52:48.038127+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
+    "headline": "They quit the West for Russia's traditional values, but it wasn't what they expected",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.971,
+    "published_at": "2026-06-27T01:52:47.824153+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+    "headline": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9912,
+    "published_at": "2026-06-27T01:52:47.799492+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Europe's deadly heatwave breaks German record and halts public events",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7407,
+    "published_at": "2026-06-27T01:52:47.787145+00:00"
   }
 ]
