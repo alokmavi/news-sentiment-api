@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html",
-    "headline": "Why the Venezuelan Earthquakes Happened, and What to Expect Next",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9917,
-    "published_at": "2026-06-27T01:52:48.106476+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
-    "headline": "Global Warming Upends London Climate Week",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-06-27T01:52:48.096632+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/haitians-syrians-deportations-us.html",
-    "headline": "After Supreme Court TPS Ruling, What Conditions May Haitian and Syrian Deportees Face?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9642,
-    "published_at": "2026-06-27T01:52:48.095305+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html",
-    "headline": "Praying for Rescues as Hope Fades After Venezuela\u2019s Double Quake",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-06-27T01:52:48.090110+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html",
-    "headline": "Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-06-27T01:52:48.087654+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/asia/iran-war-korea-jet-fuel.html",
-    "headline": "How a Jet Fuel Refinery Is Scrambling After the Iran War Oil Shock",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9855,
-    "published_at": "2026-06-27T01:52:48.081578+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-survivors-displaced.html",
-    "headline": "Venezuelans Displaced by Quakes Sleep in Streets, Plazas and Cars",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-06-27T01:52:48.078929+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake/survivors-la-guaira-hospital",
-    "headline": "Survivors in quake-hit La Guaira tell of loss and rescue.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9071,
-    "published_at": "2026-06-27T01:52:48.077566+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquakes-rescues.html",
     "headline": "In Venezuela\u2019s Rubble, Listening for Whispers And Longing for Help",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9975,
-    "published_at": "2026-06-27T01:52:48.066106+00:00"
+    "published_at": "2026-06-29T02:03:54.516382+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-military-response.html",
-    "headline": "As Foreign Aid Arrived, Many Venezuelans Asked: \u2018Where is Our Military?\u2019",
+    "source_uri": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-06-29T02:03:54.512685+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-hospitals-earthquake-collapse.html",
+    "headline": "Scenes of Collapse: The Emergency at Venezuela\u2019s Hospitals",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9936,
+    "published_at": "2026-06-29T02:03:54.511433+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/africa/world-cup-cape-verde-fans.html",
+    "headline": "At the Stadium and Far Away, Cape Verde Fans Embrace the Possible",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-06-29T02:03:54.506541+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
+    "headline": "Mexican Officials Have Become Informants for the Trump Administration",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9837,
-    "published_at": "2026-06-27T01:52:48.063581+00:00"
+    "confidence_score": 0.862,
+    "published_at": "2026-06-29T02:03:54.504068+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/asia/world-cup-myanmar-junta.html",
-    "headline": "World Cups Fans in Myanmar Boycott Junta-Linked Broadcasts",
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
+    "headline": "Venezuela\u2019s Economy Was On the Rise. Then the Earthquakes Struck.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9811,
-    "published_at": "2026-06-27T01:52:48.053328+00:00"
+    "confidence_score": 0.9601,
+    "published_at": "2026-06-29T02:03:54.500281+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html",
-    "headline": "Iran\u2019s Long World Cup Journey Defined by War and Political Tension",
+    "source_uri": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-06-29T02:03:54.499030+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/canada/cambridge-bay-nunavut-diversity.html",
+    "headline": "Affogato and Rendang on the Menu in Canada\u2019s High Arctic",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-06-29T02:03:54.497734+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
+    "headline": "U.S. Officials Said to Be Frustrated With Machado\u2019s Call for Help",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9846,
+    "published_at": "2026-06-29T02:03:54.478744+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
+    "headline": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren\u2019t Always Welcome.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9839,
+    "published_at": "2026-06-29T02:03:54.466545+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
+    "headline": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-06-29T02:03:54.460613+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+    "headline": "Here\u2019s What to Know About the Standoff in the Strait of Hormuz",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9604,
+    "published_at": "2026-06-29T02:03:54.457109+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9817,
+    "published_at": "2026-06-29T02:03:54.455922+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+    "headline": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.991,
+    "published_at": "2026-06-29T02:03:54.454685+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+    "headline": "Rescuers in \u2018Critical Hours\u2019 as Window to Find Survivors Closes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-06-29T02:03:54.453380+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-06-27T01:52:48.050885+00:00"
+    "published_at": "2026-06-29T02:03:54.196411+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/europe/germany-christmas-market-doctor.html",
-    "headline": "Psychiatrist Who Killed Six at German Christmas Market Is Jailed for Life",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-06-27T01:52:48.049692+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
-    "headline": "Europe\u2019s Scorching Heat Is Gradually Moving East",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9557,
-    "published_at": "2026-06-27T01:52:48.048392+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
-    "headline": "How Three Months of War Changed the Gulf Forever",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-06-27T01:52:48.042182+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
-    "headline": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-06-27T01:52:48.040921+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-    "headline": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-06-27T01:52:48.038127+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
-    "headline": "They quit the West for Russia's traditional values, but it wasn't what they expected",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.971,
-    "published_at": "2026-06-27T01:52:47.824153+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-    "headline": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9912,
-    "published_at": "2026-06-27T01:52:47.799492+00:00"
+    "published_at": "2026-06-29T02:03:54.195246+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Europe's deadly heatwave breaks German record and halts public events",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7407,
-    "published_at": "2026-06-27T01:52:47.787145+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+    "headline": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-06-29T02:03:54.180053+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+    "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9857,
+    "published_at": "2026-06-29T02:03:54.177547+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-06-29T02:03:54.155432+00:00"
   }
 ]
