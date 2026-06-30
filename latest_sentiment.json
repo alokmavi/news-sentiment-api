@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquakes-rescues.html",
-    "headline": "In Venezuela\u2019s Rubble, Listening for Whispers And Longing for Help",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-06-29T02:03:54.516382+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-29T02:03:54.512685+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-hospitals-earthquake-collapse.html",
-    "headline": "Scenes of Collapse: The Emergency at Venezuela\u2019s Hospitals",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-06-29T02:03:54.511433+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/africa/world-cup-cape-verde-fans.html",
-    "headline": "At the Stadium and Far Away, Cape Verde Fans Embrace the Possible",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-06-29T02:03:54.506541+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
-    "headline": "Mexican Officials Have Become Informants for the Trump Administration",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.862,
-    "published_at": "2026-06-29T02:03:54.504068+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
-    "headline": "Venezuela\u2019s Economy Was On the Rise. Then the Earthquakes Struck.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9601,
-    "published_at": "2026-06-29T02:03:54.500281+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-06-29T02:03:54.499030+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/06/27/world/canada/cambridge-bay-nunavut-diversity.html",
     "headline": "Affogato and Rendang on the Menu in Canada\u2019s High Arctic",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-06-29T02:03:54.497734+00:00"
+    "published_at": "2026-06-30T01:58:23.998575+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
-    "headline": "U.S. Officials Said to Be Frustrated With Machado\u2019s Call for Help",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9846,
-    "published_at": "2026-06-29T02:03:54.478744+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
-    "headline": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren\u2019t Always Welcome.",
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
+    "headline": "Australia Says It Will Toughen Its Social Media Ban for Children",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9839,
-    "published_at": "2026-06-29T02:03:54.466545+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-06-30T01:58:23.991772+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/06/27/world/canada/grizzly-bear-alberta-canada-video.html",
+    "headline": "A Close Call With an Alberta Grizzly Bear, Recorded in Its Entirety",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7558,
+    "published_at": "2026-06-30T01:58:23.983664+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
     "headline": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.996,
-    "published_at": "2026-06-29T02:03:54.460613+00:00"
+    "published_at": "2026-06-30T01:58:23.972525+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
-    "headline": "Here\u2019s What to Know About the Standoff in the Strait of Hormuz",
+    "source_uri": "https://www.nytimes.com/2026/06/29/world/americas/for-these-teens-soccer-is-life-now-the-cartels-want-in.html",
+    "headline": "For These Teens in Mexico, Soccer Is Life. Now, the Cartels Want In.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9604,
-    "published_at": "2026-06-29T02:03:54.457109+00:00"
+    "confidence_score": 0.9958,
+    "published_at": "2026-06-30T01:58:23.951742+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
-    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9817,
-    "published_at": "2026-06-29T02:03:54.455922+00:00"
+    "source_uri": "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html",
+    "headline": "Europe Heat Wave: Forecasts, Warnings and How to Stay Cool",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-06-30T01:58:23.939396+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
-    "headline": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+    "source_uri": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
+    "headline": "Andy Burnham, the UK\u2019s Likely Next Prime Minister, Promises Shift of Power Out of London",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-06-29T02:03:54.454685+00:00"
+    "confidence_score": 0.9688,
+    "published_at": "2026-06-30T01:58:23.933821+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-    "headline": "Rescuers in \u2018Critical Hours\u2019 as Window to Find Survivors Closes",
+    "source_uri": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+    "headline": "Pakistan Attacks Afghanistan, Killing More Than 30",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-29T02:03:54.453380+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-06-30T01:58:23.926726+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
     "headline": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-06-29T02:03:54.196411+00:00"
+    "published_at": "2026-06-30T01:58:23.753048+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
     "headline": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9912,
-    "published_at": "2026-06-29T02:03:54.195246+00:00"
+    "published_at": "2026-06-30T01:58:23.751736+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
-    "headline": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-06-29T02:03:54.180053+00:00"
+    "confidence_score": 0.9942,
+    "published_at": "2026-06-30T01:58:23.749050+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-    "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
+    "headline": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-06-29T02:03:54.177547+00:00"
+    "confidence_score": 0.8699,
+    "published_at": "2026-06-30T01:58:23.746409+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "headline": "Uganda's leading media outlets shut down by army chief",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-06-29T02:03:54.155432+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-06-30T01:58:23.738725+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Senior South African police officer survives assassination attempt",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9093,
+    "published_at": "2026-06-30T01:58:23.729081+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
+    "headline": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-06-30T01:58:23.722342+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+    "headline": "South Korea football coach quits as president calls for probe into World Cup loss",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9551,
+    "published_at": "2026-06-30T01:58:23.719726+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+    "headline": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.822,
+    "published_at": "2026-06-30T01:58:23.718357+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "headline": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9798,
+    "published_at": "2026-06-30T01:58:23.712975+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9609,
+    "published_at": "2026-06-30T01:58:23.710249+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+    "headline": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-06-30T01:58:23.708838+00:00"
   }
 ]
