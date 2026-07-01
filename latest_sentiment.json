@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/canada/cambridge-bay-nunavut-diversity.html",
-    "headline": "Affogato and Rendang on the Menu in Canada\u2019s High Arctic",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-06-30T01:58:23.998575+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
-    "headline": "Australia Says It Will Toughen Its Social Media Ban for Children",
+    "source_uri": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+    "headline": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-06-30T01:58:23.991772+00:00"
+    "confidence_score": 0.991,
+    "published_at": "2026-07-01T02:03:42.188180+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/27/world/canada/grizzly-bear-alberta-canada-video.html",
-    "headline": "A Close Call With an Alberta Grizzly Bear, Recorded in Its Entirety",
+    "source_uri": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7558,
-    "published_at": "2026-06-30T01:58:23.983664+00:00"
+    "confidence_score": 0.9817,
+    "published_at": "2026-07-01T02:03:42.186595+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html",
-    "headline": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
+    "source_uri": "https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html",
+    "headline": "Europe\u2019s Heat Politics",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-06-30T01:58:23.972525+00:00"
+    "confidence_score": 0.9846,
+    "published_at": "2026-07-01T02:03:42.180670+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/29/world/americas/for-these-teens-soccer-is-life-now-the-cartels-want-in.html",
-    "headline": "For These Teens in Mexico, Soccer Is Life. Now, the Cartels Want In.",
+    "source_uri": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+    "headline": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-06-30T01:58:23.951742+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-07-01T02:03:42.179450+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html",
-    "headline": "Europe Heat Wave: Forecasts, Warnings and How to Stay Cool",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-06-30T01:58:23.939396+00:00"
+    "source_uri": "https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html",
+    "headline": "France Recorded 1,000 Excess Deaths During Heat Wave, Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9928,
+    "published_at": "2026-07-01T02:03:42.170839+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
     "headline": "Andy Burnham, the UK\u2019s Likely Next Prime Minister, Promises Shift of Power Out of London",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9688,
-    "published_at": "2026-06-30T01:58:23.933821+00:00"
+    "published_at": "2026-07-01T02:03:42.169626+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
-    "headline": "Pakistan Attacks Afghanistan, Killing More Than 30",
+    "source_uri": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
+    "headline": "6 Are Killed During a Rare Mass Shooting in Germany",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-06-30T01:58:23.926726+00:00"
+    "confidence_score": 0.9946,
+    "published_at": "2026-07-01T02:03:42.168370+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
+    "source_uri": "https://www.nytimes.com/2026/06/29/world/les-mills-dead.html",
+    "headline": "Les Mills, Olympian Who Founded Fitness Chain, Dies at 91",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-06-30T01:58:23.753048+00:00"
+    "confidence_score": 0.9987,
+    "published_at": "2026-07-01T02:03:42.167112+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
+    "source_uri": "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html",
+    "headline": "In Peru\u2019s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9912,
-    "published_at": "2026-06-30T01:58:23.751736+00:00"
+    "confidence_score": 0.9987,
+    "published_at": "2026-07-01T02:03:42.158611+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-06-30T01:58:23.749050+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
-    "headline": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8699,
-    "published_at": "2026-06-30T01:58:23.746409+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
-    "headline": "Uganda's leading media outlets shut down by army chief",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-06-30T01:58:23.738725+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Senior South African police officer survives assassination attempt",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9093,
-    "published_at": "2026-06-30T01:58:23.729081+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
-    "headline": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
+    "source_uri": "https://www.nytimes.com/2026/06/30/world/china-ai-jobs-birthright-hormuz.html",
+    "headline": "China\u2019s Plan to Save Jobs From A.I.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-06-30T01:58:23.722342+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-07-01T02:03:42.151292+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-    "headline": "South Korea football coach quits as president calls for probe into World Cup loss",
+    "source_uri": "https://www.nytimes.com/2026/06/30/world/americas/mexico-driver-died-world-cup-party.html",
+    "headline": "Driver Is Reported Dead Days After Plowing Into World Cup Fans in Mexico",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9551,
-    "published_at": "2026-06-30T01:58:23.719726+00:00"
+    "confidence_score": 0.9251,
+    "published_at": "2026-07-01T02:03:42.146470+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-    "headline": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.822,
-    "published_at": "2026-06-30T01:58:23.718357+00:00"
+    "source_uri": "https://www.nytimes.com/2026/06/30/world/europe/spain-migrants-legal-status.html",
+    "headline": "More Than 1 Million Migrants Apply for Legal Status in Spain",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-07-01T02:03:42.141591+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-    "headline": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+    "source_uri": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
+    "headline": "Australian Man Charged With Homicide After Thai Teen\u2019s Body Found in Suitcase",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9798,
-    "published_at": "2026-06-30T01:58:23.712975+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-07-01T02:03:42.137827+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9609,
-    "published_at": "2026-06-30T01:58:23.710249+00:00"
+    "source_uri": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+    "headline": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9341,
+    "published_at": "2026-07-01T02:03:42.133085+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-    "headline": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+    "source_uri": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+    "headline": "U.S. and Iran to Meet with Mediators in Qatar",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-06-30T01:58:23.708838+00:00"
+    "confidence_score": 0.9663,
+    "published_at": "2026-07-01T02:03:42.130640+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Americans react to Supreme Court upholding birthright citizenship",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9697,
+    "published_at": "2026-07-01T02:03:41.956697+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Supreme Court's birthright ruling is major blow to Trump",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-07-01T02:03:41.950887+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+    "headline": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-07-01T02:03:41.949680+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Angry Venezuelans accuse government of negligence over earthquake response",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-07-01T02:03:41.948510+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9929,
+    "published_at": "2026-07-01T02:03:41.947350+00:00"
   }
 ]
