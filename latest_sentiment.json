@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html",
-    "headline": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9465,
-    "published_at": "2026-07-04T01:27:12.892188+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
-    "headline": "Ukraine Takes the War to Russia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9651,
-    "published_at": "2026-07-04T01:27:12.889548+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/01/world/americas/mexico-world-cup-celebrations.html",
-    "headline": "\u00bfY Si S\u00ed? The World Cup Delivers Hope to Mexico",
+    "source_uri": "https://www.nytimes.com/2026/07/02/world/asia/03int-india-japan-modi-takaichi-security.html",
+    "headline": "India and Japan Expand Defense and Economic Ties",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-07-04T01:27:12.888294+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/ukraine-kyiv-russia-attack",
-    "headline": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9902,
-    "published_at": "2026-07-04T01:27:12.886891+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html",
-    "headline": "Drones Over Europe Raise Concerns About Russian Activities",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9762,
-    "published_at": "2026-07-04T01:27:12.878353+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/nato-russia-attack-ukraine.html",
-    "headline": "Russia\u2019s Deadly Attack on Ukraine Reminds Europe of Its Own Vulnerabilities",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-07-04T01:27:12.869864+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html",
-    "headline": "An Aerial View of Disaster at a Venezuela Housing Project",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9042,
-    "published_at": "2026-07-04T01:27:12.867239+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
-    "headline": "Even as It Bombards Kyiv, Russia\u2019s Wider Military Campaign Has Largely Stalled",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-07-04T01:27:12.865071+00:00"
+    "confidence_score": 0.9944,
+    "published_at": "2026-07-05T01:33:29.306056+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
     "headline": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.8878,
-    "published_at": "2026-07-04T01:27:12.861761+00:00"
+    "published_at": "2026-07-05T01:33:29.304688+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/declaration-independence-copy-uk-archive.html",
-    "headline": "Rare Copy of the Declaration of Independence Is Discovered in London",
+    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/spain-police-investigation-sanchez.html",
+    "headline": "Court Investigates Spanish Police Chief, Heaping Pressure on Prime Minister",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9229,
+    "published_at": "2026-07-05T01:33:29.303345+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/teenagers-rape-england-sentencing.html",
+    "headline": "Teenage Boys Who Raped Girls in Fordingbridge, England, Have Sentences Revised",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9814,
+    "published_at": "2026-07-05T01:33:29.299311+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
+    "headline": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-07-04T01:27:12.854164+00:00"
+    "confidence_score": 0.942,
+    "published_at": "2026-07-05T01:33:29.297950+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/monaco-bomb-suspect-ukraine-anastasiia-berezovska.html",
-    "headline": "Woman From Ukraine Was Behind Monaco Bomb Attack, Officials Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-07-04T01:27:12.845221+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/uk-deport-leader-grooming-gang.html",
-    "headline": "U.K. Lawmakers Demand Deportation of \u2018Grooming Gang\u2019 Leader",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9921,
-    "published_at": "2026-07-04T01:27:12.841964+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html",
-    "headline": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-07-04T01:27:12.839714+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
-    "headline": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-04T01:27:12.834157+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/02/world/canada/carney-trade-oil-pipeline-alberta-british-columbia.html",
+    "headline": "Carney Unveils Multibillion Dollar Oil Pipeline Project to Boost Trade With Asia",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9859,
+    "published_at": "2026-07-05T01:33:29.296585+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
     "headline": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-07-04T01:27:12.830829+00:00"
+    "published_at": "2026-07-05T01:33:29.295167+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-    "headline": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+    "source_uri": "https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html",
+    "headline": "E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9865,
+    "published_at": "2026-07-05T01:33:29.280156+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/03/world/africa/cape-verde-argentina-world-cup-fans.html",
+    "headline": "Cape Verde Faces Argentina\u2019s World Cup Juggernaut. Its Fans Aren\u2019t Stressed.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9427,
-    "published_at": "2026-07-04T01:27:12.653026+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-07-05T01:33:29.276054+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-    "headline": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+    "source_uri": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-last-time-iran-buried-a-supreme-leader-there-was-chaos",
+    "headline": "When Iran Last Buried a Supreme Leader, There Was Chaos",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9104,
-    "published_at": "2026-07-04T01:27:12.644046+00:00"
+    "confidence_score": 0.9918,
+    "published_at": "2026-07-05T01:33:29.260638+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
+    "source_uri": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
+    "headline": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-04T01:27:12.638527+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-07-05T01:33:29.257843+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+    "source_uri": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+    "headline": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9675,
-    "published_at": "2026-07-04T01:27:12.631965+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-07-05T01:33:29.252183+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-    "headline": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
+    "headline": "A U.S. Independence Celebration Damaged a Museum in Belgium",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-07-04T01:27:12.625231+00:00"
+    "confidence_score": 0.993,
+    "published_at": "2026-07-05T01:33:29.250842+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+    "headline": "Prince Harry Will Travel to London, but Without His Family",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9889,
+    "published_at": "2026-07-05T01:33:29.239946+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-07-05T01:33:29.125931+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cd0mpgvzzy5o?at_medium=RSS&at_campaign=rss",
+    "headline": "'It's so hot' - Dangerous hot weather grips parts of the US",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5953,
+    "published_at": "2026-07-05T01:33:29.123111+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-07-05T01:33:29.121515+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9594,
+    "published_at": "2026-07-05T01:33:29.104530+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+    "headline": "Row after Indian state drops eggs from school lunch menu",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9879,
+    "published_at": "2026-07-05T01:33:29.101245+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Former chess champion Kramnik banned over cheating remarks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-07-05T01:33:29.096506+00:00"
   }
 ]
