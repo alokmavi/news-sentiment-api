@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/asia/03int-india-japan-modi-takaichi-security.html",
-    "headline": "India and Japan Expand Defense and Economic Ties",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-07-05T01:33:29.306056+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-    "headline": "Bomb Explodes at Damascus Cafe, Killing at Least 6",
+    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html",
+    "headline": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8878,
-    "published_at": "2026-07-05T01:33:29.304688+00:00"
+    "confidence_score": 0.9943,
+    "published_at": "2026-07-06T01:46:51.548580+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/spain-police-investigation-sanchez.html",
-    "headline": "Court Investigates Spanish Police Chief, Heaping Pressure on Prime Minister",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9229,
-    "published_at": "2026-07-05T01:33:29.303345+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/teenagers-rape-england-sentencing.html",
-    "headline": "Teenage Boys Who Raped Girls in Fordingbridge, England, Have Sentences Revised",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9814,
-    "published_at": "2026-07-05T01:33:29.299311+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
-    "headline": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
+    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
+    "headline": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.942,
-    "published_at": "2026-07-05T01:33:29.297950+00:00"
+    "confidence_score": 0.9847,
+    "published_at": "2026-07-06T01:46:51.544640+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/canada/carney-trade-oil-pipeline-alberta-british-columbia.html",
-    "headline": "Carney Unveils Multibillion Dollar Oil Pipeline Project to Boost Trade With Asia",
+    "source_uri": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
+    "headline": "It\u2019s Day 1 of the Supreme Leader\u2019s Funeral, and Allies Gather in Iran",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9859,
-    "published_at": "2026-07-05T01:33:29.296585+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
-    "headline": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-07-05T01:33:29.295167+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html",
-    "headline": "E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9865,
-    "published_at": "2026-07-05T01:33:29.280156+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-07-06T01:46:51.540604+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/03/world/africa/cape-verde-argentina-world-cup-fans.html",
     "headline": "Cape Verde Faces Argentina\u2019s World Cup Juggernaut. Its Fans Aren\u2019t Stressed.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-07-05T01:33:29.276054+00:00"
+    "published_at": "2026-07-06T01:46:51.538027+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/03/world/asia/pakistan-bus-crash.html",
+    "headline": "Bus Plunges 70 Feet Into a Ravine in Pakistan, Killing 40",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9939,
+    "published_at": "2026-07-06T01:46:51.536732+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html",
+    "headline": "Australia Tried to Push Back on China. China Pushed Harder.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9905,
+    "published_at": "2026-07-06T01:46:51.530187+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
+    "headline": "In Rwanda, July 4 Is Liberation Day From Genocide",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9443,
+    "published_at": "2026-07-06T01:46:51.523696+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-last-time-iran-buried-a-supreme-leader-there-was-chaos",
     "headline": "When Iran Last Buried a Supreme Leader, There Was Chaos",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9918,
-    "published_at": "2026-07-05T01:33:29.260638+00:00"
+    "published_at": "2026-07-06T01:46:51.512147+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
-    "headline": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-07-05T01:33:29.257843+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html",
+    "headline": "In Britain, July 4 Is Mostly Just a Saturday",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9575,
+    "published_at": "2026-07-06T01:46:51.510865+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
-    "headline": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+    "source_uri": "https://www.nytimes.com/2026/07/04/world/canada/world-cup-canada-morocco.html",
+    "headline": "Canada Has a New Obsession: Soccer",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-05T01:33:29.252183+00:00"
+    "confidence_score": 0.9952,
+    "published_at": "2026-07-06T01:46:51.507049+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
-    "headline": "A U.S. Independence Celebration Damaged a Museum in Belgium",
+    "source_uri": "https://www.nytimes.com/2026/07/05/world/iran-strait-hormuz-ali-khamenei.html",
+    "headline": "Can Iran Keep Its Edge?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-07-05T01:33:29.250842+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-07-06T01:46:51.500643+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
     "headline": "Prince Harry Will Travel to London, but Without His Family",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9889,
-    "published_at": "2026-07-05T01:33:29.239946+00:00"
+    "published_at": "2026-07-06T01:46:51.496660+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-07-05T01:33:29.125931+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cd0mpgvzzy5o?at_medium=RSS&at_campaign=rss",
-    "headline": "'It's so hot' - Dangerous hot weather grips parts of the US",
+    "source_uri": "https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html",
+    "headline": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5953,
-    "published_at": "2026-07-05T01:33:29.123111+00:00"
+    "confidence_score": 0.9073,
+    "published_at": "2026-07-06T01:46:51.492725+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-07-05T01:33:29.121515+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+    "source_uri": "https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html",
+    "headline": "Impeachment Trial of Philippine Vice President Set to Begin",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9594,
-    "published_at": "2026-07-05T01:33:29.104530+00:00"
+    "confidence_score": 0.9543,
+    "published_at": "2026-07-06T01:46:51.491437+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
-    "headline": "Row after Indian state drops eggs from school lunch menu",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9879,
-    "published_at": "2026-07-05T01:33:29.101245+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Former chess champion Kramnik banned over cheating remarks",
+    "source_uri": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
+    "headline": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-07-05T01:33:29.096506+00:00"
+    "confidence_score": 0.9686,
+    "published_at": "2026-07-06T01:46:51.490181+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
+    "headline": "Exhausted by Iran War, Tehran Transforms for Khamenei\u2019s Funeral",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-07-06T01:46:51.481356+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.992,
+    "published_at": "2026-07-06T01:46:51.291142+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+    "headline": "How Iran's new regime is very different to what came before",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7064,
+    "published_at": "2026-07-06T01:46:51.277502+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+    "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8665,
+    "published_at": "2026-07-06T01:46:51.263574+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7909,
+    "published_at": "2026-07-06T01:46:51.238589+00:00"
   }
 ]
