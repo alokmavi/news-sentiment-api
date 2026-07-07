@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html",
-    "headline": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
+    "source_uri": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
+    "headline": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-07-06T01:46:51.548580+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-07-07T01:44:46.875842+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
-    "headline": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
+    "source_uri": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+    "headline": "Huge Crowds Mass in Tehran for Ayatollah\u2019s State Funeral",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-07-06T01:46:51.544640+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
-    "headline": "It\u2019s Day 1 of the Supreme Leader\u2019s Funeral, and Allies Gather in Iran",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-07-06T01:46:51.540604+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/africa/cape-verde-argentina-world-cup-fans.html",
-    "headline": "Cape Verde Faces Argentina\u2019s World Cup Juggernaut. Its Fans Aren\u2019t Stressed.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-07-06T01:46:51.538027+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/03/world/asia/pakistan-bus-crash.html",
-    "headline": "Bus Plunges 70 Feet Into a Ravine in Pakistan, Killing 40",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-07-06T01:46:51.536732+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html",
-    "headline": "Australia Tried to Push Back on China. China Pushed Harder.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-07-06T01:46:51.530187+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
-    "headline": "In Rwanda, July 4 Is Liberation Day From Genocide",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9443,
-    "published_at": "2026-07-06T01:46:51.523696+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-last-time-iran-buried-a-supreme-leader-there-was-chaos",
-    "headline": "When Iran Last Buried a Supreme Leader, There Was Chaos",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-07-06T01:46:51.512147+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html",
-    "headline": "In Britain, July 4 Is Mostly Just a Saturday",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9575,
-    "published_at": "2026-07-06T01:46:51.510865+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/04/world/canada/world-cup-canada-morocco.html",
-    "headline": "Canada Has a New Obsession: Soccer",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-07-06T01:46:51.507049+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/05/world/iran-strait-hormuz-ali-khamenei.html",
-    "headline": "Can Iran Keep Its Edge?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-07-06T01:46:51.500643+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
-    "headline": "Prince Harry Will Travel to London, but Without His Family",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9889,
-    "published_at": "2026-07-06T01:46:51.496660+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html",
-    "headline": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9073,
-    "published_at": "2026-07-06T01:46:51.492725+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html",
-    "headline": "Impeachment Trial of Philippine Vice President Set to Begin",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9543,
-    "published_at": "2026-07-06T01:46:51.491437+00:00"
+    "confidence_score": 0.9261,
+    "published_at": "2026-07-07T01:44:46.873227+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
     "headline": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9686,
-    "published_at": "2026-07-06T01:46:51.490181+00:00"
+    "published_at": "2026-07-07T01:44:46.862896+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
-    "headline": "Exhausted by Iran War, Tehran Transforms for Khamenei\u2019s Funeral",
+    "source_uri": "https://www.nytimes.com/2026/07/05/world/africa/durban-july-south-africa-black-wealth.html",
+    "headline": "The Main Attraction at Africa\u2019s Most Lucrative Horse Race? Black Wealth.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-07-06T01:46:51.481356+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-07-07T01:44:46.852592+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/europe/andy-burnham-manchesterism-uk.html",
+    "headline": "Andy Burnham, the UK\u2019s Likely Next Prime Minister, Made His Name in Manchester. Here\u2019s How.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-07-07T01:44:46.844899+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-07-07T01:44:46.843588+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/middleeast/khamenei-funeral-tehran-residents-exodus.html",
+    "headline": "As Mourners for Khamenei Descend on Tehran, Many Residents Take Flight",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-07-06T01:46:51.291142+00:00"
+    "confidence_score": 0.9574,
+    "published_at": "2026-07-07T01:44:46.838422+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-    "headline": "How Iran's new regime is very different to what came before",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7064,
-    "published_at": "2026-07-06T01:46:51.277502+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html",
+    "headline": "Wildfires Force Evacuation of Thousands in Southwest France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8367,
+    "published_at": "2026-07-07T01:44:46.833226+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-    "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8665,
-    "published_at": "2026-07-06T01:46:51.263574+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-dissidents-funeral-anger.html",
+    "headline": "Families of Iranians Killed by Government Dismayed by Leader\u2019s Funeral Pageantry",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.989,
+    "published_at": "2026-07-07T01:44:46.830674+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html",
+    "headline": "Canada Bets on NATO Partners for Its Expanded Submarine Fleet",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7909,
-    "published_at": "2026-07-06T01:46:51.238589+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-07-07T01:44:46.825485+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/australia/spate-of-shark-attacks-means-more-drones-for-australias-beaches.html",
+    "headline": "Spate of Shark Attacks Means More Drones for Australia\u2019s Beaches",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9306,
+    "published_at": "2026-07-07T01:44:46.822881+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
+    "headline": "China Test Fires Long-Range Ballistic Missile in the Pacific",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9011,
+    "published_at": "2026-07-07T01:44:46.809735+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8594,
+    "published_at": "2026-07-07T01:44:46.518355+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Girl trapped in Venezuela quake 'survived on ketchup and cheese'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-07-07T01:44:46.517041+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cn5999n95epo?at_medium=RSS&at_campaign=rss",
+    "headline": "'It's a very sad day' - Mexican fans react to loss to England",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9589,
+    "published_at": "2026-07-07T01:44:46.512998+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Fatal Typhoon Maysak floods burst dam wall in China",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8081,
+    "published_at": "2026-07-07T01:44:46.510397+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-07-07T01:44:46.497202+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9728,
+    "published_at": "2026-07-07T01:44:46.487631+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+    "headline": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.994,
+    "published_at": "2026-07-07T01:44:46.485580+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump confirms he asked Fifa to review Balogun ban",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7497,
+    "published_at": "2026-07-07T01:44:46.464864+00:00"
   }
 ]
