@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
-    "headline": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+    "headline": "Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-07-07T01:44:46.875842+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-    "headline": "Huge Crowds Mass in Tehran for Ayatollah\u2019s State Funeral",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9261,
-    "published_at": "2026-07-07T01:44:46.873227+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
-    "headline": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9686,
-    "published_at": "2026-07-07T01:44:46.862896+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/05/world/africa/durban-july-south-africa-black-wealth.html",
-    "headline": "The Main Attraction at Africa\u2019s Most Lucrative Horse Race? Black Wealth.",
-    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-07-07T01:44:46.852592+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/europe/andy-burnham-manchesterism-uk.html",
-    "headline": "Andy Burnham, the UK\u2019s Likely Next Prime Minister, Made His Name in Manchester. Here\u2019s How.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-07T01:44:46.844899+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-07-07T01:44:46.843588+00:00"
+    "published_at": "2026-07-08T01:18:56.896086+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/06/world/middleeast/khamenei-funeral-tehran-residents-exodus.html",
     "headline": "As Mourners for Khamenei Descend on Tehran, Many Residents Take Flight",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9574,
-    "published_at": "2026-07-07T01:44:46.838422+00:00"
+    "published_at": "2026-07-08T01:18:56.894808+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html",
-    "headline": "Wildfires Force Evacuation of Thousands in Southwest France",
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/asia/sri-lanka-prison-riot-dead.html",
+    "headline": "Riot in Sri Lanka\u2019s Negombo prison leaves at least 23 dead",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8367,
-    "published_at": "2026-07-07T01:44:46.833226+00:00"
+    "confidence_score": 0.9987,
+    "published_at": "2026-07-08T01:18:56.883281+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-dissidents-funeral-anger.html",
-    "headline": "Families of Iranians Killed by Government Dismayed by Leader\u2019s Funeral Pageantry",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-07-07T01:44:46.830674+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html",
-    "headline": "Canada Bets on NATO Partners for Its Expanded Submarine Fleet",
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-khamenei-funeral.html",
+    "headline": "Iranians Mourn a Slain Leader, and Call for Vengeance",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-07-07T01:44:46.825485+00:00"
+    "confidence_score": 0.9952,
+    "published_at": "2026-07-08T01:18:56.872505+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/australia/spate-of-shark-attacks-means-more-drones-for-australias-beaches.html",
-    "headline": "Spate of Shark Attacks Means More Drones for Australia\u2019s Beaches",
+    "source_uri": "https://www.nytimes.com/2026/07/06/world/nato-summit-turkey-trump-fifa-ban.html",
+    "headline": "NATO Needs Turkey",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9306,
-    "published_at": "2026-07-07T01:44:46.822881+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-07-08T01:18:56.868423+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-    "headline": "China Test Fires Long-Range Ballistic Missile in the Pacific",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9011,
-    "published_at": "2026-07-07T01:44:46.809735+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
+    "headline": "What Our Reporter Saw in Tehran: A Human Tide of Mourners",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8594,
-    "published_at": "2026-07-07T01:44:46.518355+00:00"
+    "confidence_score": 0.9826,
+    "published_at": "2026-07-08T01:18:56.863689+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Girl trapped in Venezuela quake 'survived on ketchup and cheese'",
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000011012446/the-symbols-we-saw-at-khameneis-funeral.html",
+    "headline": "The Symbols We Saw at Khamenei\u2019s Funeral",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-07-07T01:44:46.517041+00:00"
+    "confidence_score": 0.9549,
+    "published_at": "2026-07-08T01:18:56.849318+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cn5999n95epo?at_medium=RSS&at_campaign=rss",
-    "headline": "'It's a very sad day' - Mexican fans react to loss to England",
+    "source_uri": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
+    "headline": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9589,
-    "published_at": "2026-07-07T01:44:46.512998+00:00"
+    "confidence_score": 0.9844,
+    "published_at": "2026-07-08T01:18:56.843170+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Fatal Typhoon Maysak floods burst dam wall in China",
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html",
+    "headline": "India Calls Out Meta Over Reported Child Sexual Abuse Imagery in Ads",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9609,
+    "published_at": "2026-07-08T01:18:56.840328+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/nato-defense-spending-trump-rutte.html",
+    "headline": "NATO Allies Show Trump They Are Trying to Pay Up for Defense",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7601,
+    "published_at": "2026-07-08T01:18:56.836574+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/middleeast/ayatollah-funeral-image.html",
+    "headline": "A Supreme Leader\u2019s Final Crowds",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8081,
-    "published_at": "2026-07-07T01:44:46.510397+00:00"
+    "confidence_score": 0.9435,
+    "published_at": "2026-07-08T01:18:56.831684+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
+    "headline": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9808,
+    "published_at": "2026-07-08T01:18:56.827979+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
+    "headline": "In NATO\u2019s Next Act, Can Europe Lead?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9649,
+    "published_at": "2026-07-08T01:18:56.822377+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+    "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8665,
+    "published_at": "2026-07-08T01:18:56.594014+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+    "headline": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9934,
+    "published_at": "2026-07-08T01:18:56.588914+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
     "headline": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9994,
-    "published_at": "2026-07-07T01:44:46.497202+00:00"
+    "published_at": "2026-07-08T01:18:56.587656+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
+    "headline": "More than 1,000 arrested as part of global human trafficking crackdown",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9728,
-    "published_at": "2026-07-07T01:44:46.487631+00:00"
+    "confidence_score": 0.9856,
+    "published_at": "2026-07-08T01:18:56.586367+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-    "headline": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+    "headline": "Wildfire in southern France forces evacuation of 10,000 people",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-07-07T01:44:46.485580+00:00"
+    "confidence_score": 0.9645,
+    "published_at": "2026-07-08T01:18:56.585118+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump confirms he asked Fifa to review Balogun ban",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7497,
-    "published_at": "2026-07-07T01:44:46.464864+00:00"
+    "confidence_score": 0.9341,
+    "published_at": "2026-07-08T01:18:56.583655+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-07-08T01:18:56.563644+00:00"
   }
 ]
