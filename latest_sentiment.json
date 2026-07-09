@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-    "headline": "Trump\u2019s Intervention in Balogun\u2019s World Cup Suspension Adds to Conflict With Europe",
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/prince-harry-lawsuit-daily-mail-uk-associated-newspapers.html",
+    "headline": "Prince Harry Loses Privacy Lawsuit Against Daily Mail Publisher",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-07-08T01:18:56.896086+00:00"
+    "confidence_score": 0.9409,
+    "published_at": "2026-07-09T01:26:35.890581+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/middleeast/khamenei-funeral-tehran-residents-exodus.html",
-    "headline": "As Mourners for Khamenei Descend on Tehran, Many Residents Take Flight",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9574,
-    "published_at": "2026-07-08T01:18:56.894808+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html",
+    "headline": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9617,
+    "published_at": "2026-07-09T01:26:35.884601+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/asia/sri-lanka-prison-riot-dead.html",
-    "headline": "Riot in Sri Lanka\u2019s Negombo prison leaves at least 23 dead",
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/russia-olympic-suspension-lifted.html",
+    "headline": "I.O.C. Lifts Russia\u2019s Olympic Suspension, Clearing the Way for 2028",
     "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.984,
+    "published_at": "2026-07-09T01:26:35.883332+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/07/world/africa/zimbabwe-president-mnangagwa-extension.html",
+    "headline": "Zimbabwe\u2019s President Signs Law Extending His Term",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9802,
+    "published_at": "2026-07-09T01:26:35.878086+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html",
+    "headline": "In Israel, Rahm Emanuel Calls for End of Unconditional U.S. Support",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6894,
+    "published_at": "2026-07-09T01:26:35.875454+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html",
+    "headline": "Germans Don\u2019t Love Budweiser. It Won\u2019t Take No for an Answer.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9976,
+    "published_at": "2026-07-09T01:26:35.871568+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/ukraine-nato-zelensky-trump.html",
+    "headline": "Trump Says He Will Grant Ukraine the License to Make Patriot Missiles, a Key Demand",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9789,
+    "published_at": "2026-07-09T01:26:35.863367+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/asia/pakistan-cargo-plane-missing-arabian-sea.html",
+    "headline": "Pakistan Finds Wreckage of Cargo Plane That Vanished at Sea Overnight",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-07-09T01:26:35.862016+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/irans-holy-city-of-mashhad-prepares-for-khameneis-burial",
+    "headline": "Iran\u2019s holy city of Mashhad prepares for Khamenei\u2019s burial.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9503,
+    "published_at": "2026-07-09T01:26:35.859509+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/iran-targets-sites-in-bahrain-and-kuwait",
+    "headline": "Iran targets sites in Bahrain and Kuwait.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9544,
+    "published_at": "2026-07-09T01:26:35.854837+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/climate/amazon-indigenous-plants-climate-change.html",
+    "headline": "Global Warming Could Ravage the Amazon\u2019s Useful Plant Species, Study Finds",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-07-09T01:26:35.847989+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/erdogan-nato-imamoglu-mayor.html",
+    "headline": "As Erdogan Hosted NATO, His Jailed Challenger Was in Court",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-07-09T01:26:35.841571+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/ali-khamenei-funeral-iran-strikes.html",
+    "headline": "At the Ayatollah\u2019s Funeral",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9987,
-    "published_at": "2026-07-08T01:18:56.883281+00:00"
+    "published_at": "2026-07-09T01:26:35.839028+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-khamenei-funeral.html",
-    "headline": "Iranians Mourn a Slain Leader, and Call for Vengeance",
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html",
+    "headline": "Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-07-08T01:18:56.872505+00:00"
+    "confidence_score": 0.9963,
+    "published_at": "2026-07-09T01:26:35.825927+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/06/world/nato-summit-turkey-trump-fifa-ban.html",
-    "headline": "NATO Needs Turkey",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-07-08T01:18:56.868423+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
-    "headline": "What Our Reporter Saw in Tehran: A Human Tide of Mourners",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9826,
-    "published_at": "2026-07-08T01:18:56.863689+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000011012446/the-symbols-we-saw-at-khameneis-funeral.html",
-    "headline": "The Symbols We Saw at Khamenei\u2019s Funeral",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9549,
-    "published_at": "2026-07-08T01:18:56.849318+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
-    "headline": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/internal-file-finds-icc-prosecutor-engaged-in-sexual-harassment.html",
+    "headline": "Internal File Finds I.C.C. Prosecutor Engaged in Sexual Harassment",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9844,
-    "published_at": "2026-07-08T01:18:56.843170+00:00"
+    "confidence_score": 0.9578,
+    "published_at": "2026-07-09T01:26:35.824709+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html",
-    "headline": "India Calls Out Meta Over Reported Child Sexual Abuse Imagery in Ads",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Nato chief asked if there really is 'unity' in Nato",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9917,
+    "published_at": "2026-07-09T01:26:35.655256+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9609,
-    "published_at": "2026-07-08T01:18:56.840328+00:00"
+    "confidence_score": 0.9926,
+    "published_at": "2026-07-09T01:26:35.653748+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/nato-defense-spending-trump-rutte.html",
-    "headline": "NATO Allies Show Trump They Are Trying to Pay Up for Defense",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7601,
-    "published_at": "2026-07-08T01:18:56.836574+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/middleeast/ayatollah-funeral-image.html",
-    "headline": "A Supreme Leader\u2019s Final Crowds",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+    "headline": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9435,
-    "published_at": "2026-07-08T01:18:56.831684+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-07-09T01:26:35.652561+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
-    "headline": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9808,
-    "published_at": "2026-07-08T01:18:56.827979+00:00"
+    "confidence_score": 0.756,
+    "published_at": "2026-07-09T01:26:35.638960+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
-    "headline": "In NATO\u2019s Next Act, Can Europe Lead?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9649,
-    "published_at": "2026-07-08T01:18:56.822377+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-    "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8665,
-    "published_at": "2026-07-08T01:18:56.594014+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-    "headline": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-07-08T01:18:56.588914+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine to get licence to produce Patriot missiles, Trump says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-08T01:18:56.587656+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-    "headline": "More than 1,000 arrested as part of global human trafficking crackdown",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9856,
-    "published_at": "2026-07-08T01:18:56.586367+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-    "headline": "Wildfire in southern France forces evacuation of 10,000 people",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9645,
-    "published_at": "2026-07-08T01:18:56.585118+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9341,
-    "published_at": "2026-07-08T01:18:56.583655+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-07-08T01:18:56.563644+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-07-09T01:26:35.604056+00:00"
   }
 ]
