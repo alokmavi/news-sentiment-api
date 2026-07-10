@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/prince-harry-lawsuit-daily-mail-uk-associated-newspapers.html",
-    "headline": "Prince Harry Loses Privacy Lawsuit Against Daily Mail Publisher",
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/albania-sazan-island-kushner-ivanka.html",
+    "headline": "The Alluring Albanian Island Inspiring Ivanka\u2019s Fantasy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9409,
-    "published_at": "2026-07-09T01:26:35.890581+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html",
-    "headline": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9617,
-    "published_at": "2026-07-09T01:26:35.884601+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/europe/russia-olympic-suspension-lifted.html",
-    "headline": "I.O.C. Lifts Russia\u2019s Olympic Suspension, Clearing the Way for 2028",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-07-09T01:26:35.883332+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/07/world/africa/zimbabwe-president-mnangagwa-extension.html",
-    "headline": "Zimbabwe\u2019s President Signs Law Extending His Term",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9802,
-    "published_at": "2026-07-09T01:26:35.878086+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html",
-    "headline": "In Israel, Rahm Emanuel Calls for End of Unconditional U.S. Support",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6894,
-    "published_at": "2026-07-09T01:26:35.875454+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html",
-    "headline": "Germans Don\u2019t Love Budweiser. It Won\u2019t Take No for an Answer.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-07-09T01:26:35.871568+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/ukraine-nato-zelensky-trump.html",
-    "headline": "Trump Says He Will Grant Ukraine the License to Make Patriot Missiles, a Key Demand",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9789,
-    "published_at": "2026-07-09T01:26:35.863367+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/08/world/asia/pakistan-cargo-plane-missing-arabian-sea.html",
-    "headline": "Pakistan Finds Wreckage of Cargo Plane That Vanished at Sea Overnight",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-07-09T01:26:35.862016+00:00"
+    "confidence_score": 0.9779,
+    "published_at": "2026-07-10T01:24:14.966181+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/irans-holy-city-of-mashhad-prepares-for-khameneis-burial",
     "headline": "Iran\u2019s holy city of Mashhad prepares for Khamenei\u2019s burial.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9503,
-    "published_at": "2026-07-09T01:26:35.859509+00:00"
+    "published_at": "2026-07-10T01:24:14.962533+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/iran-targets-sites-in-bahrain-and-kuwait",
-    "headline": "Iran targets sites in Bahrain and Kuwait.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9544,
-    "published_at": "2026-07-09T01:26:35.854837+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/08/climate/amazon-indigenous-plants-climate-change.html",
-    "headline": "Global Warming Could Ravage the Amazon\u2019s Useful Plant Species, Study Finds",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-07-09T01:26:35.847989+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/erdogan-nato-imamoglu-mayor.html",
-    "headline": "As Erdogan Hosted NATO, His Jailed Challenger Was in Court",
+    "source_uri": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine/zelensky-is-to-meet-with-trump-after-a-brutal-week-of-russian-attacks-on-ukraine",
+    "headline": "Zelensky is to meet with Trump after a brutal week of Russian attacks on Ukraine.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-09T01:26:35.841571+00:00"
+    "confidence_score": 0.989,
+    "published_at": "2026-07-10T01:24:14.958805+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/08/world/ali-khamenei-funeral-iran-strikes.html",
-    "headline": "At the Ayatollah\u2019s Funeral",
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/trump-spain-trade-us-iran-nato.html",
+    "headline": "Trump Lashes Out at Spain: \u2018Cut Off All Trade.\u2019 Here\u2019s Why That\u2019s Unlikely.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.984,
+    "published_at": "2026-07-10T01:24:14.955107+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/americas/pedigree-dog-food-recall.html",
+    "headline": "Recall Issued for Pedigree Dog Food Sold Despite Failing Quality Control",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-07-10T01:24:14.953929+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/marine-heat-wave-uk.html",
+    "headline": "Hotter Seas in Britain and Europe Threaten Marine Life",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7826,
+    "published_at": "2026-07-10T01:24:14.946627+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html",
+    "headline": "As More Remains Are Found in Rubble From Venezuela Earthquakes, Horror Becomes Routine",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-07-10T01:24:14.938966+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/ukraine-police-raid-media.html",
+    "headline": "Police Raids on Ukrainian Drone Maker Fuel Fears About Press Freedom",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9962,
+    "published_at": "2026-07-10T01:24:14.937766+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/09/world/asia/indonesia-landfill-fire.html",
+    "headline": "A Landfill in Indonesia Caught Fire Over a Week Ago. It\u2019s Still Burning.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-07-10T01:24:14.929097+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/iranian-port-cities-and-a-railway-were-struck-overnight",
+    "headline": "Iranian port cities and a railway were struck overnight.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-07-10T01:24:14.925024+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/09/world/asia/india-film-censorship-satluj-diljit.html",
+    "headline": "Why India Has Spent Years Blocking the Release of Diljit Dosanjh\u2019s \u2018Satluj\u2019",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-07-09T01:26:35.839028+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-07-10T01:24:14.918727+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html",
-    "headline": "Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
+    "source_uri": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
+    "headline": "Factory Blaze in China\u2019s \u2018Shoe Capital\u2019 Kills 28",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8487,
+    "published_at": "2026-07-10T01:24:14.913721+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss",
+    "headline": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-07-10T01:24:14.797074+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
+    "headline": "What's next for Iran after the funeral of their late supreme leader?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-07-09T01:26:35.825927+00:00"
+    "confidence_score": 0.9942,
+    "published_at": "2026-07-10T01:24:14.793342+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/08/world/europe/internal-file-finds-icc-prosecutor-engaged-in-sexual-harassment.html",
-    "headline": "Internal File Finds I.C.C. Prosecutor Engaged in Sexual Harassment",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss",
+    "headline": "A country that made huge progress on measles now reports 120,000 cases",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9578,
-    "published_at": "2026-07-09T01:26:35.824709+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-07-10T01:24:14.792122+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Nato chief asked if there really is 'unity' in Nato",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9917,
-    "published_at": "2026-07-09T01:26:35.655256+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
+    "headline": "All the best looks from Paris Haute Couture Week 2026",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-07-09T01:26:35.653748+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
-    "headline": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-07-09T01:26:35.652561+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.756,
-    "published_at": "2026-07-09T01:26:35.638960+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-07-10T01:24:14.785781+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
     "headline": "Ukraine to get licence to produce Patriot missiles, Trump says",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9964,
-    "published_at": "2026-07-09T01:26:35.604056+00:00"
+    "published_at": "2026-07-10T01:24:14.783274+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+    "headline": "Arizona toddler found alive in morgue after being declared dead from drowning",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.988,
+    "published_at": "2026-07-10T01:24:14.775769+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-07-10T01:24:14.769523+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+    "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9873,
+    "published_at": "2026-07-10T01:24:14.765739+00:00"
   }
 ]
