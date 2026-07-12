@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
-    "headline": "Tanker Attacks Risk Overplaying Iran\u2019s Hand, Analysts Say",
+    "source_uri": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
+    "headline": "Factory Blaze in China\u2019s \u2018Shoe Capital\u2019 Kills 28",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8487,
+    "published_at": "2026-07-12T01:19:57.517928+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html",
+    "headline": "Ukrainians Cautiously Welcome Trump\u2019s Announcement About Patriot Missile Systems",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-07-12T01:19:57.516869+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/09/world/middleeast/photo-detainee-bound.html",
+    "headline": "Israel Investigating After Photo of Stripped and Bound Detainee Is Shared",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7842,
+    "published_at": "2026-07-12T01:19:57.509052+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/09/world/iran-war-hardliners-hormuz-funeral.html",
+    "headline": "The Iranians Who Prefer War",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-07-11T01:17:26.876770+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-07-12T01:19:57.508039+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/americas/mexico-el-mayo-fbi-us-cartel.html",
-    "headline": "Mexico Investigates Possible F.B.I. Role in El Mayo Arrest",
+    "source_uri": "https://www.nytimes.com/2026/07/09/us/politics/trump-iran-war.html",
+    "headline": "Bombing Iran Didn\u2019t Work for Trump. Neither Did a Tentative Cease-Fire. Is There a Plan C?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9804,
-    "published_at": "2026-07-11T01:17:26.873045+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-07-12T01:19:57.503937+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/09/us/pope-leo-brian-burch-vatican-ambassador.html",
-    "headline": "Between Trump and Pope, an Ambassador Is Clear About His Allegiance",
+    "source_uri": "https://www.nytimes.com/video/world/100000010937075/inside-a-theater-sheltering-families-in-lebanon.html",
+    "headline": "Inside a Theater Sheltering Families in Lebanon",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-07-11T01:17:26.871764+00:00"
+    "confidence_score": 0.9928,
+    "published_at": "2026-07-12T01:19:57.499761+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/africa/minnesota-somali-fraud-trump.html",
-    "headline": "Arrest in Minnesota Pandemic Fraud Case Faces Extradition Hurdles in Somalia",
+    "source_uri": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
+    "headline": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.98,
-    "published_at": "2026-07-11T01:17:26.869254+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/asia/indonesia-landfill-fire.html",
-    "headline": "A Landfill in Indonesia Caught Fire Over a Week Ago. It\u2019s Still Burning.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-07-11T01:17:26.866835+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
-    "headline": "Final Stage of Ayatollah Ali Khamenei\u2019s Funeral Begins After Delay",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8205,
-    "published_at": "2026-07-11T01:17:26.865599+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/war-weary-gulf-arab-countries-hit-by-new-iranian-attacks",
-    "headline": "War-weary Gulf Arab countries are hit by new Iranian attacks.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9796,
-    "published_at": "2026-07-11T01:17:26.861934+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/iranian-port-cities-and-a-railway-were-struck-overnight",
-    "headline": "Iranian port cities and a railway were struck overnight.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-07-11T01:17:26.855558+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes-cease-fire.html",
-    "headline": "In Exchange of Strikes With Iran, U.S. Lands Most of the Blows",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9701,
-    "published_at": "2026-07-11T01:17:26.853002+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html",
-    "headline": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-07-11T01:17:26.850161+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/09/world/europe/albania-kanye-west-concert.html",
-    "headline": "Albanian Leader Rejects Complaints About Kanye West Concert",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9284,
-    "published_at": "2026-07-11T01:17:26.843394+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html",
-    "headline": "Mexico to File Criminal Complaints in U.S. Over Immigrant Deaths",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9076,
-    "published_at": "2026-07-11T01:17:26.826659+00:00"
+    "confidence_score": 0.6955,
+    "published_at": "2026-07-12T01:19:57.497642+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/10/world/americas/bahamas-plane-crash-deaths.html",
     "headline": "Ten Killed in Plane Crash on the Bahamas\u2019 Largest Island",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.8983,
-    "published_at": "2026-07-11T01:17:26.822949+00:00"
+    "published_at": "2026-07-12T01:19:57.484125+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/australia/neil-seal-australia-tasmania.html",
-    "headline": "Meet Neil, Australia\u2019s Celebrity Seal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9496,
-    "published_at": "2026-07-11T01:17:26.818028+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
-    "headline": "Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9778,
-    "published_at": "2026-07-11T01:17:26.814595+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
-    "headline": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
+    "headline": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8755,
-    "published_at": "2026-07-11T01:17:26.813094+00:00"
+    "confidence_score": 0.9877,
+    "published_at": "2026-07-12T01:19:57.481658+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+    "headline": "15 Killed as Speedboat Capsizes in Vietnam",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7987,
+    "published_at": "2026-07-12T01:19:57.479193+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
     "headline": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe From Burning",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9987,
-    "published_at": "2026-07-11T01:17:26.807528+00:00"
+    "published_at": "2026-07-12T01:19:57.475341+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
-    "headline": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+    "source_uri": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+    "headline": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-07-11T01:17:26.670432+00:00"
+    "confidence_score": 0.6325,
+    "published_at": "2026-07-12T01:19:57.474150+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-    "headline": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+    "source_uri": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+    "headline": "Moscow Still Has Art and Culture. Just Don\u2019t Say \u2018Ukraine.\u2019",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-07-12T01:19:57.472458+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+    "headline": "Iran\u2019s Supreme Leader Remains Absent, a Void at the Top of the Regime",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-07-11T01:17:26.660125+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-07-12T01:19:57.465724+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+    "headline": "England and Norway Resurrect a Rivalry for the World Cup",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-07-12T01:19:57.459429+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
+    "headline": "'We escaped Spanish wildfire, but our friends lost their lives'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9287,
+    "published_at": "2026-07-12T01:19:57.260470+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-    "headline": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+    "headline": "The photo that shows who's really on top in Le Pen's party",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9979,
-    "published_at": "2026-07-11T01:17:26.657443+00:00"
+    "published_at": "2026-07-12T01:19:57.251615+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Landmark US housing bill becomes law despite Trump protest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7773,
+    "published_at": "2026-07-12T01:19:57.235901+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+    "headline": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6172,
+    "published_at": "2026-07-12T01:19:57.228235+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9966,
+    "published_at": "2026-07-12T01:19:57.225740+00:00"
   }
 ]
