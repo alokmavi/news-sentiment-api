@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
-    "headline": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+    "headline": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9609,
+    "published_at": "2026-07-14T01:10:41.933839+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
+    "headline": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-07-13T01:21:02.450461+00:00"
+    "confidence_score": 0.9877,
+    "published_at": "2026-07-14T01:10:41.929924+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-    "headline": "Iran\u2019s Supreme Leader Remains Absent, a Void at the Top of the Regime",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-07-13T01:21:02.448892+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
-    "headline": "Moscow Still Has Art and Culture. Just Don\u2019t Say \u2018Ukraine.\u2019",
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+    "headline": "England and Norway Resurrect a Rivalry for the World Cup",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-07-13T01:21:02.442170+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-07-14T01:10:41.928512+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html",
-    "headline": "Ghanaian Influencer Is Extradited Over Romance Scam Targeting Older Americans",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-07-13T01:21:02.432929+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
-    "headline": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-07-13T01:21:02.430273+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-    "headline": "\u2018They Don\u2019t Need People\u2019: The Workers Left Behind by China\u2019s Robot Drive",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9557,
-    "published_at": "2026-07-13T01:21:02.418009+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days",
-    "headline": "Here\u2019s a look at the heavy strikes in recent days.",
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html",
+    "headline": "Inside the Canadian Lab Burning Down Buildings to Save Them",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9924,
-    "published_at": "2026-07-13T01:21:02.399807+00:00"
+    "confidence_score": 0.973,
+    "published_at": "2026-07-14T01:10:41.927220+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/11/briefing/gravitational-pull.html",
+    "headline": "Gravitational Pull",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-07-14T01:10:41.925924+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
+    "headline": "A Wildfire Killed 12 People in Southern Spain. Here\u2019s the Latest.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9867,
+    "published_at": "2026-07-14T01:10:41.922071+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/11/world/canada/toronto-shooting-salsa-festival-canada.html",
     "headline": "Toronto Police Search For Active Shooter After 2 Killed at Street Festival",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9823,
-    "published_at": "2026-07-13T01:21:02.398550+00:00"
+    "published_at": "2026-07-14T01:10:41.916968+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
-    "headline": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
+    "source_uri": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
+    "headline": "As India Erases Its Colonial Past, Delhi\u2019s Elite Feel Targeted",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9091,
-    "published_at": "2026-07-13T01:21:02.395879+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-07-14T01:10:41.913102+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000010988376/china-emotional-value.html",
+    "headline": "Why Young People in China Are Buying Feelings",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-07-14T01:10:41.900086+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html",
+    "headline": "Inside Israel\u2019s Secret Operation to Install Ahmadinejad, Iran\u2019s Former President, as Leader",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-07-14T01:10:41.897437+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html",
+    "headline": "Yemen\u2019s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-07-14T01:10:41.885779+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html",
+    "headline": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7763,
+    "published_at": "2026-07-14T01:10:41.880601+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
     "headline": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9776,
-    "published_at": "2026-07-13T01:21:02.383884+00:00"
+    "published_at": "2026-07-14T01:10:41.876852+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
-    "headline": "At World Cup Ticket Prices, Even Messi Can\u2019t Fill a Stadium",
+    "source_uri": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html",
+    "headline": "The Next Phase in Ukraine\u2019s War With Russia: The Battle for Minds",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5931,
-    "published_at": "2026-07-13T01:21:02.376420+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-07-14T01:10:41.865276+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
-    "headline": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cd7we8we4xgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Bombs, blood, ambushes - football coaching with the army",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.973,
-    "published_at": "2026-07-13T01:21:02.369744+00:00"
+    "confidence_score": 0.9832,
+    "published_at": "2026-07-14T01:10:41.677281+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
-    "headline": "Hard-Liners in Iran Want to Keep Fighting America",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+    "headline": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7974,
-    "published_at": "2026-07-13T01:21:02.368361+00:00"
+    "confidence_score": 0.9904,
+    "published_at": "2026-07-14T01:10:41.672291+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-    "headline": "10 years of Pok\u00e9mon Go and the millions still trying to catch 'em all",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+    "headline": "The SpaceX IPO made history. One month on has it lost momentum?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-07-13T01:21:02.211581+00:00"
+    "confidence_score": 0.9168,
+    "published_at": "2026-07-14T01:10:41.671066+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-    "headline": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9999,
-    "published_at": "2026-07-13T01:21:02.205166+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-    "headline": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.939,
-    "published_at": "2026-07-13T01:21:02.199684+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-    "headline": "China evacuates nearly two million people as powerful typhoon makes landfall",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
+    "headline": "Men disguised as police kill Ecuadorean drug lord's brother",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-13T01:21:02.180011+00:00"
+    "confidence_score": 0.9885,
+    "published_at": "2026-07-14T01:10:41.661992+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-    "headline": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+    "source_uri": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+    "headline": "Wildfire raging south of Paris could have been set deliberately, says minister",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9931,
-    "published_at": "2026-07-13T01:21:02.178768+00:00"
+    "confidence_score": 0.9939,
+    "published_at": "2026-07-14T01:10:41.654069+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-    "headline": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.837,
-    "published_at": "2026-07-13T01:21:02.174735+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-    "headline": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9572,
-    "published_at": "2026-07-13T01:21:02.173023+00:00"
+    "confidence_score": 0.9701,
+    "published_at": "2026-07-14T01:10:41.647885+00:00"
   }
 ]
