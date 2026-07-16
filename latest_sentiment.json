@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
-    "headline": "Hard-Liners in Iran Want to Keep Fighting America",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7974,
-    "published_at": "2026-07-15T01:07:40.757889+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes",
-    "headline": "Here\u2019s a look at the heavy strikes in recent days.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9924,
-    "published_at": "2026-07-15T01:07:40.755504+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
-    "headline": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+    "source_uri": "https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html",
+    "headline": "Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-07-15T01:07:40.750621+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-07-16T01:16:22.654523+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
-    "headline": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump\u2019s Ear",
+    "source_uri": "https://www.nytimes.com/2026/07/13/world/europe/macron-defend-blood-ukraine-europe.html",
+    "headline": "Europe Will Defend Itself \u2018With Blood, if Necessary,\u2019 Macron Says",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-15T01:07:40.744504+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-07-16T01:16:22.653341+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-07-15T01:07:40.739609+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/13/world/americas/jair-bolsonaro-biopic-son-presidential-campaign.html",
-    "headline": "A Brazilian Biopic About Jair Bolsonaro Is Threatening His Son\u2019s Presidential Campaign",
+    "source_uri": "https://www.nytimes.com/2026/07/13/world/middleeast/un-says-hamas-forces-interfered-with-aid-distribution-at-a-gaza-site.html",
+    "headline": "Hamas Forces Interfered With Aid Distribution, U.N. Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-07-15T01:07:40.734763+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html",
-    "headline": "Yemen\u2019s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-07-15T01:07:40.727360+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-07-16T01:16:22.644822+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
     "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9663,
-    "published_at": "2026-07-15T01:07:40.715858+00:00"
+    "published_at": "2026-07-16T01:16:22.634195+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
-    "headline": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-07-15T01:07:40.709071+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html",
-    "headline": "Israel Strikes Police Post, Killing 7, Gaza Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/07/14/world/china-journalist-expelled-spain-world-cup.html",
+    "headline": "Expelled from China",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-07-15T01:07:40.707954+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-07-16T01:16:22.621184+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html",
-    "headline": "The Next Phase in Ukraine\u2019s War With Russia: The Battle for Minds",
+    "source_uri": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-hormuz-strait.html",
+    "headline": "The Vague Clause That Helps Explain the U.S.-Iran Fight Over the Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-07-15T01:07:40.703385+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-07-16T01:16:22.614122+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
-    "headline": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
+    "source_uri": "https://www.nytimes.com/2026/07/15/world/iran-us-war-china-world-cup.html",
+    "headline": "Will Iran Be a Forever War?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-07-15T01:07:40.699955+00:00"
+    "confidence_score": 0.992,
+    "published_at": "2026-07-16T01:16:22.608217+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-    "headline": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+    "source_uri": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+    "headline": "Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Steps Down",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-07-15T01:07:40.696471+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-07-16T01:16:22.605865+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
-    "headline": "Ann Widdecombe Was Killed in \u2018Targeted Attack,\u2019 UK Police Say",
+    "source_uri": "https://www.nytimes.com/2026/07/15/world/europe/prince-harry-uk-visit-william-king-charles.html",
+    "headline": "Missing From Prince Harry\u2019s UK Trip: A Reunion With Prince William",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-07-15T01:07:40.691425+00:00"
+    "confidence_score": 0.995,
+    "published_at": "2026-07-16T01:16:22.598663+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
-    "headline": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-07-15T01:07:40.449435+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+    "source_uri": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
+    "headline": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9701,
-    "published_at": "2026-07-15T01:07:40.448221+00:00"
+    "confidence_score": 0.9682,
+    "published_at": "2026-07-16T01:16:22.596299+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+    "headline": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9794,
+    "published_at": "2026-07-16T01:16:22.585879+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
     "headline": "How a former 'street kid' is key to South Africa's police corruption inquiry",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9567,
-    "published_at": "2026-07-15T01:07:40.447000+00:00"
+    "published_at": "2026-07-16T01:16:22.318820+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
-    "headline": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-07-15T01:07:40.439865+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-07-16T01:16:22.316330+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-15T01:07:40.432266+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+    "headline": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-07-16T01:16:22.312918+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
+    "headline": "'I must get out into the free world', dissident who fled China on boat tells BBC",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9907,
+    "published_at": "2026-07-16T01:16:22.311876+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
     "headline": "Israeli strike on police post in north Gaza kills seven, officials say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9872,
-    "published_at": "2026-07-15T01:07:40.424619+00:00"
+    "published_at": "2026-07-16T01:16:22.310772+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Boss of fake government agency arrested in Nigeria after weeks on the run",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7396,
+    "published_at": "2026-07-16T01:16:22.308610+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sierra Leone drops treason charge against ex-president over attempted coup",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9667,
+    "published_at": "2026-07-16T01:16:22.305337+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
+    "headline": "Heatwave prompts Italy's delivery riders to strike for extra rights",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9395,
+    "published_at": "2026-07-16T01:16:22.304226+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+    "headline": "New monkey species with orange lips found 'hiding' in DRC forest",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-07-16T01:16:22.295454+00:00"
   }
 ]
