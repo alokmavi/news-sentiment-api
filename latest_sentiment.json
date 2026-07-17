@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html",
-    "headline": "Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam",
+    "source_uri": "https://www.nytimes.com/2026/07/14/world/middleeast/mahmoud-ahmadinejad-iran-israeli-asset.html",
+    "headline": "Iran\u2019s Former Leader Denies Times Report",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-07-16T01:16:22.654523+00:00"
+    "confidence_score": 0.9724,
+    "published_at": "2026-07-17T01:20:33.579082+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/13/world/europe/macron-defend-blood-ukraine-europe.html",
-    "headline": "Europe Will Defend Itself \u2018With Blood, if Necessary,\u2019 Macron Says",
+    "source_uri": "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html",
+    "headline": "Lindsey Graham\u2019s Death Leaves Fate of Russia Sanctions Bill Uncertain",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-07-16T01:16:22.653341+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-07-17T01:20:33.577092+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/13/world/middleeast/un-says-hamas-forces-interfered-with-aid-distribution-at-a-gaza-site.html",
-    "headline": "Hamas Forces Interfered With Aid Distribution, U.N. Says",
+    "source_uri": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html",
+    "headline": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-07-16T01:16:22.644822+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-07-17T01:20:33.572921+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
-    "headline": "Bloomberg Loses Landmark Libel Case in Singapore",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9663,
-    "published_at": "2026-07-16T01:16:22.634195+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/14/world/china-journalist-expelled-spain-world-cup.html",
-    "headline": "Expelled from China",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-07-16T01:16:22.621184+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-hormuz-strait.html",
-    "headline": "The Vague Clause That Helps Explain the U.S.-Iran Fight Over the Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-07-16T01:16:22.614122+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/15/world/iran-us-war-china-world-cup.html",
-    "headline": "Will Iran Be a Forever War?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-07-16T01:16:22.608217+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
-    "headline": "Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Steps Down",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-07-16T01:16:22.605865+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/15/world/europe/prince-harry-uk-visit-william-king-charles.html",
-    "headline": "Missing From Prince Harry\u2019s UK Trip: A Reunion With Prince William",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-07-16T01:16:22.598663+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/14/world/australia/sydney-child-abuse-daycare-worker.html",
+    "headline": "Former Child Care Worker in Sydney Facing Over 300 Abuse Charges Is Identified",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7981,
+    "published_at": "2026-07-17T01:20:33.571471+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
     "headline": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9682,
-    "published_at": "2026-07-16T01:16:22.596299+00:00"
+    "published_at": "2026-07-17T01:20:33.558757+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-    "headline": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
+    "source_uri": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-07-17T01:20:33.555383+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html",
+    "headline": "Australia to Put Environmental Brakes on A.I. Data Centers",
     "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6003,
+    "published_at": "2026-07-17T01:20:33.549485+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/100000011024159/the-race-for-ai-data-centers-arrives-in-india.html",
+    "headline": "The Race for A.I. Data Centers Arrives in India",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7493,
+    "published_at": "2026-07-17T01:20:33.536629+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
+    "headline": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-07-17T01:20:33.528424+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html",
+    "headline": "Delightful World Cup Stories",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9952,
+    "published_at": "2026-07-17T01:20:33.526494+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html",
+    "headline": "Gay-Themed Mediterranean Cruise Turned Away From Turkey and Then Egypt",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9819,
+    "published_at": "2026-07-17T01:20:33.525460+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+    "headline": "Canada\u2019s Wildfires Are Burning Through the Night",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9571,
+    "published_at": "2026-07-17T01:20:33.524438+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/16/world/asia/india-sonam-wangchuk-cockroach-janata-party-hunger-strike.html",
+    "headline": "A 59-Year-Old Hunger Striker Joins a Gen Z Protest Movement in India",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9794,
-    "published_at": "2026-07-16T01:16:22.585879+00:00"
+    "published_at": "2026-07-17T01:20:33.522449+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
-    "headline": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+    "source_uri": "https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html",
+    "headline": "Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9567,
-    "published_at": "2026-07-16T01:16:22.318820+00:00"
+    "confidence_score": 0.7066,
+    "published_at": "2026-07-17T01:20:33.516440+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+    "source_uri": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+    "headline": "Ukraine\u2019s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-07-16T01:16:22.316330+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-07-17T01:20:33.514431+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
-    "headline": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+    "source_uri": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
+    "headline": "In Iran war, Trump Risks Another American \u2018Forever War\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-07-17T01:20:33.512397+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
+    "headline": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-07-16T01:16:22.312918+00:00"
+    "confidence_score": 0.9929,
+    "published_at": "2026-07-17T01:20:32.989100+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
-    "headline": "'I must get out into the free world', dissident who fled China on boat tells BBC",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
+    "headline": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-07-17T01:20:32.987841+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+    "headline": "More people around the world now favour China over the US, Pew study suggests",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-07-16T01:16:22.311876+00:00"
+    "confidence_score": 0.9285,
+    "published_at": "2026-07-17T01:20:32.986546+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9872,
-    "published_at": "2026-07-16T01:16:22.310772+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Boss of fake government agency arrested in Nigeria after weeks on the run",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7396,
-    "published_at": "2026-07-16T01:16:22.308610+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sierra Leone drops treason charge against ex-president over attempted coup",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9667,
-    "published_at": "2026-07-16T01:16:22.305337+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
-    "headline": "Heatwave prompts Italy's delivery riders to strike for extra rights",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9395,
-    "published_at": "2026-07-16T01:16:22.304226+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-    "headline": "New monkey species with orange lips found 'hiding' in DRC forest",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckg8g5z83glo?at_medium=RSS&at_campaign=rss",
+    "headline": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-07-16T01:16:22.295454+00:00"
+    "confidence_score": 0.9811,
+    "published_at": "2026-07-17T01:20:32.981636+00:00"
   }
 ]
