@@ -40,7 +40,7 @@ docker compose up -d
 alembic upgrade head
 ```
 
-**3. Run the pipeline locally**
+**3. Run the pipeline locally first**
 Pull the latest articles and run the ML batch processor.
 ```sh
 python -m src.ingestion.rss_fetcher
