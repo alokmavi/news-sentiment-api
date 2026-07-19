@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html",
-    "headline": "Here\u2019s Where the U.S. and Iran Have Launched Attacks as the War Escalates",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.967,
-    "published_at": "2026-07-18T01:12:37.438067+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
-    "headline": "Ukraine\u2019s Ousted Defense Minister Attacks the Military\u2019s Old Guard",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6346,
-    "published_at": "2026-07-18T01:12:37.435979+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/16/world/americas/falklands-malvinas-england-argentina-war.html",
-    "headline": "As Argentina Holds Up Falklands Banner on Defeating England, Here\u2019s What to Know About the War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8975,
-    "published_at": "2026-07-18T01:12:37.430587+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html",
-    "headline": "Orphanage Fire Kills Eleven in Algeria",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-07-18T01:12:37.425403+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
-    "headline": "Israeli Government Pushes Through Divisive Laws Before Election",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9564,
-    "published_at": "2026-07-18T01:12:37.424378+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
-    "headline": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-07-18T01:12:37.422297+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html",
-    "headline": "Delightful World Cup Stories",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-07-18T01:12:37.421261+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html",
     "headline": "Gay-Themed Mediterranean Cruise Turned Away From Turkey and Then Egypt",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9819,
-    "published_at": "2026-07-18T01:12:37.420221+00:00"
+    "published_at": "2026-07-19T01:17:23.080697+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html",
-    "headline": "How Andy Burnham Becomes Britain\u2019s New Prime Minister",
+    "source_uri": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+    "headline": "Canada\u2019s Wildfires Are Burning Through the Night",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-07-18T01:12:37.418144+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/17/world/asia/japan-flag-desecration-law.html",
-    "headline": "Japan Passes New Law Banning Flag Desecration in Nationalist Push",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-07-18T01:12:37.416093+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html",
-    "headline": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-07-18T01:12:37.415067+00:00"
+    "confidence_score": 0.9571,
+    "published_at": "2026-07-19T01:17:23.079718+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html",
     "headline": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9889,
-    "published_at": "2026-07-18T01:12:37.402559+00:00"
+    "published_at": "2026-07-19T01:17:23.073800+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/17/world/africa/uganda-bus-crash-children.html",
-    "headline": "Parents in Uganda Demand Answers After Bus Crash Kills 21 Children",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-07-18T01:12:37.399397+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz/us-strikes-iran-bridges-port",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-07-19T01:17:23.069896+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-    "headline": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+    "headline": "Beijing Rejects Trump\u2019s Claim of Meddling, but Avoids a Fight",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9767,
-    "published_at": "2026-07-18T01:12:37.393115+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-07-19T01:17:23.068801+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-07-18T01:12:37.229962+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html",
+    "headline": "Iran-U.S. Talks: How 4 Negotiators Would Approach Diplomacy",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-07-19T01:17:23.065652+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Olympic cyclist admits to driving despite ban after crash that killed wife",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9796,
-    "published_at": "2026-07-18T01:12:37.226999+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-prison-release-exile.html",
+    "headline": "Prominent Cuban Artist Will Go Into Exile After 5-Year Prison Term",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9282,
+    "published_at": "2026-07-19T01:17:23.057233+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Uganda suspends school trips after 20 pupils die in bus crash",
+    "source_uri": "https://www.nytimes.com/2026/07/17/world/europe/karim-khan-icc-accusations.html",
+    "headline": "Karim Khan\u2019s Accuser Breaks Silence on Alleged Sexual Misconduct at I.C.C.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-07-18T01:12:37.221600+00:00"
+    "confidence_score": 0.9431,
+    "published_at": "2026-07-19T01:17:23.054221+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+    "source_uri": "https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html",
+    "headline": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-07-18T01:12:37.214885+00:00"
+    "confidence_score": 0.977,
+    "published_at": "2026-07-19T01:17:23.052200+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Air conditioner sparked deadly blaze at children's orphanage - police",
+    "source_uri": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
+    "headline": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.981,
-    "published_at": "2026-07-18T01:12:37.213226+00:00"
+    "confidence_score": 0.9795,
+    "published_at": "2026-07-19T01:17:23.051213+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-    "headline": "White House defends Argentina team over Falklands banner",
+    "source_uri": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
+    "headline": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9831,
-    "published_at": "2026-07-18T01:12:37.208843+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-07-19T01:17:23.047159+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html",
+    "headline": "U.S. Strikes Leave Iranians Isolated and Scared",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-07-19T01:17:23.045177+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
+    "headline": "Burnham Becomes Labour Leader and Britain\u2019s Incoming Prime Minister",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-07-19T01:17:23.041107+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
+    "headline": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9908,
+    "published_at": "2026-07-19T01:17:23.038958+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
+    "headline": "Iqaluit, Canada\u2019s Most Northern City, Gets Its First Bus Line",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5965,
+    "published_at": "2026-07-19T01:17:23.033822+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Orange haze from Canada wildfires seen in Ontario and northern US",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8632,
+    "published_at": "2026-07-19T01:17:22.951512+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+    "headline": "EU proposes slowing down cuts to carbon emissions for businesses",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9873,
+    "published_at": "2026-07-19T01:17:22.935707+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+    "headline": "One anti-war critic fined, another held as Russia clamps down on dissent",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9485,
+    "published_at": "2026-07-19T01:17:22.934630+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Space start-up launches India\u2019s first commercial rocket designed for orbit",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-07-19T01:17:22.928271+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+    "headline": "German politician resigns over surrogacy child controversy",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9961,
+    "published_at": "2026-07-19T01:17:22.927181+00:00"
   }
 ]
