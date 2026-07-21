@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
-    "headline": "Burnham Becomes Labour Leader and Britain\u2019s Incoming Prime Minister",
+    "source_uri": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+    "headline": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-20T02:19:12.142608+00:00"
+    "confidence_score": 0.9502,
+    "published_at": "2026-07-21T01:17:21.514107+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
-    "headline": "They Called Sam Neill \u2018Skux.\u2019 (It Was a Compliment.)",
+    "source_uri": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+    "headline": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9903,
-    "published_at": "2026-07-20T02:19:12.029412+00:00"
+    "confidence_score": 0.9944,
+    "published_at": "2026-07-21T01:17:21.505833+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
-    "headline": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+    "source_uri": "https://www.nytimes.com/2026/07/19/world/americas/argentines-already-losing-their-minds-brace-for-world-cup-final.html",
+    "headline": "Argentines, Already \u2018Losing Their Minds,\u2019 Brace for World Cup Final",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5428,
-    "published_at": "2026-07-20T02:19:11.726173+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-07-21T01:17:21.501388+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates",
-    "headline": "Israel watches tensely as the U.S.-Iran fighting escalates.",
+    "source_uri": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+    "headline": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7787,
-    "published_at": "2026-07-20T02:19:11.504924+00:00"
+    "confidence_score": 0.9944,
+    "published_at": "2026-07-21T01:17:21.499082+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
-    "headline": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+    "source_uri": "https://www.nytimes.com/2026/07/19/world/europe/fifa-world-cup-final.html",
+    "headline": "Did This World Cup Change Soccer Forever?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-07-20T02:19:11.491947+00:00"
+    "confidence_score": 0.7924,
+    "published_at": "2026-07-21T01:17:21.491218+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
-    "headline": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html",
+    "headline": "North Sea Drilling Offers First Test for Burnham\u2019s Relationship With Trump",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9863,
+    "published_at": "2026-07-21T01:17:21.484569+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
+    "headline": "Evacuees of Ontario\u2019s Wildfires Wait and Worry",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.969,
-    "published_at": "2026-07-20T02:19:11.484528+00:00"
+    "confidence_score": 0.9859,
+    "published_at": "2026-07-21T01:17:21.477799+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
-    "headline": "Why Tokyo\u2019s New Shorts Policy is Sparking Debate in Japan",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html",
+    "headline": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-07-21T01:17:21.473274+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
+    "headline": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9147,
-    "published_at": "2026-07-20T02:19:11.477640+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-07-21T01:17:21.466569+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html",
+    "headline": "Outcry in Italy After Man Dies While Being Restrained by Police",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8664,
+    "published_at": "2026-07-21T01:17:21.464347+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-    "headline": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
+    "headline": "Another U.S. Service Member Is Killed as Iran War Expands",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9949,
-    "published_at": "2026-07-20T02:19:11.475390+00:00"
+    "published_at": "2026-07-21T01:17:21.459683+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: What to know as Genoa bridge disaster trial ends",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.878,
-    "published_at": "2026-07-20T02:19:11.262009+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Bodycam footage shows airlift of girl stranded by Texas floods",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
+    "headline": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9795,
-    "published_at": "2026-07-20T02:19:11.258370+00:00"
+    "confidence_score": 0.994,
+    "published_at": "2026-07-21T01:17:21.457740+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+    "source_uri": "https://www.bbc.co.uk/news/videos/czxqr9rl9r0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Spanish and Argentinian fans react outside World Cup final",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.905,
-    "published_at": "2026-07-20T02:19:11.255903+00:00"
+    "confidence_score": 0.9918,
+    "published_at": "2026-07-21T01:17:21.129144+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
+    "headline": "Why are Ukraine's military recruiters facing violence in their own country?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-07-21T01:17:21.128045+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
     "headline": "What this desert city can teach the world about tackling heat deaths",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9945,
-    "published_at": "2026-07-20T02:19:11.252154+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Private jets flock to Montana - but locals can't afford the trailer park",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9051,
-    "published_at": "2026-07-20T02:19:11.249494+00:00"
+    "published_at": "2026-07-21T01:17:21.123576+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
     "headline": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-07-20T02:19:11.244417+00:00"
+    "published_at": "2026-07-21T01:17:21.115772+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-    "headline": "One anti-war critic fined, another held as Russia clamps down on dissent",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+    "headline": "New EU border system tripling time at passport control, airport boss says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9485,
-    "published_at": "2026-07-20T02:19:11.243179+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
-    "headline": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9813,
-    "published_at": "2026-07-20T02:19:11.240688+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Runners complete 'world's coolest marathon' on drifting North Pole ice",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-07-20T02:19:11.232860+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-    "headline": "Health officials identify source of US explosive diarrhoea outbreak",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-07-20T02:19:11.227341+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Norway opens new memorial for victims of 2011 Breivik massacre",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-07-20T02:19:11.223177+00:00"
+    "confidence_score": 0.9351,
+    "published_at": "2026-07-21T01:17:21.113515+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
     "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9857,
-    "published_at": "2026-07-20T02:19:11.221664+00:00"
+    "published_at": "2026-07-21T01:17:21.107796+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Newcastle, Liverpool and England legend Keegan dies",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9845,
+    "published_at": "2026-07-21T01:17:21.096562+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+    "headline": "Boy, 13, dies during World Cup celebrations in Spain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-07-21T01:17:21.090832+00:00"
   }
 ]
