@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-    "headline": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9502,
-    "published_at": "2026-07-21T01:17:21.514107+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
-    "headline": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+    "headline": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-07-21T01:17:21.505833+00:00"
+    "confidence_score": 0.8381,
+    "published_at": "2026-07-22T01:15:49.608839+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/19/world/americas/argentines-already-losing-their-minds-brace-for-world-cup-final.html",
-    "headline": "Argentines, Already \u2018Losing Their Minds,\u2019 Brace for World Cup Final",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html",
+    "headline": "Burnham Set to Become Britain\u2019s First Openly Roman Catholic Prime Minister",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-07-21T01:17:21.501388+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-    "headline": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-07-21T01:17:21.499082+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/19/world/europe/fifa-world-cup-final.html",
-    "headline": "Did This World Cup Change Soccer Forever?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7924,
-    "published_at": "2026-07-21T01:17:21.491218+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html",
-    "headline": "North Sea Drilling Offers First Test for Burnham\u2019s Relationship With Trump",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9863,
-    "published_at": "2026-07-21T01:17:21.484569+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
-    "headline": "Evacuees of Ontario\u2019s Wildfires Wait and Worry",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9859,
-    "published_at": "2026-07-21T01:17:21.477799+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html",
-    "headline": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-21T01:17:21.473274+00:00"
+    "confidence_score": 0.8648,
+    "published_at": "2026-07-22T01:15:49.602826+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
     "headline": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-07-21T01:17:21.466569+00:00"
+    "published_at": "2026-07-22T01:15:49.599083+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html",
-    "headline": "Outcry in Italy After Man Dies While Being Restrained by Police",
+    "source_uri": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/suspected-iranian-strikes-have-targeted-us-military-in-at-least-four-countries",
+    "headline": "Suspected Iranian strikes have targeted the U.S. military in at least 4 countries.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8664,
-    "published_at": "2026-07-21T01:17:21.464347+00:00"
+    "confidence_score": 0.9789,
+    "published_at": "2026-07-22T01:15:49.595510+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-    "headline": "Another U.S. Service Member Is Killed as Iran War Expands",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html",
+    "headline": "In Venezuela\u2019s Rubble, a Search for the Family Pets",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-07-22T01:15:49.591879+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/pope-leo-nuclear-disarmament-anti-war-message.html",
+    "headline": "Pope Leo Calls for Nuclear Disarmament in Latest Antiwar Message",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-07-21T01:17:21.459683+00:00"
+    "confidence_score": 0.9721,
+    "published_at": "2026-07-22T01:15:49.583439+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
-    "headline": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html",
+    "headline": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-07-21T01:17:21.457740+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-07-22T01:15:49.582249+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/czxqr9rl9r0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Spanish and Argentinian fans react outside World Cup final",
+    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/guyana-ferry-sinking-barima.html",
+    "headline": "At Least 27 Dead in Guyana After Ferry Capsizes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-07-21T01:17:21.129144+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-07-22T01:15:49.581039+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
-    "headline": "Why are Ukraine's military recruiters facing violence in their own country?",
+    "source_uri": "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-07-22T01:15:49.577462+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
+    "headline": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7564,
+    "published_at": "2026-07-22T01:15:49.573827+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html",
+    "headline": "Water Plants Under Fire in the Gulf Are Crucial to Civilians",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.981,
+    "published_at": "2026-07-22T01:15:49.571436+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+    "headline": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5287,
+    "published_at": "2026-07-22T01:15:49.556966+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9964,
-    "published_at": "2026-07-21T01:17:21.128045+00:00"
+    "published_at": "2026-07-22T01:15:49.260350+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch Texas police officer pull man from burning car",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.894,
+    "published_at": "2026-07-22T01:15:49.259147+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
     "headline": "What this desert city can teach the world about tackling heat deaths",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9945,
-    "published_at": "2026-07-21T01:17:21.123576+00:00"
+    "published_at": "2026-07-22T01:15:49.257877+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Private jets flock to Montana - but locals can't afford the trailer park",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-07-21T01:17:21.115772+00:00"
+    "confidence_score": 0.9051,
+    "published_at": "2026-07-22T01:15:49.255436+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-    "headline": "New EU border system tripling time at passport control, airport boss says",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9351,
-    "published_at": "2026-07-21T01:17:21.113515+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-07-22T01:15:49.254036+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+    "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-07-21T01:17:21.107796+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-07-22T01:15:49.244210+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Newcastle, Liverpool and England legend Keegan dies",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+    "headline": "At least 41 dead after ferry capsizes off Guyana",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9845,
-    "published_at": "2026-07-21T01:17:21.096562+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-07-22T01:15:49.240858+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-    "headline": "Boy, 13, dies during World Cup celebrations in Spain",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli strikes in Gaza kill 12, including family of six, medics say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-07-21T01:17:21.090832+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-07-22T01:15:49.232939+00:00"
   }
 ]
