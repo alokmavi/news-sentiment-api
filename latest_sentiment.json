@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
-    "headline": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8381,
-    "published_at": "2026-07-22T01:15:49.608839+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html",
-    "headline": "Burnham Set to Become Britain\u2019s First Openly Roman Catholic Prime Minister",
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+    "headline": "Burnham, UK\u2019s New Prime Minister, Starts With Electricity Tax Cut",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8648,
-    "published_at": "2026-07-22T01:15:49.602826+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
-    "headline": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-07-22T01:15:49.599083+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/suspected-iranian-strikes-have-targeted-us-military-in-at-least-four-countries",
-    "headline": "Suspected Iranian strikes have targeted the U.S. military in at least 4 countries.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9789,
-    "published_at": "2026-07-22T01:15:49.595510+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html",
-    "headline": "In Venezuela\u2019s Rubble, a Search for the Family Pets",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-07-22T01:15:49.591879+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/europe/pope-leo-nuclear-disarmament-anti-war-message.html",
-    "headline": "Pope Leo Calls for Nuclear Disarmament in Latest Antiwar Message",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9721,
-    "published_at": "2026-07-22T01:15:49.583439+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html",
-    "headline": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-22T01:15:49.582249+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/20/world/americas/guyana-ferry-sinking-barima.html",
-    "headline": "At Least 27 Dead in Guyana After Ferry Capsizes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-07-22T01:15:49.581039+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-07-22T01:15:49.577462+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
-    "headline": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7564,
-    "published_at": "2026-07-22T01:15:49.573827+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html",
-    "headline": "Water Plants Under Fire in the Gulf Are Crucial to Civilians",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.981,
-    "published_at": "2026-07-22T01:15:49.571436+00:00"
+    "confidence_score": 0.9435,
+    "published_at": "2026-07-23T01:23:21.710266+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
     "headline": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.5287,
-    "published_at": "2026-07-22T01:15:49.556966+00:00"
+    "published_at": "2026-07-23T01:23:21.699173+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-07-22T01:15:49.260350+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch Texas police officer pull man from burning car",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.894,
-    "published_at": "2026-07-22T01:15:49.259147+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
-    "headline": "What this desert city can teach the world about tackling heat deaths",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-07-22T01:15:49.257877+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Private jets flock to Montana - but locals can't afford the trailer park",
+    "source_uri": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
+    "headline": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9051,
-    "published_at": "2026-07-22T01:15:49.255436+00:00"
+    "confidence_score": 0.7564,
+    "published_at": "2026-07-23T01:23:21.697974+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/europe/ann-widdecombe-death-hammer.html",
+    "headline": "British Politician Ann Widdecombe Was Murdered with a Hammer, Prosecutors Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-07-22T01:15:49.254036+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-07-23T01:23:21.696827+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-    "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-07-22T01:15:49.244210+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 41 dead after ferry capsizes off Guyana",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-07-22T01:15:49.240858+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+    "source_uri": "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz/abbas-aragchi-security-gap-strikes",
+    "headline": "Iran\u2019s top diplomat says \u2018security gap\u2019 may have led to strikes on supreme leader.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9959,
-    "published_at": "2026-07-22T01:15:49.232939+00:00"
+    "published_at": "2026-07-23T01:23:21.695671+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
+    "headline": "Inside the Fight to Rid South Africa of Black Immigrants",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9553,
+    "published_at": "2026-07-23T01:23:21.689768+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html",
+    "headline": "Water Plants Under Fire in the Gulf Are Crucial to Civilians",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.981,
+    "published_at": "2026-07-23T01:23:21.688559+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+    "headline": "Zelensky Dismisses Ukraine\u2019s Top General After Protests",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9941,
+    "published_at": "2026-07-23T01:23:21.687375+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html",
+    "headline": "Trump Threatened to Strike Pickaxe Mountain, a Suspected Iranian Nuclear Site. Here\u2019s What to Know.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9272,
+    "published_at": "2026-07-23T01:23:21.686186+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html",
+    "headline": "See Which 52 Places to Go We\u2019ve Already Visited From Warsaw to Bangkok",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-07-23T01:23:21.678197+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
+    "headline": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6998,
+    "published_at": "2026-07-23T01:23:21.669205+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+    "headline": "Firing of Ukraine\u2019s Top General Signals the End of an Era",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7405,
+    "published_at": "2026-07-23T01:23:21.665856+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/22/world/canada/ontario-wildfires-canada-smoke.html",
+    "headline": "Canadian Wildfire Evacuees Outraged Over Lacking Support and Communication",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-07-23T01:23:21.656248+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-07-23T01:23:21.425127+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+    "headline": "A year after deadly jet crash at Bangladesh school, families demand answers",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7993,
+    "published_at": "2026-07-23T01:23:21.420324+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+    "headline": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7183,
+    "published_at": "2026-07-23T01:23:21.419115+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+    "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-07-23T01:23:21.416698+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7415,
+    "published_at": "2026-07-23T01:23:21.412105+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Modelling scout linked to Epstein found dead in Paris",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-07-23T01:23:21.409625+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+    "headline": "Police formally investigate woman after Brit stabbed to death in French village",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-07-23T01:23:21.408241+00:00"
   }
 ]
