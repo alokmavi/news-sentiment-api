@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/22/world/saudi-nuclear-deal-trump-houthis.html",
-    "headline": "Saudi Arabia\u2019s Nuclear Plans",
+    "source_uri": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
+    "headline": "Modi Caught Off Guard as India\u2019s Economic Failings Inflame Young People",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9746,
-    "published_at": "2026-07-25T01:20:37.402177+00:00"
+    "confidence_score": 0.9987,
+    "published_at": "2026-07-26T01:23:05.407668+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
-    "headline": "Japan\u2019s Leader Invokes Her Hero, Shinzo Abe, to Drive Nationalist Agenda",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9894,
-    "published_at": "2026-07-25T01:20:37.397019+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
-    "headline": "Why I Sought Out a Taliban Commander I Had Fought",
+    "source_uri": "https://www.nytimes.com/2026/07/23/world/middleeast/red-sea-strikes-oil-houthis.html",
+    "headline": "Strikes Against Saudi Tankers in the Red Sea Send Oil Past $100 a Barrel",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-07-25T01:20:37.394894+00:00"
+    "confidence_score": 0.9955,
+    "published_at": "2026-07-26T01:23:05.405112+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
-    "headline": "\u2018We Will All Die From Ebola Here\u2019: Virus Stalks Crowded Camps in Congo",
+    "source_uri": "https://www.nytimes.com/2026/07/23/world/middleeast/what-to-know-iran-houthis.html",
+    "headline": "What to Know About Iran and the Houthis",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-07-25T01:20:37.393808+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-07-25T01:20:37.377112+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-    "headline": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-07-25T01:20:37.371052+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/middleeast/iran-war-us-troops-hegseth-casualties.html",
-    "headline": "Senators Ask Hegseth to Fully Account for U.S. Troops Killed or Wounded in Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-25T01:20:37.113789+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html",
-    "headline": "Iran Rejects U.S. Cease-Fire Deal Presented by Iraqi Leader",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-07-25T01:20:37.106791+00:00"
+    "confidence_score": 0.9431,
+    "published_at": "2026-07-26T01:23:05.402614+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html",
     "headline": "Prominent Indian Activist Breaks Hunger Strike After 26 Days",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-07-25T01:20:37.094791+00:00"
+    "published_at": "2026-07-26T01:23:05.397608+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html",
-    "headline": "With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access",
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
+    "headline": "\u2018We\u2019re Trapped in Hell\u2019: Iranians Say Life Is Put On Hold by Months of War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-07-25T01:20:37.052786+00:00"
+    "confidence_score": 0.9958,
+    "published_at": "2026-07-26T01:23:05.392613+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
-    "headline": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/middleeast/japanese-militant-tel-aviv-airport.html",
+    "headline": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8031,
-    "published_at": "2026-07-25T01:20:36.984706+00:00"
+    "confidence_score": 0.7074,
+    "published_at": "2026-07-26T01:23:05.374448+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html",
-    "headline": "Venezuela\u2019s Earthquakes Show Wealth Divide, Even in Death",
+    "source_uri": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this",
+    "headline": "\u2018There have always been wildfires here, but never like this.\u2019",
     "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.627,
+    "published_at": "2026-07-26T01:23:05.362407+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
+    "headline": "Car Plows Into People Near a Pride Event in Berlin, Killing at Least One",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9937,
+    "published_at": "2026-07-26T01:23:05.358592+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+    "headline": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-07-26T01:23:05.357295+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
+    "headline": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7796,
+    "published_at": "2026-07-26T01:23:05.350424+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+    "headline": "Iran War Live Updates: U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9185,
+    "published_at": "2026-07-26T01:23:05.347750+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+    "headline": "What to Know About the Wildfires Raging in Western Europe",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9227,
+    "published_at": "2026-07-26T01:23:05.343758+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
+    "headline": "Bus Collision in Syria Kills 35, Health Ministry Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-07-26T01:23:05.342432+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
+    "headline": "Colombia\u2019s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.91,
+    "published_at": "2026-07-26T01:23:05.341097+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+    "headline": "India\u2019s Education Minister Steps Down in Victory for Cockroach Party Protesters",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9588,
+    "published_at": "2026-07-26T01:23:05.339685+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
+    "headline": "Families still search for bodies a month after Venezuela earthquakes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-07-26T01:23:05.170078+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+    "headline": "Protesters celebrate resignation of India's education minister",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9926,
+    "published_at": "2026-07-26T01:23:05.164792+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+    "headline": "CJP protest: The youth movement India's Modi didn't see coming",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9953,
-    "published_at": "2026-07-25T01:20:36.966779+00:00"
+    "published_at": "2026-07-26T01:23:05.163543+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
-    "headline": "Phones in Hand, India\u2019s Young Protesters Blast Through Modi\u2019s Media Control",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-07-25T01:20:36.949820+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Wildfires rage across Spain and France",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9689,
-    "published_at": "2026-07-25T01:20:36.769806+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Another day, more Trump tariffs - but are they working?",
+    "source_uri": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+    "headline": "The notorious Cameroonian prison with its own record label",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9216,
-    "published_at": "2026-07-25T01:20:36.756897+00:00"
+    "confidence_score": 0.9688,
+    "published_at": "2026-07-26T01:23:05.157068+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-    "headline": "India's 'cockroach' protesters hold talks with government as stalemate continues",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9367,
-    "published_at": "2026-07-25T01:20:36.667756+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-    "headline": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-07-25T01:20:36.634156+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nigeria's president approves largest military expansion in recent times",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-07-25T01:20:36.402237+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-    "headline": "ICC top prosecutor removed over sexual misconduct allegations",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9466,
-    "published_at": "2026-07-25T01:20:36.250321+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-    "headline": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9821,
-    "published_at": "2026-07-25T01:20:36.206705+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-07-26T01:23:05.145305+00:00"
   }
 ]
