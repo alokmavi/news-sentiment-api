@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
-    "headline": "Modi Caught Off Guard as India\u2019s Economic Failings Inflame Young People",
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html",
+    "headline": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-07-26T01:23:05.407668+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-07-27T01:27:23.771941+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/middleeast/red-sea-strikes-oil-houthis.html",
-    "headline": "Strikes Against Saudi Tankers in the Red Sea Send Oil Past $100 a Barrel",
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html",
+    "headline": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-07-26T01:23:05.405112+00:00"
+    "confidence_score": 0.8799,
+    "published_at": "2026-07-27T01:27:23.770766+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/middleeast/what-to-know-iran-houthis.html",
-    "headline": "What to Know About Iran and the Houthis",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9431,
-    "published_at": "2026-07-26T01:23:05.402614+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html",
-    "headline": "Prominent Indian Activist Breaks Hunger Strike After 26 Days",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-07-26T01:23:05.397608+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
-    "headline": "\u2018We\u2019re Trapped in Hell\u2019: Iranians Say Life Is Put On Hold by Months of War",
-    "primary_sentiment": "NEGATIVE",
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
+    "headline": "Life of Alan Turing Emerges in Richer Detail From Short Story",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9958,
-    "published_at": "2026-07-26T01:23:05.392613+00:00"
+    "published_at": "2026-07-27T01:27:23.768292+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/middleeast/japanese-militant-tel-aviv-airport.html",
-    "headline": "Japanese Militant in Tel Aviv Airport Attack Dies in Lebanon at 78",
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
+    "headline": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7074,
-    "published_at": "2026-07-26T01:23:05.374448+00:00"
+    "confidence_score": 0.8031,
+    "published_at": "2026-07-27T01:27:23.765691+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/asia/india-genz-student-movement-cockroach-janta-party.html",
+    "headline": "India\u2019s Student Protesters Win Some Concessions From Government",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9621,
+    "published_at": "2026-07-27T01:27:23.764481+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/rare-pompeii-ceiling-is-restored.html",
+    "headline": "Rare Pompeii Ceiling Is Restored From Fragments, Depicting Scene From Myth",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9856,
+    "published_at": "2026-07-27T01:27:23.758367+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html",
+    "headline": "Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9848,
+    "published_at": "2026-07-27T01:27:23.753385+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this",
     "headline": "\u2018There have always been wildfires here, but never like this.\u2019",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.627,
-    "published_at": "2026-07-26T01:23:05.362407+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-    "headline": "Car Plows Into People Near a Pride Event in Berlin, Killing at Least One",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-07-26T01:23:05.358592+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-    "headline": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-07-26T01:23:05.357295+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
-    "headline": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7796,
-    "published_at": "2026-07-26T01:23:05.350424+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-    "headline": "Iran War Live Updates: U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9185,
-    "published_at": "2026-07-26T01:23:05.347750+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
-    "headline": "What to Know About the Wildfires Raging in Western Europe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9227,
-    "published_at": "2026-07-26T01:23:05.343758+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
-    "headline": "Bus Collision in Syria Kills 35, Health Ministry Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-07-26T01:23:05.342432+00:00"
+    "published_at": "2026-07-27T01:27:23.746225+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
     "headline": "Colombia\u2019s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.91,
-    "published_at": "2026-07-26T01:23:05.341097+00:00"
+    "published_at": "2026-07-27T01:27:23.727719+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
-    "headline": "India\u2019s Education Minister Steps Down in Victory for Cockroach Party Protesters",
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/middleeast/iran-war-journey-scars.html",
+    "headline": "Iran Journey Reveals Society\u2019s Wartime Defiance and Hope",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9588,
-    "published_at": "2026-07-26T01:23:05.339685+00:00"
+    "confidence_score": 0.9987,
+    "published_at": "2026-07-27T01:27:23.724096+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
-    "headline": "Families still search for bodies a month after Venezuela earthquakes",
+    "source_uri": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+    "headline": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-07-26T01:23:05.170078+00:00"
+    "confidence_score": 0.9963,
+    "published_at": "2026-07-27T01:27:23.722806+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-    "headline": "Protesters celebrate resignation of India's education minister",
+    "source_uri": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
+    "headline": "The Accidental Hero Who Faced Down India\u2019s Government",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-07-26T01:23:05.164792+00:00"
+    "confidence_score": 0.7828,
+    "published_at": "2026-07-27T01:27:23.719108+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-    "headline": "CJP protest: The youth movement India's Modi didn't see coming",
+    "source_uri": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
+    "headline": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-07-26T01:23:05.163543+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-07-27T01:27:23.717809+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-    "headline": "The notorious Cameroonian prison with its own record label",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Another day, more Trump tariffs - but are they working?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9688,
-    "published_at": "2026-07-26T01:23:05.157068+00:00"
+    "confidence_score": 0.9216,
+    "published_at": "2026-07-27T01:27:23.598391+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: At the scene of Berlin Pride attack as manhunt continues",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-07-26T01:23:05.145305+00:00"
+    "confidence_score": 0.988,
+    "published_at": "2026-07-27T01:27:23.594300+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+    "headline": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9845,
+    "published_at": "2026-07-27T01:27:23.593092+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+    "headline": "What Love Island tells us about the changing face of dating",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-07-27T01:27:23.591888+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+    "headline": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9899,
+    "published_at": "2026-07-27T01:27:23.586936+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump vows to investigate EU over fining of US tech companies",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-07-27T01:27:23.585724+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-07-27T01:27:23.571902+00:00"
   }
 ]
