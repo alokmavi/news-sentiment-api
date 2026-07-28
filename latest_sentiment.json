@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html",
-    "headline": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
+    "headline": "Who Are the People Protesting in India?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-07-27T01:27:23.771941+00:00"
+    "confidence_score": 0.8336,
+    "published_at": "2026-07-28T01:15:27.819011+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html",
-    "headline": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8799,
-    "published_at": "2026-07-27T01:27:23.770766+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
-    "headline": "Life of Alan Turing Emerges in Richer Detail From Short Story",
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html",
+    "headline": "How T\u0101 Moko, the M\u0101ori Tattoo Art, Made A Comeback in New Zealand",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-07-27T01:27:23.768292+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
-    "headline": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8031,
-    "published_at": "2026-07-27T01:27:23.765691+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/asia/india-genz-student-movement-cockroach-janta-party.html",
-    "headline": "India\u2019s Student Protesters Win Some Concessions From Government",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9621,
-    "published_at": "2026-07-27T01:27:23.764481+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/24/world/europe/rare-pompeii-ceiling-is-restored.html",
-    "headline": "Rare Pompeii Ceiling Is Restored From Fragments, Depicting Scene From Myth",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9856,
-    "published_at": "2026-07-27T01:27:23.758367+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html",
-    "headline": "Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9848,
-    "published_at": "2026-07-27T01:27:23.753385+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this",
-    "headline": "\u2018There have always been wildfires here, but never like this.\u2019",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.627,
-    "published_at": "2026-07-27T01:27:23.746225+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
-    "headline": "Colombia\u2019s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.91,
-    "published_at": "2026-07-27T01:27:23.727719+00:00"
+    "confidence_score": 0.9617,
+    "published_at": "2026-07-28T01:15:27.815143+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/25/world/middleeast/iran-war-journey-scars.html",
     "headline": "Iran Journey Reveals Society\u2019s Wartime Defiance and Hope",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9987,
-    "published_at": "2026-07-27T01:27:23.724096+00:00"
+    "published_at": "2026-07-28T01:15:27.812544+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-    "headline": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
+    "headline": "Conditions for European Wildfires Created by Summer of Extremes",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-07-28T01:15:27.799674+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
+    "headline": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-07-27T01:27:23.722806+00:00"
+    "confidence_score": 0.9973,
+    "published_at": "2026-07-28T01:15:27.798337+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html",
+    "headline": "Hundreds of Thousands Flee Fires in France and Spain as Help Pours In",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9847,
+    "published_at": "2026-07-28T01:15:27.794401+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+    "headline": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9588,
+    "published_at": "2026-07-28T01:15:27.790432+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
+    "headline": "Heat From France\u2019s Wildfires Creates a \u2018Fire Cloud,\u2019 or Pyrocumulonimbus",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-07-28T01:15:27.779936+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
     "headline": "The Accidental Hero Who Faced Down India\u2019s Government",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7828,
-    "published_at": "2026-07-27T01:27:23.719108+00:00"
+    "published_at": "2026-07-28T01:15:27.769474+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
     "headline": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-07-27T01:27:23.717809+00:00"
+    "published_at": "2026-07-28T01:15:27.768191+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Another day, more Trump tariffs - but are they working?",
+    "source_uri": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
+    "headline": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9932,
+    "published_at": "2026-07-28T01:15:27.766898+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
+    "headline": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9526,
+    "published_at": "2026-07-28T01:15:27.759052+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
+    "headline": "What you need to know if you're travelling to France or Spain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7494,
+    "published_at": "2026-07-28T01:15:27.580859+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
+    "headline": "How 'fire-generated thunderstorms' make wildfires more deadly",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5322,
+    "published_at": "2026-07-28T01:15:27.575677+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
+    "headline": "A Nigerian soldier is arrested for tipping off criminals - but does it go deeper?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.98,
+    "published_at": "2026-07-28T01:15:27.574469+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Carly Simon reveals Parkinson's diagnosis",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9216,
-    "published_at": "2026-07-27T01:27:23.598391+00:00"
+    "confidence_score": 0.8208,
+    "published_at": "2026-07-28T01:15:27.562223+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Wildfire witnesses describe 'wall of flames', fear and stress",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-07-27T01:27:23.594300+00:00"
+    "confidence_score": 0.8776,
+    "published_at": "2026-07-28T01:15:27.558413+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
-    "headline": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+    "headline": "China's new challenge as natural disasters strike - fake AI videos",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9845,
-    "published_at": "2026-07-27T01:27:23.593092+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-07-28T01:15:27.553263+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-    "headline": "What Love Island tells us about the changing face of dating",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says Iran war talks taking place during lull in strikes",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-07-27T01:27:23.591888+00:00"
+    "confidence_score": 0.9557,
+    "published_at": "2026-07-28T01:15:27.550200+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
-    "headline": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-07-27T01:27:23.586936+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump vows to investigate EU over fining of US tech companies",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-07-27T01:27:23.585724+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-07-27T01:27:23.571902+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-07-28T01:15:27.531176+00:00"
   }
 ]
