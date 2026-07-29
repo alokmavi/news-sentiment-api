@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
-    "headline": "Who Are the People Protesting in India?",
+    "source_uri": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+    "headline": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8336,
-    "published_at": "2026-07-28T01:15:27.819011+00:00"
+    "confidence_score": 0.9885,
+    "published_at": "2026-07-29T01:17:52.547968+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html",
-    "headline": "How T\u0101 Moko, the M\u0101ori Tattoo Art, Made A Comeback in New Zealand",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000011024495/cuba-power-crisis-oil-solutions.html",
+    "headline": "How Cubans Are Surviving a Fuel Crisis",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9157,
+    "published_at": "2026-07-29T01:17:52.538502+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html",
+    "headline": "New Heat Wave Could Intensify Wildfires in France and Spain",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9617,
-    "published_at": "2026-07-28T01:15:27.815143+00:00"
+    "confidence_score": 0.8575,
+    "published_at": "2026-07-29T01:17:52.529623+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/middleeast/iran-war-journey-scars.html",
-    "headline": "Iran Journey Reveals Society\u2019s Wartime Defiance and Hope",
+    "source_uri": "https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html",
+    "headline": "The Iran War Is Making Asia\u2019s Street Food More Expensive",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7228,
+    "published_at": "2026-07-29T01:17:52.518084+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami/japan-earthquake-kumamoto-tsunami",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9562,
+    "published_at": "2026-07-29T01:17:52.515732+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
+    "headline": "Police Say Binance Is Making It Harder to Fight Crime",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-07-29T01:17:52.512234+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/28/world/canada/marineland-canada-beluga-whales-relocated.html",
+    "headline": "Aquariums Are Relocating 30 Beluga Whales in \u2018Unprecedented\u2019 Rescue",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-07-29T01:17:52.511098+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami/the-mountainous-region-of-kumamoto-is-no-stranger-to-quakes",
+    "headline": "The mountainous region of Kumamoto is no stranger to quakes.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-07-28T01:15:27.812544+00:00"
+    "confidence_score": 0.9871,
+    "published_at": "2026-07-29T01:17:52.510004+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
-    "headline": "Conditions for European Wildfires Created by Summer of Extremes",
+    "source_uri": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
+    "headline": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-07-29T01:17:52.501113+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html",
+    "headline": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9889,
+    "published_at": "2026-07-29T01:17:52.495567+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
+    "headline": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9139,
+    "published_at": "2026-07-29T01:17:52.490745+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+    "headline": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8662,
+    "published_at": "2026-07-29T01:17:52.488728+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Confronting gang members at the heart of Ecuador's drug battle",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7412,
+    "published_at": "2026-07-29T01:17:52.322058+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Bystander video shows teen lifeguard's dramatic ocean rescue",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-07-28T01:15:27.799674+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
-    "headline": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-07-28T01:15:27.798337+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html",
-    "headline": "Hundreds of Thousands Flee Fires in France and Spain as Help Pours In",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-07-28T01:15:27.794401+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-    "headline": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9588,
-    "published_at": "2026-07-28T01:15:27.790432+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
-    "headline": "Heat From France\u2019s Wildfires Creates a \u2018Fire Cloud,\u2019 or Pyrocumulonimbus",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-07-28T01:15:27.779936+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
-    "headline": "The Accidental Hero Who Faced Down India\u2019s Government",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7828,
-    "published_at": "2026-07-28T01:15:27.769474+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
-    "headline": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-28T01:15:27.768191+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
-    "headline": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9932,
-    "published_at": "2026-07-28T01:15:27.766898+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
-    "headline": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9526,
-    "published_at": "2026-07-28T01:15:27.759052+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
-    "headline": "What you need to know if you're travelling to France or Spain",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7494,
-    "published_at": "2026-07-28T01:15:27.580859+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
-    "headline": "How 'fire-generated thunderstorms' make wildfires more deadly",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5322,
-    "published_at": "2026-07-28T01:15:27.575677+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
-    "headline": "A Nigerian soldier is arrested for tipping off criminals - but does it go deeper?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.98,
-    "published_at": "2026-07-28T01:15:27.574469+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-    "headline": "Carly Simon reveals Parkinson's diagnosis",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8208,
-    "published_at": "2026-07-28T01:15:27.562223+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Wildfire witnesses describe 'wall of flames', fear and stress",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8776,
-    "published_at": "2026-07-28T01:15:27.558413+00:00"
+    "confidence_score": 0.9884,
+    "published_at": "2026-07-29T01:17:52.319866+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
     "headline": "China's new challenge as natural disasters strike - fake AI videos",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9981,
-    "published_at": "2026-07-28T01:15:27.553263+00:00"
+    "published_at": "2026-07-29T01:17:52.317604+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says Iran war talks taking place during lull in strikes",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9557,
-    "published_at": "2026-07-28T01:15:27.550200+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+    "headline": "As the US pauses the war with Iran, is Trump really running out of weapons?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-07-28T01:15:27.531176+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-07-29T01:17:52.316377+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+    "headline": "A Japanese town wrestles with identity after protests over its first mosque",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-07-29T01:17:52.315254+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Shots fired at US consulate in Toronto for a second time this year",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-07-29T01:17:52.311700+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+    "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9956,
+    "published_at": "2026-07-29T01:17:52.309432+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+    "headline": "US walks out of UN Security Council meeting during France's remarks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.899,
+    "published_at": "2026-07-29T01:17:52.292246+00:00"
   }
 ]
