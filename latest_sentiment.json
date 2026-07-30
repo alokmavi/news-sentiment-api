@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-    "headline": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html",
+    "headline": "As Communities Unite Against Europe\u2019s Wildfires, Politicians Trade Blows",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9885,
-    "published_at": "2026-07-29T01:17:52.547968+00:00"
+    "confidence_score": 0.9886,
+    "published_at": "2026-07-30T01:10:37.317530+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011024495/cuba-power-crisis-oil-solutions.html",
-    "headline": "How Cubans Are Surviving a Fuel Crisis",
+    "source_uri": "https://www.nytimes.com/2026/07/27/world/india-cockroach-protests-spain-france-fires.html",
+    "headline": "India\u2019s \u2018Cockroach\u2019 Moment",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9157,
-    "published_at": "2026-07-29T01:17:52.538502+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html",
-    "headline": "New Heat Wave Could Intensify Wildfires in France and Spain",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8575,
-    "published_at": "2026-07-29T01:17:52.529623+00:00"
+    "confidence_score": 0.9089,
+    "published_at": "2026-07-30T01:10:37.314951+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html",
     "headline": "The Iran War Is Making Asia\u2019s Street Food More Expensive",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7228,
-    "published_at": "2026-07-29T01:17:52.518084+00:00"
+    "published_at": "2026-07-30T01:10:37.313636+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami/japan-earthquake-kumamoto-tsunami",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000011002617/cubans-arent-sleeping-in-sweltering-blackouts.html",
+    "headline": "Cubans Aren\u2019t Sleeping in Sweltering Blackouts",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9562,
-    "published_at": "2026-07-29T01:17:52.515732+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
-    "headline": "Police Say Binance Is Making It Harder to Fight Crime",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-07-29T01:17:52.512234+00:00"
+    "confidence_score": 0.9865,
+    "published_at": "2026-07-30T01:10:37.303141+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/28/world/canada/marineland-canada-beluga-whales-relocated.html",
     "headline": "Aquariums Are Relocating 30 Beluga Whales in \u2018Unprecedented\u2019 Rescue",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9775,
-    "published_at": "2026-07-29T01:17:52.511098+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami/the-mountainous-region-of-kumamoto-is-no-stranger-to-quakes",
-    "headline": "The mountainous region of Kumamoto is no stranger to quakes.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9871,
-    "published_at": "2026-07-29T01:17:52.510004+00:00"
+    "published_at": "2026-07-30T01:10:37.300652+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
     "headline": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9963,
-    "published_at": "2026-07-29T01:17:52.501113+00:00"
+    "published_at": "2026-07-30T01:10:37.298123+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html",
-    "headline": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+    "source_uri": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html",
+    "headline": "Houthis Claim Strike on Another Saudi Oil Tanker",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9889,
-    "published_at": "2026-07-29T01:17:52.495567+00:00"
+    "confidence_score": 0.9886,
+    "published_at": "2026-07-30T01:10:37.284689+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-    "headline": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9139,
-    "published_at": "2026-07-29T01:17:52.490745+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-07-30T01:10:37.283394+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-    "headline": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
+    "source_uri": "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html",
+    "headline": "As Trump Squeezes Cuba, He Plans to Send Cuban Deportees to Uruguay",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8662,
-    "published_at": "2026-07-29T01:17:52.488728+00:00"
+    "confidence_score": 0.947,
+    "published_at": "2026-07-30T01:10:37.278348+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Confronting gang members at the heart of Ecuador's drug battle",
+    "source_uri": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
+    "headline": "New Strikes Engulf More Countries in the Iran War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7412,
-    "published_at": "2026-07-29T01:17:52.322058+00:00"
+    "confidence_score": 0.9944,
+    "published_at": "2026-07-30T01:10:37.270474+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/29/world/asia/myanmar-war-nightlife-luxury.html",
+    "headline": "Amid Myanmar\u2019s Civil War, the Rich Seek Parties and \u2018Positive Vibes Only\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9618,
+    "published_at": "2026-07-30T01:10:37.266623+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-07-30T01:10:36.955482+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
     "headline": "Bystander video shows teen lifeguard's dramatic ocean rescue",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9884,
-    "published_at": "2026-07-29T01:17:52.319866+00:00"
+    "published_at": "2026-07-30T01:10:36.953968+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-    "headline": "China's new challenge as natural disasters strike - fake AI videos",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-07-29T01:17:52.317604+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
+    "headline": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7745,
+    "published_at": "2026-07-30T01:10:36.944072+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-    "headline": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-07-29T01:17:52.316377+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-    "headline": "A Japanese town wrestles with identity after protests over its first mosque",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+    "headline": "How Mexican drug cartels have outsourced meth labs to Nigeria",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.998,
-    "published_at": "2026-07-29T01:17:52.315254+00:00"
+    "published_at": "2026-07-30T01:10:36.942835+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Shots fired at US consulate in Toronto for a second time this year",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+    "headline": "India's CJP protests: Why tech alone won't stop exam paper leaks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-07-29T01:17:52.311700+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-07-30T01:10:36.941613+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-    "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+    "headline": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-07-29T01:17:52.309432+00:00"
+    "confidence_score": 0.9939,
+    "published_at": "2026-07-30T01:10:36.936784+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-    "headline": "US walks out of UN Security Council meeting during France's remarks",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Oscar-winning songwriter Glen Hansard killed in crash",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.899,
-    "published_at": "2026-07-29T01:17:52.292246+00:00"
+    "confidence_score": 0.8612,
+    "published_at": "2026-07-30T01:10:36.925402+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Salman Rushdie attacker convicted of terror offenses",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9817,
+    "published_at": "2026-07-30T01:10:36.920582+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+    "headline": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5015,
+    "published_at": "2026-07-30T01:10:36.919358+00:00"
   }
 ]
