@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html",
-    "headline": "Houthis Claim Strike on Another Saudi Oil Tanker",
+    "source_uri": "https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html",
+    "headline": "Two Tankers Hit in Apparent Drone Strike in Egypt",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9886,
-    "published_at": "2026-07-31T01:23:33.227406+00:00"
+    "confidence_score": 0.9924,
+    "published_at": "2026-08-01T01:28:52.113983+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
-    "headline": "After Large Earthquake, Japan \u2018Races Against Time\u2019 to Reach People Trapped",
+    "source_uri": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
+    "headline": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5254,
-    "published_at": "2026-07-31T01:23:33.226205+00:00"
+    "confidence_score": 0.9723,
+    "published_at": "2026-08-01T01:28:52.111561+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011017841/a-movie-night-in-cubas-blackout.html",
-    "headline": "A Movie Night in Cuba\u2019s Blackout",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9377,
-    "published_at": "2026-07-31T01:23:33.217910+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
-    "headline": "BTS Won\u2019t Enter Music From Comeback Album for Grammy Awards",
+    "source_uri": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+    "headline": "How Climate Change and Tariffs Help China Raise More Cattle",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-07-31T01:23:33.213161+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-    "headline": "Israel Strikes Mosque in Gaza City",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-07-31T01:23:33.211999+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-08-01T01:28:52.110444+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/video/world/americas/100000011014208/cubas-bet-on-solar.html",
     "headline": "Cuba\u2019s Bet on Solar",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9954,
-    "published_at": "2026-07-31T01:23:33.198181+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-07-31T01:23:33.193002+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html",
-    "headline": "Attack on Egyptian Port Shows Suez Canal\u2019s Vulnerability",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-07-31T01:23:33.190446+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/europe/100000011061309/france-wildfires-bordeaux-civilian-volunteers.html",
-    "headline": "Civilians Battle Wildfire Threatening Bordeaux",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-07-31T01:23:33.187872+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
-    "headline": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8742,
-    "published_at": "2026-07-31T01:23:33.184015+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html",
-    "headline": "Mexico\u2019s President Unveils Plan to Fight Seaweed That Is Choking Beaches",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-07-31T01:23:33.178865+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html",
-    "headline": "Japan Earthquake Death Toll Rises to 34",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-07-31T01:23:33.169834+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/30/world/middleeast/saudi-arabia-red-sea-houthis.html",
-    "headline": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-07-31T01:23:33.167256+00:00"
+    "published_at": "2026-08-01T01:28:52.107009+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
     "headline": "Why China\u2019s A.I. Models Could Threaten the Communist Party",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9244,
-    "published_at": "2026-07-31T01:23:33.164640+00:00"
+    "published_at": "2026-08-01T01:28:52.103567+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
-    "headline": "Man impaled by a hiking pole treks 10 miles down mountain",
+    "source_uri": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
+    "headline": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9749,
-    "published_at": "2026-07-31T01:23:33.013854+00:00"
+    "confidence_score": 0.6949,
+    "published_at": "2026-08-01T01:28:52.097512+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-    "headline": "Zendaya on working with Tom Holland in Spider-Man: \u2018When you\u2019re best friends it\u2019s easy\u2019",
+    "source_uri": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+    "headline": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9934,
+    "published_at": "2026-08-01T01:28:52.096211+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html",
+    "headline": "China, Its Economy Stumbling, Signals Only Cautious Support",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9453,
+    "published_at": "2026-08-01T01:28:52.091368+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
+    "headline": "Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-07-31T01:23:33.007200+00:00"
+    "confidence_score": 0.9899,
+    "published_at": "2026-08-01T01:28:52.079225+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-    "headline": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9727,
-    "published_at": "2026-07-31T01:23:32.995867+00:00"
+    "source_uri": "https://www.nytimes.com/2026/07/31/world/australia/humpback-whale-birth-video-drone.html",
+    "headline": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-08-01T01:28:52.072913+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Father of teen school shooter sentenced to 15 years in prison",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-07-31T01:23:32.989321+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
+    "headline": "Spain\u2019s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7091,
+    "published_at": "2026-08-01T01:28:52.071524+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-    "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
+    "source_uri": "https://www.nytimes.com/2026/07/31/world/americas/chipotle-restaurant-mexico.html",
+    "headline": "Selling Burritos Back to Mexico: Chipotle\u2019s Bold Expansion",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9859,
-    "published_at": "2026-07-31T01:23:32.986603+00:00"
+    "confidence_score": 0.6474,
+    "published_at": "2026-08-01T01:28:52.060983+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Nirmal Purja among 10 climbers feared missing after avalanche",
+    "source_uri": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
+    "headline": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-07-31T01:23:32.979911+00:00"
+    "confidence_score": 0.9603,
+    "published_at": "2026-08-01T01:28:52.026911+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+    "headline": "After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9905,
+    "published_at": "2026-08-01T01:28:52.024644+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+    "headline": "India wants to join the strawberry superpowers",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9666,
+    "published_at": "2026-08-01T01:28:51.828688+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump considering AI controls after OpenAI hacking incidents",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6259,
+    "published_at": "2026-08-01T01:28:51.817536+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-08-01T01:28:51.808878+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+    "headline": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9893,
+    "published_at": "2026-08-01T01:28:51.807646+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why limited war with the US may suit Iran better than peace",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6178,
+    "published_at": "2026-08-01T01:28:51.805337+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+    "headline": "Fifa says 'nobody selling football' as plan continues",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9695,
+    "published_at": "2026-08-01T01:28:51.800701+00:00"
   }
 ]
