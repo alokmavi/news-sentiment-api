@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/video/world/europe/100000011061309/france-wildfires-bordeaux-civilian-volunteers.html",
-    "headline": "Civilians Battle Wildfire Threatening Bordeaux",
+    "source_uri": "https://www.nytimes.com/2026/07/31/world/asia/myanmar-sentence-activists-protest.html",
+    "headline": "Myanmar Pro-Democracy Activists Each Sentenced to 37 Years in Prison",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-08-02T01:22:54.215403+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-08-03T01:23:25.883359+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
-    "headline": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-08-02T01:22:54.214107+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/30/world/us-death-penalty-iran-saudi-world-cup.html",
-    "headline": "Execution Nation",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8801,
-    "published_at": "2026-08-02T01:22:54.210260+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
-    "headline": "Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.",
+    "source_uri": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
+    "headline": "Spain\u2019s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-08-02T01:22:54.208971+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/australia/humpback-whale-birth-video-drone.html",
-    "headline": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-08-02T01:22:54.200013+00:00"
+    "confidence_score": 0.7091,
+    "published_at": "2026-08-03T01:23:25.882109+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
     "headline": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9946,
-    "published_at": "2026-08-02T01:22:54.195020+00:00"
+    "published_at": "2026-08-03T01:23:25.879525+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/europe/germany-pride-attack-extremism.html",
-    "headline": "German Authorities Knew of Pride Attacker\u2019s Extremism",
+    "source_uri": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
+    "headline": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9676,
-    "published_at": "2026-08-02T01:22:54.192519+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-08-03T01:23:25.868193+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html",
-    "headline": "Ceuta Evokes Europe\u2019s 2015 Migration Crisis. But Much Has Changed Since.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-08-02T01:22:54.182313+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
-    "headline": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
+    "source_uri": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
+    "headline": "Ukraine\u2019s Strike on Iranian Ship Shows How Two Wars Could Spiral",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-08-02T01:22:54.179646+00:00"
+    "confidence_score": 0.9835,
+    "published_at": "2026-08-03T01:23:25.866883+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html",
+    "headline": "Thousands of Migrants Surge Into Ceuta from Morocco, Prompting Political Backlash",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9789,
+    "published_at": "2026-08-03T01:23:25.861733+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
+    "headline": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-08-03T01:23:25.860491+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+    "headline": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.974,
+    "published_at": "2026-08-03T01:23:25.850348+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/01/world/canada/emancipation-day-uncle-toms-cabin-ontario-canada.html",
     "headline": "A Weekend That Marks a Historical Moment for Black Canadians",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9956,
-    "published_at": "2026-08-02T01:22:54.169946+00:00"
+    "published_at": "2026-08-03T01:23:25.845335+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html",
-    "headline": "Migration Surge on the Spain-Morocco Border",
+    "source_uri": "https://www.nytimes.com/2026/08/01/briefing/making-rounds.html",
+    "headline": "Making Rounds",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-08-02T01:22:54.167351+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-08-03T01:23:25.844130+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
     "headline": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.5085,
-    "published_at": "2026-08-02T01:22:54.165956+00:00"
+    "published_at": "2026-08-03T01:23:25.839108+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-    "headline": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
+    "headline": "Unraveling the Chaos in Ceuta",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9951,
+    "published_at": "2026-08-03T01:23:25.832448+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
+    "headline": "Australia\u2019s Indie Music Venues Closing as Costs Rise and Attendance Drops",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-08-03T01:23:25.824512+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+    "headline": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8192,
-    "published_at": "2026-08-02T01:22:54.147488+00:00"
+    "confidence_score": 0.9298,
+    "published_at": "2026-08-03T01:23:25.817308+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5369,
-    "published_at": "2026-08-02T01:22:53.927485+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Police in the US are making their own true crime podcasts - will it help catch killers?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9318,
-    "published_at": "2026-08-02T01:22:53.917119+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
+    "headline": "Crowds line Amsterdam's canals for Pride boat parade",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-08-03T01:23:25.704006+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
     "headline": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8263,
-    "published_at": "2026-08-02T01:22:53.910804+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-    "headline": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9809,
-    "published_at": "2026-08-02T01:22:53.906900+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9885,
-    "published_at": "2026-08-02T01:22:53.899326+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-    "headline": "Italy putting nearly all major cities on highest heat alert",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9571,
-    "published_at": "2026-08-02T01:22:53.898121+00:00"
+    "confidence_score": 0.942,
+    "published_at": "2026-08-03T01:23:25.694522+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9878,
+    "published_at": "2026-08-03T01:23:25.684215+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+    "headline": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9942,
+    "published_at": "2026-08-03T01:23:25.682918+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
     "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9957,
-    "published_at": "2026-08-02T01:22:53.869845+00:00"
+    "published_at": "2026-08-03T01:23:25.678930+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+    "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9916,
+    "published_at": "2026-08-03T01:23:25.677606+00:00"
   }
 ]
