@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/asia/myanmar-sentence-activists-protest.html",
-    "headline": "Myanmar Pro-Democracy Activists Each Sentenced to 37 Years in Prison",
+    "source_uri": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
+    "headline": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-08-03T01:23:25.883359+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-08-04T01:14:55.496348+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
-    "headline": "Spain\u2019s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+    "source_uri": "https://www.nytimes.com/video/world/europe/100000011063710/france-wildfires-evacuation-pets.html",
+    "headline": "A French Village Becomes a Ghost Town After the Wildfires",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7091,
-    "published_at": "2026-08-03T01:23:25.882109+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
-    "headline": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-08-03T01:23:25.879525+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
-    "headline": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-08-03T01:23:25.868193+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
-    "headline": "Ukraine\u2019s Strike on Iranian Ship Shows How Two Wars Could Spiral",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9835,
-    "published_at": "2026-08-03T01:23:25.866883+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html",
-    "headline": "Thousands of Migrants Surge Into Ceuta from Morocco, Prompting Political Backlash",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9789,
-    "published_at": "2026-08-03T01:23:25.861733+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
-    "headline": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-08-03T01:23:25.860491+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-    "headline": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.974,
-    "published_at": "2026-08-03T01:23:25.850348+00:00"
+    "confidence_score": 0.5607,
+    "published_at": "2026-08-04T01:14:55.495115+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/01/world/canada/emancipation-day-uncle-toms-cabin-ontario-canada.html",
     "headline": "A Weekend That Marks a Historical Moment for Black Canadians",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9956,
-    "published_at": "2026-08-03T01:23:25.845335+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/01/briefing/making-rounds.html",
-    "headline": "Making Rounds",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-08-03T01:23:25.844130+00:00"
+    "published_at": "2026-08-04T01:14:55.492730+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
     "headline": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.5085,
-    "published_at": "2026-08-03T01:23:25.839108+00:00"
+    "published_at": "2026-08-04T01:14:55.486645+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
-    "headline": "Unraveling the Chaos in Ceuta",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-08-03T01:23:25.832448+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+    "headline": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-08-04T01:14:55.479400+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
     "headline": "Australia\u2019s Indie Music Venues Closing as Costs Rise and Attendance Drops",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-08-03T01:23:25.824512+00:00"
+    "published_at": "2026-08-04T01:14:55.478273+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
-    "headline": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
+    "headline": "Europe\u2019s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9298,
-    "published_at": "2026-08-03T01:23:25.817308+00:00"
+    "confidence_score": 0.9961,
+    "published_at": "2026-08-04T01:14:55.477109+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
+    "headline": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9761,
+    "published_at": "2026-08-04T01:14:55.475990+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
+    "headline": "Man Is Jailed for Concealing Mother\u2019s Body in Freezer After Her Death",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9864,
+    "published_at": "2026-08-04T01:14:55.465844+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html",
+    "headline": "Russian Opposition Politician Flees to France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9804,
+    "published_at": "2026-08-04T01:14:55.464689+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/falling-space-debris-iran-oman.html",
+    "headline": "Falling Space Junk",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9645,
+    "published_at": "2026-08-04T01:14:55.463495+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
+    "headline": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9881,
+    "published_at": "2026-08-04T01:14:55.462328+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
+    "headline": "Cowboys Fringants Bassist Is Named Quebec\u2019s Chief Scientist",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-08-04T01:14:55.460085+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+    "headline": "For Iran, Trump\u2019s Reversal on Escalation Shows Who Has the Upper Hand",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9355,
+    "published_at": "2026-08-04T01:14:55.451762+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
+    "headline": "Spain\u2019s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9409,
+    "published_at": "2026-08-04T01:14:55.450511+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
     "headline": "Crowds line Amsterdam's canals for Pride boat parade",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9991,
-    "published_at": "2026-08-03T01:23:25.704006+00:00"
+    "published_at": "2026-08-04T01:14:55.332779+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.942,
-    "published_at": "2026-08-03T01:23:25.694522+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9878,
-    "published_at": "2026-08-03T01:23:25.684215+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-    "headline": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sudan army drone strike on court session kills 35, rights group says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-08-03T01:23:25.682918+00:00"
+    "confidence_score": 0.9464,
+    "published_at": "2026-08-04T01:14:55.321621+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-    "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-08-03T01:23:25.678930+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Infantino opponents threaten 'non co-operation' with Fifa",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-08-03T01:23:25.677606+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-08-04T01:14:55.315888+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+    "headline": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-08-04T01:14:55.311127+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9911,
+    "published_at": "2026-08-04T01:14:55.309553+00:00"
   }
 ]
