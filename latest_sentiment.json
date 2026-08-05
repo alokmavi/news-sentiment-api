@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-    "headline": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-08-04T01:14:55.496348+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/europe/100000011063710/france-wildfires-evacuation-pets.html",
-    "headline": "A French Village Becomes a Ghost Town After the Wildfires",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5607,
-    "published_at": "2026-08-04T01:14:55.495115+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/01/world/canada/emancipation-day-uncle-toms-cabin-ontario-canada.html",
-    "headline": "A Weekend That Marks a Historical Moment for Black Canadians",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-08-04T01:14:55.492730+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
-    "headline": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5085,
-    "published_at": "2026-08-04T01:14:55.486645+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
-    "headline": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-08-04T01:14:55.479400+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
     "headline": "Australia\u2019s Indie Music Venues Closing as Costs Rise and Attendance Drops",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-08-04T01:14:55.478273+00:00"
+    "published_at": "2026-08-05T01:16:36.212283+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
     "headline": "Europe\u2019s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9961,
-    "published_at": "2026-08-04T01:14:55.477109+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
-    "headline": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9761,
-    "published_at": "2026-08-04T01:14:55.475990+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
-    "headline": "Man Is Jailed for Concealing Mother\u2019s Body in Freezer After Her Death",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9864,
-    "published_at": "2026-08-04T01:14:55.465844+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html",
-    "headline": "Russian Opposition Politician Flees to France",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9804,
-    "published_at": "2026-08-04T01:14:55.464689+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/falling-space-debris-iran-oman.html",
-    "headline": "Falling Space Junk",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9645,
-    "published_at": "2026-08-04T01:14:55.463495+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
-    "headline": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9881,
-    "published_at": "2026-08-04T01:14:55.462328+00:00"
+    "published_at": "2026-08-05T01:16:36.211272+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
     "headline": "Cowboys Fringants Bassist Is Named Quebec\u2019s Chief Scientist",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9998,
-    "published_at": "2026-08-04T01:14:55.460085+00:00"
+    "published_at": "2026-08-05T01:16:36.202953+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
+    "headline": "Unraveling the Chaos in Ceuta",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9951,
+    "published_at": "2026-08-05T01:16:36.199919+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/naoero-nauru-name-change.html",
+    "headline": "Nauru, a Small Island in South Pacific, Changes Its Name to Naoero",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9952,
+    "published_at": "2026-08-05T01:16:36.193874+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html",
+    "headline": "Russian Opposition Politician Flees to France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9804,
+    "published_at": "2026-08-05T01:16:36.191819+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html",
+    "headline": "Stressed by Heat, 3 Lions Die at Tokyo Zoo",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-08-05T01:16:36.185614+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
+    "headline": "South Korea Wants to Raise Its Birthrate but Doesn\u2019t Have Enough NICU Doctors",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9961,
+    "published_at": "2026-08-05T01:16:36.180579+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+    "headline": "La Guaira Is Unrecognizable After Venezuela\u2019s Deadly Earthquakes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-08-05T01:16:36.178528+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
     "headline": "For Iran, Trump\u2019s Reversal on Escalation Shows Who Has the Upper Hand",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9355,
-    "published_at": "2026-08-04T01:14:55.451762+00:00"
+    "published_at": "2026-08-05T01:16:36.176489+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
-    "headline": "Spain\u2019s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+    "headline": "As France\u2019s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9409,
-    "published_at": "2026-08-04T01:14:55.450511+00:00"
+    "confidence_score": 0.9267,
+    "published_at": "2026-08-05T01:16:36.174460+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
-    "headline": "Crowds line Amsterdam's canals for Pride boat parade",
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
+    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-04T01:14:55.332779+00:00"
+    "confidence_score": 0.9943,
+    "published_at": "2026-08-05T01:16:36.169105+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sudan army drone strike on court session kills 35, rights group says",
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
+    "headline": "Airport chaos, delays as E.U. debuts biometric border system",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9464,
-    "published_at": "2026-08-04T01:14:55.321621+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-08-05T01:16:36.168050+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Infantino opponents threaten 'non co-operation' with Fifa",
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
+    "headline": "Pakistan\u2019s Kashmir Problem",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-08-04T01:14:55.315888+00:00"
+    "confidence_score": 0.8192,
+    "published_at": "2026-08-05T01:16:36.167017+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-    "headline": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "source_uri": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-08-04T01:14:55.311127+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-08-05T01:16:35.998626+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-08-04T01:14:55.309553+00:00"
+    "confidence_score": 0.9855,
+    "published_at": "2026-08-05T01:16:35.985733+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-08-05T01:16:35.983710+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
+    "headline": "World's oldest president reshuffles army as his absence stokes unease",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9902,
+    "published_at": "2026-08-05T01:16:35.978173+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+    "headline": "More than 170 migrants rescued after boat catches fire in Channel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-08-05T01:16:35.971164+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+    "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9542,
+    "published_at": "2026-08-05T01:16:35.966974+00:00"
   }
 ]
