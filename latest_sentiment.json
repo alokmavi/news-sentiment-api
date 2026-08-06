@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
-    "headline": "Australia\u2019s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-08-05T01:16:36.212283+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
-    "headline": "Europe\u2019s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+    "headline": "Ceuta Migration Crisis Exposes Despair Among Morocco\u2019s Young People",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-08-05T01:16:36.211272+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-08-06T01:13:16.701310+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
-    "headline": "Cowboys Fringants Bassist Is Named Quebec\u2019s Chief Scientist",
+    "source_uri": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
+    "headline": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9881,
+    "published_at": "2026-08-06T01:13:16.679629+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
+    "headline": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-08-06T01:13:16.666633+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/04/climate/mexico-declares-war-sargassum-seaweed.html",
+    "headline": "Mexico Declares War on Stinky Seaweed",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9663,
+    "published_at": "2026-08-06T01:13:16.664028+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html",
+    "headline": "Climate Change Comes to Sesame Street",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-08-05T01:16:36.202953+00:00"
+    "confidence_score": 0.9805,
+    "published_at": "2026-08-06T01:13:16.657540+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
-    "headline": "Unraveling the Chaos in Ceuta",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-08-05T01:16:36.199919+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/naoero-nauru-name-change.html",
-    "headline": "Nauru, a Small Island in South Pacific, Changes Its Name to Naoero",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-08-05T01:16:36.193874+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html",
-    "headline": "Russian Opposition Politician Flees to France",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9804,
-    "published_at": "2026-08-05T01:16:36.191819+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html",
-    "headline": "Stressed by Heat, 3 Lions Die at Tokyo Zoo",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-08-05T01:16:36.185614+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
-    "headline": "South Korea Wants to Raise Its Birthrate but Doesn\u2019t Have Enough NICU Doctors",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-08-05T01:16:36.180579+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
-    "headline": "La Guaira Is Unrecognizable After Venezuela\u2019s Deadly Earthquakes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-08-05T01:16:36.178528+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
-    "headline": "For Iran, Trump\u2019s Reversal on Escalation Shows Who Has the Upper Hand",
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/elon-musk-wealth-gaza-strikes.html",
+    "headline": "Musk, Money and Mars",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9355,
-    "published_at": "2026-08-05T01:16:36.176489+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-08-06T01:13:16.654934+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
-    "headline": "As France\u2019s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9267,
-    "published_at": "2026-08-05T01:16:36.174460+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
-    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/australia/new-zealand-bird-flu-vaccines.html",
+    "headline": "New Zealand is Racing to Vaccinate Its Endangered Birds Against Bird Flu",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-08-05T01:16:36.169105+00:00"
+    "confidence_score": 0.843,
+    "published_at": "2026-08-06T01:13:16.652313+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
-    "headline": "Airport chaos, delays as E.U. debuts biometric border system",
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html",
+    "headline": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-08-05T01:16:36.168050+00:00"
+    "confidence_score": 0.9912,
+    "published_at": "2026-08-06T01:13:16.647527+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
-    "headline": "Pakistan\u2019s Kashmir Problem",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8192,
-    "published_at": "2026-08-05T01:16:36.167017+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html",
+    "headline": "How Being Cool Is Making The Hague a Vacation Hot Spot",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9046,
+    "published_at": "2026-08-06T01:13:16.645115+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
+    "headline": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-08-05T01:16:35.998626+00:00"
+    "confidence_score": 0.976,
+    "published_at": "2026-08-06T01:13:16.639944+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9855,
-    "published_at": "2026-08-05T01:16:35.985733+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
+    "headline": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9839,
+    "published_at": "2026-08-06T01:13:16.637247+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-08-05T01:16:35.983710+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html",
+    "headline": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9962,
+    "published_at": "2026-08-06T01:13:16.633011+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
-    "headline": "World's oldest president reshuffles army as his absence stokes unease",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9902,
-    "published_at": "2026-08-05T01:16:35.978173+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-08-06T01:13:16.308093+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-    "headline": "More than 170 migrants rescued after boat catches fire in Channel",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-08-05T01:16:35.971164+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
+    "headline": "Record heatwave in South Korea as temperatures soar to 42.5C",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9646,
+    "published_at": "2026-08-06T01:13:16.304203+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-    "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+    "source_uri": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9542,
-    "published_at": "2026-08-05T01:16:35.966974+00:00"
+    "confidence_score": 0.9634,
+    "published_at": "2026-08-06T01:13:16.302926+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Mexican influencer shot dead during livestream",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9959,
+    "published_at": "2026-08-06T01:13:16.294988+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+    "headline": "UN rights chief alarmed by rise in Iran executions since March",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9684,
+    "published_at": "2026-08-06T01:13:16.292285+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9412,
+    "published_at": "2026-08-06T01:13:16.290842+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.918,
+    "published_at": "2026-08-06T01:13:16.289159+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Drone carrying explosives found at German airport, police say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-08-06T01:13:16.100730+00:00"
   }
 ]
