@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
-    "headline": "Ceuta Migration Crisis Exposes Despair Among Morocco\u2019s Young People",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-08-06T01:13:16.701310+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
-    "headline": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
+    "headline": "JPMorgan Again Entangled in a Soccer Fiasco",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9881,
-    "published_at": "2026-08-06T01:13:16.679629+00:00"
+    "confidence_score": 0.9947,
+    "published_at": "2026-08-07T01:57:19.262657+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
-    "headline": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
+    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-08-07T01:57:19.257727+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
+    "headline": "Airport chaos, delays as E.U. debuts biometric border system",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-08-06T01:13:16.666633+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-08-07T01:57:19.256513+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/04/climate/mexico-declares-war-sargassum-seaweed.html",
-    "headline": "Mexico Declares War on Stinky Seaweed",
+    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/english-channel-migrants-rescue.html",
+    "headline": "More Than 170 Migrants Rescued From Burning Boat in English Channel",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9663,
-    "published_at": "2026-08-06T01:13:16.664028+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html",
-    "headline": "Climate Change Comes to Sesame Street",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9805,
-    "published_at": "2026-08-06T01:13:16.657540+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/elon-musk-wealth-gaza-strikes.html",
-    "headline": "Musk, Money and Mars",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-08-06T01:13:16.654934+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/australia/new-zealand-bird-flu-vaccines.html",
-    "headline": "New Zealand is Racing to Vaccinate Its Endangered Birds Against Bird Flu",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.843,
-    "published_at": "2026-08-06T01:13:16.652313+00:00"
+    "confidence_score": 0.9927,
+    "published_at": "2026-08-07T01:57:19.252686+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html",
     "headline": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9912,
-    "published_at": "2026-08-06T01:13:16.647527+00:00"
+    "published_at": "2026-08-07T01:57:19.239030+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html",
     "headline": "How Being Cool Is Making The Hague a Vacation Hot Spot",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9046,
-    "published_at": "2026-08-06T01:13:16.645115+00:00"
+    "published_at": "2026-08-07T01:57:19.236563+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
-    "headline": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/germany-explosive-drone-airport.html",
+    "headline": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.976,
-    "published_at": "2026-08-06T01:13:16.639944+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-08-07T01:57:19.219966+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
-    "headline": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
+    "source_uri": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
+    "headline": "Amid Intensifying Russian Strikes, Ukraine\u2019s Pleas for Air Defenses Are Falling Flat",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9591,
+    "published_at": "2026-08-07T01:57:19.195302+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
+    "headline": "Country Music Festival Lights Up Nairobi",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9839,
-    "published_at": "2026-08-06T01:13:16.637247+00:00"
+    "confidence_score": 0.9989,
+    "published_at": "2026-08-07T01:57:19.193953+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html",
-    "headline": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cd7l4zrr2qlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Moment first rare tiger in 70 years released in Kazakhstan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9746,
+    "published_at": "2026-08-07T01:57:18.906007+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+    "headline": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9829,
+    "published_at": "2026-08-07T01:57:18.900233+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+    "headline": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9131,
+    "published_at": "2026-08-07T01:57:18.898767+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Does Africa still back Infantino as Fifa president?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-08-07T01:57:18.892346+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Outrage as Ugandan football captain beaten to death in street gang attack",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-08-07T01:57:18.881312+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7746,
+    "published_at": "2026-08-07T01:57:18.878640+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+    "headline": "EasyJet agrees to \u00a35.7bn takeover by US firm",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-08-07T01:57:18.875916+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
+    "headline": "DR Congo river boat under quarantine for Ebola after five deaths",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9925,
+    "published_at": "2026-08-07T01:57:18.874567+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
+    "headline": "Artificial Intelligence used to design brand new viruses",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9174,
+    "published_at": "2026-08-07T01:57:18.870462+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump imposes 15% tariff on key chip material to counter China",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-08-06T01:13:16.633011+00:00"
+    "confidence_score": 0.9549,
+    "published_at": "2026-08-07T01:57:18.865064+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-08-06T01:13:16.308093+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
-    "headline": "Record heatwave in South Korea as temperatures soar to 42.5C",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9646,
-    "published_at": "2026-08-06T01:13:16.304203+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9634,
-    "published_at": "2026-08-06T01:13:16.302926+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Mexican influencer shot dead during livestream",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-08-06T01:13:16.294988+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-    "headline": "UN rights chief alarmed by rise in Iran executions since March",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9684,
-    "published_at": "2026-08-06T01:13:16.292285+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9412,
-    "published_at": "2026-08-06T01:13:16.290842+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.918,
-    "published_at": "2026-08-06T01:13:16.289159+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Drone carrying explosives found at German airport, police say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-08-06T01:13:16.100730+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-08-07T01:57:18.857058+00:00"
   }
 ]
