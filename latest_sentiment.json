@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
-    "headline": "JPMorgan Again Entangled in a Soccer Fiasco",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-08-07T01:57:19.262657+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
-    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-08-07T01:57:19.257727+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
-    "headline": "Airport chaos, delays as E.U. debuts biometric border system",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-08-07T01:57:19.256513+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/04/world/europe/english-channel-migrants-rescue.html",
-    "headline": "More Than 170 Migrants Rescued From Burning Boat in English Channel",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-08-07T01:57:19.252686+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html",
-    "headline": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9912,
-    "published_at": "2026-08-07T01:57:19.239030+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html",
     "headline": "How Being Cool Is Making The Hague a Vacation Hot Spot",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9046,
-    "published_at": "2026-08-07T01:57:19.236563+00:00"
+    "published_at": "2026-08-08T00:39:50.563263+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
+    "headline": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.976,
+    "published_at": "2026-08-08T00:39:50.560944+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+    "headline": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.896,
+    "published_at": "2026-08-08T00:39:50.559818+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/americas/pope-leo-peru-uruguay-argentina.html",
+    "headline": "Pope Leo Will Visit Peru, Where He Lived for Years, in November",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-08-08T00:39:50.558700+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
+    "headline": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.824,
+    "published_at": "2026-08-08T00:39:50.557575+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/05/world/europe/germany-explosive-drone-airport.html",
     "headline": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9981,
-    "published_at": "2026-08-07T01:57:19.219966+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
-    "headline": "Amid Intensifying Russian Strikes, Ukraine\u2019s Pleas for Air Defenses Are Falling Flat",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9591,
-    "published_at": "2026-08-07T01:57:19.195302+00:00"
+    "published_at": "2026-08-08T00:39:50.548592+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
     "headline": "Country Music Festival Lights Up Nairobi",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-08-07T01:57:19.193953+00:00"
+    "published_at": "2026-08-08T00:39:50.544104+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cd7l4zrr2qlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Moment first rare tiger in 70 years released in Kazakhstan",
+    "source_uri": "https://www.nytimes.com/2026/08/06/world/asia/japan-vandalism-doctor-prison-sentence.html",
+    "headline": "N.Y. Doctor Sentenced in Japan for Vandalizing Ancient Religious Sites",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9746,
-    "published_at": "2026-08-07T01:57:18.906007+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-08-08T00:39:50.539625+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-    "headline": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+    "source_uri": "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html",
+    "headline": "Photos Show England Turning Brown in Drought",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9829,
-    "published_at": "2026-08-07T01:57:18.900233+00:00"
+    "confidence_score": 0.9998,
+    "published_at": "2026-08-08T00:39:50.527284+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-    "headline": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+    "source_uri": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
+    "headline": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9131,
-    "published_at": "2026-08-07T01:57:18.898767+00:00"
+    "confidence_score": 0.7557,
+    "published_at": "2026-08-08T00:39:50.513696+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+    "headline": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9912,
+    "published_at": "2026-08-08T00:39:50.510234+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know so far about the deadly Thailand shooting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9869,
+    "published_at": "2026-08-08T00:39:50.205275+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+    "headline": "El-Sayed's victory sends tremors through Democratic Party",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-08-08T00:39:50.201952+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
     "headline": "Does Africa still back Infantino as Fifa president?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9955,
-    "published_at": "2026-08-07T01:57:18.892346+00:00"
+    "published_at": "2026-08-08T00:39:50.197408+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Outrage as Ugandan football captain beaten to death in street gang attack",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+    "headline": "German airport drone-bomb: Could Russia be involved?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-08-07T01:57:18.881312+00:00"
+    "confidence_score": 0.7672,
+    "published_at": "2026-08-08T00:39:50.192727+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7746,
-    "published_at": "2026-08-07T01:57:18.878640+00:00"
+    "confidence_score": 0.9817,
+    "published_at": "2026-08-08T00:39:50.189128+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-    "headline": "EasyJet agrees to \u00a35.7bn takeover by US firm",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Two people convicted in relation to death of French streamer",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-08-07T01:57:18.875916+00:00"
+    "confidence_score": 0.9873,
+    "published_at": "2026-08-08T00:39:50.187998+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-    "headline": "DR Congo river boat under quarantine for Ebola after five deaths",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-08-07T01:57:18.874567+00:00"
+    "confidence_score": 0.9404,
+    "published_at": "2026-08-08T00:39:50.184516+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Artificial Intelligence used to design brand new viruses",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9174,
-    "published_at": "2026-08-07T01:57:18.870462+00:00"
+    "confidence_score": 0.9624,
+    "published_at": "2026-08-08T00:39:50.175168+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump imposes 15% tariff on key chip material to counter China",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9549,
-    "published_at": "2026-08-07T01:57:18.865064+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+    "source_uri": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-08-07T01:57:18.857058+00:00"
+    "confidence_score": 0.9862,
+    "published_at": "2026-08-08T00:39:50.172798+00:00"
   }
 ]
