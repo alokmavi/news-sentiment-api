@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/americas/mexican-influencer-shot-dead-kfc.html",
-    "headline": "Mexican Influencer C\u00e9sar Gast\u00e9lum Shot Dead During Livestream from Sinaloa",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-08-09T00:42:23.646915+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/05/world/australia/new-zealand-bird-flu-vaccines.html",
-    "headline": "New Zealand is Racing to Vaccinate Its Endangered Birds Against Bird Flu",
+    "source_uri": "https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html",
+    "headline": "The \u2018Heated Rivalry\u2019 Star Hudson Williams Uplifts a Canadian Tire Bag",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.843,
-    "published_at": "2026-08-09T00:42:23.643611+00:00"
+    "confidence_score": 0.9841,
+    "published_at": "2026-08-10T00:43:44.440254+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-    "headline": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5927,
-    "published_at": "2026-08-09T00:42:23.640850+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
-    "headline": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9731,
-    "published_at": "2026-08-09T00:42:23.638432+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
-    "headline": "Country Music Festival Lights Up Nairobi",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-08-09T00:42:23.637195+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html",
-    "headline": "Birds Are Dying. Clues Point to El Ni\u00f1o.",
+    "source_uri": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
+    "headline": "French Streamers Convicted in Case Related to Kick Livestream Death",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-08-09T00:42:23.620969+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-08-10T00:43:44.435603+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-    "headline": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-08-09T00:42:23.608255+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/06/world/good-list-rituals-strait-hormuz-fifa.html",
+    "headline": "A List of Good Things",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9999,
+    "published_at": "2026-08-10T00:43:44.433117+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html",
-    "headline": "Photos Show England Turning Brown in Drought",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-08-09T00:42:23.605756+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+    "headline": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9844,
+    "published_at": "2026-08-10T00:43:44.427906+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+    "headline": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9912,
+    "published_at": "2026-08-10T00:43:44.425864+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/07/world/europe/europe-heat-records.html",
     "headline": "Parts of Eastern and Central Europe Broke Heat Records This Week",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9859,
-    "published_at": "2026-08-09T00:42:23.604501+00:00"
+    "published_at": "2026-08-10T00:43:44.418816+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/canada/canada-economy-tariffs-carney-trump.html",
-    "headline": "Signs of Economic Recovery While Greater Uncertainty Looms",
+    "source_uri": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+    "headline": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9366,
-    "published_at": "2026-08-09T00:42:23.597022+00:00"
+    "confidence_score": 0.9961,
+    "published_at": "2026-08-10T00:43:44.416847+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
+    "headline": "What to Know About Wildberries, the Company in Ukraine\u2019s Cross Hairs",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9928,
+    "published_at": "2026-08-10T00:43:44.411891+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+    "headline": "As Ukraine Strikes Wildberries, Russia\u2019s Richest Businesswoman Faces Her Biggest Test Yet",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.99,
+    "published_at": "2026-08-10T00:43:44.408842+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
     "headline": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9836,
-    "published_at": "2026-08-09T00:42:23.576273+00:00"
+    "published_at": "2026-08-10T00:43:44.405749+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know so far about the deadly Thailand shooting",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9869,
-    "published_at": "2026-08-09T00:42:23.448813+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-    "headline": "I was standing in front of my teacher when she was shot, Thai pupil says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8116,
-    "published_at": "2026-08-09T00:42:23.442447+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Scale of devastation shocks US city's fire-seasoned residents",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6629,
-    "published_at": "2026-08-09T00:42:23.441043+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-    "headline": "The phone book that led us to Assad's spy chief in hiding",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8057,
-    "published_at": "2026-08-09T00:42:23.437228+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-08-09T00:42:23.435994+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9787,
-    "published_at": "2026-08-09T00:42:23.432284+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+    "source_uri": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
+    "headline": "Still Waiting for Peace in Gaza",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.854,
-    "published_at": "2026-08-09T00:42:23.422301+00:00"
+    "confidence_score": 0.9976,
+    "published_at": "2026-08-10T00:43:44.404697+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+    "source_uri": "https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html",
+    "headline": "Daniel Kinahan Extradited From the U.A.E. to Ireland",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-08-09T00:42:23.414426+00:00"
+    "confidence_score": 0.9612,
+    "published_at": "2026-08-10T00:43:44.403651+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+    "headline": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8415,
+    "published_at": "2026-08-10T00:43:44.399401+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+    "headline": "As the Climate Warms, Beavers are Coming for Canada\u2019s Arctic",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9937,
+    "published_at": "2026-08-10T00:43:44.393757+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+    "headline": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9709,
+    "published_at": "2026-08-10T00:43:44.388884+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9822,
+    "published_at": "2026-08-10T00:43:44.123023+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9864,
-    "published_at": "2026-08-09T00:42:23.395040+00:00"
+    "published_at": "2026-08-10T00:43:44.119757+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+    "headline": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.994,
+    "published_at": "2026-08-10T00:43:44.113062+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Drones spotted over German base days after Leipzig bomb incident",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-08-10T00:43:44.107844+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9731,
+    "published_at": "2026-08-10T00:43:44.086397+00:00"
   }
 ]
