@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html",
-    "headline": "The \u2018Heated Rivalry\u2019 Star Hudson Williams Uplifts a Canadian Tire Bag",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9841,
-    "published_at": "2026-08-10T00:43:44.440254+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
-    "headline": "French Streamers Convicted in Case Related to Kick Livestream Death",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-08-10T00:43:44.435603+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/06/world/good-list-rituals-strait-hormuz-fifa.html",
-    "headline": "A List of Good Things",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9999,
-    "published_at": "2026-08-10T00:43:44.433117+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
-    "headline": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9844,
-    "published_at": "2026-08-10T00:43:44.427906+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
-    "headline": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9912,
-    "published_at": "2026-08-10T00:43:44.425864+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/08/07/world/europe/europe-heat-records.html",
     "headline": "Parts of Eastern and Central Europe Broke Heat Records This Week",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9859,
-    "published_at": "2026-08-10T00:43:44.418816+00:00"
+    "published_at": "2026-08-11T00:43:46.406806+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
-    "headline": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
+    "source_uri": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html",
+    "headline": "Houthis Claim Attack on Yemeni Military Camp",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-08-10T00:43:44.416847+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-08-11T00:43:46.400598+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/punjabi-soldiers-ww1-british-indian-army.html",
+    "headline": "Punjabi Soldiers Who Fought for Britain in World War I Are Recognized for First Time",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-08-11T00:43:46.398494+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
     "headline": "What to Know About Wildberries, the Company in Ukraine\u2019s Cross Hairs",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9928,
-    "published_at": "2026-08-10T00:43:44.411891+00:00"
+    "published_at": "2026-08-11T00:43:46.397421+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
-    "headline": "As Ukraine Strikes Wildberries, Russia\u2019s Richest Businesswoman Faces Her Biggest Test Yet",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.99,
-    "published_at": "2026-08-10T00:43:44.408842+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+    "headline": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9651,
+    "published_at": "2026-08-11T00:43:46.396342+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-    "headline": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9836,
-    "published_at": "2026-08-10T00:43:44.405749+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
+    "headline": "Pellet Guns, Sticks and Tear Gas: How India\u2019s Police Halted a Youth March",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8739,
+    "published_at": "2026-08-11T00:43:46.394247+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
     "headline": "Still Waiting for Peace in Gaza",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-08-10T00:43:44.404697+00:00"
+    "published_at": "2026-08-11T00:43:46.380491+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html",
-    "headline": "Daniel Kinahan Extradited From the U.A.E. to Ireland",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9612,
-    "published_at": "2026-08-10T00:43:44.403651+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-    "headline": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
+    "headline": "Explosive Canada Wildfire Leaves 1 Dead in British Columbia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8415,
-    "published_at": "2026-08-10T00:43:44.399401+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-08-11T00:43:46.378377+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
-    "headline": "As the Climate Warms, Beavers are Coming for Canada\u2019s Arctic",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9937,
-    "published_at": "2026-08-10T00:43:44.393757+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-    "headline": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9709,
-    "published_at": "2026-08-10T00:43:44.388884+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html",
+    "headline": "How \u2018Harry Potter\u2019 Fans Protected Dobby\u2019s Grave From the Path of a U.K.-Ireland Power Cable",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9822,
-    "published_at": "2026-08-10T00:43:44.123023+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-08-11T00:43:46.376268+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/europe/sicily-shipwreck-discovery.html",
+    "headline": "Italian Diver Discovers Hundreds of Ancient Amphorae in Sicily",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9864,
-    "published_at": "2026-08-10T00:43:44.119757+00:00"
+    "confidence_score": 0.9905,
+    "published_at": "2026-08-11T00:43:46.372921+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/journalism-us-colombia-quake.html",
+    "headline": "Journalism and Paywalls",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-08-10T00:43:44.113062+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-08-11T00:43:46.371873+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Drones spotted over German base days after Leipzig bomb incident",
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html",
+    "headline": "Here Is Where Colombia\u2019s Quake Hit Hardest",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-08-10T00:43:44.107844+00:00"
+    "confidence_score": 0.9958,
+    "published_at": "2026-08-11T00:43:46.365617+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-    "headline": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html",
+    "headline": "Police in India Use Tear Gas to Break Youth Protest",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9731,
-    "published_at": "2026-08-10T00:43:44.086397+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-08-11T00:43:46.356087+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+    "headline": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-08-11T00:43:46.351680+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+    "headline": "Southern Iran Bears Brunt of U.S. Bombing",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9897,
+    "published_at": "2026-08-11T00:43:46.350411+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-08-11T00:43:46.063371+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-08-11T00:43:46.062347+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: What we know about suspected crime boss Daniel Kinahan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9158,
+    "published_at": "2026-08-11T00:43:46.060224+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian court bars only anti-war party from standing in parliamentary elections",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-08-11T00:43:46.053660+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+    "headline": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9639,
+    "published_at": "2026-08-11T00:43:46.049488+00:00"
   }
 ]
