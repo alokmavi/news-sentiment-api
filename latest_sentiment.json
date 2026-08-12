@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/07/world/europe/europe-heat-records.html",
-    "headline": "Parts of Eastern and Central Europe Broke Heat Records This Week",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9859,
-    "published_at": "2026-08-11T00:43:46.406806+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html",
-    "headline": "Houthis Claim Attack on Yemeni Military Camp",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-08-11T00:43:46.400598+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/punjabi-soldiers-ww1-british-indian-army.html",
-    "headline": "Punjabi Soldiers Who Fought for Britain in World War I Are Recognized for First Time",
+    "source_uri": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+    "headline": "Syria Agrees to Reorganized Russian Military Presence",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-08-11T00:43:46.398494+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
-    "headline": "What to Know About Wildberries, the Company in Ukraine\u2019s Cross Hairs",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9928,
-    "published_at": "2026-08-11T00:43:46.397421+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-    "headline": "Whirling Like Dervishes in Turkey, but Open to Everyone",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9651,
-    "published_at": "2026-08-11T00:43:46.396342+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
-    "headline": "Pellet Guns, Sticks and Tear Gas: How India\u2019s Police Halted a Youth March",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8739,
-    "published_at": "2026-08-11T00:43:46.394247+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-08-12T00:49:17.014041+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
     "headline": "Still Waiting for Peace in Gaza",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-08-11T00:43:46.380491+00:00"
+    "published_at": "2026-08-12T00:49:17.010188+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
-    "headline": "Explosive Canada Wildfire Leaves 1 Dead in British Columbia",
+    "source_uri": "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html",
+    "headline": "Extreme Heat Comes for the Red Chile Capital of Pakistan",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-08-11T00:43:46.378377+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-08-12T00:49:17.005290+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html",
-    "headline": "How \u2018Harry Potter\u2019 Fans Protected Dobby\u2019s Grave From the Path of a U.K.-Ireland Power Cable",
+    "source_uri": "https://www.nytimes.com/2026/08/10/books/review/jason-arday-memoir-takeaways.html",
+    "headline": "Takeaways From Jason Arday\u2019s Memoir",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-08-11T00:43:46.376268+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/europe/sicily-shipwreck-discovery.html",
-    "headline": "Italian Diver Discovers Hundreds of Ancient Amphorae in Sicily",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-08-11T00:43:46.372921+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/journalism-us-colombia-quake.html",
-    "headline": "Journalism and Paywalls",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-11T00:43:46.371873+00:00"
+    "confidence_score": 0.9879,
+    "published_at": "2026-08-12T00:49:16.986171+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html",
     "headline": "Here Is Where Colombia\u2019s Quake Hit Hardest",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9958,
-    "published_at": "2026-08-11T00:43:46.365617+00:00"
+    "published_at": "2026-08-12T00:49:16.981165+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html",
-    "headline": "Police in India Use Tear Gas to Break Youth Protest",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-08-11T00:43:46.356087+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/asia/extreme-heat-wave-korea-japan-china-cooling.html",
+    "headline": "A.C. Vests and UV Parasols: East Asia Deploys Heat-Fighting Gadgets",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.982,
+    "published_at": "2026-08-12T00:49:16.978725+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
-    "headline": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
+    "source_uri": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+    "headline": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-08-11T00:43:46.351680+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-08-12T00:49:16.977517+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
-    "headline": "Southern Iran Bears Brunt of U.S. Bombing",
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
+    "headline": "Before Trump\u2019s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-08-11T00:43:46.350411+00:00"
+    "confidence_score": 0.9543,
+    "published_at": "2026-08-12T00:49:16.975082+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-08-11T00:43:46.063371+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html",
+    "headline": "Total Eclipse",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-08-12T00:49:16.970088+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-08-11T00:43:46.062347+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+    "headline": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7572,
+    "published_at": "2026-08-12T00:49:16.962274+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: What we know about suspected crime boss Daniel Kinahan",
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
+    "headline": "Why Rumors About Morocco Followed Spain\u2019s Ceuta Migrant Surge",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9158,
-    "published_at": "2026-08-11T00:43:46.060224+00:00"
+    "confidence_score": 0.9855,
+    "published_at": "2026-08-12T00:49:16.960914+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Russian court bars only anti-war party from standing in parliamentary elections",
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+    "headline": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-11T00:43:46.053660+00:00"
+    "confidence_score": 0.9888,
+    "published_at": "2026-08-12T00:49:16.956903+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-    "headline": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html",
+    "headline": "The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9639,
-    "published_at": "2026-08-11T00:43:46.049488+00:00"
+    "confidence_score": 0.9919,
+    "published_at": "2026-08-12T00:49:16.955639+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+    "headline": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9816,
+    "published_at": "2026-08-12T00:49:16.952836+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9735,
+    "published_at": "2026-08-12T00:49:16.728385+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9359,
+    "published_at": "2026-08-12T00:49:16.725860+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Thailand suspends new gun permits after mass shooting",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9636,
+    "published_at": "2026-08-12T00:49:16.719499+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Cristiano Ronaldo marries long-time partner Georgina Rodr\u00edguez",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9022,
+    "published_at": "2026-08-12T00:49:16.710698+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+    "headline": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-08-12T00:49:16.706790+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-08-12T00:49:16.704925+00:00"
   }
 ]
