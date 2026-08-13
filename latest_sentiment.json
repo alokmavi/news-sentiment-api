@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-    "headline": "Syria Agrees to Reorganized Russian Military Presence",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-08-12T00:49:17.014041+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
-    "headline": "Still Waiting for Peace in Gaza",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-08-12T00:49:17.010188+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html",
-    "headline": "Extreme Heat Comes for the Red Chile Capital of Pakistan",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-12T00:49:17.005290+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/10/books/review/jason-arday-memoir-takeaways.html",
-    "headline": "Takeaways From Jason Arday\u2019s Memoir",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9879,
-    "published_at": "2026-08-12T00:49:16.986171+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html",
-    "headline": "Here Is Where Colombia\u2019s Quake Hit Hardest",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-08-12T00:49:16.981165+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/11/world/asia/extreme-heat-wave-korea-japan-china-cooling.html",
-    "headline": "A.C. Vests and UV Parasols: East Asia Deploys Heat-Fighting Gadgets",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.982,
-    "published_at": "2026-08-12T00:49:16.978725+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
-    "headline": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-08-12T00:49:16.977517+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
-    "headline": "Before Trump\u2019s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9543,
-    "published_at": "2026-08-12T00:49:16.975082+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html",
-    "headline": "Total Eclipse",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-08-12T00:49:16.970088+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-    "headline": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7572,
-    "published_at": "2026-08-12T00:49:16.962274+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
     "headline": "Why Rumors About Morocco Followed Spain\u2019s Ceuta Migrant Surge",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9855,
-    "published_at": "2026-08-12T00:49:16.960914+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-    "headline": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-08-12T00:49:16.956903+00:00"
+    "published_at": "2026-08-13T00:52:34.843977+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html",
     "headline": "The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9919,
-    "published_at": "2026-08-12T00:49:16.955639+00:00"
+    "published_at": "2026-08-13T00:52:34.842861+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
-    "headline": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+    "headline": "Six Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9816,
-    "published_at": "2026-08-12T00:49:16.952836+00:00"
+    "confidence_score": 0.9953,
+    "published_at": "2026-08-13T00:52:34.825310+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9735,
-    "published_at": "2026-08-12T00:49:16.728385+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9359,
-    "published_at": "2026-08-12T00:49:16.725860+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Thailand suspends new gun permits after mass shooting",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000011086264/a-rescue-effort-after-colombias-earthquake.html",
+    "headline": "A Rescue Effort After Colombia\u2019s Earthquake",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9636,
-    "published_at": "2026-08-12T00:49:16.719499+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-08-13T00:52:34.818348+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Cristiano Ronaldo marries long-time partner Georgina Rodr\u00edguez",
+    "source_uri": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipse-europe",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9022,
-    "published_at": "2026-08-12T00:49:16.710698+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-08-13T00:52:34.816285+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-    "headline": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+    "source_uri": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
+    "headline": "Effects of Record-Breaking El Ni\u00f1o Are Happening on 3 Continents",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-08-12T00:49:16.706790+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-08-13T00:52:34.802340+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+    "source_uri": "https://www.nytimes.com/2026/08/12/world/afghanistan-taliban-anniversary-eclipse-lakers.html",
+    "headline": "Afghanistan\u2019s Unhappy Anniversary",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9825,
+    "published_at": "2026-08-13T00:52:34.795378+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html",
+    "headline": "Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9956,
+    "published_at": "2026-08-13T00:52:34.791325+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html",
+    "headline": "A Syrian Holdout Province, Sweida, Fears a Government Takeover",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9871,
+    "published_at": "2026-08-13T00:52:34.789197+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
+    "headline": "How Ra\u00fal Castro\u2019s Grandson, Ra\u00fal G. Rodr\u00edguez Castro, Became a Power Broker",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9859,
+    "published_at": "2026-08-13T00:52:34.787175+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html",
+    "headline": "Thailand Halts New Gun Permits After Mass Shooting at a School",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9872,
+    "published_at": "2026-08-13T00:52:34.785080+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html",
+    "headline": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-08-12T00:49:16.704925+00:00"
+    "confidence_score": 0.9973,
+    "published_at": "2026-08-13T00:52:34.784057+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
+    "headline": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9948,
+    "published_at": "2026-08-13T00:52:34.778856+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Tide of rubbish blankets Philippines river",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9928,
+    "published_at": "2026-08-13T00:52:34.627805+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Why was Trump smuggled out of Air Force One in a catering truck?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9966,
+    "published_at": "2026-08-13T00:52:34.626109+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: What is it like to travel on Air Force One with Trump?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9885,
+    "published_at": "2026-08-13T00:52:34.624415+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+    "headline": "LA Lakers to be sold in record $12.5bn deal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-08-13T00:52:34.613388+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+    "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9302,
+    "published_at": "2026-08-13T00:52:34.611151+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9419,
+    "published_at": "2026-08-13T00:52:34.605539+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why are 'human fridges' being sold in Japan?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8347,
+    "published_at": "2026-08-13T00:52:34.462586+00:00"
   }
 ]
