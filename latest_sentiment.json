@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
-    "headline": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
-    "primary_sentiment": "NEGATIVE",
+    "source_uri": "https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html",
+    "headline": "Settler Siege of Palestinian Homes Highlights Growing West Bank Chaos",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9932,
+    "published_at": "2026-08-15T00:29:07.066576+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
+    "headline": "\u2018An English Summer Is Not the Same Anymore\u2019",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-08-14T00:52:00.078906+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html",
-    "headline": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-08-14T00:52:00.076645+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/this-remote-spot-has-cliffs-seabirds-and-today-a-few-extra-seconds-of-darkness",
-    "headline": "This remote spot has cliffs, seabirds \u2014 and today, a few extra seconds of darkness.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5117,
-    "published_at": "2026-08-14T00:52:00.064417+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html",
-    "headline": "How Scientists Use Eclipses for Research",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9825,
-    "published_at": "2026-08-14T00:52:00.057029+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html",
-    "headline": "More Than 40 Dead After a Ferry Capsizes on Zimbabwe\u2019s Lake Kariba",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-08-14T00:52:00.052193+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/12/us/land-speed-record-utah-andy-green.html",
-    "headline": "Driver Sets Record for Hydrogen-Powered Vehicle at More Than 406 M.P.H.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9697,
-    "published_at": "2026-08-14T00:52:00.047076+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/12/world/afghanistan-taliban-anniversary-eclipse-lakers.html",
-    "headline": "Afghanistan\u2019s Unhappy Anniversary",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9825,
-    "published_at": "2026-08-14T00:52:00.043270+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/muddling-through-icelands-rainy-eclipse-accompanied-by-clouds-whales-and-at-least-one-proposal",
-    "headline": "Muddling through Iceland\u2019s rainy eclipse, accompanied by clouds, whales and at least one proposal.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-08-14T00:52:00.040729+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-    "headline": "Brazil\u2019s Disease-Fighting Mosquitoes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9795,
-    "published_at": "2026-08-14T00:52:00.034531+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
-    "headline": "Female Afghans Erased From Public Life in Five Years of Taliban Rule",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-14T00:52:00.030767+00:00"
+    "published_at": "2026-08-15T00:29:07.064054+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
-    "headline": "What to Know About Today\u2019s U.K. Special Election: Farage vs. Binface",
+    "headline": "What to Know About the U.K. Special Election: Farage vs. Binface",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-08-14T00:52:00.026986+00:00"
+    "confidence_score": 0.749,
+    "published_at": "2026-08-15T00:29:07.062760+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
-    "headline": "Train Derails Near Town of Lewes in East Sussex, U.K.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7799,
-    "published_at": "2026-08-14T00:52:00.019939+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+    "headline": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9856,
+    "published_at": "2026-08-15T00:29:07.061489+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html",
+    "headline": "The Man on a Mission to Build India\u2019s Most Livable City",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-08-15T00:29:07.060217+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
     "headline": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-08-14T00:52:00.018644+00:00"
+    "published_at": "2026-08-15T00:29:07.056151+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
-    "headline": "A Patient\u2019s Final Breath in a Congolese Ebola Ward",
+    "source_uri": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+    "headline": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9847,
-    "published_at": "2026-08-14T00:52:00.011409+00:00"
+    "confidence_score": 0.9114,
+    "published_at": "2026-08-15T00:29:07.054882+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-    "headline": "Baby Shark boy set to make K-pop debut",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6037,
-    "published_at": "2026-08-14T00:51:59.881414+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why are 'human fridges' being sold in Japan?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8347,
-    "published_at": "2026-08-14T00:51:59.880257+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Australia's game-changing disability support is in crisis \u2013 what went wrong?",
+    "source_uri": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
+    "headline": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-08-14T00:51:59.863218+00:00"
+    "confidence_score": 0.9867,
+    "published_at": "2026-08-15T00:29:07.049871+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
+    "headline": "Brazil\u2019s Disease-Fighting Mosquitoes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-14T00:51:59.832536+00:00"
+    "confidence_score": 0.9795,
+    "published_at": "2026-08-15T00:29:07.048654+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+    "source_uri": "https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html",
+    "headline": "Early-Onset El Ni\u00f1o",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8326,
-    "published_at": "2026-08-14T00:51:59.824915+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-08-15T00:29:07.044793+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-    "headline": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
+    "headline": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-08-15T00:29:07.039422+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html",
+    "headline": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-08-15T00:29:07.028756+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/france-court-strikes-down-ban-social-media-children.html",
+    "headline": "France\u2019s Top Court Strikes Down Ban on Social Media for Children",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9744,
+    "published_at": "2026-08-15T00:29:07.024925+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html",
+    "headline": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9957,
-    "published_at": "2026-08-14T00:51:59.820321+00:00"
+    "published_at": "2026-08-15T00:29:07.022349+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
+    "headline": "Will Sudan\u2019s El Obeid Become the Next El Fasher? What to Know.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.984,
+    "published_at": "2026-08-15T00:29:07.016947+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-08-15T00:29:06.887258+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-08-15T00:29:06.878642+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-08-15T00:29:06.875989+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-08-15T00:29:06.870707+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-08-15T00:29:06.836228+00:00"
   }
 ]
