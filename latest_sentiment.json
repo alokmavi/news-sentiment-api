@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html",
-    "headline": "Settler Siege of Palestinian Homes Highlights Growing West Bank Chaos",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9932,
-    "published_at": "2026-08-15T00:29:07.066576+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
-    "headline": "\u2018An English Summer Is Not the Same Anymore\u2019",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-08-15T00:29:07.064054+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
-    "headline": "What to Know About the U.K. Special Election: Farage vs. Binface",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.749,
-    "published_at": "2026-08-15T00:29:07.062760+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-    "headline": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9856,
-    "published_at": "2026-08-15T00:29:07.061489+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html",
-    "headline": "The Man on a Mission to Build India\u2019s Most Livable City",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-08-15T00:29:07.060217+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
-    "headline": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-08-15T00:29:07.056151+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-    "headline": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9114,
-    "published_at": "2026-08-15T00:29:07.054882+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
     "headline": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9867,
-    "published_at": "2026-08-15T00:29:07.049871+00:00"
+    "published_at": "2026-08-16T00:29:35.059544+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
-    "headline": "Brazil\u2019s Disease-Fighting Mosquitoes",
+    "source_uri": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+    "headline": "Israeli Settlers Resume West Bank Siege After Eviction",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9795,
-    "published_at": "2026-08-15T00:29:07.048654+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html",
-    "headline": "Early-Onset El Ni\u00f1o",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-08-15T00:29:07.044793+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
-    "headline": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-08-15T00:29:07.039422+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html",
-    "headline": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-08-15T00:29:07.028756+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/france-court-strikes-down-ban-social-media-children.html",
-    "headline": "France\u2019s Top Court Strikes Down Ban on Social Media for Children",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9744,
-    "published_at": "2026-08-15T00:29:07.024925+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html",
-    "headline": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-08-15T00:29:07.022349+00:00"
+    "confidence_score": 0.7014,
+    "published_at": "2026-08-16T00:29:35.053562+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
     "headline": "Will Sudan\u2019s El Obeid Become the Next El Fasher? What to Know.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.984,
-    "published_at": "2026-08-15T00:29:07.016947+00:00"
+    "published_at": "2026-08-16T00:29:35.047445+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-08-15T00:29:06.887258+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+    "headline": "With Trump\u2019s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9891,
+    "published_at": "2026-08-16T00:29:35.036562+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
+    "headline": "Five Arrested in Connection to Stolen Works by C\u00e9zanne, Renoir and Matisse, Prosecutors Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-08-15T00:29:06.878642+00:00"
+    "confidence_score": 0.9965,
+    "published_at": "2026-08-16T00:29:35.035379+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html",
+    "headline": "Britain\u2019s Farage Takes a Page From Trump\u2019s Playbook Amid Investigations",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-08-15T00:29:06.875989+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-08-16T00:29:35.030570+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+    "headline": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9781,
+    "published_at": "2026-08-16T00:29:35.023342+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/canada/sleepaway-summer-camp-children-ontario-canada.html",
+    "headline": "Summer Camps Strive to Stay Part of Canadian Life, Despite Hurdles",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9923,
+    "published_at": "2026-08-16T00:29:35.020974+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
+    "headline": "Quit Lit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9918,
+    "published_at": "2026-08-16T00:29:35.019760+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+    "headline": "Russia Campaigned to Derail Moldova\u2019s Pro-Western Government",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-08-16T00:29:35.016082+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+    "headline": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9606,
+    "published_at": "2026-08-16T00:29:35.013543+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+    "headline": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8951,
+    "published_at": "2026-08-16T00:29:35.003281+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+    "headline": "World's Ugliest Dog contest crowns 2026 winner",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9903,
+    "published_at": "2026-08-16T00:29:34.628468+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
     "headline": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9992,
-    "published_at": "2026-08-15T00:29:06.870707+00:00"
+    "published_at": "2026-08-16T00:29:34.618187+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+    "headline": "'Unprecedented' rain in Japan kills eight people",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-08-15T00:29:06.836228+00:00"
+    "confidence_score": 0.9896,
+    "published_at": "2026-08-16T00:29:34.615696+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Builders unearth \u20ac9m gold stash sealed in walls of Belgian property",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-08-16T00:29:34.614428+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9929,
+    "published_at": "2026-08-16T00:29:34.608095+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+    "headline": "Why is Australia's mushroom killer back in court this week?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9908,
+    "published_at": "2026-08-16T00:29:34.604224+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9899,
+    "published_at": "2026-08-16T00:29:34.598978+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Liechtenstein changes succession rule to allow women to ascend the throne",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9697,
+    "published_at": "2026-08-16T00:29:34.596420+00:00"
   }
 ]
