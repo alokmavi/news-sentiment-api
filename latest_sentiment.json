@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
-    "headline": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
+    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
+    "headline": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9867,
-    "published_at": "2026-08-16T00:29:35.059544+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
-    "headline": "Israeli Settlers Resume West Bank Siege After Eviction",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7014,
-    "published_at": "2026-08-16T00:29:35.053562+00:00"
+    "confidence_score": 0.9967,
+    "published_at": "2026-08-17T00:27:50.581372+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
     "headline": "Will Sudan\u2019s El Obeid Become the Next El Fasher? What to Know.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.984,
-    "published_at": "2026-08-16T00:29:35.047445+00:00"
+    "published_at": "2026-08-17T00:27:50.578693+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-    "headline": "With Trump\u2019s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9891,
-    "published_at": "2026-08-16T00:29:35.036562+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
-    "headline": "Five Arrested in Connection to Stolen Works by C\u00e9zanne, Renoir and Matisse, Prosecutors Say",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html",
+    "headline": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9965,
-    "published_at": "2026-08-16T00:29:35.035379+00:00"
+    "published_at": "2026-08-17T00:27:50.575976+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html",
-    "headline": "Britain\u2019s Farage Takes a Page From Trump\u2019s Playbook Amid Investigations",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html",
+    "headline": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-08-16T00:29:35.030570+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-08-17T00:27:50.562691+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-    "headline": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9781,
-    "published_at": "2026-08-16T00:29:35.023342+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/15/world/canada/sleepaway-summer-camp-children-ontario-canada.html",
-    "headline": "Summer Camps Strive to Stay Part of Canadian Life, Despite Hurdles",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
+    "headline": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9923,
-    "published_at": "2026-08-16T00:29:35.020974+00:00"
+    "published_at": "2026-08-17T00:27:50.557389+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/europe/omey-island-races-horse-racing-ireland.html",
+    "headline": "Where Future Champions Race Against the Tide",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-08-17T00:27:50.545405+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
     "headline": "Quit Lit",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9918,
-    "published_at": "2026-08-16T00:29:35.019760+00:00"
+    "published_at": "2026-08-17T00:27:50.540068+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-    "headline": "Russia Campaigned to Derail Moldova\u2019s Pro-Western Government",
-    "primary_sentiment": "NEGATIVE",
+    "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
+    "headline": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.833,
+    "published_at": "2026-08-17T00:27:50.525954+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+    "headline": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9949,
-    "published_at": "2026-08-16T00:29:35.016082+00:00"
+    "published_at": "2026-08-17T00:27:50.520907+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
-    "headline": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+    "source_uri": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+    "headline": "Trump\u2019s Other Hold on the Americas: The Visa",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9606,
-    "published_at": "2026-08-16T00:29:35.013543+00:00"
+    "confidence_score": 0.9893,
+    "published_at": "2026-08-17T00:27:50.517075+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
-    "headline": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
+    "headline": "How is parkour helping these seniors avoid injuries?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8951,
-    "published_at": "2026-08-16T00:29:35.003281+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-08-17T00:27:50.288589+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
-    "headline": "World's Ugliest Dog contest crowns 2026 winner",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+    "headline": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9576,
+    "published_at": "2026-08-17T00:27:50.287307+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Europe's scorched landscapes seen from space after summer heatwaves",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9903,
-    "published_at": "2026-08-16T00:29:34.628468+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-08-17T00:27:50.282196+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+    "headline": "Many Canadians are boycotting the US, so this is where they're travelling instead",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-08-16T00:29:34.618187+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-08-17T00:27:50.276909+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-    "headline": "'Unprecedented' rain in Japan kills eight people",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+    "headline": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9896,
-    "published_at": "2026-08-16T00:29:34.615696+00:00"
+    "confidence_score": 0.9532,
+    "published_at": "2026-08-17T00:27:50.271775+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Builders unearth \u20ac9m gold stash sealed in walls of Belgian property",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-08-16T00:29:34.614428+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+    "headline": "US commander says mental health a 'priority' on USS Lincoln",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9925,
+    "published_at": "2026-08-17T00:27:50.257847+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-08-16T00:29:34.608095+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+    "headline": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7385,
+    "published_at": "2026-08-17T00:27:50.253980+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-    "headline": "Why is Australia's mushroom killer back in court this week?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-08-16T00:29:34.604224+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8482,
+    "published_at": "2026-08-17T00:27:50.252717+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-08-16T00:29:34.598978+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9434,
+    "published_at": "2026-08-17T00:27:50.251132+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Liechtenstein changes succession rule to allow women to ascend the throne",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9697,
-    "published_at": "2026-08-16T00:29:34.596420+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8399,
+    "published_at": "2026-08-17T00:27:50.231752+00:00"
   }
 ]
