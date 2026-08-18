@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
-    "headline": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-08-17T00:27:50.581372+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
-    "headline": "Will Sudan\u2019s El Obeid Become the Next El Fasher? What to Know.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-08-17T00:27:50.578693+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html",
-    "headline": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
+    "headline": "Five Arrested in Connection to Stolen Works by C\u00e9zanne, Renoir and Matisse, Prosecutors Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9965,
-    "published_at": "2026-08-17T00:27:50.575976+00:00"
+    "published_at": "2026-08-18T00:27:27.907748+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html",
-    "headline": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+    "headline": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-08-17T00:27:50.562691+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-08-18T00:27:27.900396+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
-    "headline": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
+    "source_uri": "https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html",
+    "headline": "When a Rare Wolf Got Too Close, Denmark Faced a Conservation Dilemma",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-08-17T00:27:50.557389+00:00"
+    "confidence_score": 0.9824,
+    "published_at": "2026-08-18T00:27:27.899087+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/15/world/europe/omey-island-races-horse-racing-ireland.html",
-    "headline": "Where Future Champions Race Against the Tide",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-08-17T00:27:50.545405+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
+    "headline": "Heat Deaths in a \u2018Cold\u2019 Country Are a Warning to the Rest of Europe",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-08-18T00:27:27.895398+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+    "headline": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9606,
+    "published_at": "2026-08-18T00:27:27.894210+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
+    "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-08-18T00:27:27.884644+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
     "headline": "Quit Lit",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9918,
-    "published_at": "2026-08-17T00:27:50.540068+00:00"
+    "published_at": "2026-08-18T00:27:27.882037+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+    "headline": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9899,
+    "published_at": "2026-08-18T00:27:27.880833+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
     "headline": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.833,
-    "published_at": "2026-08-17T00:27:50.525954+00:00"
+    "published_at": "2026-08-18T00:27:27.874523+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
-    "headline": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+    "source_uri": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+    "headline": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9949,
-    "published_at": "2026-08-17T00:27:50.520907+00:00"
+    "published_at": "2026-08-18T00:27:27.865431+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
-    "headline": "Trump\u2019s Other Hold on the Americas: The Visa",
+    "source_uri": "https://www.nytimes.com/2026/08/17/world/europe/mount-etna-hiker-lightning-strike-death.html",
+    "headline": "American Hiker Dies After Lightning Strike on Mount Etna in Italy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9893,
-    "published_at": "2026-08-17T00:27:50.517075+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-08-18T00:27:27.863024+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
-    "headline": "How is parkour helping these seniors avoid injuries?",
+    "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
+    "headline": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-17T00:27:50.288589+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-08-18T00:27:27.860639+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+    "headline": "China Wants Its Data to Power the World\u2019s A.I.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9119,
+    "published_at": "2026-08-18T00:27:27.847761+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
     "headline": "Moment family rescued after 16 hours floating on jet ski off Thailand",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9576,
-    "published_at": "2026-08-17T00:27:50.287307+00:00"
+    "published_at": "2026-08-18T00:27:27.720139+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Europe's scorched landscapes seen from space after summer heatwaves",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-08-17T00:27:50.282196+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-    "headline": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+    "headline": "Why is Australia's mushroom killer back in court this week?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-08-17T00:27:50.276909+00:00"
+    "confidence_score": 0.9901,
+    "published_at": "2026-08-18T00:27:27.717735+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-    "headline": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Secondhand book sales are booming. Is it because of AI?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9532,
-    "published_at": "2026-08-17T00:27:50.271775+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-08-18T00:27:27.711586+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-    "headline": "US commander says mental health a 'priority' on USS Lincoln",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-08-17T00:27:50.257847+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+    "headline": "Five years after the Taliban swept to power, does the West have any influence?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-08-18T00:27:27.710388+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+    "headline": "Thailand has a gun problem - 10 million of them",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9247,
+    "published_at": "2026-08-18T00:27:27.707799+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
     "headline": "Two dead and hundreds evacuated after twin fires break out on Greek island",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.7385,
-    "published_at": "2026-08-17T00:27:50.253980+00:00"
+    "published_at": "2026-08-18T00:27:27.705346+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8482,
-    "published_at": "2026-08-17T00:27:50.252717+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9434,
-    "published_at": "2026-08-17T00:27:50.251132+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8399,
-    "published_at": "2026-08-17T00:27:50.231752+00:00"
+    "confidence_score": 0.9503,
+    "published_at": "2026-08-18T00:27:27.667025+00:00"
   }
 ]
