@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-    "headline": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+    "source_uri": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+    "headline": "Trump\u2019s Other Hold on the Americas: The Visa",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-08-19T00:28:17.179311+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/15/world/canada/sleepaway-summer-camp-children-ontario-canada.html",
-    "headline": "Summer Camps Strive to Stay Part of Canadian Life, Despite Hurdles",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-08-19T00:28:17.169655+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
-    "headline": "Quit Lit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-08-19T00:28:17.168299+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-    "headline": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.598,
-    "published_at": "2026-08-19T00:28:17.165553+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html",
-    "headline": "After Women in India Joined Protests, Online Harassment Followed",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9912,
-    "published_at": "2026-08-19T00:28:17.158543+00:00"
+    "confidence_score": 0.9893,
+    "published_at": "2026-08-20T00:28:40.843616+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
     "headline": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.5628,
-    "published_at": "2026-08-19T00:28:17.150283+00:00"
+    "published_at": "2026-08-20T00:28:40.838102+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
+    "headline": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-08-20T00:28:40.834082+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
     "headline": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9949,
-    "published_at": "2026-08-19T00:28:17.144398+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000011069179/japan-earthquake-disaster-kumamoto.html",
-    "headline": "How Japan Averted a Major Earthquake Disaster",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-08-19T00:28:17.139856+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
-    "headline": "A Rescue Mission in Remote Colombia",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-08-19T00:28:17.130509+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/18/world/jason-arday-cambridge-canada-meta.html",
-    "headline": "The Tragic Story of Jason Arday",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6362,
-    "published_at": "2026-08-19T00:28:17.129043+00:00"
+    "published_at": "2026-08-20T00:28:40.832744+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
     "headline": "China Wants Its Data to Power the World\u2019s A.I.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9119,
-    "published_at": "2026-08-19T00:28:17.120879+00:00"
+    "published_at": "2026-08-20T00:28:40.831405+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC visits smouldering Kyiv market after Russian strikes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-08-19T00:28:16.897750+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Why has Trump shifted on North Korea?",
+    "source_uri": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+    "headline": "Iran\u2019s Supreme Leader Signals Intention to Keep Country on a War Footing",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9835,
-    "published_at": "2026-08-19T00:28:16.893850+00:00"
+    "confidence_score": 0.9807,
+    "published_at": "2026-08-20T00:28:40.827415+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-08-19T00:28:16.891313+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+    "headline": "How Ukraine\u2019s Satellites Help Drive Its War Drones",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-08-20T00:28:40.826104+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Indian law students don't want top judge at their graduation ceremony",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-08-19T00:28:16.888642+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html",
+    "headline": "Zambia Says President Won Re-election After Tumultuous Campaign",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-08-20T00:28:40.813713+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-    "headline": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html",
+    "headline": "More Than 100 Dead in Central African Republic Gold Mine Collapse",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-19T00:28:16.881034+00:00"
+    "confidence_score": 0.993,
+    "published_at": "2026-08-20T00:28:40.794168+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Man in Chucky-style mask terrorises Philadelphia residents",
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/trump-icc-israel-investigation.html",
+    "headline": "Trump vs. the International Criminal Court",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-08-19T00:28:16.879664+00:00"
+    "confidence_score": 0.9896,
+    "published_at": "2026-08-20T00:28:40.791490+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/helicopter-crash-kenya.html",
+    "headline": "5 Americans and Ecuadorean Official Are Killed in Helicopter Crash in Kenya",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7198,
-    "published_at": "2026-08-19T00:28:16.877009+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-08-20T00:28:40.788727+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-    "headline": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
+    "headline": "What to Know About Iran\u2019s Economic Ties With Gulf Countries",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9845,
-    "published_at": "2026-08-19T00:28:16.868919+00:00"
+    "confidence_score": 0.5217,
+    "published_at": "2026-08-20T00:28:40.787262+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-    "headline": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why is Ukraine's ex-defence minister calling for wartime elections?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.974,
-    "published_at": "2026-08-19T00:28:16.864957+00:00"
+    "confidence_score": 0.7783,
+    "published_at": "2026-08-20T00:28:40.445823+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+    "headline": "Families' agonising search for answers as thousands still missing in Gaza",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-08-20T00:28:40.441735+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Who is Natalie Harp, Trump's right-hand woman?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-08-20T00:28:40.437792+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Liberia agrees to accept 1,200 foreign deportees from the US",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9961,
+    "published_at": "2026-08-20T00:28:40.435206+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Head-on collision between bus and lorry in Brazil kills more than 20",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-08-20T00:28:40.423150+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9633,
+    "published_at": "2026-08-20T00:28:40.420439+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel opens up bids for highly-sensitive West Bank settlement project",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-08-20T00:28:40.417678+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9716,
+    "published_at": "2026-08-20T00:28:40.393378+00:00"
   }
 ]
