@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
-    "headline": "Trump\u2019s Other Hold on the Americas: The Visa",
+    "source_uri": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+    "headline": "At Ex-Premier Zhu Rongji\u2019s Funeral, China\u2019s Past Shadows Its Present",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9893,
-    "published_at": "2026-08-20T00:28:40.843616+00:00"
+    "confidence_score": 0.9971,
+    "published_at": "2026-08-21T00:30:46.717303+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
-    "headline": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+    "source_uri": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
+    "headline": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5628,
-    "published_at": "2026-08-20T00:28:40.838102+00:00"
+    "confidence_score": 0.9857,
+    "published_at": "2026-08-21T00:30:46.714900+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
-    "headline": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
+    "headline": "A Rescue Mission in Remote Colombia",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-08-20T00:28:40.834082+00:00"
+    "confidence_score": 0.9916,
+    "published_at": "2026-08-21T00:30:46.713727+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
-    "headline": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-08-20T00:28:40.832744+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-    "headline": "China Wants Its Data to Power the World\u2019s A.I.",
+    "source_uri": "https://www.nytimes.com/2026/08/18/world/jason-arday-cambridge-canada-meta.html",
+    "headline": "The Tragic Story of Jason Arday",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9119,
-    "published_at": "2026-08-20T00:28:40.831405+00:00"
+    "confidence_score": 0.6362,
+    "published_at": "2026-08-21T00:30:46.712551+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
-    "headline": "Iran\u2019s Supreme Leader Signals Intention to Keep Country on a War Footing",
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
+    "headline": "How the Iran War Made Africa\u2019s Richest Man Even Richer",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9807,
-    "published_at": "2026-08-20T00:28:40.827415+00:00"
+    "confidence_score": 0.9142,
+    "published_at": "2026-08-21T00:30:46.705044+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-    "headline": "How Ukraine\u2019s Satellites Help Drive Its War Drones",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-08-20T00:28:40.826104+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html",
-    "headline": "Zambia Says President Won Re-election After Tumultuous Campaign",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-08-20T00:28:40.813713+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html",
-    "headline": "More Than 100 Dead in Central African Republic Gold Mine Collapse",
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
+    "headline": "Trump and Canada\u2019s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-08-20T00:28:40.794168+00:00"
+    "confidence_score": 0.982,
+    "published_at": "2026-08-21T00:30:46.697624+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/19/world/trump-icc-israel-investigation.html",
     "headline": "Trump vs. the International Criminal Court",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9896,
-    "published_at": "2026-08-20T00:28:40.791490+00:00"
+    "published_at": "2026-08-21T00:30:46.690731+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+    "headline": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.991,
+    "published_at": "2026-08-21T00:30:46.689451+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/helicopter-crash-kenya.html",
     "headline": "5 Americans and Ecuadorean Official Are Killed in Helicopter Crash in Kenya",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9982,
-    "published_at": "2026-08-20T00:28:40.788727+00:00"
+    "published_at": "2026-08-21T00:30:46.688207+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
-    "headline": "What to Know About Iran\u2019s Economic Ties With Gulf Countries",
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
+    "headline": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5217,
-    "published_at": "2026-08-20T00:28:40.787262+00:00"
+    "confidence_score": 0.9596,
+    "published_at": "2026-08-21T00:30:46.684465+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7783,
-    "published_at": "2026-08-20T00:28:40.445823+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-    "headline": "Families' agonising search for answers as thousands still missing in Gaza",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-08-20T00:28:40.441735+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Who is Natalie Harp, Trump's right-hand woman?",
+    "source_uri": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
+    "headline": "\u2018The Necessary Conversation\u2019 Puts Family Political Arguments On Full Display",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-20T00:28:40.437792+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-08-21T00:30:46.683215+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Liberia agrees to accept 1,200 foreign deportees from the US",
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html",
+    "headline": "Imran Khan Wins Fight to Be Moved From Prison to Hospital",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-08-20T00:28:40.435206+00:00"
+    "confidence_score": 0.9911,
+    "published_at": "2026-08-21T00:30:46.674391+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Head-on collision between bus and lorry in Brazil kills more than 20",
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html",
+    "headline": "Cameroon\u2019s Aging President Returns From Monthslong Stay Abroad",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-08-20T00:28:40.423150+00:00"
+    "confidence_score": 0.9798,
+    "published_at": "2026-08-21T00:30:46.670658+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9633,
-    "published_at": "2026-08-20T00:28:40.420439+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
+    "headline": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-08-21T00:30:46.661630+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel opens up bids for highly-sensitive West Bank settlement project",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Fishermen rescued after five days adrift in cool box",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-08-20T00:28:40.417678+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-08-21T00:30:46.469742+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+    "headline": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7185,
+    "published_at": "2026-08-21T00:30:46.468440+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Togo charges two French journalists over incorrect documents, rights group says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9716,
-    "published_at": "2026-08-20T00:28:40.393378+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-08-21T00:30:46.460526+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+    "headline": "Giant whales move into Greenland waters as ice disappears",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-08-21T00:30:46.455023+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Belgian car salesman becomes prince after royal parentage confirmed",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-08-21T00:30:46.453740+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+    "headline": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-08-21T00:30:46.452437+00:00"
   }
 ]
