@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
-    "headline": "At Ex-Premier Zhu Rongji\u2019s Funeral, China\u2019s Past Shadows Its Present",
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html",
+    "headline": "More Than 100 Dead in Central African Republic Gold Mine Collapse",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-08-22T00:27:46.095291+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
+    "headline": "Harry and Meghan\u2019s Break With Britain and Planned Return: a Timeline",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-08-22T00:27:46.087797+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+    "headline": "The Indian City Where AI Is Creating Jobs for Humans",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9883,
+    "published_at": "2026-08-22T00:27:46.080448+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+    "headline": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9946,
+    "published_at": "2026-08-22T00:27:46.076694+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html",
+    "headline": "A Prince at 26: Once-Secret Son of Belgian Royal Gains Legal Recognition",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-08-22T00:27:46.072748+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html",
+    "headline": "Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9971,
-    "published_at": "2026-08-21T00:30:46.717303+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-    "headline": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-08-21T00:30:46.714900+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
-    "headline": "A Rescue Mission in Remote Colombia",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-08-21T00:30:46.713727+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/18/world/jason-arday-cambridge-canada-meta.html",
-    "headline": "The Tragic Story of Jason Arday",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6362,
-    "published_at": "2026-08-21T00:30:46.712551+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
-    "headline": "How the Iran War Made Africa\u2019s Richest Man Even Richer",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9142,
-    "published_at": "2026-08-21T00:30:46.705044+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
-    "headline": "Trump and Canada\u2019s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.982,
-    "published_at": "2026-08-21T00:30:46.697624+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/19/world/trump-icc-israel-investigation.html",
-    "headline": "Trump vs. the International Criminal Court",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9896,
-    "published_at": "2026-08-21T00:30:46.690731+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
-    "headline": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-08-21T00:30:46.689451+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/19/world/africa/helicopter-crash-kenya.html",
-    "headline": "5 Americans and Ecuadorean Official Are Killed in Helicopter Crash in Kenya",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-08-21T00:30:46.688207+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
-    "headline": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9596,
-    "published_at": "2026-08-21T00:30:46.684465+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
-    "headline": "\u2018The Necessary Conversation\u2019 Puts Family Political Arguments On Full Display",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-08-21T00:30:46.683215+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html",
-    "headline": "Imran Khan Wins Fight to Be Moved From Prison to Hospital",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-08-21T00:30:46.674391+00:00"
+    "published_at": "2026-08-22T00:27:46.064068+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html",
     "headline": "Cameroon\u2019s Aging President Returns From Monthslong Stay Abroad",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9798,
-    "published_at": "2026-08-21T00:30:46.670658+00:00"
+    "published_at": "2026-08-22T00:27:46.057884+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
-    "headline": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-08-21T00:30:46.661630+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Fishermen rescued after five days adrift in cool box",
+    "source_uri": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+    "headline": "In China\u2019s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-08-21T00:30:46.469742+00:00"
+    "confidence_score": 0.9951,
+    "published_at": "2026-08-22T00:27:46.052432+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-    "headline": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7185,
-    "published_at": "2026-08-21T00:30:46.468440+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Togo charges two French journalists over incorrect documents, rights group says",
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
+    "headline": "Turkey Requests Netanyahu\u2019s Arrest, Saying Israel Abused Flotilla Activists",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-08-21T00:30:46.460526+00:00"
+    "confidence_score": 0.995,
+    "published_at": "2026-08-22T00:27:46.046045+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-    "headline": "Giant whales move into Greenland waters as ice disappears",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-08-21T00:30:46.455023+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Belgian car salesman becomes prince after royal parentage confirmed",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-08-21T00:30:46.453740+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-    "headline": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+    "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump\u2019s \u2018Economic D-Day\u2019 Threats, Tehran Official Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-08-21T00:30:46.452437+00:00"
+    "confidence_score": 0.9502,
+    "published_at": "2026-08-22T00:27:46.031328+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
+    "headline": "Why China Thinks It Can Resist Trump\u2019s Economic Threats on Iran",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7263,
+    "published_at": "2026-08-22T00:27:46.028575+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
+    "headline": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From \u2018Hell\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-08-22T00:27:46.027059+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+    "headline": "What happened to Harry and Meghan's American dream?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-08-22T00:27:45.879712+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+    "headline": "How Israel is expanding settlements in drive to reshape West Bank",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-08-22T00:27:45.874733+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5941,
+    "published_at": "2026-08-22T00:27:45.872255+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+    "headline": "Five missing after fire in Swiss Alpine town",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.984,
+    "published_at": "2026-08-22T00:27:45.870952+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-08-22T00:27:45.868304+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8318,
+    "published_at": "2026-08-22T00:27:45.865810+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Two injured in stabbing attack at Canada Sikh temple",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.983,
+    "published_at": "2026-08-22T00:27:45.863308+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+    "headline": "One killed in sword attack at Swedish school",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9918,
+    "published_at": "2026-08-22T00:27:45.859316+00:00"
   }
 ]
