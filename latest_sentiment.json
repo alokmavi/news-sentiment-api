@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
-    "headline": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html",
+    "headline": "Imran Khan Is Granted Brief Hospital Visit Before Returning to Prison",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-08-23T00:30:31.189021+00:00"
+    "confidence_score": 0.9911,
+    "published_at": "2026-08-24T00:30:03.888115+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
-    "headline": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/japan-trump-icc-judge-sanctions.html",
+    "headline": "Japan\u2019s U.S. Ties Could Not Save a Top Judge From Trump\u2019s I.C.C. Sanctions",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-08-23T00:30:31.186506+00:00"
+    "confidence_score": 0.5623,
+    "published_at": "2026-08-24T00:30:03.886677+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html",
-    "headline": "A Prince at 26: Once-Secret Son of Belgian Royal Gains Legal Recognition",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-23T00:30:31.185248+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html",
-    "headline": "Orban\u2019s Office, Thrown Open, Is Not the Den Hungarians Expected",
+    "source_uri": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html",
+    "headline": "Cameroon\u2019s Aging President Returns From Monthslong Stay Abroad",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-23T00:30:31.168259+00:00"
+    "confidence_score": 0.9798,
+    "published_at": "2026-08-24T00:30:03.883967+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html",
-    "headline": "Rare South American Diseases Offer Clues on the Next Pandemic",
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html",
+    "headline": "Giorgia Meloni Has a Lot to Say: The Takeaways",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-08-24T00:30:03.870534+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
+    "headline": "Turkey Requests Netanyahu\u2019s Arrest, Saying Israel Abused Flotilla Activists",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.995,
+    "published_at": "2026-08-24T00:30:03.853026+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump-free-trade.html",
+    "headline": "Waking Up to an Escalating Canada-U.S. Trade War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-08-24T00:30:03.839758+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+    "headline": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8693,
+    "published_at": "2026-08-24T00:30:03.838380+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
+    "headline": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9923,
+    "published_at": "2026-08-24T00:30:03.837026+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
+    "headline": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9986,
-    "published_at": "2026-08-23T00:30:31.165832+00:00"
+    "published_at": "2026-08-24T00:30:03.826092+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html",
-    "headline": "England\u2019s Ancient Trees Are Dying in the Heat",
+    "source_uri": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+    "headline": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9817,
+    "published_at": "2026-08-24T00:30:03.824767+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+    "headline": "What to Know About the Ebola Outbreak Centered in Congo",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-08-23T00:30:31.163382+00:00"
+    "confidence_score": 0.9912,
+    "published_at": "2026-08-24T00:30:03.819359+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
-    "headline": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-08-23T00:30:31.156014+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html",
-    "headline": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9622,
-    "published_at": "2026-08-23T00:30:31.153630+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/22/world/europe/yvette-roudy-dead.html",
-    "headline": "Yvette Roudy, France\u2019s First Minister for Women\u2019s Rights, Dies at 97",
+    "source_uri": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+    "headline": "Echoing Trump, Latin America\u2019s Leaders Boost Allies Across Borders",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9876,
-    "published_at": "2026-08-23T00:30:31.142781+00:00"
+    "confidence_score": 0.9842,
+    "published_at": "2026-08-24T00:30:03.813029+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-    "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump\u2019s \u2018Economic D-Day\u2019 Threats, Tehran Official Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9502,
-    "published_at": "2026-08-23T00:30:31.135881+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
-    "headline": "How Two British Historians Made a Smash Hit Podcast",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-08-23T00:30:31.123373+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-08-24T00:30:03.707959+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9038,
+    "published_at": "2026-08-24T00:30:03.702757+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9779,
+    "published_at": "2026-08-24T00:30:03.701492+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+    "headline": "Robot boxing, football and sprinting at World Humanoid Games",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-08-23T00:30:30.991649+00:00"
+    "confidence_score": 0.9891,
+    "published_at": "2026-08-24T00:30:03.686914+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-    "headline": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8124,
-    "published_at": "2026-08-23T00:30:30.987891+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-    "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+    "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-08-23T00:30:30.985324+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-08-24T00:30:03.676672+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Girl, 17, killed in Swedish sword attack, police say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9851,
-    "published_at": "2026-08-23T00:30:30.981296+00:00"
+    "confidence_score": 0.9873,
+    "published_at": "2026-08-24T00:30:03.674111+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-    "headline": "One killed in sword attack at Swedish school",
+    "source_uri": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Frustration builds in Indiana town struggling without power for 12 days",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-08-23T00:30:30.971850+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.97,
-    "published_at": "2026-08-23T00:30:30.970604+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-08-23T00:30:30.969300+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Syria says Israeli strike near Damascus violation of international law",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.986,
-    "published_at": "2026-08-23T00:30:30.963869+00:00"
+    "confidence_score": 0.9925,
+    "published_at": "2026-08-24T00:30:03.667554+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+    "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9872,
-    "published_at": "2026-08-23T00:30:30.938932+00:00"
+    "confidence_score": 0.9939,
+    "published_at": "2026-08-24T00:30:03.659080+00:00"
   }
 ]
