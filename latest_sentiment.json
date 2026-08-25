@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html",
-    "headline": "Imran Khan Is Granted Brief Hospital Visit Before Returning to Prison",
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/muslim-charity-in-britain-possible-links-hamas.html",
+    "headline": "Muslim Charity in Britain Faces Scrutiny for Possible Links to Hamas",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-08-24T00:30:03.888115+00:00"
+    "confidence_score": 0.9735,
+    "published_at": "2026-08-25T00:29:25.553704+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/asia/japan-trump-icc-judge-sanctions.html",
-    "headline": "Japan\u2019s U.S. Ties Could Not Save a Top Judge From Trump\u2019s I.C.C. Sanctions",
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+    "headline": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9835,
+    "published_at": "2026-08-25T00:29:25.549169+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html",
+    "headline": "Canada-U.S. Tariff Talks Continue as Trump\u2019s Midnight Deadline Looms",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9926,
+    "published_at": "2026-08-25T00:29:25.544680+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/21/travel/bali-swiss-tourist-nyepi.html",
+    "headline": "Swiss Tourist Sentenced to Prison After Violating \u2018Day of Silence\u2019 in Bali",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-08-25T00:29:25.541301+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html",
+    "headline": "5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9776,
+    "published_at": "2026-08-25T00:29:25.539060+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/22/world/europe/yvette-roudy-dead.html",
+    "headline": "Yvette Roudy, France\u2019s First Minister for Women\u2019s Rights, Dies at 97",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5623,
-    "published_at": "2026-08-24T00:30:03.886677+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html",
-    "headline": "Cameroon\u2019s Aging President Returns From Monthslong Stay Abroad",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9798,
-    "published_at": "2026-08-24T00:30:03.883967+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html",
-    "headline": "Giorgia Meloni Has a Lot to Say: The Takeaways",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-08-24T00:30:03.870534+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
-    "headline": "Turkey Requests Netanyahu\u2019s Arrest, Saying Israel Abused Flotilla Activists",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-08-24T00:30:03.853026+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump-free-trade.html",
-    "headline": "Waking Up to an Escalating Canada-U.S. Trade War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-08-24T00:30:03.839758+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
-    "headline": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8693,
-    "published_at": "2026-08-24T00:30:03.838380+00:00"
+    "confidence_score": 0.9876,
+    "published_at": "2026-08-25T00:29:25.526808+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
     "headline": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-08-24T00:30:03.837026+00:00"
+    "confidence_score": 0.992,
+    "published_at": "2026-08-25T00:29:25.517867+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
-    "headline": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
+    "source_uri": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
+    "headline": "The World\u2019s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-08-24T00:30:03.826092+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-08-25T00:29:25.516764+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
-    "headline": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+    "source_uri": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9817,
-    "published_at": "2026-08-24T00:30:03.824767+00:00"
+    "confidence_score": 0.9936,
+    "published_at": "2026-08-25T00:29:25.505472+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-    "headline": "What to Know About the Ebola Outbreak Centered in Congo",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9912,
-    "published_at": "2026-08-24T00:30:03.819359+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
-    "headline": "Echoing Trump, Latin America\u2019s Leaders Boost Allies Across Borders",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9842,
-    "published_at": "2026-08-24T00:30:03.813029+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-08-24T00:30:03.707959+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+    "source_uri": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+    "headline": "Some of Russia\u2019s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9038,
-    "published_at": "2026-08-24T00:30:03.702757+00:00"
+    "confidence_score": 0.9833,
+    "published_at": "2026-08-25T00:29:25.498624+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
+    "headline": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9662,
+    "published_at": "2026-08-25T00:29:25.497460+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+    "headline": "Iran Pledges to Defy Trump\u2019s Economic Sanctions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.989,
+    "published_at": "2026-08-25T00:29:25.496304+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html",
+    "headline": "As El Ni\u00f1o Dries Indonesia, Wildfires Intensify",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-08-25T00:29:25.493994+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
+    "headline": "Can \u2018Argentina\u2019s Texas\u2019 Save the Country\u2019s Economy?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9602,
+    "published_at": "2026-08-25T00:29:25.492830+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+    "headline": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8124,
+    "published_at": "2026-08-25T00:29:25.261297+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
     "headline": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9779,
-    "published_at": "2026-08-24T00:30:03.701492+00:00"
+    "published_at": "2026-08-25T00:29:25.258875+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-    "headline": "Robot boxing, football and sprinting at World Humanoid Games",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9891,
-    "published_at": "2026-08-24T00:30:03.686914+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-    "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sonya Massey's killer Sean Grayson dies in US prison",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-24T00:30:03.676672+00:00"
+    "confidence_score": 0.975,
+    "published_at": "2026-08-25T00:29:25.241593+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Girl, 17, killed in Swedish sword attack, police say",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+    "headline": "Nearly three million Teslas recalled in China over hidden door handles",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9873,
-    "published_at": "2026-08-24T00:30:03.674111+00:00"
+    "confidence_score": 0.9922,
+    "published_at": "2026-08-25T00:29:25.240186+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Frustration builds in Indiana town struggling without power for 12 days",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-08-24T00:30:03.667554+00:00"
+    "confidence_score": 0.9916,
+    "published_at": "2026-08-25T00:29:25.236179+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-08-24T00:30:03.659080+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-08-25T00:29:25.211393+00:00"
   }
 ]
