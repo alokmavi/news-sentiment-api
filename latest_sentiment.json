@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
-    "headline": "Lebanon\u2019s Efforts to Tame Hezbollah Stall Amid Israel War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9836,
-    "published_at": "2026-08-26T00:30:50.905802+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
-    "headline": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-08-26T00:30:50.895379+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
-    "headline": "Echoing Trump, Latin America\u2019s Leaders Boost Allies Across Borders",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9842,
-    "published_at": "2026-08-26T00:30:50.892795+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-    "headline": "Iran Warns Gulf States Not to Join Trump\u2019s Economic War",
+    "source_uri": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
+    "headline": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9043,
-    "published_at": "2026-08-26T00:30:50.887641+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-    "headline": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9763,
-    "published_at": "2026-08-26T00:30:50.873935+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
-    "headline": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9852,
-    "published_at": "2026-08-26T00:30:50.872639+00:00"
+    "confidence_score": 0.9662,
+    "published_at": "2026-08-27T05:14:38.119327+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
     "headline": "Iran Pledges to Defy Trump\u2019s Economic Sanctions",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.989,
-    "published_at": "2026-08-26T00:30:50.868745+00:00"
+    "published_at": "2026-08-27T05:14:38.117050+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
-    "headline": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+    "source_uri": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
+    "headline": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-08-26T00:30:50.864830+00:00"
+    "confidence_score": 0.974,
+    "published_at": "2026-08-27T05:14:38.109871+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html",
-    "headline": "Australia Bans Generative A.I. From Official Music Charts",
+    "source_uri": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
+    "headline": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9801,
-    "published_at": "2026-08-26T00:30:50.863541+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-08-27T05:14:38.106288+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
+    "headline": "Tornado Rips Through Towns in Southern France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.939,
+    "published_at": "2026-08-27T05:14:38.102672+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html",
+    "headline": "U.S. Removes Syria From Its List of Terrorism Sponsors",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9884,
+    "published_at": "2026-08-27T05:14:38.101508+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html",
+    "headline": "\u2018We\u2019ve Never Seen Anything Like It\u2019: Early Harvest Rattles France\u2019s Wine Industry",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9957,
+    "published_at": "2026-08-27T05:14:38.099099+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/25/world/asia/indias-youth-protests-cockroach.html",
+    "headline": "India\u2019s Summer of Youth Protests Is Boiling Over",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9821,
+    "published_at": "2026-08-27T05:14:38.096654+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/25/world/asia/myanmar-junta-violence-rohingya.html",
+    "headline": "Airstrikes and Illegal Mining Add to Myanmar\u2019s Troubles",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9165,
+    "published_at": "2026-08-27T05:14:38.094339+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/25/world/us-canada-trade-war-dolly-parton.html",
     "headline": "USA vs. Canada",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9855,
-    "published_at": "2026-08-26T00:30:50.858440+00:00"
+    "published_at": "2026-08-27T05:14:38.093201+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
-    "headline": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-08-26T00:30:50.842818+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-    "headline": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7603,
-    "published_at": "2026-08-26T00:30:50.840225+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+    "source_uri": "https://www.nytimes.com/live/2026/08/26/world/nepal-floods/nepal-floods-tibet-missing",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-08-26T00:30:50.678988+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-08-27T05:14:38.090963+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-    "headline": "How Canada could hit back to hurt the US economy - and Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-08-26T00:30:50.677661+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sonya Massey's killer Sean Grayson dies in US prison",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.975,
-    "published_at": "2026-08-26T00:30:50.671325+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-    "headline": "US removes Syria from list of state sponsors of terrorism",
+    "source_uri": "https://www.nytimes.com/2026/08/26/arts/design/yayoi-kusama-appraisal.html",
+    "headline": "Yayoi Kusama Was the Avant-Garde Radical Who Became a Pop Icon",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-08-26T00:30:50.670035+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-08-27T05:14:38.077327+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-26T00:30:50.667457+00:00"
+    "source_uri": "https://www.nytimes.com/2026/08/26/world/middleeast/lebanon-byblos-israel.html",
+    "headline": "Ancient Lebanese Treasures Take a Journey From Modern-Day Conflict",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-08-27T05:14:38.071617+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-    "headline": "French tourist dies in Death Valley after car gets stuck in mud",
+    "source_uri": "https://www.nytimes.com/2026/08/26/world/europe/prince-harry-meghan-uk-arrival.html",
+    "headline": "Prince Harry and Meghan Arrive in Britain, BBC Reports",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-08-26T00:30:50.664843+00:00"
+    "confidence_score": 0.9929,
+    "published_at": "2026-08-27T05:14:38.064109+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-    "headline": "European rights court orders Turkey to free imprisoned businessman",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+    "headline": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9378,
-    "published_at": "2026-08-26T00:30:50.658196+00:00"
+    "confidence_score": 0.9182,
+    "published_at": "2026-08-27T05:14:37.916184+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Mass arrests in global crackdown on West African cyber-crime networks",
+    "source_uri": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+    "headline": "Moment tornado tears through southern France",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9764,
-    "published_at": "2026-08-26T00:30:50.654293+00:00"
+    "confidence_score": 0.9923,
+    "published_at": "2026-08-27T05:14:37.914991+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Canada's retaliation tests the limit of American power under Trump",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9418,
+    "published_at": "2026-08-27T05:14:37.913796+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
+    "headline": "The question dominating Indian politics: Is it worse when women swear?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-08-27T05:14:37.912590+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8422,
+    "published_at": "2026-08-27T05:14:37.900120+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+    "headline": "At least 12 dead as wildfires sweep through northern Algeria",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7146,
+    "published_at": "2026-08-27T05:14:37.892741+00:00"
   }
 ]
