@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
-    "headline": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+    "source_uri": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods/chinese-state-media-reports-significant-casualties-at-a-port-on-the-border-with-nepal",
+    "headline": "Chinese state media reports \u2018significant\u2019 casualties at a port on the border with Nepal.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9662,
-    "published_at": "2026-08-27T05:14:38.119327+00:00"
+    "confidence_score": 0.9897,
+    "published_at": "2026-08-28T07:14:10.108349+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
-    "headline": "Iran Pledges to Defy Trump\u2019s Economic Sanctions",
+    "source_uri": "https://www.nytimes.com/2026/08/26/insider/royal-family-harry-meghan-insider.html",
+    "headline": "How The New York Times Covers Harry, Meghan and the Royal Family",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.989,
-    "published_at": "2026-08-27T05:14:38.117050+00:00"
+    "published_at": "2026-08-28T07:14:10.102014+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
-    "headline": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
+    "source_uri": "https://www.nytimes.com/2026/08/26/world/asia/flood-nepal-tibet.html",
+    "headline": "Photos: A Deadly Flood Tears Through Nepal and Tibet",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9858,
+    "published_at": "2026-08-28T07:14:10.097895+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-china-flash-flood-rescue-roads-bridges.html",
+    "headline": "Rescuers in Nepal Face Devastated Roads and Tough Terrain After Deadly Flood",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.974,
-    "published_at": "2026-08-27T05:14:38.109871+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-08-28T07:14:10.086479+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
-    "headline": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/pilgrims-border-crossing-foreign-nationals-nepal-flood.html",
+    "headline": "Pilgrims at Border Crossing Are Among 500 Foreigners Missing After Flood",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8016,
+    "published_at": "2026-08-28T07:14:10.085261+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-survivors.html",
+    "headline": "Survivors of Deadly Nepal Flood Recall Its Devastating Force",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9313,
+    "published_at": "2026-08-28T07:14:10.084016+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/americas/mexico-influencer-shooting-gastelum-arrest.html",
+    "headline": "Man Is Arrested in Fatal Shooting of Mexican Influencer During Livestream",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-08-27T05:14:38.106288+00:00"
+    "confidence_score": 0.9911,
+    "published_at": "2026-08-28T07:14:10.080327+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
-    "headline": "Tornado Rips Through Towns in Southern France",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/speed-of-flash-floods-likely-overwhelmed-nepals-warning-system-experts-say.html",
+    "headline": "Speed of Nepal\u2019s Flash Floods Likely Overwhelmed Warning System, Experts Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.939,
-    "published_at": "2026-08-27T05:14:38.102672+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-08-28T07:14:10.078994+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html",
-    "headline": "U.S. Removes Syria From Its List of Terrorism Sponsors",
+    "source_uri": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
+    "headline": "Climate Change Raises Risk of Disasters Like Nepal Floods",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-08-27T05:14:38.101508+00:00"
+    "confidence_score": 0.8654,
+    "published_at": "2026-08-28T07:14:10.077684+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html",
-    "headline": "\u2018We\u2019ve Never Seen Anything Like It\u2019: Early Harvest Rattles France\u2019s Wine Industry",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-08-27T05:14:38.099099+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/asia/indias-youth-protests-cockroach.html",
-    "headline": "India\u2019s Summer of Youth Protests Is Boiling Over",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/europe/malaria-deaths-frankfurt-airport.html",
+    "headline": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9821,
-    "published_at": "2026-08-27T05:14:38.096654+00:00"
+    "confidence_score": 0.9936,
+    "published_at": "2026-08-28T07:14:10.076426+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/asia/myanmar-junta-violence-rohingya.html",
-    "headline": "Airstrikes and Illegal Mining Add to Myanmar\u2019s Troubles",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9165,
-    "published_at": "2026-08-27T05:14:38.094339+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/25/world/us-canada-trade-war-dolly-parton.html",
-    "headline": "USA vs. Canada",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9855,
-    "published_at": "2026-08-27T05:14:38.093201+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/08/26/world/nepal-floods/nepal-floods-tibet-missing",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-08-27T05:14:38.090963+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/26/arts/design/yayoi-kusama-appraisal.html",
-    "headline": "Yayoi Kusama Was the Avant-Garde Radical Who Became a Pop Icon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-08-27T05:14:38.077327+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/26/world/middleeast/lebanon-byblos-israel.html",
-    "headline": "Ancient Lebanese Treasures Take a Journey From Modern-Day Conflict",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-08-27T05:14:38.071617+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/26/world/europe/prince-harry-meghan-uk-arrival.html",
-    "headline": "Prince Harry and Meghan Arrive in Britain, BBC Reports",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-damage-infrastructure-tibet.html",
+    "headline": "Nepal Flood Maroons Thousands After Roads and Bridges Swept Away",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-08-27T05:14:38.064109+00:00"
+    "confidence_score": 0.9998,
+    "published_at": "2026-08-28T07:14:10.073848+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-    "headline": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000011114070/what-our-reporter-saw-after-the-floods-in-nepal.html",
+    "headline": "What Our Reporter Saw After the Floods in Nepal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9182,
-    "published_at": "2026-08-27T05:14:37.916184+00:00"
+    "confidence_score": 0.7818,
+    "published_at": "2026-08-28T07:14:10.064701+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-    "headline": "Moment tornado tears through southern France",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/europe/prince-william-harry-uk.html",
+    "headline": "Prince William Is Still Silent About His Brother, Harry. Can That Last?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-08-28T07:14:10.050960+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/americas/cuba-exile-otero-alcantara.html",
+    "headline": "After Whiskey With His Captors, Cuban Dissident Lands in a Miami Maelstrom",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-08-27T05:14:37.914991+00:00"
+    "confidence_score": 0.9552,
+    "published_at": "2026-08-28T07:14:10.048324+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Canada's retaliation tests the limit of American power under Trump",
+    "source_uri": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+    "headline": "Rescuers Search for Missing and Stranded Under Threat of More Floods",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9418,
-    "published_at": "2026-08-27T05:14:37.913796+00:00"
+    "confidence_score": 0.9813,
+    "published_at": "2026-08-28T07:14:10.039636+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
-    "headline": "The question dominating Indian politics: Is it worse when women swear?",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Allan Little: I met dangerously fanatical Mladi\u0107 early in Bosnian war",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-08-27T05:14:37.912590+00:00"
+    "confidence_score": 0.98,
+    "published_at": "2026-08-28T07:14:09.927872+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8422,
-    "published_at": "2026-08-27T05:14:37.900120+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-08-28T07:14:09.921236+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 12 dead as wildfires sweep through northern Algeria",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Two killed in 'domestic violence incident' at school near Berlin",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9644,
+    "published_at": "2026-08-28T07:14:09.918601+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5649,
+    "published_at": "2026-08-28T07:14:09.911839+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+    "headline": "Norway's King Harald dies aged 89",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7146,
-    "published_at": "2026-08-27T05:14:37.892741+00:00"
+    "confidence_score": 0.9998,
+    "published_at": "2026-08-28T07:14:09.908581+00:00"
   }
 ]
