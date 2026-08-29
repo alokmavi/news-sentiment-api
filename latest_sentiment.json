@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods/chinese-state-media-reports-significant-casualties-at-a-port-on-the-border-with-nepal",
-    "headline": "Chinese state media reports \u2018significant\u2019 casualties at a port on the border with Nepal.",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-canada-us-f35-carney-trump.html",
+    "headline": "As Anger Grows Over Trump Tariffs, Some in Canada Want Out of U.S. F-35 Deal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-08-28T07:14:10.108349+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-08-29T04:25:59.441162+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/26/insider/royal-family-harry-meghan-insider.html",
-    "headline": "How The New York Times Covers Harry, Meghan and the Royal Family",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-08-28T07:14:10.102014+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/26/world/asia/flood-nepal-tibet.html",
-    "headline": "Photos: A Deadly Flood Tears Through Nepal and Tibet",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-cause-landslide-glacier-collapse.html",
+    "headline": "Rock Landslide and Glacial Collapse Likely Caused Floods in Nepal and Tibet, Scientists Say",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9858,
-    "published_at": "2026-08-28T07:14:10.097895+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-china-flash-flood-rescue-roads-bridges.html",
-    "headline": "Rescuers in Nepal Face Devastated Roads and Tough Terrain After Deadly Flood",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-28T07:14:10.086479+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/pilgrims-border-crossing-foreign-nationals-nepal-flood.html",
-    "headline": "Pilgrims at Border Crossing Are Among 500 Foreigners Missing After Flood",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8016,
-    "published_at": "2026-08-28T07:14:10.085261+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-survivors.html",
-    "headline": "Survivors of Deadly Nepal Flood Recall Its Devastating Force",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9313,
-    "published_at": "2026-08-28T07:14:10.084016+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/americas/mexico-influencer-shooting-gastelum-arrest.html",
-    "headline": "Man Is Arrested in Fatal Shooting of Mexican Influencer During Livestream",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-08-28T07:14:10.080327+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-08-29T04:25:59.430707+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/speed-of-flash-floods-likely-overwhelmed-nepals-warning-system-experts-say.html",
     "headline": "Speed of Nepal\u2019s Flash Floods Likely Overwhelmed Warning System, Experts Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9983,
-    "published_at": "2026-08-28T07:14:10.078994+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
-    "headline": "Climate Change Raises Risk of Disasters Like Nepal Floods",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8654,
-    "published_at": "2026-08-28T07:14:10.077684+00:00"
+    "published_at": "2026-08-29T04:25:59.426798+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/27/world/europe/malaria-deaths-frankfurt-airport.html",
     "headline": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9936,
-    "published_at": "2026-08-28T07:14:10.076426+00:00"
+    "published_at": "2026-08-29T04:25:59.422876+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-damage-infrastructure-tibet.html",
-    "headline": "Nepal Flood Maroons Thousands After Roads and Bridges Swept Away",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-08-28T07:14:10.073848+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000011114070/what-our-reporter-saw-after-the-floods-in-nepal.html",
-    "headline": "What Our Reporter Saw After the Floods in Nepal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7818,
-    "published_at": "2026-08-28T07:14:10.064701+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/europe/prince-william-harry-uk.html",
-    "headline": "Prince William Is Still Silent About His Brother, Harry. Can That Last?",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/bake-time-yayoi-kusama-nepal.html",
+    "headline": "It\u2019s Bake Time",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-08-28T07:14:10.050960+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-08-29T04:25:59.417586+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/americas/cuba-exile-otero-alcantara.html",
-    "headline": "After Whiskey With His Captors, Cuban Dissident Lands in a Miami Maelstrom",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9552,
-    "published_at": "2026-08-28T07:14:10.048324+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
-    "headline": "Rescuers Search for Missing and Stranded Under Threat of More Floods",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9813,
-    "published_at": "2026-08-28T07:14:10.039636+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Allan Little: I met dangerously fanatical Mladi\u0107 early in Bosnian war",
+    "source_uri": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.98,
-    "published_at": "2026-08-28T07:14:09.927872+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-08-29T04:25:59.407163+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-08-28T07:14:09.921236+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Two killed in 'domestic violence incident' at school near Berlin",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9644,
-    "published_at": "2026-08-28T07:14:09.918601+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5649,
-    "published_at": "2026-08-28T07:14:09.911839+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
-    "headline": "Norway's King Harald dies aged 89",
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html",
+    "headline": "Harald V, Norway\u2019s King as Tradition and Modernity Collided, Dies at 89",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-08-28T07:14:09.908581+00:00"
+    "confidence_score": 0.9951,
+    "published_at": "2026-08-29T04:25:59.405861+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000010989934/inside-a-secret-school-for-afghan-girls.html",
+    "headline": "Inside a Secret School for Afghan Girls",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9615,
+    "published_at": "2026-08-29T04:25:59.404534+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/mount-kailash-nepal-floods.html",
+    "headline": "Mount Kailash, Sacred to 4 Faiths, Drew Pilgrims Lost in Nepal and Tibet Floods",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-08-29T04:25:59.400634+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-survivors.html",
+    "headline": "Nepali Flood Survivors Face Profound Loss, Pressing Needs and Murky Futures",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-08-29T04:25:59.395394+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
+    "headline": "Icelanders Are Voting on E.U. Membership Talks. Here\u2019s What to Know.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9599,
+    "published_at": "2026-08-29T04:25:59.389121+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
+    "headline": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.941,
+    "published_at": "2026-08-29T04:25:59.387886+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
+    "headline": "Why Putin Is Fighting On, Even as His Problems Multiply",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9839,
+    "published_at": "2026-08-29T04:25:59.379111+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-glacier-collapse.html",
+    "headline": "Disaster Experts Say Nepal Glacier Collapse Was Difficult to Predict",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9957,
+    "published_at": "2026-08-29T04:25:59.377818+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
+    "headline": "Six Months In, Iran Appears Stronger and U.S. Goals Unclear",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9961,
+    "published_at": "2026-08-29T04:25:59.376567+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
+    "headline": "Why Many Iranians Are Losing Hope After Six Months of War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-08-29T04:25:59.374031+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
+    "headline": "Inside Afghanistan\u2019s Secret Schools for Girls",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9329,
+    "published_at": "2026-08-29T04:25:59.372719+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Not far enough' - US parents and teens on Meta's new limits for young users",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9941,
+    "published_at": "2026-08-29T04:25:59.082582+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+    "headline": "What tariffs will really cost Canadians and Americans",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.922,
+    "published_at": "2026-08-29T04:25:59.077266+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Greenland says findings on genocide allegation not final",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9856,
+    "published_at": "2026-08-29T04:25:59.066933+00:00"
   }
 ]
