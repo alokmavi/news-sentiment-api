@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-canada-us-f35-carney-trump.html",
-    "headline": "As Anger Grows Over Trump Tariffs, Some in Canada Want Out of U.S. F-35 Deal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-08-29T04:25:59.441162+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-cause-landslide-glacier-collapse.html",
     "headline": "Rock Landslide and Glacial Collapse Likely Caused Floods in Nepal and Tibet, Scientists Say",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9981,
-    "published_at": "2026-08-29T04:25:59.430707+00:00"
+    "published_at": "2026-08-30T01:52:57.767619+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/speed-of-flash-floods-likely-overwhelmed-nepals-warning-system-experts-say.html",
-    "headline": "Speed of Nepal\u2019s Flash Floods Likely Overwhelmed Warning System, Experts Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-08-29T04:25:59.426798+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/europe/malaria-deaths-frankfurt-airport.html",
-    "headline": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-08-29T04:25:59.422876+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/bake-time-yayoi-kusama-nepal.html",
-    "headline": "It\u2019s Bake Time",
+    "source_uri": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
+    "headline": "Climate Change Raises Risk of Disasters Like Nepal Floods",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-08-29T04:25:59.417586+00:00"
+    "confidence_score": 0.8654,
+    "published_at": "2026-08-30T01:52:57.761444+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-damage-infrastructure-tibet.html",
+    "headline": "Nepal Flood Maroons Thousands After Roads and Bridges Swept Away",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-08-30T01:52:57.756429+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/filipinana-film-golf-course-philippines.html",
+    "headline": "Rafael Manuel\u2019s Film \u2018Filipi\u00f1ana\u2019 Makes a Golf Course a Villain",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-08-29T04:25:59.407163+00:00"
+    "confidence_score": 0.9576,
+    "published_at": "2026-08-30T01:52:57.752649+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flash-flood-dhunche.html",
+    "headline": "Survivors of Nepal Flood Left in Stunned Disbelief: \u2018They All Died, and I Lived\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-08-30T01:52:57.751447+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html",
     "headline": "Harald V, Norway\u2019s King as Tradition and Modernity Collided, Dies at 89",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9951,
-    "published_at": "2026-08-29T04:25:59.405861+00:00"
+    "published_at": "2026-08-30T01:52:57.742755+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000010989934/inside-a-secret-school-for-afghan-girls.html",
-    "headline": "Inside a Secret School for Afghan Girls",
+    "source_uri": "https://www.nytimes.com/2026/08/28/travel/pregnant-travel-trips.html",
+    "headline": "Tips for Traveling While Pregnant",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9892,
+    "published_at": "2026-08-30T01:52:57.738843+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/china-nepal-floods-xi-jinping.html",
+    "headline": "China Offers Condolences to Nepal While Emphasizing Disaster Began There",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.768,
+    "published_at": "2026-08-30T01:52:57.730546+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/28/world/africa/uganda-king-oyo-dead.html",
+    "headline": "King Oyo of Uganda\u2019s Tooro Kingdom Dies at 34",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-08-30T01:52:57.729348+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
+    "headline": "As Deadly Flash Flooding Batters Nepal, Some Fear \u2018the Entire Himalayas Are Melting\u2019",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9615,
-    "published_at": "2026-08-29T04:25:59.404534+00:00"
+    "confidence_score": 0.9868,
+    "published_at": "2026-08-30T01:52:57.720610+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/mount-kailash-nepal-floods.html",
-    "headline": "Mount Kailash, Sacred to 4 Faiths, Drew Pilgrims Lost in Nepal and Tibet Floods",
+    "source_uri": "https://www.nytimes.com/2026/08/29/world/africa/niger-special-forces-attack.html",
+    "headline": "Soldiers in Niger Attack Presidential Palace and Airport, Shaking Junta",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9883,
+    "published_at": "2026-08-30T01:52:57.714678+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
+    "headline": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-08-30T01:52:57.703786+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8477,
+    "published_at": "2026-08-30T01:52:57.524885+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5391,
+    "published_at": "2026-08-30T01:52:57.515338+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Violence breaks out in Ceuta as migrant crisis continues",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9952,
+    "published_at": "2026-08-30T01:52:57.508275+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+    "headline": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-08-30T01:52:57.505895+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8993,
+    "published_at": "2026-08-30T01:52:57.502120+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-08-30T01:52:57.498369+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Canada installs large Lake Ontario sign in latest jab at US",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-08-29T04:25:59.400634+00:00"
+    "confidence_score": 0.9945,
+    "published_at": "2026-08-30T01:52:57.490905+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-survivors.html",
-    "headline": "Nepali Flood Survivors Face Profound Loss, Pressing Needs and Murky Futures",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-08-29T04:25:59.395394+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
-    "headline": "Icelanders Are Voting on E.U. Membership Talks. Here\u2019s What to Know.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9599,
-    "published_at": "2026-08-29T04:25:59.389121+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
-    "headline": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.941,
-    "published_at": "2026-08-29T04:25:59.387886+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
-    "headline": "Why Putin Is Fighting On, Even as His Problems Multiply",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9839,
-    "published_at": "2026-08-29T04:25:59.379111+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-glacier-collapse.html",
-    "headline": "Disaster Experts Say Nepal Glacier Collapse Was Difficult to Predict",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-08-29T04:25:59.377818+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
-    "headline": "Six Months In, Iran Appears Stronger and U.S. Goals Unclear",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-08-29T04:25:59.376567+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
-    "headline": "Why Many Iranians Are Losing Hope After Six Months of War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-08-29T04:25:59.374031+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
-    "headline": "Inside Afghanistan\u2019s Secret Schools for Girls",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9329,
-    "published_at": "2026-08-29T04:25:59.372719+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-    "headline": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-08-29T04:25:59.082582+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-    "headline": "What tariffs will really cost Canadians and Americans",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.922,
-    "published_at": "2026-08-29T04:25:59.077266+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Greenland says findings on genocide allegation not final",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9856,
-    "published_at": "2026-08-29T04:25:59.066933+00:00"
+    "confidence_score": 0.9519,
+    "published_at": "2026-08-30T01:52:57.487908+00:00"
   }
 ]
