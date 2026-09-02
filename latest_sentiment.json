@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-    "headline": "Carney Has Canadians\u2019 Support on Trump. Now Comes the Hard Part.",
+    "source_uri": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
+    "headline": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9822,
-    "published_at": "2026-09-01T02:11:58.449168+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-09-02T01:34:42.402259+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
-    "headline": "As Deadly Flash Flooding Batters Nepal, Some Fear \u2018the Entire Himalayas Are Melting\u2019",
+    "source_uri": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+    "headline": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9868,
-    "published_at": "2026-09-01T02:11:58.446584+00:00"
+    "confidence_score": 0.7726,
+    "published_at": "2026-09-02T01:34:42.393084+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
-    "headline": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-01T02:11:58.441495+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
-    "headline": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9605,
-    "published_at": "2026-09-01T02:11:58.440138+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html",
-    "headline": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-09-01T02:11:58.436227+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html",
-    "headline": "Before Nepal\u2019s Floods, Hindu Pilgrims Sought the Divine at Mount Kailash",
+    "source_uri": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html",
+    "headline": "A Principal Saved 900 Students Before His School Was Washed Away in Nepal",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-09-01T02:11:58.423416+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-09-02T01:34:42.388960+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html",
-    "headline": "Google Maps Changes Lake Ontario to Lake America Following Trump\u2019s Executive Order",
+    "source_uri": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+    "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy\u2019s Defense Chief",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6774,
-    "published_at": "2026-09-01T02:11:58.418335+00:00"
+    "confidence_score": 0.626,
+    "published_at": "2026-09-02T01:34:42.386893+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/30/world/europe/switzerland-rave-shooting.html",
-    "headline": "Hunt Underway After Deadly Shooting at Swiss Rave",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-09-01T02:11:58.414441+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/30/world/nepal-tibet-flood-glacier-nasa.html",
-    "headline": "Melting Himalayas",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9855,
-    "published_at": "2026-09-01T02:11:58.410588+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/31/climate/coral-reef-recovery-time.html",
-    "headline": "Coral Reefs Are Running Out of Time to Recover, Research Finds",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-09-01T02:11:58.409304+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
-    "headline": "Your Iran Questions, Answered",
+    "source_uri": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
+    "headline": "Israel and Greece Reach $3.5 Billion Defense Deal",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9781,
-    "published_at": "2026-09-01T02:11:58.402520+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-09-02T01:34:42.384932+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html",
-    "headline": "U.S. and Iran Exchange Strikes Overnight After Monthlong Calm",
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html",
+    "headline": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-09-01T02:11:58.393441+00:00"
+    "confidence_score": 0.6894,
+    "published_at": "2026-09-02T01:34:42.371111+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html",
-    "headline": "Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge",
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html",
+    "headline": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8557,
-    "published_at": "2026-09-01T02:11:58.388131+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-09-02T01:34:42.292556+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
-    "headline": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9872,
-    "published_at": "2026-09-01T02:11:58.382938+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html",
-    "headline": "For Nepal\u2019s Young Leader, Flood Recovery Will Be a Herculean Task",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.974,
-    "published_at": "2026-09-01T02:11:58.380255+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
-    "headline": "'I haven't lost my hope' - the search for missing loved ones",
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html",
+    "headline": "Carney Tells Trump Officials to \u2018Stop Throwing Shade\u2019 Over Canada-U.S. Trade Talks",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-09-01T02:11:58.267429+00:00"
+    "confidence_score": 0.9758,
+    "published_at": "2026-09-02T01:34:42.291546+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/tennis/articles/cy9zq3xn45yo?at_medium=RSS&at_campaign=rss",
-    "headline": "From playing Serena Williams on screen to following in her footsteps",
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
+    "headline": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-09-02T01:34:42.286630+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-01T02:11:58.257802+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-09-02T01:34:42.179388+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-    "headline": "The jury's options in Lindsay Clancy's murder trial",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9904,
-    "published_at": "2026-09-01T02:11:58.256420+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Norway's new king takes oath as mourners pay respects to his late father",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-09-02T01:34:42.177686+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-    "headline": "Company offering reward for safe return of truckload of beer",
+    "source_uri": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
+    "headline": "Cup noodles made with cold water? BBC tries Japan's viral snack",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-09-01T02:11:58.252342+00:00"
+    "confidence_score": 0.8741,
+    "published_at": "2026-09-02T01:34:42.176151+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-    "headline": "US and Iran trade strikes for first time in weeks",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+    "headline": "Japan Inc is betting big on India as China risks deepen",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-09-01T02:11:58.239761+00:00"
+    "confidence_score": 0.9915,
+    "published_at": "2026-09-02T01:34:42.039255+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9593,
+    "published_at": "2026-09-02T01:34:42.036431+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+    "headline": "US army secretary resigns after months of tension",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7979,
+    "published_at": "2026-09-02T01:34:42.028084+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+    "headline": "South Korean police officer admits to closing missing person cases to avoid work",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-09-02T01:34:42.024952+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9763,
+    "published_at": "2026-09-02T01:34:42.005402+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says US position on Falklands 'one of many' under review",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9897,
+    "published_at": "2026-09-02T01:34:41.951970+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.545,
+    "published_at": "2026-09-02T01:34:41.783260+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+    "headline": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9642,
+    "published_at": "2026-09-02T01:34:41.782226+00:00"
   }
 ]
