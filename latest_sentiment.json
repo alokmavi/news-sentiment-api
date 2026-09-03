@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
-    "headline": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
+    "source_uri": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+    "headline": "Your Iran Questions, Answered",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-09-02T01:34:42.402259+00:00"
+    "confidence_score": 0.9781,
+    "published_at": "2026-09-03T01:38:38.340594+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-    "headline": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7726,
-    "published_at": "2026-09-02T01:34:42.393084+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html",
-    "headline": "A Principal Saved 900 Students Before His School Was Washed Away in Nepal",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-09-02T01:34:42.388960+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-    "headline": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy\u2019s Defense Chief",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.626,
-    "published_at": "2026-09-02T01:34:42.386893+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
-    "headline": "Israel and Greece Reach $3.5 Billion Defense Deal",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-09-02T01:34:42.384932+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html",
-    "headline": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
+    "source_uri": "https://www.nytimes.com/2026/08/31/world/canada/missing-island-canada-williston-reservoir.html",
+    "headline": "Phantom Island Mysteriously Appears, Vanishes, Then Reappears on B.C. Reservoir",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6894,
-    "published_at": "2026-09-02T01:34:42.371111+00:00"
+    "confidence_score": 0.8667,
+    "published_at": "2026-09-03T01:38:38.339387+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+    "headline": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-09-03T01:38:38.334505+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html",
     "headline": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9994,
-    "published_at": "2026-09-02T01:34:42.292556+00:00"
+    "published_at": "2026-09-03T01:38:38.333274+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html",
-    "headline": "Carney Tells Trump Officials to \u2018Stop Throwing Shade\u2019 Over Canada-U.S. Trade Talks",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9758,
-    "published_at": "2026-09-02T01:34:42.291546+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
-    "headline": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html",
+    "headline": "U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-09-02T01:34:42.286630+00:00"
+    "confidence_score": 0.9635,
+    "published_at": "2026-09-03T01:38:38.328365+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+    "headline": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.984,
+    "published_at": "2026-09-03T01:38:38.323363+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
+    "headline": "Husband and 12 Men in Britain Are Accused of Woman\u2019s Yearslong Drugging and Rape",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9833,
+    "published_at": "2026-09-03T01:38:38.319675+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html",
+    "headline": "For These Children, Getting a Safe Education Means Going Underground",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-09-02T01:34:42.179388+00:00"
+    "confidence_score": 0.9879,
+    "published_at": "2026-09-03T01:38:38.318444+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/02/world/trump-regime-change-strike-wedding.html",
+    "headline": "Inside Trump\u2019s Second Term",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9948,
+    "published_at": "2026-09-03T01:38:38.303312+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html",
+    "headline": "After the Earthquake, They Used A.I. to Mobilize Aid",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9708,
+    "published_at": "2026-09-03T01:38:38.295425+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/02/world/middleeast/netanyahu-israel-election.html",
+    "headline": "Netanyahu\u2019s Israel Is Looking for a Fight in Every Direction",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.987,
+    "published_at": "2026-09-03T01:38:38.292810+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
+    "headline": "Status of Iran\u2019s Nuclear Program Is Unclear, U.N. Watchdog Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9395,
+    "published_at": "2026-09-03T01:38:38.290261+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
     "headline": "Norway's new king takes oath as mourners pay respects to his late father",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9971,
-    "published_at": "2026-09-02T01:34:42.177686+00:00"
+    "published_at": "2026-09-03T01:38:38.075378+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
-    "headline": "Cup noodles made with cold water? BBC tries Japan's viral snack",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8741,
-    "published_at": "2026-09-02T01:34:42.176151+00:00"
+    "confidence_score": 0.6792,
+    "published_at": "2026-09-03T01:38:38.070122+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-    "headline": "Japan Inc is betting big on India as China risks deepen",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+    "headline": "South African airline behind daring stadium stunt cancels next flyby",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-09-02T01:34:42.039255+00:00"
+    "confidence_score": 0.8394,
+    "published_at": "2026-09-03T01:38:38.060862+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9593,
-    "published_at": "2026-09-02T01:34:42.036431+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-    "headline": "US army secretary resigns after months of tension",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7979,
-    "published_at": "2026-09-02T01:34:42.028084+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
-    "headline": "South Korean police officer admits to closing missing person cases to avoid work",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Woman charged with juror intimidation in Lindsay Clancy trial",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-09-02T01:34:42.024952+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-09-03T01:38:38.056925+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Uber shuts operations in Nigeria and Uganda with immediate effect",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9763,
-    "published_at": "2026-09-02T01:34:42.005402+00:00"
+    "confidence_score": 0.9778,
+    "published_at": "2026-09-03T01:38:38.055672+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says US position on Falklands 'one of many' under review",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-09-02T01:34:41.951970+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.545,
-    "published_at": "2026-09-02T01:34:41.783260+00:00"
+    "confidence_score": 0.9883,
+    "published_at": "2026-09-03T01:38:38.052989+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-    "headline": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+    "headline": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9642,
-    "published_at": "2026-09-02T01:34:41.782226+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-09-03T01:38:38.051720+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-09-03T01:38:38.048984+00:00"
   }
 ]
