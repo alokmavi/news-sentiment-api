@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
-    "headline": "The \u2018Miracle House\u2019 That Survived Nepal\u2019s Floods",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9321,
-    "published_at": "2026-09-05T01:33:16.438725+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+    "headline": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9746,
+    "published_at": "2026-09-06T01:28:25.296342+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html",
-    "headline": "The New Jet-Powered Drones That Are Breeding Anxiety in Ukraine",
+    "source_uri": "https://www.nytimes.com/2026/09/03/world/asia/vietnam-death-penalty-drug-trafficking.html",
+    "headline": "Vietnam Sentences 11 to Death Penalty in Drug Trafficking Case",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8107,
-    "published_at": "2026-09-05T01:33:16.431647+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
-    "headline": "Can a Country Really Hold an Election in the Middle of a Gang War?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-09-05T01:33:16.430407+00:00"
+    "confidence_score": 0.9909,
+    "published_at": "2026-09-06T01:28:25.295333+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html",
     "headline": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.973,
-    "published_at": "2026-09-05T01:33:16.424302+00:00"
+    "published_at": "2026-09-06T01:28:25.294293+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/03/world/middleeast/west-bank-israel-palestinians-shooting.html",
     "headline": "Israeli Military Kills Two Palestinian Youths in Village Raid, Residents Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9701,
-    "published_at": "2026-09-05T01:33:16.423085+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
-    "headline": "Spain\u2019s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-09-05T01:33:16.419527+00:00"
+    "published_at": "2026-09-06T01:28:25.292915+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/03/arts/design/iranian-artists-los-angeles-the-brick.html",
     "headline": "Through the Hands of Strangers, Missing Iranian Artists Put on a Show in L.A.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9981,
-    "published_at": "2026-09-05T01:33:16.418342+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/03/world/middleeast/israel-lebanon-prisoners-release.html",
-    "headline": "Israel Is Expected to Release Lebanese Prisoners, in Rare Sign of Progress",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5404,
-    "published_at": "2026-09-05T01:33:16.417173+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
-    "headline": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-09-05T01:33:16.406252+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/europe/guinness-theft-uk.html",
-    "headline": "Grand Theft Porter: Thieves Steal 800 Barrels of Guinness in Britain",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-09-05T01:33:16.400293+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/europe/farage-reform-uk-conference-donations.html",
-    "headline": "Nigel Farage to Speak at Reform UK Conference Amid Scrutiny Over Party Finances",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-09-05T01:33:16.390707+00:00"
+    "published_at": "2026-09-06T01:28:25.288899+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html",
     "headline": "Inside the Nepal Tunnel Rescue Operation",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9472,
-    "published_at": "2026-09-05T01:33:16.389472+00:00"
+    "published_at": "2026-09-06T01:28:25.278182+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html",
+    "headline": "After Fighting Russia Fiercely, He Wants to Forge Ukraine\u2019s Path to Peace",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-09-06T01:28:25.276092+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/04/world/americas/colombia-de-la-espriella-bodies.html",
+    "headline": "Colombia\u2019s De La Espriella Poses With Bodies in a Video Posted Online",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9923,
+    "published_at": "2026-09-06T01:28:25.271322+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000011130555/families-mourn-nepal-flood-victims.html",
+    "headline": "Families Mourn Nepal Flood Victims",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-09-06T01:28:25.268160+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+    "headline": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9931,
+    "published_at": "2026-09-06T01:28:25.264778+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
+    "headline": "Yemen\u2019s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9846,
+    "published_at": "2026-09-06T01:28:25.262844+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/04/world/europe/germany-afd-extremists.html",
     "headline": "Germany\u2019s Far Right, Edging Close to Power, Remains Close to Extremists",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9936,
-    "published_at": "2026-09-05T01:33:16.381922+00:00"
+    "published_at": "2026-09-06T01:28:25.212262+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
-    "headline": "Families Turn to Symbolic Cremation After Nepal Floods",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-09-05T01:33:16.379260+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9932,
-    "published_at": "2026-09-05T01:33:16.094310+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenya's chai lovers are not happy as the nation's cows run dry",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-09-05T01:33:16.087705+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Volkswagen board approves plan to cut another 50,000 jobs",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.98,
-    "published_at": "2026-09-05T01:33:16.080015+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9836,
-    "published_at": "2026-09-05T01:33:16.078744+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-    "headline": "US diesel prices hit an all-time-high",
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/asia/museum-britain-naga-human-remains.html",
+    "headline": "English Museum to Repatriate Colonial-Era Human Remains",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-09-05T01:33:16.077276+00:00"
+    "confidence_score": 0.931,
+    "published_at": "2026-09-06T01:28:25.208946+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
+    "headline": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9864,
+    "published_at": "2026-09-06T01:28:25.206965+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Moment workers are rescued from Nepal tunnel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.936,
+    "published_at": "2026-09-06T01:28:24.789988+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+    "headline": "How much can Canada fight back in its trade war with the US?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.981,
+    "published_at": "2026-09-06T01:28:24.788982+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-09-06T01:28:24.726608+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+    "headline": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-09-06T01:28:24.709033+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump signs order to remove endangered species protection for grey wolves",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9929,
+    "published_at": "2026-09-06T01:28:24.707996+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+    "headline": "US envoys meet Putin in Moscow for Ukraine talks",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9425,
-    "published_at": "2026-09-05T01:33:16.070663+00:00"
+    "confidence_score": 0.5755,
+    "published_at": "2026-09-06T01:28:24.641487+00:00"
   }
 ]
