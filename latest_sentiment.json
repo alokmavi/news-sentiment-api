@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
-    "headline": "Alejandro Betancourt, Trump\u2019s Partner in Venezuelan Oil Deal, Has Faced Investigations",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-09-07T01:25:53.736294+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
-    "headline": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-09-07T01:25:53.732667+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/americas/colombia-de-la-espriella-bodies.html",
-    "headline": "Colombia\u2019s De La Espriella Poses With Bodies in a Video Posted Online",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-09-07T01:25:53.731297+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/asia/malaysia-philippines-haze-indonesia-singapore-wildfires.html",
-    "headline": "Haze From Indonesian Wildfires Blankets Parts of Malaysia and Philippines",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-09-07T01:25:53.728909+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/middleeast/lebanon-uae-pardon-egypt-dissident.html",
-    "headline": "U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9173,
-    "published_at": "2026-09-07T01:25:53.718939+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
     "headline": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9993,
-    "published_at": "2026-09-07T01:25:53.715171+00:00"
+    "published_at": "2026-09-08T01:35:21.260920+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html",
-    "headline": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8742,
-    "published_at": "2026-09-07T01:25:53.713822+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/asia/museum-britain-naga-human-remains.html",
-    "headline": "English Museum to Repatriate Colonial-Era Human Remains",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.931,
-    "published_at": "2026-09-07T01:25:53.708381+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html",
+    "headline": "A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-09-08T01:35:21.253956+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
     "headline": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9988,
-    "published_at": "2026-09-07T01:25:53.705741+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
-    "headline": "After Months at War, Brief Solace in a Party Town Far From Home",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-09-07T01:25:53.703216+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html",
-    "headline": "Germany\u2019s Far Right Just Misses Majority in Crucial State Election",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9702,
-    "published_at": "2026-09-07T01:25:53.691818+00:00"
+    "published_at": "2026-09-08T01:35:21.252781+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
     "headline": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9475,
-    "published_at": "2026-09-07T01:25:53.689335+00:00"
+    "published_at": "2026-09-08T01:35:21.250523+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
-    "headline": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
+    "headline": "After Months at War, Brief Solace in a Party Town Far From Home",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-09-08T01:35:21.249379+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
+    "headline": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-09-08T01:35:21.248213+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7928,
+    "published_at": "2026-09-08T01:35:21.244768+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
+    "headline": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9932,
+    "published_at": "2026-09-08T01:35:21.242458+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
+    "headline": "Huckabee Condemns \u2018Terrorist\u2019 Attacks on Palestinians in West Bank Town Hall",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8703,
-    "published_at": "2026-09-07T01:25:53.684275+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-09-08T01:35:21.240121+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html",
-    "headline": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
+    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+    "headline": "Germany\u2019s AfD Could Win Its First State Government. Here\u2019s What to Know.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9895,
+    "published_at": "2026-09-08T01:35:21.236704+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000010538018/indonesia-microplastics-rain-air-jakarta.html",
+    "headline": "Indonesia\u2019s Growing Microplastics Problem",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-09-07T01:25:53.676746+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-09-08T01:35:21.228553+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-09-07T01:25:53.527433+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/07/science/botanical-decorations-halafian-mesopotamia.html",
+    "headline": "How Ancient Farmers Used Floral Designs to Track Goods",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9862,
+    "published_at": "2026-09-08T01:35:21.227410+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-09-07T01:25:53.518376+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+    "headline": "After Victory in German State, Far Right Needs Help to Take Power",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9275,
+    "published_at": "2026-09-08T01:35:21.215791+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump signs order to remove endangered species protection for grey wolves",
+    "source_uri": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+    "headline": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-09-07T01:25:53.506949+00:00"
+    "confidence_score": 0.9909,
+    "published_at": "2026-09-08T01:35:21.207856+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-    "headline": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+    "headline": "How \u00a3725 game-show winnings kick-started Champions League coach's career",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9209,
-    "published_at": "2026-09-07T01:25:53.505720+00:00"
+    "confidence_score": 0.9487,
+    "published_at": "2026-09-08T01:35:20.974317+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+    "headline": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9751,
-    "published_at": "2026-09-07T01:25:53.503153+00:00"
+    "confidence_score": 0.8955,
+    "published_at": "2026-09-08T01:35:20.973192+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-    "primary_sentiment": "NEGATIVE",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+    "headline": "How significant are AfD's historic gains for Germany and the rest of Europe?",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9947,
-    "published_at": "2026-09-07T01:25:53.498167+00:00"
+    "published_at": "2026-09-08T01:35:20.972021+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+    "headline": "A food safety officer has become a social media star in India - why?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-09-08T01:35:20.968572+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+    "headline": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.989,
+    "published_at": "2026-09-08T01:35:20.967378+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9902,
+    "published_at": "2026-09-08T01:35:20.955954+00:00"
   }
 ]
