@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
-    "headline": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+    "source_uri": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html",
+    "headline": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-09-08T01:35:21.260920+00:00"
+    "confidence_score": 0.992,
+    "published_at": "2026-09-09T01:43:25.889159+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html",
-    "headline": "A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-09-08T01:35:21.253956+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-    "headline": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-09-08T01:35:21.252781+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
-    "headline": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
+    "source_uri": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
+    "headline": "China\u2019s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9475,
-    "published_at": "2026-09-08T01:35:21.250523+00:00"
+    "confidence_score": 0.7285,
+    "published_at": "2026-09-09T01:43:25.887678+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
-    "headline": "After Months at War, Brief Solace in a Party Town Far From Home",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-09-08T01:35:21.249379+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
-    "headline": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-09-08T01:35:21.248213+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
-    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7928,
-    "published_at": "2026-09-08T01:35:21.244768+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
-    "headline": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9932,
-    "published_at": "2026-09-08T01:35:21.242458+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
-    "headline": "Huckabee Condemns \u2018Terrorist\u2019 Attacks on Palestinians in West Bank Town Hall",
+    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html",
+    "headline": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-09-08T01:35:21.240121+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-09-09T01:43:25.884769+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
-    "headline": "Germany\u2019s AfD Could Win Its First State Government. Here\u2019s What to Know.",
+    "source_uri": "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html",
+    "headline": "A Bad Year for Bees Gets Worse as Trump\u2019s Tariffs Hit Canada\u2019s Honey Belt",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9895,
-    "published_at": "2026-09-08T01:35:21.236704+00:00"
+    "confidence_score": 0.9912,
+    "published_at": "2026-09-09T01:43:25.881912+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
+    "headline": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-09-09T01:43:25.871822+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/video/world/asia/100000010538018/indonesia-microplastics-rain-air-jakarta.html",
     "headline": "Indonesia\u2019s Growing Microplastics Problem",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9979,
-    "published_at": "2026-09-08T01:35:21.228553+00:00"
+    "published_at": "2026-09-09T01:43:25.870490+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/07/science/botanical-decorations-halafian-mesopotamia.html",
-    "headline": "How Ancient Farmers Used Floral Designs to Track Goods",
+    "source_uri": "https://www.nytimes.com/2026/09/07/world/europe/noel-godin-dead.html",
+    "headline": "No\u00ebl Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9862,
-    "published_at": "2026-09-08T01:35:21.227410+00:00"
+    "confidence_score": 0.9736,
+    "published_at": "2026-09-09T01:43:25.866141+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-    "headline": "After Victory in German State, Far Right Needs Help to Take Power",
+    "source_uri": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+    "headline": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.932,
+    "published_at": "2026-09-09T01:43:25.864559+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
+    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9841,
+    "published_at": "2026-09-09T01:43:25.856757+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html",
+    "headline": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group\u2019s Visit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-09-09T01:43:25.851653+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html",
+    "headline": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9275,
-    "published_at": "2026-09-08T01:35:21.215791+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-09-09T01:43:25.844053+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
-    "headline": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html",
+    "headline": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-09-08T01:35:21.207856+00:00"
+    "confidence_score": 0.991,
+    "published_at": "2026-09-09T01:43:25.833759+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-    "headline": "How \u00a3725 game-show winnings kick-started Champions League coach's career",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9487,
-    "published_at": "2026-09-08T01:35:20.974317+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-    "headline": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8955,
-    "published_at": "2026-09-08T01:35:20.973192+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-    "headline": "How significant are AfD's historic gains for Germany and the rest of Europe?",
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
+    "headline": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-09-08T01:35:20.972021+00:00"
+    "confidence_score": 0.9971,
+    "published_at": "2026-09-09T01:43:25.827031+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-    "headline": "A food safety officer has become a social media star in India - why?",
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
+    "headline": "AfD\u2019s Far Right Win Puts New Pressure on Germany\u2019s Leader Merz",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-09-08T01:35:20.968572+00:00"
+    "confidence_score": 0.969,
+    "published_at": "2026-09-09T01:43:25.825025+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-    "headline": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-09-08T01:35:20.967378+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+    "headline": "'Good to have choice': Australians on opting out of social media algorithms",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9619,
+    "published_at": "2026-09-09T01:43:25.541620+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+    "headline": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9902,
-    "published_at": "2026-09-08T01:35:20.955954+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-09-09T01:43:25.534296+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Hungary expels 10 Russian diplomats as relations worsen",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9548,
+    "published_at": "2026-09-09T01:43:25.529343+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fourteen go on trial over deadliest Channel small boats disaster",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9894,
+    "published_at": "2026-09-09T01:43:25.524366+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Meta continues to run ads promoting child sexual abuse material in India - report",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-09-09T01:43:25.518048+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Renoir paintings worth millions stolen in French museum heist",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-09-09T01:43:25.516688+00:00"
   }
 ]
