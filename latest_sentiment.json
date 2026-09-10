@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html",
-    "headline": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
+    "source_uri": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+    "headline": "Thousands of Serbs Gather to Mourn Ratko Mladic, the \u2018Butcher of Bosnia\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-09-09T01:43:25.889159+00:00"
+    "confidence_score": 0.9762,
+    "published_at": "2026-09-10T01:38:17.584044+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
-    "headline": "China\u2019s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7285,
-    "published_at": "2026-09-09T01:43:25.887678+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html",
-    "headline": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-09-09T01:43:25.884769+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html",
-    "headline": "A Bad Year for Bees Gets Worse as Trump\u2019s Tariffs Hit Canada\u2019s Honey Belt",
+    "source_uri": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
+    "headline": "Germany\u2019s \u2018Firewall\u2019 Against the Far Right Is Being Tested as Never Before",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9912,
-    "published_at": "2026-09-09T01:43:25.881912+00:00"
+    "confidence_score": 0.9483,
+    "published_at": "2026-09-10T01:38:17.582871+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
-    "headline": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-09-09T01:43:25.871822+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000010538018/indonesia-microplastics-rain-air-jakarta.html",
-    "headline": "Indonesia\u2019s Growing Microplastics Problem",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-09-09T01:43:25.870490+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/07/world/europe/noel-godin-dead.html",
-    "headline": "No\u00ebl Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9736,
-    "published_at": "2026-09-09T01:43:25.866141+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
-    "headline": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.932,
-    "published_at": "2026-09-09T01:43:25.864559+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
-    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9841,
-    "published_at": "2026-09-09T01:43:25.856757+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html",
-    "headline": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group\u2019s Visit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-09-09T01:43:25.851653+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html",
-    "headline": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-09T01:43:25.844053+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html",
-    "headline": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-09-09T01:43:25.833759+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
-    "headline": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-09-09T01:43:25.827031+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
-    "headline": "AfD\u2019s Far Right Win Puts New Pressure on Germany\u2019s Leader Merz",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.969,
-    "published_at": "2026-09-09T01:43:25.825025+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-    "headline": "'Good to have choice': Australians on opting out of social media algorithms",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9619,
-    "published_at": "2026-09-09T01:43:25.541620+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-    "headline": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
+    "headline": "Online Posts Show Families\u2019 Grief for Flood Victims on Tibet\u2019s Side of China-Nepal Border",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9993,
-    "published_at": "2026-09-09T01:43:25.534296+00:00"
+    "published_at": "2026-09-10T01:38:17.577020+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Hungary expels 10 Russian diplomats as relations worsen",
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+    "headline": "Saudi Arabia and Yemen\u2019s Houthis Edge Back to the Brink of War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9548,
-    "published_at": "2026-09-09T01:43:25.529343+00:00"
+    "confidence_score": 0.9914,
+    "published_at": "2026-09-10T01:38:17.575901+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Fourteen go on trial over deadliest Channel small boats disaster",
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
+    "headline": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-09-10T01:38:17.571402+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/middleeast/israel-netanyahu-2023-hamas-attack.html",
+    "headline": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-09-10T01:38:17.559725+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
+    "headline": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9792,
+    "published_at": "2026-09-10T01:38:17.557443+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html",
+    "headline": "The Theme Park at the Heart of France\u2019s Culture War",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9718,
+    "published_at": "2026-09-10T01:38:17.542340+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/afd-bsw-sahra-wagenknecht.html",
+    "headline": "This Tiny Anti-Establishment Party May Put Germany\u2019s Far Right in Power",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5815,
+    "published_at": "2026-09-10T01:38:17.541295+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/asia/singapore-minister-salary.html",
+    "headline": "Singapore\u2019s Prime Minister Gets a Big Raise",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8711,
+    "published_at": "2026-09-10T01:38:17.539181+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/reform-uk-investigation-nigel-farage.html",
+    "headline": "Police Expand Investigation Into Reform U.K. After Undercover Sting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-09-10T01:38:17.537056+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/britain-france-israel-settlements-trade.html",
+    "headline": "Europe Unites to Pressure Israel, Breaking With U.S.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7451,
+    "published_at": "2026-09-10T01:38:17.533757+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html",
+    "headline": "How a Driver\u2019s Sudden Death Triggered Ebola Panic in Congo",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-09-10T01:38:17.531513+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html",
+    "headline": "Spain Declassifies Warning to Morocco About Migrant Crossing Plans",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9894,
-    "published_at": "2026-09-09T01:43:25.524366+00:00"
+    "published_at": "2026-09-10T01:38:17.530409+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Meta continues to run ads promoting child sexual abuse material in India - report",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Hong Kong's first leader after British handover dies",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-09-09T01:43:25.518048+00:00"
+    "confidence_score": 0.9946,
+    "published_at": "2026-09-10T01:38:17.303054+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Renoir paintings worth millions stolen in French museum heist",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+    "headline": "Baby orangutans found in Indian forest spark trafficking inquiry",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-09-10T01:38:17.299928+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+    "headline": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8187,
+    "published_at": "2026-09-10T01:38:17.293536+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-09-09T01:43:25.516688+00:00"
+    "confidence_score": 0.9723,
+    "published_at": "2026-09-10T01:38:17.292434+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+    "headline": "Europe's royalty pay respects to King Harald V in Norway",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-09-10T01:38:17.290245+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8974,
+    "published_at": "2026-09-10T01:38:17.285804+00:00"
   }
 ]
