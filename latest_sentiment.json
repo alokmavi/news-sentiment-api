@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/israel-west-bank-canada-us-trade.html",
-    "headline": "Impunity in the West Bank",
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/middleeast/israel-uk-west-bank-sanctions.html",
+    "headline": "Why Israel Reacted With Fury to U.K. Sanctions on West Bank Settlements",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-09-11T01:37:19.845111+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/canada/carney-trump-canada-us-trade-war.html",
-    "headline": "Canada\u2019s Carney Doubles Down on Pivot Away from the United States",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-09-11T01:37:19.843125+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
-    "headline": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9792,
-    "published_at": "2026-09-11T01:37:19.842073+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/britain-france-israel-settlements-trade.html",
-    "headline": "Europe Unites to Pressure Israel, Breaking With U.S.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7451,
-    "published_at": "2026-09-11T01:37:19.835461+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/norway-king-harald-funeral.html",
-    "headline": "Thousands Gather for Funeral of Norway\u2019s King Harald",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-09-11T01:37:19.826367+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html",
-    "headline": "U.S. Takes Aim at New Target in Deadly Boat Strike Campaign",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9913,
-    "published_at": "2026-09-11T01:37:19.825314+00:00"
+    "confidence_score": 0.712,
+    "published_at": "2026-09-12T01:43:52.448803+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/09/world/americas/video-mexico-toddler-traffic-rescue.html",
     "headline": "Video Shows Grocery Store Manager Saving Toddler From Oncoming Traffic",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9987,
-    "published_at": "2026-09-11T01:37:19.823365+00:00"
+    "published_at": "2026-09-12T01:43:52.447596+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/reform-uk-investigation-nigel-farage.html",
     "headline": "Police Expand Investigation Into Reform U.K. After Undercover Sting",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9969,
-    "published_at": "2026-09-11T01:37:19.822362+00:00"
+    "published_at": "2026-09-12T01:43:52.446411+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
     "headline": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9839,
-    "published_at": "2026-09-11T01:37:19.819357+00:00"
+    "published_at": "2026-09-12T01:43:52.442808+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/10int-theworld-web-ai-education.html",
+    "headline": "Back to School, Now With A.I.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-09-12T01:43:52.439159+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/09/world/asia/indonesia-wildfires-malaysia-cloud-seeding.html",
     "headline": "Fighting Wildfire Haze With an Airplane and Lots of Salt and Water",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9885,
-    "published_at": "2026-09-11T01:37:19.812888+00:00"
+    "published_at": "2026-09-12T01:43:52.435430+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-replicas.html",
-    "headline": "Where to See the World\u2019s Bayeux Tapestry Replicas",
+    "source_uri": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
+    "headline": "At Least 35 Dead, Dozens Missing After Ferry Fire in the Philippines",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9892,
+    "published_at": "2026-09-12T01:43:52.434249+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-al-qaeda-25-years-after-911.html",
+    "headline": "25 Years After 9/11, Al Qaeda Still Has a Home in Afghanistan",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9493,
-    "published_at": "2026-09-11T01:37:19.811872+00:00"
+    "confidence_score": 0.9905,
+    "published_at": "2026-09-12T01:43:52.429480+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html",
+    "headline": "Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-09-12T01:43:52.425833+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
+    "headline": "Ancient Tombs, Untouched by Looters, Are Found Under Peru\u2019s Sands",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9871,
+    "published_at": "2026-09-12T01:43:52.419572+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
+    "headline": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.981,
+    "published_at": "2026-09-12T01:43:52.415943+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/10/world/bayeux-tapestry-london-exhibition-trump-money.html",
     "headline": "Bayeux Mania",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9998,
-    "published_at": "2026-09-11T01:37:19.806911+00:00"
+    "published_at": "2026-09-12T01:43:52.413499+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html",
-    "headline": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
+    "source_uri": "https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html",
+    "headline": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-09-11T01:37:19.792893+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-09-12T01:43:52.396196+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
-    "headline": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-09-11T01:37:19.789896+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
-    "headline": "Inside Thailand's school shooter drills following recent attacks",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-09-11T01:37:19.602136+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Do Republicans blame Trump for high oil prices?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6593,
-    "published_at": "2026-09-11T01:37:19.601172+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-09-11T01:37:19.594558+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-    "headline": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9653,
-    "published_at": "2026-09-11T01:37:19.593566+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Twenty-five dead after fire on cargo ship in eastern China",
+    "source_uri": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
+    "headline": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-09-11T01:37:19.590496+00:00"
+    "confidence_score": 0.9831,
+    "published_at": "2026-09-12T01:43:52.392409+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-    "headline": "More than 20 children killed in DR Congo school fire",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-09-11T01:37:19.585285+00:00"
+    "confidence_score": 0.8569,
+    "published_at": "2026-09-12T01:43:52.121663+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+    "headline": "How global trade and oil prices could be hit by Houthi advance",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8959,
+    "published_at": "2026-09-12T01:43:52.115496+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9982,
+    "published_at": "2026-09-12T01:43:52.110752+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8388,
+    "published_at": "2026-09-12T01:43:52.100074+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel says it has destroyed major underground Hezbollah base",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6906,
+    "published_at": "2026-09-12T01:43:52.095202+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+    "headline": "Passenger train derails in France leaving at least 44 injured",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9409,
+    "published_at": "2026-09-12T01:43:52.091625+00:00"
   }
 ]
