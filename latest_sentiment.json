@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/middleeast/israel-uk-west-bank-sanctions.html",
-    "headline": "Why Israel Reacted With Fury to U.K. Sanctions on West Bank Settlements",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.712,
-    "published_at": "2026-09-12T01:43:52.448803+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/americas/video-mexico-toddler-traffic-rescue.html",
-    "headline": "Video Shows Grocery Store Manager Saving Toddler From Oncoming Traffic",
+    "source_uri": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html",
+    "headline": "The \u2018Forever War\u2019 in Afghanistan: 25 Years in Pictures",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-09-12T01:43:52.447596+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/europe/reform-uk-investigation-nigel-farage.html",
-    "headline": "Police Expand Investigation Into Reform U.K. After Undercover Sting",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-09-12T01:43:52.446411+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
-    "headline": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9839,
-    "published_at": "2026-09-12T01:43:52.442808+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/10int-theworld-web-ai-education.html",
-    "headline": "Back to School, Now With A.I.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-09-12T01:43:52.439159+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/asia/indonesia-wildfires-malaysia-cloud-seeding.html",
-    "headline": "Fighting Wildfire Haze With an Airplane and Lots of Salt and Water",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9885,
-    "published_at": "2026-09-12T01:43:52.435430+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
-    "headline": "At Least 35 Dead, Dozens Missing After Ferry Fire in the Philippines",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9892,
-    "published_at": "2026-09-12T01:43:52.434249+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-09-13T01:33:44.212659+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-al-qaeda-25-years-after-911.html",
     "headline": "25 Years After 9/11, Al Qaeda Still Has a Home in Afghanistan",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9905,
-    "published_at": "2026-09-12T01:43:52.429480+00:00"
+    "published_at": "2026-09-13T01:33:44.210237+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html",
-    "headline": "Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.",
+    "source_uri": "https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html",
+    "headline": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9897,
+    "published_at": "2026-09-13T01:33:44.209013+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/10/climate/choking-global-trade.html",
+    "headline": "Choking Global Trade",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-09-12T01:43:52.425833+00:00"
+    "confidence_score": 0.9967,
+    "published_at": "2026-09-13T01:33:44.195574+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
-    "headline": "Ancient Tombs, Untouched by Looters, Are Found Under Peru\u2019s Sands",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9871,
-    "published_at": "2026-09-12T01:43:52.419572+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/10/world/africa/uganda-tooro-kingdom-heir-succession.html",
+    "headline": "A Succession Battle Erupts Over a Late Ugandan Monarch",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.989,
+    "published_at": "2026-09-13T01:33:44.189469+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
-    "headline": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.981,
-    "published_at": "2026-09-12T01:43:52.415943+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
+    "headline": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9916,
+    "published_at": "2026-09-13T01:33:44.187070+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/10/world/bayeux-tapestry-london-exhibition-trump-money.html",
-    "headline": "Bayeux Mania",
+    "source_uri": "https://www.nytimes.com/2026/09/11/travel/biking-france-normandy-dieppe-bayeux.html",
+    "headline": "Consider Normandy for the Perfect Fall Weekend Biking Destination",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-09-12T01:43:52.413499+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-09-13T01:33:44.184640+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html",
-    "headline": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
+    "source_uri": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
+    "headline": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
     "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-09-13T01:33:44.179819+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/09/11/nyregion/9-11-anniversary-25th/europe-us-allies-sept-11",
+    "headline": "U.S. allies in Europe recall trans-Atlantic bonds after the 9/11 attacks.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9461,
+    "published_at": "2026-09-13T01:33:44.177360+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
+    "headline": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9948,
+    "published_at": "2026-09-13T01:33:44.176121+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+    "headline": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn\u2019t: Iran at the Table",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9991,
-    "published_at": "2026-09-12T01:43:52.396196+00:00"
+    "published_at": "2026-09-13T01:33:44.164585+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
-    "headline": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9831,
-    "published_at": "2026-09-12T01:43:52.392409+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8569,
-    "published_at": "2026-09-12T01:43:52.121663+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-    "headline": "How global trade and oil prices could be hit by Houthi advance",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8959,
-    "published_at": "2026-09-12T01:43:52.115496+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-09-12T01:43:52.110752+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+    "source_uri": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+    "headline": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8388,
-    "published_at": "2026-09-12T01:43:52.100074+00:00"
+    "confidence_score": 0.9705,
+    "published_at": "2026-09-13T01:33:44.032105+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel says it has destroyed major underground Hezbollah base",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+    "headline": "C\u00e9line Dion fans prepare for comeback concert in Paris",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6906,
-    "published_at": "2026-09-12T01:43:52.095202+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-09-13T01:33:44.027380+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-    "headline": "Passenger train derails in France leaving at least 44 injured",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+    "headline": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9409,
-    "published_at": "2026-09-12T01:43:52.091625+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-09-13T01:33:44.025165+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+    "headline": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-09-13T01:33:44.022630+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-09-13T01:33:44.015578+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Record heatwaves in France set to make champagne stronger",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-09-13T01:33:44.014374+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Afghan woman deported from US in first use of 'alien terrorist' court",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9908,
+    "published_at": "2026-09-13T01:33:44.012039+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+    "headline": "Fire at nursing home in Chile kills 16 residents",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9761,
+    "published_at": "2026-09-13T01:33:44.007241+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9952,
+    "published_at": "2026-09-13T01:33:43.983863+00:00"
   }
 ]
