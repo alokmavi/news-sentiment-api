@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
-    "headline": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-09-15T02:01:38.749022+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/11/world/americas/colombia-aerial-spraying-coca-crops.html",
-    "headline": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
+    "source_uri": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+    "headline": "\u2018We Left in the Clothes We Were Wearing\u2019: Yemenis Flee New Fighting",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-09-15T02:01:38.743435+00:00"
+    "confidence_score": 0.9888,
+    "published_at": "2026-09-16T01:52:47.569435+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
-    "headline": "In Doonbeg, Trump\u2019s Irish Open Visit Prompts Protests and Praise",
+    "source_uri": "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html",
+    "headline": "Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen\u2019s War",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-09-15T02:01:38.742333+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/12/world/africa/jean-kaseya-africa-cdc.html",
-    "headline": "The Doctor Pressuring African Leaders to Own the Ebola Response",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9177,
-    "published_at": "2026-09-15T02:01:38.741197+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-09-16T01:52:47.534962+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/12/world/asia/nepal-floods-himalayas-hydropower-tunnel.html",
     "headline": "In Flood-Stricken Nepal, a Cool Gust Carries Hopes of a Miracle Rescue",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.992,
-    "published_at": "2026-09-15T02:01:38.732248+00:00"
+    "published_at": "2026-09-16T01:52:47.533571+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html",
-    "headline": "Trump\u2019s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9887,
-    "published_at": "2026-09-15T02:01:38.720816+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-09-16T01:52:47.515657+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
     "headline": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-09-15T02:01:38.718534+00:00"
+    "published_at": "2026-09-16T01:52:47.426309+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html",
-    "headline": "Okinawa Elects a Conservative Amid Fears About China and the Economy",
+    "source_uri": "https://www.nytimes.com/2026/09/13/world/trump-ai-social-media-celine-dion.html",
+    "headline": "Trump\u2019s Supercharged Social Media",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-09-15T02:01:38.717407+00:00"
+    "confidence_score": 0.9894,
+    "published_at": "2026-09-16T01:52:47.392041+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
-    "headline": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race",
+    "source_uri": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+    "headline": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-09-15T02:01:38.710453+00:00"
+    "confidence_score": 0.9945,
+    "published_at": "2026-09-16T01:52:47.390668+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/scandal-shame-politics-polarization.html",
-    "headline": "Why Scandals Don\u2019t Bring Down Politicians Anymore",
+    "source_uri": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+    "headline": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6264,
-    "published_at": "2026-09-15T02:01:38.702492+00:00"
+    "confidence_score": 0.7704,
+    "published_at": "2026-09-16T01:52:47.374227+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/asia/muslim-mindanao-philippines-election.html",
-    "headline": "Landmark Vote Held in Restive Muslim Autonomous Region in the Philippines",
+    "source_uri": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+    "headline": "\u2018NAZA,\u2019 Israeli Film About Killings in Gaza, Faces Backlash",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9246,
+    "published_at": "2026-09-16T01:52:47.266023+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/europe/lucy-letby-murder-inquiry.html",
+    "headline": "Lucy Letby Murder Inquiry Says Some Babies\u2019 Deaths Were Avoidable",
     "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9794,
+    "published_at": "2026-09-16T01:52:47.143240+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html",
+    "headline": "An Heir to a Thai Beer Empire Accused His Brother of Sexual Abuse. Then He Took on His Family.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-09-16T01:52:47.125694+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
+    "headline": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-09-16T01:52:47.107912+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "headline": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-09-15T02:01:38.700341+00:00"
+    "published_at": "2026-09-16T01:52:47.090278+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
-    "headline": "Saudi Leader Meets U.S. Commander as Houthi Attacks Threaten Oil Markets",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Mass nesting brings swarms of turtles to Mexican beach",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9913,
-    "published_at": "2026-09-15T02:01:38.696954+00:00"
+    "confidence_score": 0.6785,
+    "published_at": "2026-09-16T01:52:46.772025+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-    "headline": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-09-15T02:01:38.693560+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Has Trump won over voters with his midterm convention?",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+    "headline": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9407,
-    "published_at": "2026-09-15T02:01:38.466161+00:00"
+    "confidence_score": 0.9965,
+    "published_at": "2026-09-16T01:52:46.648050+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-    "headline": "Best friends for decades - until a DNA test revealed they were sisters",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9875,
+    "published_at": "2026-09-16T01:52:46.613126+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Colombian ex-foreign minister charged over nanny's lie detector test",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9945,
+    "published_at": "2026-09-16T01:52:46.579676+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+    "headline": "British woman abducted in Malawi, police say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9649,
+    "published_at": "2026-09-16T01:52:46.578354+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+    "headline": "More than 100,000 people in Japan are now aged 100 or older",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9263,
+    "published_at": "2026-09-16T01:52:46.563341+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Denmark says Russian warship fired flares at military helicopter",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9872,
-    "published_at": "2026-09-15T02:01:38.457667+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-09-15T02:01:38.445080+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9623,
-    "published_at": "2026-09-15T02:01:38.444007+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hyrox apologises for allowing race to continue after athlete soils herself",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-09-15T02:01:38.442930+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9889,
-    "published_at": "2026-09-15T02:01:38.437671+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-09-15T02:01:38.434347+00:00"
+    "published_at": "2026-09-16T01:52:46.489648+00:00"
   }
 ]
