@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
-    "headline": "\u2018We Left in the Clothes We Were Wearing\u2019: Yemenis Flee New Fighting",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-09-16T01:52:47.569435+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html",
-    "headline": "Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen\u2019s War",
+    "source_uri": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+    "headline": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-09-16T01:52:47.534962+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-09-17T01:56:07.499365+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/12/world/asia/nepal-floods-himalayas-hydropower-tunnel.html",
-    "headline": "In Flood-Stricken Nepal, a Cool Gust Carries Hopes of a Miracle Rescue",
+    "source_uri": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+    "headline": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv\u2019s Allies",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-09-16T01:52:47.533571+00:00"
+    "confidence_score": 0.9949,
+    "published_at": "2026-09-17T01:56:07.493806+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-16T01:52:47.515657+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
-    "headline": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls",
+    "source_uri": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+    "headline": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-09-16T01:52:47.426309+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/13/world/trump-ai-social-media-celine-dion.html",
-    "headline": "Trump\u2019s Supercharged Social Media",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9894,
-    "published_at": "2026-09-16T01:52:47.392041+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
-    "headline": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-09-16T01:52:47.390668+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
-    "headline": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7704,
-    "published_at": "2026-09-16T01:52:47.374227+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-09-17T01:56:07.492410+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
     "headline": "\u2018NAZA,\u2019 Israeli Film About Killings in Gaza, Faces Backlash",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9246,
-    "published_at": "2026-09-16T01:52:47.266023+00:00"
+    "published_at": "2026-09-17T01:56:07.489709+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/europe/lucy-letby-murder-inquiry.html",
-    "headline": "Lucy Letby Murder Inquiry Says Some Babies\u2019 Deaths Were Avoidable",
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+    "headline": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9794,
-    "published_at": "2026-09-16T01:52:47.143240+00:00"
+    "confidence_score": 0.9888,
+    "published_at": "2026-09-17T01:56:07.481606+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html",
-    "headline": "An Heir to a Thai Beer Empire Accused His Brother of Sexual Abuse. Then He Took on His Family.",
+    "source_uri": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
+    "headline": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-09-16T01:52:47.125694+00:00"
+    "confidence_score": 0.9758,
+    "published_at": "2026-09-17T01:56:07.473605+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
-    "headline": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/europe/prince-harry-meghan-children-schools-security.html",
+    "headline": "Harry and Meghan Change Children\u2019s School After Talks With Security Team",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-09-16T01:52:47.107912+00:00"
+    "confidence_score": 0.9907,
+    "published_at": "2026-09-17T01:56:07.468210+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
-    "headline": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/asia/can-an-island-nations-rugby-dreams-change-its-fortunes.html",
+    "headline": "Can an Island Nation\u2019s Rugby Dreams Change Its Fortunes?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-09-16T01:52:47.090278+00:00"
+    "confidence_score": 0.9919,
+    "published_at": "2026-09-17T01:56:07.461455+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Mass nesting brings swarms of turtles to Mexican beach",
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/migrants-germany-far-right-afd.html",
+    "headline": "Far-Right Surge in German State Leaves Migrants There in Fear",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6785,
-    "published_at": "2026-09-16T01:52:46.772025+00:00"
+    "confidence_score": 0.9005,
+    "published_at": "2026-09-17T01:56:07.457619+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/canada-eu-ed-sheeran-iran.html",
+    "headline": "The Canaduropean Union?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7226,
+    "published_at": "2026-09-17T01:56:07.454060+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
+    "headline": "Russia\u2019s Election Result Won\u2019t Be a Shock. What Comes Next Could Be.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9814,
+    "published_at": "2026-09-17T01:56:07.448358+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
+    "headline": "Kosovo\u2019s Former Leader Is Sentenced to 25 Years in War Crimes Case",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9582,
+    "published_at": "2026-09-17T01:56:07.442656+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
+    "headline": "Gold Mine Collapse in Sudan Kills at Least 70",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-09-17T01:56:07.435512+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+    "headline": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9774,
+    "published_at": "2026-09-17T01:56:07.432829+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
     "headline": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9965,
-    "published_at": "2026-09-16T01:52:46.648050+00:00"
+    "published_at": "2026-09-17T01:56:07.313155+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
+    "headline": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9875,
-    "published_at": "2026-09-16T01:52:46.613126+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-09-17T01:56:07.308351+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Colombian ex-foreign minister charged over nanny's lie detector test",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+    "headline": "US accuses Russia of trying to kill Ukrainian allies overseas",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-09-16T01:52:46.579676+00:00"
+    "confidence_score": 0.9925,
+    "published_at": "2026-09-17T01:56:07.304977+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
-    "headline": "British woman abducted in Malawi, police say",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+    "headline": "US limits visas for South African officials over alleged anti-white discrimination",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9649,
-    "published_at": "2026-09-16T01:52:46.578354+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-09-17T01:56:07.303794+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
-    "headline": "More than 100,000 people in Japan are now aged 100 or older",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9263,
-    "published_at": "2026-09-16T01:52:46.563341+00:00"
+    "confidence_score": 0.9989,
+    "published_at": "2026-09-17T01:56:07.300374+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Denmark says Russian warship fired flares at military helicopter",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+    "headline": "EU chief backs plan for Canada to become 'associate member'",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9872,
-    "published_at": "2026-09-16T01:52:46.489648+00:00"
+    "confidence_score": 0.9747,
+    "published_at": "2026-09-17T01:56:07.292307+00:00"
   }
 ]
