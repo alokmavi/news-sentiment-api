@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-    "headline": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-09-17T01:56:07.499365+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
-    "headline": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv\u2019s Allies",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-09-17T01:56:07.493806+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
-    "headline": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-09-17T01:56:07.492410+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-    "headline": "\u2018NAZA,\u2019 Israeli Film About Killings in Gaza, Faces Backlash",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9246,
-    "published_at": "2026-09-17T01:56:07.489709+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
-    "headline": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-09-17T01:56:07.481606+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
     "headline": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9758,
-    "published_at": "2026-09-17T01:56:07.473605+00:00"
+    "published_at": "2026-09-18T01:43:40.207185+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/europe/prince-harry-meghan-children-schools-security.html",
-    "headline": "Harry and Meghan Change Children\u2019s School After Talks With Security Team",
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/europe/trump-energy-truce-ukraine-russia.html",
+    "headline": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump\u2019s Claims",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-09-17T01:56:07.468210+00:00"
+    "confidence_score": 0.9989,
+    "published_at": "2026-09-18T01:43:40.204807+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/asia/can-an-island-nations-rugby-dreams-change-its-fortunes.html",
-    "headline": "Can an Island Nation\u2019s Rugby Dreams Change Its Fortunes?",
+    "source_uri": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html",
+    "headline": "Yemen\u2019s Houthis Show Growing Sophistication and Self-Reliance in Weaponry",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8883,
+    "published_at": "2026-09-18T01:43:40.203631+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+    "headline": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.992,
+    "published_at": "2026-09-18T01:43:40.197498+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/16/climate/white-storks-project-knepp-rewild-conservation-uk.html",
+    "headline": "Does This Bird\u2019s Return to Britain Restore History or Rewrite It?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-09-17T01:56:07.461455+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-09-18T01:43:40.193899+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/migrants-germany-far-right-afd.html",
-    "headline": "Far-Right Surge in German State Leaves Migrants There in Fear",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9005,
-    "published_at": "2026-09-17T01:56:07.457619+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
+    "headline": "How Sept. 11 Paved the Way to Mideast Power for Iran",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-09-18T01:43:40.192698+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/canada-eu-ed-sheeran-iran.html",
-    "headline": "The Canaduropean Union?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7226,
-    "published_at": "2026-09-17T01:56:07.454060+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
+    "headline": "E.U. Talks of Making Canada First \u2018Associate Member\u2019 as U.S. Ties Weaken",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9964,
+    "published_at": "2026-09-18T01:43:40.189029+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
-    "headline": "Russia\u2019s Election Result Won\u2019t Be a Shock. What Comes Next Could Be.",
+    "source_uri": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+    "headline": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9814,
-    "published_at": "2026-09-17T01:56:07.448358+00:00"
+    "confidence_score": 0.9888,
+    "published_at": "2026-09-18T01:43:40.173385+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
-    "headline": "Kosovo\u2019s Former Leader Is Sentenced to 25 Years in War Crimes Case",
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/asia/fiji-hiv-national-emergency.html",
+    "headline": "Fiji Declares a National Emergency as H.I.V. Cases Skyrocket",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9582,
-    "published_at": "2026-09-17T01:56:07.442656+00:00"
+    "confidence_score": 0.9821,
+    "published_at": "2026-09-18T01:43:40.172138+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
-    "headline": "Gold Mine Collapse in Sudan Kills at Least 70",
+    "source_uri": "https://www.nytimes.com/2026/09/16/climate/nepal-tibet-flood-climate-change.html",
+    "headline": "Human-Caused Warming Played \u2018Very Strong\u2019 Role in Himalayan Floods, Report Finds",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-09-17T01:56:07.435512+00:00"
+    "confidence_score": 0.9941,
+    "published_at": "2026-09-18T01:43:40.170902+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
-    "headline": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
+    "source_uri": "https://www.nytimes.com/2026/09/17/climate/the-racial-disparities-of-flood-buyouts.html",
+    "headline": "The Racial Disparities of Flood Buyouts",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9774,
-    "published_at": "2026-09-17T01:56:07.432829+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-09-18T01:43:40.164915+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
-    "headline": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-09-17T01:56:07.313155+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
+    "headline": "Locals Call It the World\u2019s Largest Cesspool, and Blame It for Surging Cancer",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.949,
+    "published_at": "2026-09-18T01:43:40.155288+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
-    "headline": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+    "source_uri": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+    "headline": "Yemen War Intensifies as Houthi Militia Advances on Marib",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-09-17T01:56:07.308351+00:00"
+    "confidence_score": 0.9793,
+    "published_at": "2026-09-18T01:43:40.145630+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-    "headline": "US accuses Russia of trying to kill Ukrainian allies overseas",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine's postal workers deliver lifeline under Russian fire",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-09-17T01:56:07.304977+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-    "headline": "US limits visas for South African officials over alleged anti-white discrimination",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-09-17T01:56:07.303794+00:00"
+    "confidence_score": 0.5488,
+    "published_at": "2026-09-18T01:43:39.806210+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-09-17T01:56:07.300374+00:00"
+    "published_at": "2026-09-18T01:43:39.794361+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-    "headline": "EU chief backs plan for Canada to become 'associate member'",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9747,
-    "published_at": "2026-09-17T01:56:07.292307+00:00"
+    "confidence_score": 0.9894,
+    "published_at": "2026-09-18T01:43:39.793182+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+    "headline": "Snapchat open to putting time limits on teens, boss tells BBC",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-09-18T01:43:39.785879+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9913,
+    "published_at": "2026-09-18T01:43:39.773882+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Aztec document goes on display in Mexico after 186 years abroad",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9982,
+    "published_at": "2026-09-18T01:43:39.770181+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+    "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7661,
+    "published_at": "2026-09-18T01:43:39.767701+00:00"
   }
 ]
