@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
-    "headline": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+    "headline": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9758,
-    "published_at": "2026-09-18T01:43:40.207185+00:00"
+    "confidence_score": 0.9963,
+    "published_at": "2026-09-19T01:48:21.023621+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/europe/trump-energy-truce-ukraine-russia.html",
-    "headline": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump\u2019s Claims",
+    "source_uri": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+    "headline": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-09-18T01:43:40.204807+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html",
-    "headline": "Yemen\u2019s Houthis Show Growing Sophistication and Self-Reliance in Weaponry",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8883,
-    "published_at": "2026-09-18T01:43:40.203631+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-    "headline": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-09-18T01:43:40.197498+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/16/climate/white-storks-project-knepp-rewild-conservation-uk.html",
-    "headline": "Does This Bird\u2019s Return to Britain Restore History or Rewrite It?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-09-18T01:43:40.193899+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
-    "headline": "How Sept. 11 Paved the Way to Mideast Power for Iran",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-09-18T01:43:40.192698+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-    "headline": "E.U. Talks of Making Canada First \u2018Associate Member\u2019 as U.S. Ties Weaken",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-09-18T01:43:40.189029+00:00"
+    "confidence_score": 0.9774,
+    "published_at": "2026-09-19T01:48:21.015859+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
     "headline": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9888,
-    "published_at": "2026-09-18T01:43:40.173385+00:00"
+    "published_at": "2026-09-19T01:48:21.011841+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/world/asia/fiji-hiv-national-emergency.html",
-    "headline": "Fiji Declares a National Emergency as H.I.V. Cases Skyrocket",
+    "source_uri": "https://www.nytimes.com/2026/09/17/world/asia/north-korea-exploitation-kim.html",
+    "headline": "The Hidden Human Cost of Kim Jong-un\u2019s New Power",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9821,
-    "published_at": "2026-09-18T01:43:40.172138+00:00"
+    "confidence_score": 0.9454,
+    "published_at": "2026-09-19T01:48:21.006474+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/16/climate/nepal-tibet-flood-climate-change.html",
-    "headline": "Human-Caused Warming Played \u2018Very Strong\u2019 Role in Himalayan Floods, Report Finds",
+    "source_uri": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
+    "headline": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-09-18T01:43:40.170902+00:00"
+    "confidence_score": 0.962,
+    "published_at": "2026-09-19T01:48:20.994846+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/17/climate/the-racial-disparities-of-flood-buyouts.html",
-    "headline": "The Racial Disparities of Flood Buyouts",
+    "source_uri": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
+    "headline": "Iran\u2019s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-09-18T01:43:40.164915+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-09-19T01:48:20.993501+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
-    "headline": "Locals Call It the World\u2019s Largest Cesspool, and Blame It for Surging Cancer",
+    "source_uri": "https://www.nytimes.com/2026/09/18/world/asia/philippines-school-shooting-banga.html",
+    "headline": "2 Students Are Killed in School Shooting in the Philippines",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9571,
+    "published_at": "2026-09-19T01:48:20.985828+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
+    "headline": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.949,
-    "published_at": "2026-09-18T01:43:40.155288+00:00"
+    "confidence_score": 0.9762,
+    "published_at": "2026-09-19T01:48:20.984519+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
-    "headline": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+    "source_uri": "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html",
+    "headline": "Scientists Warn of Flood Risks to 8 Himalayan Countries after Nepal Disaster",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9793,
-    "published_at": "2026-09-18T01:43:40.145630+00:00"
+    "confidence_score": 0.9824,
+    "published_at": "2026-09-19T01:48:20.973970+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukraine's postal workers deliver lifeline under Russian fire",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5488,
-    "published_at": "2026-09-18T01:43:39.806210+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-09-18T01:43:39.794361+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-    "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9894,
-    "published_at": "2026-09-18T01:43:39.793182+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-    "headline": "Snapchat open to putting time limits on teens, boss tells BBC",
+    "source_uri": "https://www.nytimes.com/2026/09/18/world/canada/manitoba-daylight-saving-clock-change.html",
+    "headline": "Manitoba Joins List of Canadian Provinces to Stop Changing Clocks",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-09-18T01:43:39.785879+00:00"
+    "confidence_score": 0.8504,
+    "published_at": "2026-09-19T01:48:20.972643+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    "source_uri": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
+    "headline": "Why Autocrats Care What People Think",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7481,
+    "published_at": "2026-09-19T01:48:20.962911+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
+    "headline": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9913,
-    "published_at": "2026-09-18T01:43:39.773882+00:00"
+    "confidence_score": 0.98,
+    "published_at": "2026-09-19T01:48:20.959191+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Aztec document goes on display in Mexico after 186 years abroad",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+    "headline": "I found love at an Irish matchmaking festival - and I want others to do the same",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-09-18T01:43:39.770181+00:00"
+    "confidence_score": 0.9937,
+    "published_at": "2026-09-19T01:48:20.518412+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-    "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+    "headline": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9227,
+    "published_at": "2026-09-19T01:48:20.515552+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+    "headline": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7661,
-    "published_at": "2026-09-18T01:43:39.767701+00:00"
+    "confidence_score": 0.9066,
+    "published_at": "2026-09-19T01:48:20.514134+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Three dead and eight injured in Philippines school shooting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-09-19T01:48:20.509818+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-09-19T01:48:20.508365+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says he is banning CNN and Politico from White House",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-09-19T01:48:20.496328+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9895,
+    "published_at": "2026-09-19T01:48:20.493759+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9406,
+    "published_at": "2026-09-19T01:48:20.472559+00:00"
   }
 ]
