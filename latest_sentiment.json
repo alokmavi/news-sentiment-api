@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/17/world/europe/sweden-election-social-democrats.html",
-    "headline": "Sweden Swings Back Left, Bucking a Trend in Europe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9514,
-    "published_at": "2026-09-21T01:51:24.130278+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
-    "headline": "What Is the E1 Project, Israel\u2019s Disputed Settlement Plan in the West Bank?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-09-21T01:51:24.128957+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/17/world/comedy-russia-vote-mexico-pollution.html",
-    "headline": "Comedians Beyond Borders",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-09-21T01:51:24.119926+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
-    "headline": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump\u2019s Call",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7228,
-    "published_at": "2026-09-21T01:51:24.116044+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/18/world/europe/spain-conservative-culture-cayetano.html",
-    "headline": "Spain\u2019s Preppy Conservatives Are Having a Moment",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8931,
-    "published_at": "2026-09-21T01:51:24.113402+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
     "headline": "Why Autocrats Care What People Think",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.7481,
-    "published_at": "2026-09-21T01:51:24.108158+00:00"
+    "published_at": "2026-09-22T02:00:52.490092+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
-    "headline": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-09-21T01:51:24.102846+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/18/world/canada/manitoba-daylight-saving-clock-change.html",
+    "headline": "Manitoba Joins List of Canadian Provinces to Stop Changing Clocks",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8504,
+    "published_at": "2026-09-22T02:00:52.487407+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
     "headline": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9768,
-    "published_at": "2026-09-21T01:51:24.100358+00:00"
+    "published_at": "2026-09-22T02:00:52.481982+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
-    "headline": "Trump Courts North Korea\u2019s Leader, but Might Need China to Reignite the Flame",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8476,
-    "published_at": "2026-09-21T01:51:24.099085+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-exxon-mobil.html",
-    "headline": "How Guyana Is Feeding the Profits of Exxon Mobil, the Largest U.S. Oil Company",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9964,
-    "published_at": "2026-09-21T01:51:24.091772+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html",
-    "headline": "Trump\u2019s Security Deal With Greenland: What to Know",
+    "source_uri": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
+    "headline": "Russia Warns New U.S. Sanctions Law Would Harm Trump\u2019s Peace Efforts",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5512,
-    "published_at": "2026-09-21T01:51:24.086877+00:00"
+    "confidence_score": 0.8153,
+    "published_at": "2026-09-22T02:00:52.475439+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/19/world/africa/elaine-mokhtefi-dead.html",
-    "headline": "Elaine Mokhtefi, American Witness to Algeria\u2019s Revolution, Dies at 97",
+    "source_uri": "https://www.nytimes.com/2026/09/19/world/canada/cycling-world-championship-montreal-carney-eu.html",
+    "headline": "A Half-Century On, Cycling\u2019s World Championship Returns to Montreal",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-09-21T01:51:24.085620+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-09-22T02:00:52.467285+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
-    "headline": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.968,
-    "published_at": "2026-09-21T01:51:24.073730+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
+    "source_uri": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
+    "headline": "Germany\u2019s Merz Vows to Stay After Another State Election \u2018Disaster\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-09-21T01:51:23.873601+00:00"
+    "confidence_score": 0.9938,
+    "published_at": "2026-09-22T02:00:52.456687+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9918,
+    "published_at": "2026-09-22T02:00:52.448934+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/20/world/climate-change-trump-xi-germany.html",
+    "headline": "Let\u2019s Talk Climate",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-09-22T02:00:52.445445+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/europe/uk-flights-airports-air-traffic-control.html",
+    "headline": "Flight Delays Disrupt UK Airports Once Again",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-09-22T02:00:52.440792+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
+    "headline": "South Korean President Calls for Easing Sanctions on the North",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8576,
+    "published_at": "2026-09-22T02:00:52.436191+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html",
+    "headline": "\u2018Way Too Hot\u2019: Britain\u2019s Hospitals Were Not Built for 96-Degree Summers",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8,
+    "published_at": "2026-09-22T02:00:52.430340+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html",
+    "headline": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9907,
+    "published_at": "2026-09-22T02:00:52.425649+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Dramatic moment a cargo ship crashes into another vessel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-09-22T02:00:52.247043+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
     "headline": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9754,
-    "published_at": "2026-09-21T01:51:23.864124+00:00"
+    "published_at": "2026-09-22T02:00:52.242357+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Millions without power as Cuba hit by latest major blackout",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-09-21T01:51:23.862834+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump signs sweeping Russia sanctions bill",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Merz's political crisis threatens Germany's obsession with stability",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.976,
-    "published_at": "2026-09-21T01:51:23.861512+00:00"
+    "confidence_score": 0.9925,
+    "published_at": "2026-09-22T02:00:52.237466+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-    "headline": "Houthis say they targeted Saudi capital with ballistic missiles",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sister of Pakistan's ex-PM Imran Khan arrested",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-09-21T01:51:23.850073+00:00"
+    "confidence_score": 0.9724,
+    "published_at": "2026-09-22T02:00:52.234701+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
-    "headline": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+    "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-09-21T01:51:23.847441+00:00"
+    "confidence_score": 0.8119,
+    "published_at": "2026-09-22T02:00:52.226287+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-    "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+    "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9928,
+    "published_at": "2026-09-22T02:00:52.225175+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Two charged with woman's murder as South Africa police investigate eight other body finds",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-09-21T01:51:23.823285+00:00"
+    "confidence_score": 0.6077,
+    "published_at": "2026-09-22T02:00:52.221916+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+    "headline": "Merz vows to keep coalition together for Germany's 'democratic future'",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9855,
+    "published_at": "2026-09-22T02:00:52.213040+00:00"
   }
 ]
