@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
-    "headline": "Why Autocrats Care What People Think",
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
+    "headline": "At 92, the Bard of Bollywood Is Still Writing About Love",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7481,
-    "published_at": "2026-09-22T02:00:52.490092+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/18/world/canada/manitoba-daylight-saving-clock-change.html",
-    "headline": "Manitoba Joins List of Canadian Provinces to Stop Changing Clocks",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8504,
-    "published_at": "2026-09-22T02:00:52.487407+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
-    "headline": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9768,
-    "published_at": "2026-09-22T02:00:52.481982+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
-    "headline": "Russia Warns New U.S. Sanctions Law Would Harm Trump\u2019s Peace Efforts",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8153,
-    "published_at": "2026-09-22T02:00:52.475439+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/19/world/canada/cycling-world-championship-montreal-carney-eu.html",
-    "headline": "A Half-Century On, Cycling\u2019s World Championship Returns to Montreal",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-22T02:00:52.467285+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
-    "headline": "Germany\u2019s Merz Vows to Stay After Another State Election \u2018Disaster\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-09-22T02:00:52.456687+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-09-22T02:00:52.448934+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/20/world/climate-change-trump-xi-germany.html",
-    "headline": "Let\u2019s Talk Climate",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-09-22T02:00:52.445445+00:00"
+    "confidence_score": 0.9998,
+    "published_at": "2026-09-23T01:58:14.278134+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/21/world/europe/uk-flights-airports-air-traffic-control.html",
     "headline": "Flight Delays Disrupt UK Airports Once Again",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9986,
-    "published_at": "2026-09-22T02:00:52.440792+00:00"
+    "published_at": "2026-09-23T01:58:14.271915+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
-    "headline": "South Korean President Calls for Easing Sanctions on the North",
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/europe/russia-duma-election.html",
+    "headline": "Russia\u2019s Election Was Engineered to Send a Message: Putin Remains in Control",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8576,
-    "published_at": "2026-09-22T02:00:52.436191+00:00"
+    "confidence_score": 0.5955,
+    "published_at": "2026-09-23T01:58:14.267044+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html",
-    "headline": "\u2018Way Too Hot\u2019: Britain\u2019s Hospitals Were Not Built for 96-Degree Summers",
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
+    "headline": "Specter of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8,
-    "published_at": "2026-09-22T02:00:52.430340+00:00"
+    "confidence_score": 0.9903,
+    "published_at": "2026-09-23T01:58:14.264593+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html",
-    "headline": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
+    "source_uri": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+    "headline": "Trump\u2019s U.N. Speech Comes at a Time of Tumult",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-09-22T02:00:52.425649+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-09-23T01:58:14.258390+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Dramatic moment a cargo ship crashes into another vessel",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-09-22T02:00:52.247043+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9754,
-    "published_at": "2026-09-22T02:00:52.242357+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Merz's political crisis threatens Germany's obsession with stability",
+    "source_uri": "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html",
+    "headline": "Book Review: \u201cSwan Song: Diana, My Sister,\u201d by Charles Spencer",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-09-22T02:00:52.237466+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-09-23T01:58:14.256033+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sister of Pakistan's ex-PM Imran Khan arrested",
+    "source_uri": "https://www.nytimes.com/2026/09/22/world/asia/japan-typhoon-dujuan-tokyo.html",
+    "headline": "Typhoon Dujuan Brings Record Rain to Japan, Killing 5 People",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9724,
-    "published_at": "2026-09-22T02:00:52.234701+00:00"
+    "confidence_score": 0.9761,
+    "published_at": "2026-09-23T01:58:14.254831+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-    "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/king-abdullah-jordan-gaza-unga",
+    "headline": "Jordan\u2019s King Abdullah Likely to Focus on Palestinians at U.N. General Assembly",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8119,
-    "published_at": "2026-09-22T02:00:52.226287+00:00"
+    "confidence_score": 0.9677,
+    "published_at": "2026-09-23T01:58:14.251192+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-    "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+    "source_uri": "https://www.nytimes.com/2026/09/22/world/un-leader-uses-final-speech-to-issue-stark-warning.html",
+    "headline": "U.N. Leader Uses Final Speech to Issue Stark Warning",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9928,
-    "published_at": "2026-09-22T02:00:52.225175+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-09-23T01:58:14.247476+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Two charged with woman's murder as South Africa police investigate eight other body finds",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6077,
-    "published_at": "2026-09-22T02:00:52.221916+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html",
+    "headline": "A Departing U.N. Chief\u2019s Dire Warning on Climate Change",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9669,
+    "published_at": "2026-09-23T01:58:14.241316+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-    "headline": "Merz vows to keep coalition together for Germany's 'democratic future'",
+    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/south-koreas-leader-is-seeking-a-new-approach-to-north-korea",
+    "headline": "South Korea\u2019s leader is seeking a new approach to North Korea.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9855,
-    "published_at": "2026-09-22T02:00:52.213040+00:00"
+    "confidence_score": 0.854,
+    "published_at": "2026-09-23T01:58:14.237599+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/vietnams-leader-is-likely-to-warn-of-threats-to-middle-powers",
+    "headline": "Vietnam\u2019s leader is likely to warn of threats to middle powers.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9765,
+    "published_at": "2026-09-23T01:58:14.228340+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+    "headline": "Japan Meets With Trump, Hoping to Get His Help on China",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9315,
+    "published_at": "2026-09-23T01:58:14.218129+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
+    "headline": "Iraq\u2019s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.769,
+    "published_at": "2026-09-23T01:58:14.216811+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html",
+    "headline": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-09-23T01:58:14.211812+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+    "headline": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7252,
+    "published_at": "2026-09-23T01:58:14.200271+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+    "headline": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9551,
+    "published_at": "2026-09-23T01:58:14.037189+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-09-23T01:58:14.032054+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Top South African policeman charged with sexual offences",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-09-23T01:58:14.023054+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Burnham expects to find 'common ground' with Trump in first meeting",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-09-23T01:58:14.010750+00:00"
   }
 ]
