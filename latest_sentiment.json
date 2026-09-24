@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
-    "headline": "At 92, the Bard of Bollywood Is Still Writing About Love",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-09-23T01:58:14.278134+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/europe/uk-flights-airports-air-traffic-control.html",
-    "headline": "Flight Delays Disrupt UK Airports Once Again",
+    "source_uri": "https://www.nytimes.com/2026/09/22/world/americas/unga-trump-allies-latin-america-cartels-terrorist-label.html",
+    "headline": "Mirroring Trump, Allies Are Expected to Label Latin American Cartels \u2018Terrorists\u2019 at U.N.G.A.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-09-23T01:58:14.271915+00:00"
+    "confidence_score": 0.7028,
+    "published_at": "2026-09-24T01:47:29.192714+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/europe/russia-duma-election.html",
-    "headline": "Russia\u2019s Election Was Engineered to Send a Message: Putin Remains in Control",
+    "source_uri": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
+    "headline": "Ethiopian Rebel Groups Join Forces Against the Government",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5955,
-    "published_at": "2026-09-23T01:58:14.267044+00:00"
+    "confidence_score": 0.9891,
+    "published_at": "2026-09-24T01:47:29.185376+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
-    "headline": "Specter of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9903,
-    "published_at": "2026-09-23T01:58:14.264593+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
-    "headline": "Trump\u2019s U.N. Speech Comes at a Time of Tumult",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-09-23T01:58:14.258390+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html",
-    "headline": "Book Review: \u201cSwan Song: Diana, My Sister,\u201d by Charles Spencer",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-23T01:58:14.256033+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/22/world/asia/japan-typhoon-dujuan-tokyo.html",
-    "headline": "Typhoon Dujuan Brings Record Rain to Japan, Killing 5 People",
+    "source_uri": "https://www.nytimes.com/2026/09/22/world/europe/macron-farewell-united-nations-speech.html",
+    "headline": "Macron Criticizes Israel and Russia in Final U.N. Speech as France\u2019s President",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9761,
-    "published_at": "2026-09-23T01:58:14.254831+00:00"
+    "confidence_score": 0.9615,
+    "published_at": "2026-09-24T01:47:29.180573+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/king-abdullah-jordan-gaza-unga",
-    "headline": "Jordan\u2019s King Abdullah Likely to Focus on Palestinians at U.N. General Assembly",
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/ai-gallup-poll.html",
+    "headline": "Outside the \u2018Worried West,\u2019 Many Feel Good About A.I.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9677,
-    "published_at": "2026-09-23T01:58:14.251192+00:00"
+    "confidence_score": 0.9926,
+    "published_at": "2026-09-24T01:47:29.169594+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/22/world/un-leader-uses-final-speech-to-issue-stark-warning.html",
-    "headline": "U.N. Leader Uses Final Speech to Issue Stark Warning",
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/middleeast/syria-un-general-assembly-al-sharaa.html",
+    "headline": "At U.N. Meeting, Syria\u2019s Leader Is Strengthened, but Faces a Difficult Test",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-09-23T01:58:14.247476+00:00"
+    "confidence_score": 0.5845,
+    "published_at": "2026-09-24T01:47:29.165950+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html",
-    "headline": "A Departing U.N. Chief\u2019s Dire Warning on Climate Change",
+    "source_uri": "https://www.nytimes.com/2026/09/23/science/evolution-genetics-bats.html",
+    "headline": "New Study Illuminates Bats\u2019 Murky Origins",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9669,
-    "published_at": "2026-09-23T01:58:14.241316+00:00"
+    "confidence_score": 0.9915,
+    "published_at": "2026-09-24T01:47:29.163555+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/south-koreas-leader-is-seeking-a-new-approach-to-north-korea",
-    "headline": "South Korea\u2019s leader is seeking a new approach to North Korea.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.854,
-    "published_at": "2026-09-23T01:58:14.237599+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/vietnams-leader-is-likely-to-warn-of-threats-to-middle-powers",
-    "headline": "Vietnam\u2019s leader is likely to warn of threats to middle powers.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9765,
-    "published_at": "2026-09-23T01:58:14.228340+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-    "headline": "Japan Meets With Trump, Hoping to Get His Help on China",
+    "source_uri": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine/irans-president-says-his-country-will-not-give-up-its-right-to-a-peaceful-nuclear-program",
+    "headline": "Iran\u2019s president says his country will not give up its right to a peaceful nuclear program.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9315,
-    "published_at": "2026-09-23T01:58:14.218129+00:00"
+    "confidence_score": 0.985,
+    "published_at": "2026-09-24T01:47:29.155064+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
-    "headline": "Iraq\u2019s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html",
+    "headline": "Decoding Trump-Xi",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.769,
-    "published_at": "2026-09-23T01:58:14.216811+00:00"
+    "confidence_score": 0.8375,
+    "published_at": "2026-09-24T01:47:29.152641+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html",
-    "headline": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
+    "source_uri": "https://www.nytimes.com/2026/09/23/us/ottawa-canada-renaming-trump-avenue.html",
+    "headline": "Canada\u2019s Capital Bids Good Riddance to Trump Avenue as Tensions With U.S. Rise",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-09-24T01:47:29.147792+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
+    "headline": "Mark Carney Interview: Canada\u2019s Leader Lays Out Vision for Breaking Reliance on U.S.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-09-24T01:47:29.145389+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/africa/morocco-election-youth-frustration.html",
+    "headline": "Youth Frustration and Migration Shadow Morocco\u2019s Election",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-09-24T01:47:29.136907+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html",
+    "headline": "Why Germany\u2019s Leader Merz Is Struggling to Sway Voters",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9997,
-    "published_at": "2026-09-23T01:58:14.211812+00:00"
+    "published_at": "2026-09-24T01:47:29.133276+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
-    "headline": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7252,
-    "published_at": "2026-09-23T01:58:14.200271+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
-    "headline": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9551,
-    "published_at": "2026-09-23T01:58:14.037189+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
+    "headline": "Ancient Wall Found in Paris Provides Clues to City\u2019s Origins",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-09-23T01:58:14.032054+00:00"
+    "confidence_score": 0.984,
+    "published_at": "2026-09-24T01:47:29.130782+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Top South African policeman charged with sexual offences",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-09-23T01:58:14.023054+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Burnham expects to find 'common ground' with Trump in first meeting",
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+    "headline": "Trump\u2019s New Favorite Neighbor: Mexico",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-09-23T01:58:14.010750+00:00"
+    "confidence_score": 0.8818,
+    "published_at": "2026-09-24T01:47:29.128273+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
+    "headline": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.972,
+    "published_at": "2026-09-24T01:47:29.126710+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: The arms race in space and how the UK is defending itself",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-09-24T01:47:28.897149+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+    "headline": "'Make women feel seen': Why the Dutch have a new word for labia",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7689,
+    "published_at": "2026-09-24T01:47:28.892278+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+    "headline": "UK survivor of Canadian poison seller says he exploited her despair",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5552,
+    "published_at": "2026-09-24T01:47:28.881995+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8491,
+    "published_at": "2026-09-24T01:47:28.879633+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.983,
+    "published_at": "2026-09-24T01:47:28.878480+00:00"
   }
 ]
