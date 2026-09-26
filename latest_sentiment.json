@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/23/world/europe/zelensky-speech-russia-war.html",
-    "headline": "Zelensky Warns Russia\u2019s War Will Expand if It Is Not Ended Soon",
+    "source_uri": "https://www.nytimes.com/video/world/europe/100000011139361/schoolchildren-take-shelter-in-kyiv.html",
+    "headline": "Schoolchildren Take Shelter in Kyiv",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9873,
-    "published_at": "2026-09-25T02:04:27.068546+00:00"
+    "confidence_score": 0.9634,
+    "published_at": "2026-09-26T02:09:26.172867+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
-    "headline": "America\u2019s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html",
+    "headline": "Abbas Presses Case for Palestinian State in Taped General Assembly Address",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8376,
-    "published_at": "2026-09-25T02:04:27.060303+00:00"
+    "confidence_score": 0.9609,
+    "published_at": "2026-09-26T02:09:26.158562+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
-    "headline": "Mark Carney Interview: Canada\u2019s Leader Lays Out Vision for Breaking Reliance on U.S.",
+    "source_uri": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html",
+    "headline": "Mamdani Accuses Netanyahu of Spreading \u2018Baseless Lies\u2019 After U.N. Speech",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9765,
+    "published_at": "2026-09-26T02:09:26.150572+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
+    "headline": "Iran Proposes 7-Day Plan to End War",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-09-25T02:04:27.058961+00:00"
+    "confidence_score": 0.9697,
+    "published_at": "2026-09-26T02:09:26.140909+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/23/world/canada/carney-ai-risk.html",
-    "headline": "Carney Says Risk of an A.I. Catastrophe Is \u2018Above Zero\u2019",
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/russia-software-arrest.html",
+    "headline": "A Russian Software Company Duped the Secret Service, U.S. Prosecutors Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-09-26T02:09:26.131746+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/us/colombia-de-la-espriella-gun.html",
+    "headline": "Colombia\u2019s President Wears Gun to Santa Marta, City Shut Down by a Criminal Group",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-09-26T02:09:26.123882+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html",
+    "headline": "OpenAI Agents Hacked Into an Australian Government Website. Who\u2019s Responsible?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-09-26T02:09:26.122637+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
+    "headline": "African Presidents Call for Permanent African Seats on U.N. Security Council",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9967,
+    "published_at": "2026-09-26T02:09:26.114673+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
+    "headline": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9375,
-    "published_at": "2026-09-25T02:04:27.057609+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-09-26T02:09:26.113336+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html",
-    "headline": "Australia Investigates OpenAI Hack on Public Health Care Site",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9619,
-    "published_at": "2026-09-25T02:04:27.053623+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
-    "headline": "Families Urge Trump to Press Xi to Free Americans Detained in China",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+    "headline": "Pomp and toasts: Day 2 of Trump and Xi in DC",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9554,
-    "published_at": "2026-09-25T02:04:27.050962+00:00"
+    "confidence_score": 0.9931,
+    "published_at": "2026-09-26T02:09:25.904070+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
-    "headline": "Netanyahu Lashes Out at Foes in U.N. Speech, Including Mamdani",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9448,
-    "published_at": "2026-09-25T02:04:27.037435+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
-    "headline": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-09-25T02:04:27.016231+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: How toxic smog from wildfires is making Indonesians sick",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-09-25T02:04:26.862623+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-    "headline": "A red carpet and military flyover - How Trump welcomed Xi",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
+    "headline": "Robbie Williams' surprise singalong after Peru gig cancelled",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-09-25T02:04:26.860094+00:00"
+    "confidence_score": 0.9348,
+    "published_at": "2026-09-26T02:09:25.902790+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
-    "headline": "The world\u2019s two most powerful men just met. How did it go?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8812,
-    "published_at": "2026-09-25T02:04:26.857525+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-    "headline": "'Make women feel seen': Why the Dutch have a new word for labia",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+    "headline": "Thousands turn out to greet Pope in France",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7689,
-    "published_at": "2026-09-25T02:04:26.853508+00:00"
+    "confidence_score": 0.9987,
+    "published_at": "2026-09-26T02:09:25.901489+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
     "headline": "In Amish country, nurses go door to door to stop deadly spread of measles",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9939,
-    "published_at": "2026-09-25T02:04:26.849629+00:00"
+    "published_at": "2026-09-26T02:09:25.900142+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-    "headline": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+    "headline": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-09-25T02:04:26.845796+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-09-26T02:09:25.893567+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-09-25T02:04:26.842096+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-09-26T02:09:25.888347+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+    "headline": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-09-26T02:09:25.885781+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
+    "headline": "Jay-Z rape accuser says her allegation was false",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-09-26T02:09:25.884455+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Senior Kazakh officials detained after 14 service members swept out to sea",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8491,
-    "published_at": "2026-09-25T02:04:26.835808+00:00"
+    "confidence_score": 0.7486,
+    "published_at": "2026-09-26T02:09:25.883063+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-    "headline": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9901,
-    "published_at": "2026-09-25T02:04:26.829379+00:00"
+    "confidence_score": 0.9253,
+    "published_at": "2026-09-26T02:09:25.870031+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-09-25T02:04:26.828093+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6176,
-    "published_at": "2026-09-25T02:04:26.826782+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Priest killed and four injured in knife attack at Polish abbey",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9889,
-    "published_at": "2026-09-25T02:04:26.824248+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+    "headline": "South African white genocide does not exist, new ambassador to US tells BBC",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9523,
+    "published_at": "2026-09-26T02:09:25.868646+00:00"
   }
 ]
