@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/video/world/europe/100000011139361/schoolchildren-take-shelter-in-kyiv.html",
-    "headline": "Schoolchildren Take Shelter in Kyiv",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9634,
-    "published_at": "2026-09-26T02:09:26.172867+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html",
-    "headline": "Abbas Presses Case for Palestinian State in Taped General Assembly Address",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9609,
-    "published_at": "2026-09-26T02:09:26.158562+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html",
-    "headline": "Mamdani Accuses Netanyahu of Spreading \u2018Baseless Lies\u2019 After U.N. Speech",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9765,
-    "published_at": "2026-09-26T02:09:26.150572+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
-    "headline": "Iran Proposes 7-Day Plan to End War",
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/europe/nigella-lawson-great-british-bake-off-uk.html",
+    "headline": "Nigella Lawson and \u2018The Great British Bake Off\u2019 Is a Winning Recipe",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9697,
-    "published_at": "2026-09-26T02:09:26.140909+00:00"
+    "confidence_score": 0.9998,
+    "published_at": "2026-09-27T02:01:47.065359+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/israel-palestinians-venezuela-xi",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-09-27T02:01:47.063001+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
+    "headline": "China to Send Pandas to Zoo Atlanta, Xi Says",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-09-27T02:01:47.053416+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
+    "headline": "Haiti Turns to Roger Stone To Lobby Trump Administration",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9573,
+    "published_at": "2026-09-27T02:01:47.050955+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
+    "headline": "Netanyahu Lashes Out at Foes in U.N. Speech, Including Mamdani",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9448,
+    "published_at": "2026-09-27T02:01:47.047252+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html",
+    "headline": "Netanyahu, Addressing U.N., Denounces Israel\u2019s Critics as \u2018Moral Cowards\u2019",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5235,
+    "published_at": "2026-09-27T02:01:47.046071+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/asia/balen-shah-sunglasses-nepal.html",
+    "headline": "Why Nepal\u2019s Prime Minister Balen Shah Wears Sunglasses",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9934,
+    "published_at": "2026-09-27T02:01:47.037122+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/russia-software-arrest.html",
     "headline": "A Russian Software Company Duped the Secret Service, U.S. Prosecutors Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9983,
-    "published_at": "2026-09-26T02:09:26.131746+00:00"
+    "published_at": "2026-09-27T02:01:47.029722+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/us/colombia-de-la-espriella-gun.html",
-    "headline": "Colombia\u2019s President Wears Gun to Santa Marta, City Shut Down by a Criminal Group",
+    "source_uri": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
+    "headline": "Trump Rejects Iran\u2019s Cease-Fire Proposal to Reopen Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-09-26T02:09:26.123882+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-09-27T02:01:47.019576+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html",
-    "headline": "OpenAI Agents Hacked Into an Australian Government Website. Who\u2019s Responsible?",
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+    "headline": "Six Dead After Explosion in Athens Tourist District",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-09-26T02:09:26.122637+00:00"
+    "confidence_score": 0.6708,
+    "published_at": "2026-09-27T02:01:46.783086+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
-    "headline": "African Presidents Call for Permanent African Seats on U.N. Security Council",
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
+    "headline": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9967,
-    "published_at": "2026-09-26T02:09:26.114673+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-09-27T02:01:46.781894+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
-    "headline": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-09-26T02:09:26.113336+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
+    "headline": "A Tetris-Like Maze Blocks Protests in Pakistan\u2019s Capital",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.992,
+    "published_at": "2026-09-27T02:01:46.779466+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
-    "headline": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9931,
-    "published_at": "2026-09-26T02:09:25.904070+00:00"
+    "source_uri": "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html",
+    "headline": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu\u2019s Agenda.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-09-27T02:01:46.777509+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
     "headline": "Robbie Williams' surprise singalong after Peru gig cancelled",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9348,
-    "published_at": "2026-09-26T02:09:25.902790+00:00"
+    "published_at": "2026-09-27T02:01:46.541407+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-    "headline": "Thousands turn out to greet Pope in France",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-09-26T02:09:25.901489+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
-    "headline": "In Amish country, nurses go door to door to stop deadly spread of measles",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+    "headline": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-09-26T02:09:25.900142+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-    "headline": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-26T02:09:25.893567+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-09-26T02:09:25.888347+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-    "headline": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-09-26T02:09:25.885781+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-    "headline": "Jay-Z rape accuser says her allegation was false",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-09-26T02:09:25.884455+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Senior Kazakh officials detained after 14 service members swept out to sea",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7486,
-    "published_at": "2026-09-26T02:09:25.883063+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-09-27T02:01:46.527823+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
     "headline": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9253,
-    "published_at": "2026-09-26T02:09:25.870031+00:00"
+    "published_at": "2026-09-27T02:01:46.526449+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-    "headline": "South African white genocide does not exist, new ambassador to US tells BBC",
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-09-27T02:01:46.524999+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+    "headline": "Tenth woman's body found as South Africa police probe killings",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9523,
-    "published_at": "2026-09-26T02:09:25.868646+00:00"
+    "confidence_score": 0.9355,
+    "published_at": "2026-09-27T02:01:46.499989+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Bangkok roads submerged as flood disaster declared",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9782,
+    "published_at": "2026-09-27T02:01:46.497249+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+    "headline": "British national among six dead in building explosion close to Acropolis in Athens",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9818,
+    "published_at": "2026-09-27T02:01:46.492455+00:00"
   }
 ]
