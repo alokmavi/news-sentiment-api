@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/europe/nigella-lawson-great-british-bake-off-uk.html",
-    "headline": "Nigella Lawson and \u2018The Great British Bake Off\u2019 Is a Winning Recipe",
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
+    "headline": "Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-09-27T02:01:47.065359+00:00"
+    "confidence_score": 0.6014,
+    "published_at": "2026-09-28T02:07:13.415305+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/israel-palestinians-venezuela-xi",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/09/24/us/politics/trump-ballroom-china-great-hall-beijing.html",
+    "headline": "In Trumpeting His Ballroom Project, Trump Has Used China as an Example",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-09-27T02:01:47.063001+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/us/politics/xi-summit-pandas-atlanta-zoo.html",
-    "headline": "China to Send Pandas to Zoo Atlanta, Xi Says",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-09-27T02:01:47.053416+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-09-28T02:07:13.412897+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
     "headline": "Haiti Turns to Roger Stone To Lobby Trump Administration",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9573,
-    "published_at": "2026-09-27T02:01:47.050955+00:00"
+    "published_at": "2026-09-28T02:07:13.411623+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
     "headline": "Netanyahu Lashes Out at Foes in U.N. Speech, Including Mamdani",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9448,
-    "published_at": "2026-09-27T02:01:47.047252+00:00"
+    "published_at": "2026-09-28T02:07:13.407955+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html",
     "headline": "Netanyahu, Addressing U.N., Denounces Israel\u2019s Critics as \u2018Moral Cowards\u2019",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.5235,
-    "published_at": "2026-09-27T02:01:47.046071+00:00"
+    "published_at": "2026-09-28T02:07:13.406656+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/asia/balen-shah-sunglasses-nepal.html",
-    "headline": "Why Nepal\u2019s Prime Minister Balen Shah Wears Sunglasses",
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
+    "headline": "Iran Proposes 7-Day Plan to End War",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-09-27T02:01:47.037122+00:00"
+    "confidence_score": 0.9697,
+    "published_at": "2026-09-28T02:07:13.400397+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/russia-software-arrest.html",
-    "headline": "A Russian Software Company Duped the Secret Service, U.S. Prosecutors Say",
+    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html",
+    "headline": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-09-27T02:01:47.029722+00:00"
+    "confidence_score": 0.9851,
+    "published_at": "2026-09-28T02:07:13.399179+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html",
+    "headline": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9917,
+    "published_at": "2026-09-28T02:07:13.396753+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/science/raccoons-toys-cozumel-mexico-research.html",
+    "headline": "On This Mexican Island, Raccoons Make and Play With Toys (and Also Sip Margaritas)",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9582,
+    "published_at": "2026-09-28T02:07:13.389287+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html",
+    "headline": "You Get an Eagle, and You Get an Eagle: Xi Takes Home Trump\u2019s Go-To Gift",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9865,
+    "published_at": "2026-09-28T02:07:13.380713+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/catherine-ringer-dead.html",
+    "headline": "Catherine Ringer, French Pop Icon of Eclectic Style, Dies at 68",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-09-28T02:07:13.375670+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
     "headline": "Trump Rejects Iran\u2019s Cease-Fire Proposal to Reopen Strait of Hormuz",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9993,
-    "published_at": "2026-09-27T02:01:47.019576+00:00"
+    "published_at": "2026-09-28T02:07:13.369179+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-    "headline": "Six Dead After Explosion in Athens Tourist District",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6708,
-    "published_at": "2026-09-27T02:01:46.783086+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
-    "headline": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-09-27T02:01:46.781894+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
-    "headline": "A Tetris-Like Maze Blocks Protests in Pakistan\u2019s Capital",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-09-27T02:01:46.779466+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html",
-    "headline": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu\u2019s Agenda.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-09-27T02:01:46.777509+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
-    "headline": "Robbie Williams' surprise singalong after Peru gig cancelled",
+    "source_uri": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+    "headline": "At Summit, Xi Sought to Tilt Trump\u2019s Stance on America\u2019s Place in Asia",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9348,
-    "published_at": "2026-09-27T02:01:46.541407+00:00"
+    "confidence_score": 0.9925,
+    "published_at": "2026-09-28T02:07:13.358515+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-    "headline": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
+    "source_uri": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+    "headline": "Iran Still Awaits \u2018Official\u2019 U.S. Response Despite Trump\u2019s Rebuff of Cease-Fire Offer",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-09-27T02:01:46.527823+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-09-28T02:07:13.348746+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+    "source_uri": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+    "headline": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9253,
-    "published_at": "2026-09-27T02:01:46.526449+00:00"
+    "confidence_score": 0.9923,
+    "published_at": "2026-09-28T02:07:13.342849+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-09-27T02:01:46.524999+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
-    "headline": "Tenth woman's body found as South Africa police probe killings",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9355,
-    "published_at": "2026-09-27T02:01:46.499989+00:00"
+    "confidence_score": 0.9995,
+    "published_at": "2026-09-28T02:07:13.173926+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
     "headline": "Bangkok roads submerged as flood disaster declared",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9782,
-    "published_at": "2026-09-27T02:01:46.497249+00:00"
+    "confidence_score": 0.9841,
+    "published_at": "2026-09-28T02:07:13.168753+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-    "headline": "British national among six dead in building explosion close to Acropolis in Athens",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9818,
-    "published_at": "2026-09-27T02:01:46.492455+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-09-28T02:07:13.163438+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Two mass shootings in South Africa leave 27 dead",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9776,
+    "published_at": "2026-09-28T02:07:13.154560+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+    "headline": "Inside Yemen's front-line city as Houthis battle for control",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6536,
+    "published_at": "2026-09-28T02:07:13.132031+00:00"
   }
 ]
