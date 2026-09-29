@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
-    "headline": "Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations",
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
+    "headline": "Leo XIV, Trying to Be Everyone\u2019s Pope, Tours Secular France",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6014,
-    "published_at": "2026-09-28T02:07:13.415305+00:00"
+    "confidence_score": 0.9958,
+    "published_at": "2026-09-29T02:53:43.400019+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/24/us/politics/trump-ballroom-china-great-hall-beijing.html",
-    "headline": "In Trumpeting His Ballroom Project, Trump Has Used China as an Example",
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html",
+    "headline": "This Tiny Village Is Picture Perfect, Apart From All the Tourists",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-09-28T02:07:13.412897+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
-    "headline": "Haiti Turns to Roger Stone To Lobby Trump Administration",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9573,
-    "published_at": "2026-09-28T02:07:13.411623+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
-    "headline": "Netanyahu Lashes Out at Foes in U.N. Speech, Including Mamdani",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9448,
-    "published_at": "2026-09-28T02:07:13.407955+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html",
-    "headline": "Netanyahu, Addressing U.N., Denounces Israel\u2019s Critics as \u2018Moral Cowards\u2019",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5235,
-    "published_at": "2026-09-28T02:07:13.406656+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
-    "headline": "Iran Proposes 7-Day Plan to End War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9697,
-    "published_at": "2026-09-28T02:07:13.400397+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html",
-    "headline": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9851,
-    "published_at": "2026-09-28T02:07:13.399179+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html",
-    "headline": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9917,
-    "published_at": "2026-09-28T02:07:13.396753+00:00"
+    "confidence_score": 0.9399,
+    "published_at": "2026-09-29T02:53:43.396283+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/25/science/raccoons-toys-cozumel-mexico-research.html",
     "headline": "On This Mexican Island, Raccoons Make and Play With Toys (and Also Sip Margaritas)",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9582,
-    "published_at": "2026-09-28T02:07:13.389287+00:00"
+    "published_at": "2026-09-29T02:53:43.393800+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html",
-    "headline": "You Get an Eagle, and You Get an Eagle: Xi Takes Home Trump\u2019s Go-To Gift",
+    "source_uri": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+    "headline": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8633,
+    "published_at": "2026-09-29T02:53:43.374039+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
+    "headline": "A Tetris-Like Maze Blocks Protests in Pakistan\u2019s Capital",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.992,
+    "published_at": "2026-09-29T02:53:43.370012+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
+    "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9594,
+    "published_at": "2026-09-29T02:53:43.363235+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+    "headline": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9839,
+    "published_at": "2026-09-29T02:53:43.357718+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+    "headline": "Giant Pandas, Icons of China\u2019s Soft Diplomacy, Arrive in Atlanta",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6459,
+    "published_at": "2026-09-29T02:53:43.353581+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
+    "headline": "A Growing North Korea Problem",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-09-29T02:53:43.350912+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+    "headline": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9887,
+    "published_at": "2026-09-29T02:53:43.349563+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/28/world/china-workers-poetry-pope-leo.html",
+    "headline": "The Voices Behind \u2018Made in China\u2019",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9865,
-    "published_at": "2026-09-28T02:07:13.380713+00:00"
+    "confidence_score": 0.9989,
+    "published_at": "2026-09-29T02:53:43.342667+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/catherine-ringer-dead.html",
-    "headline": "Catherine Ringer, French Pop Icon of Eclectic Style, Dies at 68",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-09-28T02:07:13.375670+00:00"
+    "confidence_score": 0.9763,
+    "published_at": "2026-09-29T02:53:43.118084+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-    "headline": "Trump Rejects Iran\u2019s Cease-Fire Proposal to Reopen Strait of Hormuz",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+    "headline": "Journalist to be crowned king in Uganda after bitter succession dispute",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-09-28T02:07:13.369179+00:00"
+    "confidence_score": 0.9824,
+    "published_at": "2026-09-29T02:53:43.107089+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-    "headline": "At Summit, Xi Sought to Tilt Trump\u2019s Stance on America\u2019s Place in Asia",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-09-28T02:07:13.358515+00:00"
+    "confidence_score": 0.9973,
+    "published_at": "2026-09-29T02:53:43.105842+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
-    "headline": "Iran Still Awaits \u2018Official\u2019 U.S. Response Despite Trump\u2019s Rebuff of Cease-Fire Offer",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Switzerland rejects stricter interpretation of its neutrality",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-09-28T02:07:13.348746+00:00"
+    "confidence_score": 0.9907,
+    "published_at": "2026-09-29T02:53:43.102027+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-    "headline": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+    "headline": "Venezuela releases dozens of political prisoners as election calls grow",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-09-28T02:07:13.342849+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-09-29T02:53:43.098232+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Embattled Serbian president resigns, paving way for early elections",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9879,
+    "published_at": "2026-09-29T02:53:43.095771+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-09-28T02:07:13.173926+00:00"
+    "confidence_score": 0.8484,
+    "published_at": "2026-09-29T02:53:43.093210+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Bangkok roads submerged as flood disaster declared",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran court upholds lashes sentence for singer who performed without hijab",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9841,
-    "published_at": "2026-09-28T02:07:13.168753+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-09-29T02:53:43.085186+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9962,
-    "published_at": "2026-09-28T02:07:13.163438+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Two mass shootings in South Africa leave 27 dead",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9776,
-    "published_at": "2026-09-28T02:07:13.154560+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-    "headline": "Inside Yemen's front-line city as Houthis battle for control",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6536,
-    "published_at": "2026-09-28T02:07:13.132031+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Nigerian attempts to break world record by dancing non-stop for seven days",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-09-29T02:53:43.083935+00:00"
   }
 ]
