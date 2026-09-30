@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
-    "headline": "Leo XIV, Trying to Be Everyone\u2019s Pope, Tours Secular France",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-09-29T02:53:43.400019+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html",
-    "headline": "This Tiny Village Is Picture Perfect, Apart From All the Tourists",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9399,
-    "published_at": "2026-09-29T02:53:43.396283+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/25/science/raccoons-toys-cozumel-mexico-research.html",
-    "headline": "On This Mexican Island, Raccoons Make and Play With Toys (and Also Sip Margaritas)",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9582,
-    "published_at": "2026-09-29T02:53:43.393800+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
-    "headline": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8633,
-    "published_at": "2026-09-29T02:53:43.374039+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
-    "headline": "A Tetris-Like Maze Blocks Protests in Pakistan\u2019s Capital",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.992,
-    "published_at": "2026-09-29T02:53:43.370012+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
     "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9594,
-    "published_at": "2026-09-29T02:53:43.363235+00:00"
+    "published_at": "2026-09-30T02:35:10.873478+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-    "headline": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+    "source_uri": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
+    "headline": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9839,
-    "published_at": "2026-09-29T02:53:43.357718+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-09-30T02:35:10.870190+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
     "headline": "Giant Pandas, Icons of China\u2019s Soft Diplomacy, Arrive in Atlanta",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.6459,
-    "published_at": "2026-09-29T02:53:43.353581+00:00"
+    "published_at": "2026-09-30T02:35:10.861283+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
-    "headline": "A Growing North Korea Problem",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-09-29T02:53:43.350912+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-    "headline": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9887,
-    "published_at": "2026-09-29T02:53:43.349563+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/28/world/china-workers-poetry-pope-leo.html",
-    "headline": "The Voices Behind \u2018Made in China\u2019",
+    "source_uri": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
+    "headline": "Serbia\u2019s Longtime President Aleksandar Vucic Resigns Post",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-09-29T02:53:43.342667+00:00"
+    "confidence_score": 0.953,
+    "published_at": "2026-09-30T02:35:10.856859+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+    "source_uri": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
+    "headline": "Brazil\u2019s Biggest Election Question?: Donald Trump\u2019s Next Move",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9763,
-    "published_at": "2026-09-29T02:53:43.118084+00:00"
+    "confidence_score": 0.5358,
+    "published_at": "2026-09-30T02:35:10.849587+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
-    "headline": "Journalist to be crowned king in Uganda after bitter succession dispute",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9824,
-    "published_at": "2026-09-29T02:53:43.107089+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-09-29T02:53:43.105842+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Switzerland rejects stricter interpretation of its neutrality",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-09-29T02:53:43.102027+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-    "headline": "Venezuela releases dozens of political prisoners as election calls grow",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-09-29T02:53:43.098232+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Embattled Serbian president resigns, paving way for early elections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9879,
-    "published_at": "2026-09-29T02:53:43.095771+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8484,
-    "published_at": "2026-09-29T02:53:43.093210+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran court upholds lashes sentence for singer who performed without hijab",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-09-29T02:53:43.085186+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Nigerian attempts to break world record by dancing non-stop for seven days",
+    "source_uri": "https://www.nytimes.com/2026/09/28/world/europe/pope-leo-trump-democracy-europe.html",
+    "headline": "Pope Leo Praises Europe\u2019s Democracy, Diverging Once Again From Trump",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9977,
-    "published_at": "2026-09-29T02:53:43.083935+00:00"
+    "published_at": "2026-09-30T02:35:10.847604+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/28/world/europe/italy-egypt-giulio-regeni-verdict.html",
+    "headline": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8164,
+    "published_at": "2026-09-30T02:35:10.842930+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/29/world/europe/britain-air-base-iran-threat.html",
+    "headline": "No Bombs Found in U.K. Case, but Officials Say Threat to Bases Is Real",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9916,
+    "published_at": "2026-09-30T02:35:10.835437+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
+    "headline": "Morocco\u2019s King Names a Female Prime Minister, in a Historic First",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9871,
+    "published_at": "2026-09-30T02:35:10.834498+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/29/world/europe/bardella-antisemitism-denial-france.html",
+    "headline": "Accusations of Antisemitism Hit a Star of the French Far Right",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9924,
+    "published_at": "2026-09-30T02:35:10.825090+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
+    "headline": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.985,
+    "published_at": "2026-09-30T02:35:10.824085+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
+    "headline": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8457,
+    "published_at": "2026-09-30T02:35:10.782813+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+    "headline": "Women protest in the streets of Delhi after string of sexual assaults",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6516,
+    "published_at": "2026-09-30T02:35:10.706153+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c862ep9w5g2vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9798,
+    "published_at": "2026-09-30T02:35:10.702474+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Close-up look at Turner's '\u00a350m' Rome painting on show in the city",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-09-30T02:35:10.701535+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
+    "headline": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9926,
+    "published_at": "2026-09-30T02:35:10.697859+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+    "headline": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9959,
+    "published_at": "2026-09-30T02:35:10.690323+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Former American Idol contestant and pastor found guilty of murdering wife",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6038,
+    "published_at": "2026-09-30T02:35:10.689404+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+    "headline": "First female prime minister named in Morocco after winning elections",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-09-30T02:35:10.681892+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Chinese AI tool told researchers how to make bioweapons",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-09-30T02:35:10.675685+00:00"
   }
 ]
