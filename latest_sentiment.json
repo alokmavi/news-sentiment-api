@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/flydubai-flight-tel-aviv-israel-fz1073-diverted-pilots",
+    "source_uri": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/heres-the-latest",
     "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-10-02T02:42:56.853319+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/israel-and-saudi-arabia-dont-have-formal-ties-but-israelis-have-occasionally-landed-there",
-    "headline": "Israel and Saudi Arabia don\u2019t have formal ties, but Israelis have occasionally landed there.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9843,
-    "published_at": "2026-10-02T02:42:56.844370+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-10-03T02:29:13.277676+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html",
-    "headline": "Eiffel Tower Chief Resigns After Female Staff Moved for Hindu Group\u2019s Visit",
+    "source_uri": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+    "headline": "U.S. Bond Yields Hit Highest Level Since 2002",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-10-02T02:42:56.842439+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html",
-    "headline": "Panic and Heroics on FlyDubai Flight: \u2018We Felt That This Was It\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-10-02T02:42:56.841483+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
-    "headline": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-10-02T02:42:56.839545+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html",
-    "headline": "A Bloody Attack on a FlyDubai Plane Headed to Israel, and a Terrifying Plunge",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.997,
-    "published_at": "2026-10-02T02:42:56.838502+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/09/30/world/iraq-war-us-pilot-israel-flight.html",
-    "headline": "The U.S. Departs Iraq",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5636,
-    "published_at": "2026-10-02T02:42:56.837499+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/middleeast/israel-passengers-flight-1073.html",
-    "headline": "Israelis Take Pride in Bravery of Passengers Who Saved FlyDubai Flight",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-10-02T02:42:56.823861+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html",
-    "headline": "Investigators Seek Motive for FlyDubai Cockpit Attack",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-10-02T02:42:56.818192+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/europe/uk-france-migrant-deal-cancelled.html",
-    "headline": "Britain and France Give Up Landmark Migrant Agreement",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9904,
-    "published_at": "2026-10-02T02:42:56.817240+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html",
-    "headline": "Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7412,
-    "published_at": "2026-10-02T02:42:56.813420+00:00"
+    "confidence_score": 0.9458,
+    "published_at": "2026-10-03T02:29:13.272595+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html",
     "headline": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.8864,
-    "published_at": "2026-10-02T02:42:56.812477+00:00"
+    "published_at": "2026-10-03T02:29:13.264914+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html",
-    "headline": "Finnish Lawmakers Report Suspicious Home Break-Ins",
+    "source_uri": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html",
+    "headline": "Investigators Seek to Determine How a Weapon Entered FlyDubai Cockpit",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9668,
-    "published_at": "2026-10-02T02:42:56.811523+00:00"
+    "confidence_score": 0.9951,
+    "published_at": "2026-10-03T02:29:13.261154+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/middleeast/egypt-journalist-arrests.html",
-    "headline": "Egypt Arrests 6 Matsaddash Journalists on Claims of Spreading Disinformation",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-10-02T02:42:56.808582+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Couple describes relief at rescue after whale destroys their yacht",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9617,
-    "published_at": "2026-10-02T02:42:56.643718+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Plummeting Israel flight like 'rollercoaster', says passenger",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-10-02T02:42:56.641810+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-10-02T02:42:56.635162+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
-    "headline": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+    "source_uri": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/the-boeing-737-max-8-stayed-intact-despite-the-enormous-stress-of-its-plunge",
+    "headline": "The Boeing 737 Max 8 stayed intact despite the enormous stress of its plunge.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-10-02T02:42:56.634248+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-10-03T02:29:13.256053+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Algeria introduces death penalty for arsonists after deadly wildfires",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-10-02T02:42:56.626784+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/01/world/africa/nigeria-fake-government-agency.html",
+    "headline": "Nigerian Charged With Running Fake Government Agency",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9919,
+    "published_at": "2026-10-03T02:29:13.252340+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "source_uri": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
+    "headline": "Canada\u2019s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9074,
+    "published_at": "2026-10-03T02:29:13.249903+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/01/world/canada/mike-smith-trailer-park-boys-sexual-assault-charge.html",
+    "headline": "Mike Smith, Bubbles on \u2018Trailer Park Boys,\u2019 Has Sexual Assault Charge Dismissed",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-10-02T02:42:56.622955+00:00"
+    "confidence_score": 0.9759,
+    "published_at": "2026-10-03T02:29:13.245939+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
+    "headline": "Russia\u2019s Latest Propaganda? A.I.-Generated War Songs.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8136,
+    "published_at": "2026-10-03T02:29:13.239644+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html",
+    "headline": "2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9862,
+    "published_at": "2026-10-03T02:29:13.225088+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html",
+    "headline": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-10-03T02:29:13.213749+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html",
+    "headline": "Argentina\u2019s \u2018Golden Passport\u2019 Program Offers Citizenship in Exchange for Foreign Cash",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9503,
+    "published_at": "2026-10-03T02:29:13.204627+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know about Christa Pike\u2019s condition after failed execution",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9796,
+    "published_at": "2026-10-03T02:29:13.020734+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Why students in France are protesting",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9899,
+    "published_at": "2026-10-03T02:29:13.018213+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+    "headline": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9959,
+    "published_at": "2026-10-03T02:29:13.016949+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+    "headline": "Spain and China are cosying up - to the anger of many in the EU",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6768,
+    "published_at": "2026-10-03T02:29:13.015685+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9736,
+    "published_at": "2026-10-03T02:29:12.993290+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9833,
+    "published_at": "2026-10-03T02:29:12.989498+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+    "headline": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9976,
+    "published_at": "2026-10-03T02:29:12.981901+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Riot police clash with students as education protests rage in France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-10-03T02:29:12.979303+00:00"
   }
 ]
