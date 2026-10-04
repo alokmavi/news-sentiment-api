@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-10-03T02:29:13.277676+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
-    "headline": "U.S. Bond Yields Hit Highest Level Since 2002",
+    "source_uri": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/2-passengers-who-helped-thwart-the-flydubai-attack-add-details-in-a-tv-interview",
+    "headline": "2 passengers who helped thwart the FlyDubai attack add details in a TV interview.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9458,
-    "published_at": "2026-10-03T02:29:13.272595+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html",
-    "headline": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8864,
-    "published_at": "2026-10-03T02:29:13.264914+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html",
-    "headline": "Investigators Seek to Determine How a Weapon Entered FlyDubai Cockpit",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-10-03T02:29:13.261154+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/the-boeing-737-max-8-stayed-intact-despite-the-enormous-stress-of-its-plunge",
-    "headline": "The Boeing 737 Max 8 stayed intact despite the enormous stress of its plunge.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-10-03T02:29:13.256053+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/africa/nigeria-fake-government-agency.html",
-    "headline": "Nigerian Charged With Running Fake Government Agency",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9919,
-    "published_at": "2026-10-03T02:29:13.252340+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
-    "headline": "Canada\u2019s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9074,
-    "published_at": "2026-10-03T02:29:13.249903+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/01/world/canada/mike-smith-trailer-park-boys-sexual-assault-charge.html",
-    "headline": "Mike Smith, Bubbles on \u2018Trailer Park Boys,\u2019 Has Sexual Assault Charge Dismissed",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9759,
-    "published_at": "2026-10-03T02:29:13.245939+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
-    "headline": "Russia\u2019s Latest Propaganda? A.I.-Generated War Songs.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8136,
-    "published_at": "2026-10-03T02:29:13.239644+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html",
-    "headline": "2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9862,
-    "published_at": "2026-10-03T02:29:13.225088+00:00"
+    "confidence_score": 0.9743,
+    "published_at": "2026-10-04T02:59:00.747286+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html",
     "headline": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9927,
-    "published_at": "2026-10-03T02:29:13.213749+00:00"
+    "published_at": "2026-10-04T02:59:00.734180+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/americas/brazil-us-consulate-elections.html",
+    "headline": "U.S. Suspends Consular Services in Brazil on Eve of Elections",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7925,
+    "published_at": "2026-10-04T02:59:00.732963+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html",
+    "headline": "FlyDubai Attack Raises Questions About Pilot Background Checks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9905,
+    "published_at": "2026-10-04T02:59:00.720510+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/canada/newfoundland-bridal-shop-owner-boy-coat-hook.html",
+    "headline": "Bridal Shop Owner Who Put Child Onto a Coat Hook Cleared by Court",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6943,
+    "published_at": "2026-10-04T02:59:00.716659+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html",
+    "headline": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9755,
+    "published_at": "2026-10-04T02:59:00.712851+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
+    "headline": "What to Know About France\u2019s High School Protests",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-10-04T02:59:00.707715+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
+    "headline": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9717,
+    "published_at": "2026-10-04T02:59:00.703765+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html",
+    "headline": "India Faces Fresh Protests, This Time Over Voter Rolls",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9169,
+    "published_at": "2026-10-04T02:59:00.702481+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
+    "headline": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-10-04T02:59:00.698582+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html",
     "headline": "Argentina\u2019s \u2018Golden Passport\u2019 Program Offers Citizenship in Exchange for Foreign Cash",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9503,
-    "published_at": "2026-10-03T02:29:13.204627+00:00"
+    "published_at": "2026-10-04T02:59:00.697326+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know about Christa Pike\u2019s condition after failed execution",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Newly released video shows Luigi Mangione\u2019s arrest",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9796,
-    "published_at": "2026-10-03T02:29:13.020734+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Why students in France are protesting",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-10-03T02:29:13.018213+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-    "headline": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-10-03T02:29:13.016949+00:00"
+    "confidence_score": 0.989,
+    "published_at": "2026-10-04T02:59:00.528323+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
     "headline": "Spain and China are cosying up - to the anger of many in the EU",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.6768,
-    "published_at": "2026-10-03T02:29:13.015685+00:00"
+    "published_at": "2026-10-04T02:59:00.524500+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+    "headline": "School protests send shivers down French government's spine",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9635,
+    "published_at": "2026-10-04T02:59:00.523196+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+    "headline": "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9856,
+    "published_at": "2026-10-04T02:59:00.516639+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9837,
+    "published_at": "2026-10-04T02:59:00.509742+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8956,
+    "published_at": "2026-10-04T02:59:00.508413+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+    "headline": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8676,
+    "published_at": "2026-10-04T02:59:00.507068+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
     "headline": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9736,
-    "published_at": "2026-10-03T02:29:12.993290+00:00"
+    "published_at": "2026-10-04T02:59:00.505680+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+    "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9833,
-    "published_at": "2026-10-03T02:29:12.989498+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-    "headline": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-10-03T02:29:12.981901+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Riot police clash with students as education protests rage in France",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-10-03T02:29:12.979303+00:00"
+    "confidence_score": 0.9881,
+    "published_at": "2026-10-04T02:59:00.484331+00:00"
   }
 ]
