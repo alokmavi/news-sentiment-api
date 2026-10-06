@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
-    "headline": "China\u2019s Push Into A.I. Has Led to a Problem: Too Much Usage",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-10-05T02:32:59.201584+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+    "headline": "American High School Students Are Selling Guns Bound for Cartels",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7603,
+    "published_at": "2026-10-06T03:27:21.808364+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html",
-    "headline": "Coast Guard Says It Stopped Ships Carrying Fuel to Cuba",
+    "source_uri": "https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html",
+    "headline": "What We Learned About American Teenagers Supplying Guns to Cartels",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-10-05T02:32:59.195348+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
-    "headline": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-10-05T02:32:59.194483+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/02/world/europe/spain-housing-vote-elections.html",
-    "headline": "Spanish Lawmakers Reject Eviction Freeze, Spurring Calls for Early Elections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9772,
-    "published_at": "2026-10-05T02:32:59.193486+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html",
-    "headline": "FlyDubai Attack Raises Questions About Pilot Background Checks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-10-05T02:32:59.184930+00:00"
+    "confidence_score": 0.7382,
+    "published_at": "2026-10-06T03:27:21.807067+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/03/world/asia/tukaram-mundhe-india-mumbai-food-raids.html",
     "headline": "In India, a Food Inspector Sparks Fear in Mumbai Restaurants",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-10-05T02:32:59.178603+00:00"
+    "published_at": "2026-10-06T03:27:21.805796+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html",
-    "headline": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
+    "source_uri": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
+    "headline": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9755,
-    "published_at": "2026-10-05T02:32:59.177721+00:00"
+    "confidence_score": 0.7579,
+    "published_at": "2026-10-06T03:27:21.793920+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
-    "headline": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
+    "source_uri": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
+    "headline": "The Search for Gas in Moscow",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-10-05T02:32:59.174917+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-    "headline": "Russia Turns to Striking Kyiv\u2019s Bridges, Threatening a Vital Lifeline",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-10-05T02:32:59.173949+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html",
-    "headline": "Whale Batters a Yacht, Leaving Its Crew Stranded for 18 Hours",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-10-05T02:32:59.172012+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-    "headline": "Nobel Prizes 2026: What to Know",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-10-05T02:32:59.168150+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
-    "headline": "Separatists Are Poised to Win Quebec\u2019s Election. Independence Is Still a Hard Sell.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-10-05T02:32:59.163410+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-    "headline": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9595,
-    "published_at": "2026-10-05T02:32:59.156825+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-10-06T03:27:21.790045+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
     "headline": "Iran\u2019s Top Security Official Warns of Dire Economic Crisis",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9937,
-    "published_at": "2026-10-05T02:32:59.155821+00:00"
+    "published_at": "2026-10-06T03:27:21.779564+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+    "headline": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8531,
+    "published_at": "2026-10-06T03:27:21.777007+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
+    "headline": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9961,
+    "published_at": "2026-10-06T03:27:21.767206+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/a-new-kind-of-cyber-incident-openai-apologizes-for-the-australia-medicare-hack",
+    "headline": "\u2018A new kind of cyber incident\u2019: OpenAI apologizes for the Australia Medicare hack.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-10-06T03:27:21.754727+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+    "headline": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9859,
+    "published_at": "2026-10-06T03:27:21.752265+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+    "headline": "Superpowers Race to Put Nuclear Reactors on the Moon",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9929,
+    "published_at": "2026-10-06T03:27:21.751021+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+    "headline": "U.S. Sanctions Aim to \u2018Shut Down\u2019 Iran\u2019s Airlines, but This Boeing Plane Is Still Flying",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9982,
+    "published_at": "2026-10-06T03:27:21.748449+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
+    "headline": "How Congo\u2019s Ebola Epidemic Got So Bad So Quickly",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-10-06T03:27:21.743311+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
     "headline": "Newly released video shows Luigi Mangione\u2019s arrest",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.989,
-    "published_at": "2026-10-05T02:32:58.938427+00:00"
+    "published_at": "2026-10-06T03:27:21.554367+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-    "headline": "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: How Brazil's dramatic election unfolded",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9856,
-    "published_at": "2026-10-05T02:32:58.934588+00:00"
+    "confidence_score": 0.9795,
+    "published_at": "2026-10-06T03:27:21.551745+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Canada is wargaming a (long shot) US invasion",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8771,
-    "published_at": "2026-10-05T02:32:58.932333+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+    "headline": "How India became dangerously addicted to Chinese imports",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9702,
+    "published_at": "2026-10-06T03:27:21.543419+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rescuers suspend search for survivors after plane went missing off US coast",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Yemeni military says it has 'secured' Red Sea waterway",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-10-05T02:32:58.929326+00:00"
+    "confidence_score": 0.9954,
+    "published_at": "2026-10-06T03:27:21.540785+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-    "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9881,
-    "published_at": "2026-10-05T02:32:58.928373+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5171,
+    "published_at": "2026-10-06T03:27:21.531389+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-    "headline": "What to know about Brazil's election as Lula and Fl\u00e1vio Bolsonaro face off",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9414,
-    "published_at": "2026-10-05T02:32:58.927395+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9876,
+    "published_at": "2026-10-06T03:27:21.528690+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9774,
+    "published_at": "2026-10-06T03:27:21.527347+00:00"
   }
 ]
