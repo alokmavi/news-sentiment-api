@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
-    "headline": "Spain\u2019s Leader Calls Early Election After Housing Crisis Roils Government",
+    "source_uri": "https://www.nytimes.com/2026/10/05/world/australia/australia-openai-hearing-breach.html",
+    "headline": "OpenAI Says It Changed Systems After Australia Hacking",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9188,
-    "published_at": "2026-10-07T02:51:24.007264+00:00"
+    "confidence_score": 0.9918,
+    "published_at": "2026-10-08T03:09:01.708204+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
-    "headline": "Are Babies Conscious?",
+    "source_uri": "https://www.nytimes.com/2026/10/05/obituaries/cheikh-hamidou-dead.html",
+    "headline": "Cheikh Hamidou Kane, Author of Seminal Anticolonial Novel, Dies at 98",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9505,
-    "published_at": "2026-10-07T02:51:24.006308+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
-    "headline": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-10-07T02:51:24.002800+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
-    "headline": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5303,
-    "published_at": "2026-10-07T02:51:24.001922+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html",
-    "headline": "The Rise of Gig Economy Warfare",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9721,
-    "published_at": "2026-10-07T02:51:23.994811+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up",
-    "headline": "A.I. hacking in Australia prompts a concern: Can the law keep up?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-10-07T02:51:23.992014+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/openais-models-have-also-meddled-with-us-government-websites-after-going-rogue",
-    "headline": "OpenAI\u2019s models have also meddled with U.S. government websites after going rogue.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9925,
-    "published_at": "2026-10-07T02:51:23.988500+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/a-new-kind-of-cyber-incident-openai-apologizes-for-the-australia-medicare-hack",
-    "headline": "\u2018A new kind of cyber incident\u2019: OpenAI apologizes for the Australia Medicare hack.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-10-07T02:51:23.987636+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-10-08T03:09:01.699371+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/06/business/china-exports-currency.html",
     "headline": "The Hidden Policies That Power China\u2019s Export Boom",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9986,
-    "published_at": "2026-10-07T02:51:23.985747+00:00"
+    "published_at": "2026-10-08T03:09:01.698178+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-    "headline": "Protests Spread Across France, Growing From School Demonstrations",
+    "source_uri": "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html",
+    "headline": "FIFA Found Congo Player Ineligible but Let Him Play in World Cup",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-10-07T02:51:23.983900+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-10-08T03:09:01.695826+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-    "headline": "Germany\u2019s Far Right Claims Its First Statehouse Speaker Since 1945",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-10-07T02:51:23.981152+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
+    "headline": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-10-08T03:09:01.690922+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
     "headline": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9951,
-    "published_at": "2026-10-07T02:51:23.979329+00:00"
+    "published_at": "2026-10-08T03:09:01.686008+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html",
+    "headline": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8958,
+    "published_at": "2026-10-08T03:09:01.671330+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html",
     "headline": "Understanding France\u2019s Polycrisis",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.6974,
-    "published_at": "2026-10-07T02:51:23.974751+00:00"
+    "published_at": "2026-10-08T03:09:01.668909+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
-    "headline": "German Officials Arrest Former Spy Chief on Espionage Charges",
+    "source_uri": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
+    "headline": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.997,
+    "published_at": "2026-10-08T03:09:01.656273+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html",
+    "headline": "A Plague Mystery in Siberia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9919,
+    "published_at": "2026-10-08T03:09:01.655070+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html",
+    "headline": "Case of U.S. Marine Accused of Murder in Japan Draws Outcry",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9622,
+    "published_at": "2026-10-08T03:09:01.649986+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
+    "headline": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9205,
+    "published_at": "2026-10-08T03:09:01.638128+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+    "headline": "\u2018Maricarmen,\u2019 Whose Eviction Enraged Spaniards, Dies at 87",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8163,
+    "published_at": "2026-10-08T03:09:01.636084+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Riot police clash with school protesters and use tear gas in France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6207,
+    "published_at": "2026-10-08T03:09:01.447943+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+    "headline": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.948,
-    "published_at": "2026-10-07T02:51:23.968293+00:00"
+    "confidence_score": 0.9122,
+    "published_at": "2026-10-08T03:09:01.443978+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
-    "headline": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+    "headline": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-10-07T02:51:23.965590+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-10-08T03:09:01.441314+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
-    "headline": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+    "headline": "What is pneumonic plague and how does it spread?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9401,
-    "published_at": "2026-10-07T02:51:23.962804+00:00"
+    "confidence_score": 0.9772,
+    "published_at": "2026-10-08T03:09:01.438569+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: How Spain's housing crisis has resulted in an early general election",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-10-07T02:51:23.820849+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
-    "headline": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9315,
-    "published_at": "2026-10-07T02:51:23.806843+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-    "headline": "'Ghost particles' from space telescope wins physics Nobel",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-10-07T02:51:23.802389+00:00"
+    "confidence_score": 0.9123,
+    "published_at": "2026-10-08T03:09:01.435874+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenya confirms its first Ebola death as outbreak spreads",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+    "headline": "Chinese runner dropped by sponsor after riding bike during marathon",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9763,
-    "published_at": "2026-10-07T02:51:23.800588+00:00"
+    "confidence_score": 0.9936,
+    "published_at": "2026-10-08T03:09:01.433177+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Children killed while they slept as Russian missile kills 19 in block of flats",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-10-08T03:09:01.430459+00:00"
   }
 ]
