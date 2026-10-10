@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html",
-    "headline": "How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9208,
-    "published_at": "2026-10-09T03:14:58.473129+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
-    "headline": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+    "source_uri": "https://www.nytimes.com/2026/10/08/world/asia/india-voter-protests-opposition-gandhi.html",
+    "headline": "Indian Opposition Leaders Detained as Protests Over Voter Rolls Intensify",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-10-09T03:14:58.471235+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-10-10T02:54:28.159512+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html",
-    "headline": "Mass Trials Put Hundreds in One Dock in El Salvador",
+    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
+    "headline": "\u2018Absolute Nightmare\u2019: Inside the Russian Warehouses Bombarded by Ukraine",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-10-09T03:14:58.470305+00:00"
+    "confidence_score": 0.9867,
+    "published_at": "2026-10-10T02:54:28.155908+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
-    "headline": "Europe\u2019s Trade Tensions With China Are Coming to a Head",
+    "source_uri": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html",
+    "headline": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9406,
-    "published_at": "2026-10-09T03:14:58.469382+00:00"
+    "confidence_score": 0.987,
+    "published_at": "2026-10-10T02:54:28.153498+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html",
-    "headline": "Trump Administration Delays Threaten Funding for HIV Research",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-10-09T03:14:58.464728+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html",
-    "headline": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
+    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
+    "headline": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8608,
-    "published_at": "2026-10-09T03:14:58.463822+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
-    "headline": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-10-09T03:14:58.450522+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html",
-    "headline": "Spain\u2019s Protesters See \u2018Madness\u2019 of Rising Rent and a \u2018Martyr\u2019 in Maricarmen",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6811,
-    "published_at": "2026-10-09T03:14:58.442110+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html",
-    "headline": "Myanmar\u2019s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9719,
-    "published_at": "2026-10-09T03:14:58.441152+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
-    "headline": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9771,
-    "published_at": "2026-10-09T03:14:58.438299+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/asia/nana-patekar-dead.html",
-    "headline": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-10-09T03:14:58.433557+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html",
-    "headline": "Warrants to Search Former Prince Andrew\u2019s Properties Were Unlawful, Court Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-10-09T03:14:58.432616+00:00"
+    "confidence_score": 0.9946,
+    "published_at": "2026-10-10T02:54:28.148769+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
     "headline": "Russia\u2019s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9996,
-    "published_at": "2026-10-09T03:14:58.431646+00:00"
+    "published_at": "2026-10-10T02:54:28.139862+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
     "headline": "French Student Protests Continue as Government Seeks Way Out of Crisis",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.996,
-    "published_at": "2026-10-09T03:14:58.428006+00:00"
+    "published_at": "2026-10-10T02:54:28.134611+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israelis demand accountability over 7 October failures three years after attacks",
+    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html",
+    "headline": "U.N. Warns Against Technology Used to Read Citizens\u2019 Minds",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9785,
-    "published_at": "2026-10-09T03:14:58.241632+00:00"
+    "confidence_score": 0.9793,
+    "published_at": "2026-10-10T02:54:28.131995+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-10-09T03:14:58.233354+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/08/world/man-city-football-riyadh-houthis.html",
+    "headline": "The Man City Scandal Is About More Than Football",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9987,
+    "published_at": "2026-10-10T02:54:28.130617+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-    "headline": "France's school protests: What lies behind the anger",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9807,
-    "published_at": "2026-10-09T03:14:58.231587+00:00"
+    "source_uri": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9775,
+    "published_at": "2026-10-10T02:54:28.126708+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-    "headline": "US and Lebanon protecting wanted Syrian general, BBC finds",
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/nobel-prize-winners-phone-call-know.html",
+    "headline": "Nobel Prize Winners Don\u2019t Get a Heads-Up",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-10-09T03:14:58.202127+00:00"
+    "confidence_score": 0.9788,
+    "published_at": "2026-10-10T02:54:28.120109+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Residents airlifted to safety after flooding in central Chile",
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
+    "headline": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9893,
-    "published_at": "2026-10-09T03:14:58.197708+00:00"
+    "confidence_score": 0.9926,
+    "published_at": "2026-10-10T02:54:28.112166+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
+    "headline": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9596,
-    "published_at": "2026-10-09T03:14:58.196815+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-10-10T02:54:28.109513+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html",
+    "headline": "Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-10-10T02:54:28.096743+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
+    "headline": "Palestinian Authority Says Elections Are to Be Postponed",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-10-10T02:54:28.092964+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Adidas sues Australian label White Fox over four stripes design",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-10-10T02:54:27.955335+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-10-10T02:54:27.952716+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9773,
+    "published_at": "2026-10-10T02:54:27.949082+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9862,
+    "published_at": "2026-10-10T02:54:27.946555+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-10-10T02:54:27.937582+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+    "headline": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-10-10T02:54:27.936329+00:00"
   }
 ]
