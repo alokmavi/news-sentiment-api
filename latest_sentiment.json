@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/asia/india-voter-protests-opposition-gandhi.html",
-    "headline": "Indian Opposition Leaders Detained as Protests Over Voter Rolls Intensify",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-10-10T02:54:28.159512+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
-    "headline": "\u2018Absolute Nightmare\u2019: Inside the Russian Warehouses Bombarded by Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9867,
-    "published_at": "2026-10-10T02:54:28.155908+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html",
-    "headline": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.987,
-    "published_at": "2026-10-10T02:54:28.153498+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
-    "headline": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-10-10T02:54:28.148769+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
-    "headline": "Russia\u2019s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-10-10T02:54:28.139862+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
-    "headline": "French Student Protests Continue as Government Seeks Way Out of Crisis",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-10-10T02:54:28.134611+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html",
-    "headline": "U.N. Warns Against Technology Used to Read Citizens\u2019 Minds",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9793,
-    "published_at": "2026-10-10T02:54:28.131995+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/08/world/man-city-football-riyadh-houthis.html",
-    "headline": "The Man City Scandal Is About More Than Football",
+    "source_uri": "https://www.nytimes.com/2026/10/08/world/asia/pita-limjaroenrat-thailand.html",
+    "headline": "Pita Limjaroenrat: The Leader Thailand Could Have Had",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-10-10T02:54:28.130617+00:00"
+    "confidence_score": 0.8062,
+    "published_at": "2026-10-11T02:23:15.139669+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
+    "headline": "Labour Holds Off Green Party in Election for Starmer\u2019s Former London Seat",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-10-10T02:54:28.126708+00:00"
+    "confidence_score": 0.8171,
+    "published_at": "2026-10-11T02:23:15.127152+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/nobel-prize-winners-phone-call-know.html",
-    "headline": "Nobel Prize Winners Don\u2019t Get a Heads-Up",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9788,
-    "published_at": "2026-10-10T02:54:28.120109+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
-    "headline": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-10-10T02:54:28.112166+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
-    "headline": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-10-10T02:54:28.109513+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html",
-    "headline": "Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay",
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/epstein-files-thorbjorn-jagland-committee.html",
+    "headline": "How the Epstein Files forced the Nobel Peace Prize to reckon with impartiality.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-10-10T02:54:28.096743+00:00"
+    "confidence_score": 0.9636,
+    "published_at": "2026-10-11T02:23:15.122175+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-nobel-peace-prize-recipient-is-selected-in-secret-by-five-norwegians",
+    "headline": "The Nobel Peace Prize recipient is selected in secret by five Norwegians.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7697,
+    "published_at": "2026-10-11T02:23:15.118001+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-criteria-for-the-peace-prize-has-changed-over-time",
+    "headline": "The criteria for the Peace Prize have changed over time.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.835,
+    "published_at": "2026-10-11T02:23:15.114242+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/10/world/asia/police-india-cockroach-protest-anger.html",
+    "headline": "Blocked by Police, India\u2019s Youth Voice Their Fury",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.995,
+    "published_at": "2026-10-11T02:23:15.102927+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
+    "headline": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should \u2018Get a New President\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-10-11T02:23:15.100404+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html",
+    "headline": "Palestinian Authority Formally Delays Elections, Despite Western Pressure",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8889,
+    "published_at": "2026-10-11T02:23:15.099168+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html",
+    "headline": "3 Men Found Guilty in Murders of Tourists on Mexico Surf Trip",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9957,
+    "published_at": "2026-10-11T02:23:15.094157+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html",
+    "headline": "India\u2019s Young Put Their Bodies on the Line to Be Heard",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9905,
+    "published_at": "2026-10-11T02:23:15.091652+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html",
+    "headline": "A Rural Village Voted to Leave the U.K., Stirring Britain\u2019s Migration Debate",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8441,
+    "published_at": "2026-10-11T02:23:15.089050+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
+    "headline": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-10-11T02:23:15.083379+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
     "headline": "Palestinian Authority Says Elections Are to Be Postponed",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.998,
-    "published_at": "2026-10-10T02:54:28.092964+00:00"
+    "published_at": "2026-10-11T02:23:15.082087+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Adidas sues Australian label White Fox over four stripes design",
+    "source_uri": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+    "headline": "Days of Deadly Houthi Attacks Show Saudi Arabia\u2019s Vulnerabilities",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-10-10T02:54:27.955335+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-10-11T02:23:15.079566+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9898,
+    "published_at": "2026-10-11T02:23:14.757790+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-10-10T02:54:27.952716+00:00"
+    "confidence_score": 0.9937,
+    "published_at": "2026-10-11T02:23:14.755168+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+    "headline": "JD Vance casts doubt on firing squad execution and says he would not watch it",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9773,
-    "published_at": "2026-10-10T02:54:27.949082+00:00"
+    "confidence_score": 0.9722,
+    "published_at": "2026-10-11T02:23:14.751264+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-10-11T02:23:14.745943+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+    "headline": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9862,
-    "published_at": "2026-10-10T02:54:27.946555+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-10-11T02:23:14.735284+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-    "headline": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+    "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-10-10T02:54:27.937582+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-    "headline": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-10-10T02:54:27.936329+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-10-11T02:23:14.730854+00:00"
   }
 ]
