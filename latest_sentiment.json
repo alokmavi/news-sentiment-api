@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html",
-    "headline": "In a Dead Hero\u2019s Ashes, El Salvador\u2019s Ruler Finds a New Spark",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-10-12T02:48:00.349947+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/epstein-files-thorbjorn-jagland-committee.html",
-    "headline": "How the Epstein Files forced the Nobel Peace Prize to reckon with impartiality.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9636,
-    "published_at": "2026-10-12T02:48:00.346600+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/navi-pillay-is-known-for-her-work-in-conflict-zones-across-the-world",
-    "headline": "Navi Pillay is known for her work in conflict zones across the world.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-10-12T02:48:00.330049+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
-    "headline": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7882,
-    "published_at": "2026-10-12T02:48:00.328341+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/wine-heist-italy-marchesi-antinori.html",
-    "headline": "30,000 Bottles of Italian Red Wine Stolen in Brazen Tuscan Heist",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6114,
-    "published_at": "2026-10-12T02:48:00.325089+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
-    "headline": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-10-12T02:48:00.318556+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/10/10/world/asia/police-india-cockroach-protest-anger.html",
     "headline": "Blocked by Police, India\u2019s Youth Voice Their Fury",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.995,
-    "published_at": "2026-10-12T02:48:00.315981+00:00"
+    "published_at": "2026-10-13T04:04:32.312419+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
-    "headline": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should \u2018Get a New President\u2019",
+    "source_uri": "https://www.nytimes.com/2026/10/10/world/canada/quebec-election-parti-quebecois-separatism.html",
+    "headline": "Quebec Independence Is Unlikely, but Some Will Still Dream",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-10-12T02:48:00.313395+00:00"
+    "confidence_score": 0.6313,
+    "published_at": "2026-10-13T04:04:32.308513+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html",
     "headline": "From a Sikh Sanctuary to Chaotic Streets, Protesters Brave Police in Delhi",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.998,
-    "published_at": "2026-10-12T02:48:00.310853+00:00"
+    "published_at": "2026-10-13T04:04:32.304754+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
-    "headline": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
+    "source_uri": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+    "headline": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-10-12T02:48:00.308336+00:00"
+    "confidence_score": 0.9884,
+    "published_at": "2026-10-13T04:04:32.297031+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-    "headline": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9893,
-    "published_at": "2026-10-12T02:48:00.304451+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
-    "headline": "Pakistan Seizes Control of an Opposition-Led Province",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9785,
-    "published_at": "2026-10-12T02:48:00.303108+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
-    "headline": "Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid",
+    "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/india-crackdown-narendra-modi.html",
+    "headline": "India\u2019s Youth Protests Challenge Narendra Modi",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-10-12T02:48:00.292543+00:00"
+    "confidence_score": 0.9818,
+    "published_at": "2026-10-13T04:04:32.291900+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
-    "headline": "A Week Later, Russia Hasn\u2019t Said What Pathogen Killed Plague Researcher",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-10-12T02:48:00.291163+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-    "headline": "What to Know About the Protests in India",
+    "source_uri": "https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html",
+    "headline": "He Helped Discover Ebola 50 Years Ago. He\u2019s Still Worried.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-10-12T02:48:00.288244+00:00"
+    "confidence_score": 0.9773,
+    "published_at": "2026-10-13T04:04:32.286816+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-    "headline": "A Russian Spy\u2019s Lone Regret: \u2018I Got Caught\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.985,
-    "published_at": "2026-10-12T02:48:00.281874+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-    "headline": "India\u2019s \u2018Cockroach\u2019 Leaders Released as Small Protests Go On in Delhi",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-10-12T02:48:00.280311+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+    "headline": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-10-13T04:04:32.280348+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
     "headline": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.984,
-    "published_at": "2026-10-12T02:48:00.278189+00:00"
+    "published_at": "2026-10-13T04:04:32.276573+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
+    "headline": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9898,
-    "published_at": "2026-10-12T02:48:00.042953+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-10-13T04:04:32.275320+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+    "headline": "Trump Gives Putin a Hand in Russia\u2019s Economic War With Ukraine",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7252,
+    "published_at": "2026-10-13T04:04:32.271502+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+    "headline": "NATO Details Plan to Shield Ukraine\u2019s European Allies From Russia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-10-12T02:48:00.036517+00:00"
+    "confidence_score": 0.9867,
+    "published_at": "2026-10-13T04:04:32.267405+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html",
+    "headline": "The Taliban Are Using Europe\u2019s Fear of Migrants to Their Advantage",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9843,
+    "published_at": "2026-10-13T04:04:32.263629+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+    "headline": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9931,
+    "published_at": "2026-10-13T04:04:32.105640+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why the US is bringing back firing squads",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9765,
+    "published_at": "2026-10-13T04:04:32.104363+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Pupil arrested after two teachers shot at French school",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9945,
+    "published_at": "2026-10-13T04:04:32.093085+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fridges in French supermarkets hit by cyber attack",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-10-13T04:04:32.084896+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+    "headline": "Immigration agents search congresswoman Ilhan Omar's home",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-10-13T04:04:32.083527+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+    "headline": "South Africa's deputy police chief resigns after being charged with sexual offences",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-10-13T04:04:32.082206+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.988,
+    "published_at": "2026-10-13T04:04:32.079421+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-10-13T04:04:32.077962+00:00"
   }
 ]
