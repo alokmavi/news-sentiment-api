@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/asia/police-india-cockroach-protest-anger.html",
-    "headline": "Blocked by Police, India\u2019s Youth Voice Their Fury",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-10-13T04:04:32.312419+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/canada/quebec-election-parti-quebecois-separatism.html",
-    "headline": "Quebec Independence Is Unlikely, but Some Will Still Dream",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6313,
-    "published_at": "2026-10-13T04:04:32.308513+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html",
-    "headline": "From a Sikh Sanctuary to Chaotic Streets, Protesters Brave Police in Delhi",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-10-13T04:04:32.304754+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-    "headline": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9884,
-    "published_at": "2026-10-13T04:04:32.297031+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/india-crackdown-narendra-modi.html",
-    "headline": "India\u2019s Youth Protests Challenge Narendra Modi",
+    "source_uri": "https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html",
+    "headline": "3 Men Found Guilty in Murders of Tourists on Mexico Surf Trip",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9818,
-    "published_at": "2026-10-13T04:04:32.291900+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-10-14T02:18:36.267857+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html",
-    "headline": "He Helped Discover Ebola 50 Years Ago. He\u2019s Still Worried.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9773,
-    "published_at": "2026-10-13T04:04:32.286816+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+    "headline": "India\u2019s \u2018Cockroach\u2019 Leaders Released as Small Protests Go On in Delhi",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-10-14T02:18:36.265343+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
     "headline": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9965,
-    "published_at": "2026-10-13T04:04:32.280348+00:00"
+    "published_at": "2026-10-14T02:18:36.264082+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-    "headline": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+    "source_uri": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+    "headline": "A Russian Spy\u2019s Lone Regret: \u2018I Got Caught\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.984,
-    "published_at": "2026-10-13T04:04:32.276573+00:00"
+    "confidence_score": 0.985,
+    "published_at": "2026-10-14T02:18:36.262838+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
-    "headline": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
+    "source_uri": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+    "headline": "Pope Leo Will Have Surgery to Remove Growth on Lung",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-10-13T04:04:32.275320+00:00"
+    "confidence_score": 0.9892,
+    "published_at": "2026-10-14T02:18:36.256516+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
-    "headline": "Trump Gives Putin a Hand in Russia\u2019s Economic War With Ukraine",
+    "source_uri": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
+    "headline": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9893,
+    "published_at": "2026-10-14T02:18:36.255242+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+    "headline": "How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7252,
-    "published_at": "2026-10-13T04:04:32.271502+00:00"
+    "confidence_score": 0.6693,
+    "published_at": "2026-10-14T02:18:36.246384+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
-    "headline": "NATO Details Plan to Shield Ukraine\u2019s European Allies From Russia",
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
+    "headline": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9867,
-    "published_at": "2026-10-13T04:04:32.267405+00:00"
+    "confidence_score": 0.99,
+    "published_at": "2026-10-14T02:18:36.245183+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html",
-    "headline": "The Taliban Are Using Europe\u2019s Fear of Migrants to Their Advantage",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9843,
-    "published_at": "2026-10-13T04:04:32.263629+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-    "headline": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9931,
-    "published_at": "2026-10-13T04:04:32.105640+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why the US is bringing back firing squads",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9765,
-    "published_at": "2026-10-13T04:04:32.104363+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Pupil arrested after two teachers shot at French school",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9945,
-    "published_at": "2026-10-13T04:04:32.093085+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-    "headline": "Fridges in French supermarkets hit by cyber attack",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-10-13T04:04:32.084896+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-    "headline": "Immigration agents search congresswoman Ilhan Omar's home",
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+    "headline": "Fire Devastates Paris\u2019s Oldest Covered Food Market, Le March\u00e9 des Enfants Rouges",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-10-13T04:04:32.083527+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-10-14T02:18:36.242631+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-    "headline": "South Africa's deputy police chief resigns after being charged with sexual offences",
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
+    "headline": "After Lockdown, Sea of Protesters Flows Through India\u2019s Capital",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9731,
+    "published_at": "2026-10-14T02:18:36.240048+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html",
+    "headline": "Cornell and Toxic Frat Culture",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9742,
+    "published_at": "2026-10-14T02:18:36.233464+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html",
+    "headline": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5564,
+    "published_at": "2026-10-14T02:18:36.230844+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
+    "headline": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9966,
+    "published_at": "2026-10-14T02:18:36.226915+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
+    "headline": "\u2018Honey Please\u2019: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-10-14T02:18:36.225658+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
+    "headline": "Trump Squeezes Ukraine, Again",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9962,
+    "published_at": "2026-10-14T02:18:36.224362+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
+    "headline": "Russia Detains Japanese Journalist for Alleged Espionage",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.994,
+    "published_at": "2026-10-14T02:18:36.208839+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+    "headline": "Trump Hands Victories to Putin, Who Offers More War in Return",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9656,
+    "published_at": "2026-10-14T02:18:36.206128+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+    "headline": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9984,
-    "published_at": "2026-10-13T04:04:32.082206+00:00"
+    "published_at": "2026-10-14T02:18:35.880120+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-10-13T04:04:32.079421+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Argentina targets UK in legal claim over Falklands oil exploration",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8675,
+    "published_at": "2026-10-14T02:18:35.871044+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Zimbabwean author denies using AI to write award-winning story",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-10-13T04:04:32.077962+00:00"
+    "confidence_score": 0.9854,
+    "published_at": "2026-10-14T02:18:35.865735+00:00"
   }
 ]
