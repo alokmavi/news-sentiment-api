@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html",
-    "headline": "3 Men Found Guilty in Murders of Tourists on Mexico Surf Trip",
+    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+    "headline": "Trump Gives Putin a Hand in Russia\u2019s Economic War With Ukraine",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-10-14T02:18:36.267857+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-    "headline": "India\u2019s \u2018Cockroach\u2019 Leaders Released as Small Protests Go On in Delhi",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-10-14T02:18:36.265343+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-    "headline": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-10-14T02:18:36.264082+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-    "headline": "A Russian Spy\u2019s Lone Regret: \u2018I Got Caught\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.985,
-    "published_at": "2026-10-14T02:18:36.262838+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
-    "headline": "Pope Leo Will Have Surgery to Remove Growth on Lung",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9892,
-    "published_at": "2026-10-14T02:18:36.256516+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-    "headline": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9893,
-    "published_at": "2026-10-14T02:18:36.255242+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
-    "headline": "How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6693,
-    "published_at": "2026-10-14T02:18:36.246384+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
-    "headline": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.99,
-    "published_at": "2026-10-14T02:18:36.245183+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-    "headline": "Fire Devastates Paris\u2019s Oldest Covered Food Market, Le March\u00e9 des Enfants Rouges",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-10-14T02:18:36.242631+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
-    "headline": "After Lockdown, Sea of Protesters Flows Through India\u2019s Capital",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9731,
-    "published_at": "2026-10-14T02:18:36.240048+00:00"
+    "confidence_score": 0.7252,
+    "published_at": "2026-10-15T01:59:45.664719+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html",
     "headline": "Cornell and Toxic Frat Culture",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9742,
-    "published_at": "2026-10-14T02:18:36.233464+00:00"
+    "published_at": "2026-10-15T01:59:45.659614+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html",
-    "headline": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5564,
-    "published_at": "2026-10-14T02:18:36.230844+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
-    "headline": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+    "headline": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-10-14T02:18:36.226915+00:00"
+    "confidence_score": 0.5972,
+    "published_at": "2026-10-15T01:59:45.642684+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
-    "headline": "\u2018Honey Please\u2019: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+    "headline": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9963,
-    "published_at": "2026-10-14T02:18:36.225658+00:00"
+    "published_at": "2026-10-15T01:59:45.641433+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html",
+    "headline": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9265,
+    "published_at": "2026-10-15T01:59:45.637637+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
     "headline": "Trump Squeezes Ukraine, Again",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9962,
-    "published_at": "2026-10-14T02:18:36.224362+00:00"
+    "published_at": "2026-10-15T01:59:45.635093+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
-    "headline": "Russia Detains Japanese Journalist for Alleged Espionage",
+    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html",
+    "headline": "Pope Leo\u2019s Cancer Surgery Draws Outpouring From World Leaders",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-10-14T02:18:36.208839+00:00"
+    "confidence_score": 0.9744,
+    "published_at": "2026-10-15T01:59:45.629971+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
-    "headline": "Trump Hands Victories to Putin, Who Offers More War in Return",
+    "source_uri": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
+    "headline": "Burnham Pledges to Back Zelensky as Trump\u2019s Ukraine Support Wavers",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9656,
-    "published_at": "2026-10-14T02:18:36.206128+00:00"
+    "confidence_score": 0.7252,
+    "published_at": "2026-10-15T01:59:45.626123+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-    "headline": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+    "source_uri": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+    "headline": "\u2018Why Did They Kill Him?\u2019 Mourning Victims of Houthi Attack on a Saudi Airport",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-10-14T02:18:35.880120+00:00"
+    "confidence_score": 0.8244,
+    "published_at": "2026-10-15T01:59:45.604707+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Argentina targets UK in legal claim over Falklands oil exploration",
+    "source_uri": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+    "headline": "Ukraine\u2019s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.998,
+    "published_at": "2026-10-15T01:59:45.601675+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Zelensky's meeting with Burnham matters",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8675,
-    "published_at": "2026-10-14T02:18:35.871044+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-10-15T01:59:45.484028+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Zimbabwean author denies using AI to write award-winning story",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9854,
-    "published_at": "2026-10-14T02:18:35.865735+00:00"
+    "confidence_score": 0.9986,
+    "published_at": "2026-10-15T01:59:45.482702+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+    "headline": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-10-15T01:59:45.478603+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9554,
+    "published_at": "2026-10-15T01:59:45.471333+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why is Starlink internet so important on the battlefield in Ukraine?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9982,
+    "published_at": "2026-10-15T01:59:45.470069+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-10-15T01:59:45.468718+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+    "headline": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8639,
+    "published_at": "2026-10-15T01:59:45.462020+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9946,
+    "published_at": "2026-10-15T01:59:45.459347+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-10-15T01:59:45.456671+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Pope walking and recovering 'as expected' after surgery, doctors say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-10-15T01:59:45.452523+00:00"
   }
 ]
