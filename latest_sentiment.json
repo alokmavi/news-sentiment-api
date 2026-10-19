@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-    "headline": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+    "source_uri": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+    "headline": "Houthi Missiles Strike Government Headquarters in Yemen",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.989,
+    "published_at": "2026-10-19T01:58:31.918947+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html",
+    "headline": "Venezuela\u2019s Opposition Leader Calls Trump\u2019s New Oil Partner Corrupt",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-10-18T01:41:20.570820+00:00"
+    "confidence_score": 0.9698,
+    "published_at": "2026-10-19T01:58:31.913129+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/15/world/africa/south-africa-anc-campaign-election.html",
-    "headline": "6 Members of South Africa\u2019s Biggest Party Are Killed in Shootings",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-10-18T01:41:20.555046+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-    "headline": "The Sexual Abuse Crisis in Paris\u2019s Public Schools",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-10-18T01:41:20.549066+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-    "headline": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+    "source_uri": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
+    "headline": "Japan\u2019s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.948,
-    "published_at": "2026-10-18T01:41:20.547865+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
-    "headline": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9756,
-    "published_at": "2026-10-18T01:41:20.541965+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
-    "headline": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom\u2019s Sports and Business Events",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-10-18T01:41:20.540766+00:00"
+    "confidence_score": 0.7434,
+    "published_at": "2026-10-19T01:58:31.907073+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html",
     "headline": "He Was a Top Voice on Palestinian Liberation. Filmgoers Are Listening.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9987,
-    "published_at": "2026-10-18T01:41:20.529678+00:00"
+    "published_at": "2026-10-19T01:58:31.744323+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html",
-    "headline": "A Calgary Crowd Rallies for Canada as Alberta\u2019s Vote on Secession Nears",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9543,
-    "published_at": "2026-10-18T01:41:20.528438+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-    "headline": "Dispute Between Trump Allies Centers on Millions Transferred From Congo",
+    "source_uri": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
+    "headline": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8806,
-    "published_at": "2026-10-18T01:41:20.527241+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
-    "headline": "Trump Signs Order Waiving New Russia Sanctions",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9827,
-    "published_at": "2026-10-18T01:41:20.523573+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-10-19T01:58:31.740511+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
     "headline": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9327,
-    "published_at": "2026-10-18T01:41:20.514956+00:00"
+    "published_at": "2026-10-19T01:58:31.734896+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-    "headline": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
+    "source_uri": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+    "headline": "Kenya Confirms Four New Ebola Cases",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9656,
-    "published_at": "2026-10-18T01:41:20.512544+00:00"
+    "confidence_score": 0.9277,
+    "published_at": "2026-10-19T01:58:31.730269+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Did Tesla really just unveil a flying car?",
+    "source_uri": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+    "headline": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-10-18T01:41:20.359903+00:00"
+    "confidence_score": 0.993,
+    "published_at": "2026-10-19T01:58:31.728404+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
+    "headline": "Zelensky Says Trump Risks \u2018Historic Mistake\u2019 If He Backs Russia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-10-19T01:58:31.726466+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
+    "headline": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-10-19T01:58:31.724609+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+    "headline": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9707,
+    "published_at": "2026-10-19T01:58:31.723729+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+    "headline": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9823,
+    "published_at": "2026-10-19T01:58:31.722781+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+    "headline": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-10-19T01:58:31.720217+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9951,
+    "published_at": "2026-10-19T01:58:31.588904+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
     "headline": "What we learned from heated US midterm Senate debates",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9959,
-    "published_at": "2026-10-18T01:41:20.355215+00:00"
+    "published_at": "2026-10-19T01:58:31.585946+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-    "headline": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trial of German steakhouse heiress that sparked a huge spy scandal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9898,
-    "published_at": "2026-10-18T01:41:20.352904+00:00"
+    "confidence_score": 0.8969,
+    "published_at": "2026-10-19T01:58:31.584392+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-    "headline": "The uncertain future of Canada's 30 rescued belugas",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9598,
-    "published_at": "2026-10-18T01:41:20.350548+00:00"
+    "confidence_score": 0.9868,
+    "published_at": "2026-10-19T01:58:31.556756+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-10-18T01:41:20.348168+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-10-19T01:58:31.546575+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rare pink diamond goes on display in France 100 years after amateur heist",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9843,
+    "published_at": "2026-10-19T01:58:31.541116+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Macron calls for 'calm and order' after riots across France",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-10-18T01:41:20.341579+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 17 dead in crush at Hindu festival event in India",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9098,
-    "published_at": "2026-10-18T01:41:20.334122+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9928,
-    "published_at": "2026-10-18T01:41:20.311128+00:00"
+    "confidence_score": 0.987,
+    "published_at": "2026-10-19T01:58:31.522973+00:00"
   }
 ]
