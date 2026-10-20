@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
-    "headline": "Houthi Missiles Strike Government Headquarters in Yemen",
+    "source_uri": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+    "headline": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-10-19T01:58:31.918947+00:00"
+    "confidence_score": 0.9688,
+    "published_at": "2026-10-20T02:16:41.559827+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html",
-    "headline": "Venezuela\u2019s Opposition Leader Calls Trump\u2019s New Oil Partner Corrupt",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9698,
-    "published_at": "2026-10-19T01:58:31.913129+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
-    "headline": "Japan\u2019s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7434,
-    "published_at": "2026-10-19T01:58:31.907073+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html",
-    "headline": "He Was a Top Voice on Palestinian Liberation. Filmgoers Are Listening.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9987,
-    "published_at": "2026-10-19T01:58:31.744323+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
-    "headline": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
+    "source_uri": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+    "headline": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-10-19T01:58:31.740511+00:00"
+    "confidence_score": 0.9952,
+    "published_at": "2026-10-20T02:16:41.555975+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
-    "headline": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+    "source_uri": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+    "headline": "Deadly \u2018Incident\u2019 at Canadian Forces Base Wainwright Sparks Fire",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9327,
-    "published_at": "2026-10-19T01:58:31.734896+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
-    "headline": "Kenya Confirms Four New Ebola Cases",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9277,
-    "published_at": "2026-10-19T01:58:31.730269+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-10-20T02:16:41.549152+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
     "headline": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.993,
-    "published_at": "2026-10-19T01:58:31.728404+00:00"
+    "published_at": "2026-10-20T02:16:41.545682+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
-    "headline": "Zelensky Says Trump Risks \u2018Historic Mistake\u2019 If He Backs Russia",
+    "source_uri": "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html",
+    "headline": "Can This International Force Stop Haiti\u2019s Gangs?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9953,
-    "published_at": "2026-10-19T01:58:31.726466+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-10-20T02:16:41.527939+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
-    "headline": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/asia/amelia-earhart-plane-search-explained.html",
+    "headline": "What to Know About the Search for Amelia Earhart\u2019s Plane",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-10-20T02:16:41.525349+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
+    "headline": "Cult Leader Convicted of Mass Murder by Court in Kenya",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9734,
+    "published_at": "2026-10-20T02:16:41.511284+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
+    "headline": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7957,
+    "published_at": "2026-10-20T02:16:41.510059+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+    "headline": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9924,
+    "published_at": "2026-10-20T02:16:41.506225+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
+    "headline": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-10-20T02:16:41.502372+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Shops looted and restaurants gutted in Paris riots",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9908,
+    "published_at": "2026-10-20T02:16:41.337875+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-10-20T02:16:41.334250+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+    "headline": "Clean up begins after French riots but police remain",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-10-20T02:16:41.333027+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+    "headline": "In pictures: Dussehra celebrated across India as triumph of good over evil",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-10-19T01:58:31.724609+00:00"
+    "confidence_score": 0.9981,
+    "published_at": "2026-10-20T02:16:41.329404+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
-    "headline": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9707,
-    "published_at": "2026-10-19T01:58:31.723729+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-10-20T02:16:41.325854+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
-    "headline": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+    "headline": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9823,
-    "published_at": "2026-10-19T01:58:31.722781+00:00"
+    "confidence_score": 0.986,
+    "published_at": "2026-10-20T02:16:41.324695+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
-    "headline": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-10-19T01:58:31.720217+00:00"
+    "confidence_score": 0.9816,
+    "published_at": "2026-10-20T02:16:41.319949+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+    "headline": "US airman dies as daredevil descent goes wrong before Texas college football game",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9791,
+    "published_at": "2026-10-20T02:16:41.315148+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+    "headline": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-10-19T01:58:31.588904+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-10-20T02:16:41.309130+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-    "headline": "What we learned from heated US midterm Senate debates",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-10-19T01:58:31.585946+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8969,
-    "published_at": "2026-10-19T01:58:31.584392+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9868,
-    "published_at": "2026-10-19T01:58:31.556756+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9948,
-    "published_at": "2026-10-19T01:58:31.546575+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9843,
-    "published_at": "2026-10-19T01:58:31.541116+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-    "headline": "Macron calls for 'calm and order' after riots across France",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.987,
-    "published_at": "2026-10-19T01:58:31.522973+00:00"
+    "confidence_score": 0.9767,
+    "published_at": "2026-10-20T02:16:41.307863+00:00"
   }
 ]
