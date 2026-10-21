@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
-    "headline": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
+    "headline": "Ukraine Uses F-16s to Shoot Down Russia\u2019s Jet-Powered Drones",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9688,
-    "published_at": "2026-10-20T02:16:41.559827+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-    "headline": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9952,
-    "published_at": "2026-10-20T02:16:41.555975+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-    "headline": "Deadly \u2018Incident\u2019 at Canadian Forces Base Wainwright Sparks Fire",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-10-20T02:16:41.549152+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
-    "headline": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-10-20T02:16:41.545682+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html",
-    "headline": "Can This International Force Stop Haiti\u2019s Gangs?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-10-20T02:16:41.527939+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-10-21T02:09:47.262985+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/19/world/asia/amelia-earhart-plane-search-explained.html",
     "headline": "What to Know About the Search for Amelia Earhart\u2019s Plane",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9983,
-    "published_at": "2026-10-20T02:16:41.525349+00:00"
+    "published_at": "2026-10-21T02:09:47.260493+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
-    "headline": "Cult Leader Convicted of Mass Murder by Court in Kenya",
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+    "headline": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9953,
+    "published_at": "2026-10-21T02:09:47.259195+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
+    "headline": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9734,
-    "published_at": "2026-10-20T02:16:41.511284+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-10-21T02:09:47.257979+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
     "headline": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7957,
-    "published_at": "2026-10-20T02:16:41.510059+00:00"
+    "published_at": "2026-10-21T02:09:47.255498+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html",
+    "headline": "Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-10-21T02:09:47.254210+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
     "headline": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9924,
-    "published_at": "2026-10-20T02:16:41.506225+00:00"
+    "published_at": "2026-10-21T02:09:47.250243+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
-    "headline": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
+    "headline": "Italy Faces Parallel Protests in the North and South",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-10-20T02:16:41.502372+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-10-21T02:09:47.246439+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Shops looted and restaurants gutted in Paris riots",
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html",
+    "headline": "The Failures of Emmanuel Macron",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-10-20T02:16:41.337875+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-10-21T02:09:47.245185+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+    "headline": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9968,
+    "published_at": "2026-10-21T02:09:47.241501+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
+    "headline": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-10-21T02:09:47.237763+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+    "headline": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8338,
+    "published_at": "2026-10-21T02:09:47.231520+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+    "headline": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9921,
+    "published_at": "2026-10-21T02:09:47.226597+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
     "headline": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9993,
-    "published_at": "2026-10-20T02:16:41.334250+00:00"
+    "published_at": "2026-10-21T02:09:46.941250+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
     "headline": "Clean up begins after French riots but police remain",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9993,
-    "published_at": "2026-10-20T02:16:41.333027+00:00"
+    "published_at": "2026-10-21T02:09:46.939875+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
-    "headline": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+    "headline": "Is Donald Trump ready to do business with Myanmar?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9535,
+    "published_at": "2026-10-21T02:09:46.937175+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-10-20T02:16:41.329404+00:00"
+    "confidence_score": 0.9615,
+    "published_at": "2026-10-21T02:09:46.910416+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-10-20T02:16:41.325854+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-10-21T02:09:46.904763+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-    "headline": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.986,
-    "published_at": "2026-10-20T02:16:41.324695+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9816,
-    "published_at": "2026-10-20T02:16:41.319949+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-    "headline": "US airman dies as daredevil descent goes wrong before Texas college football game",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9791,
-    "published_at": "2026-10-20T02:16:41.315148+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-    "headline": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-10-20T02:16:41.309130+00:00"
+    "confidence_score": 0.9777,
+    "published_at": "2026-10-21T02:09:46.903329+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9767,
-    "published_at": "2026-10-20T02:16:41.307863+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9864,
+    "published_at": "2026-10-21T02:09:46.901903+00:00"
   }
 ]
