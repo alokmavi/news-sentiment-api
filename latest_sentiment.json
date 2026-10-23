@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-    "headline": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+    "source_uri": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
+    "headline": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-10-23T02:08:13.810367+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+    "headline": "Nigeria Announces First Case of Ebola in Current Outbreak",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-10-22T02:04:09.294408+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-10-23T02:08:13.806807+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
-    "headline": "Australian Lawmaker Helen Haines Remains in Critical Condition After Car Attack",
+    "source_uri": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
+    "headline": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6583,
-    "published_at": "2026-10-22T02:04:09.292951+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-10-23T02:08:13.799577+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-    "headline": "France to Extend Curfews After Calm Night Follows Days of Riots",
+    "source_uri": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
+    "headline": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-10-22T02:04:09.289216+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-10-23T02:08:13.797125+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
-    "headline": "Google Reports Cloud Disruptions in Europe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9669,
-    "published_at": "2026-10-22T02:04:09.288484+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-    "headline": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.918,
-    "published_at": "2026-10-22T02:04:09.285541+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html",
-    "headline": "Is Putin\u2019s Waiting Game Working?",
+    "source_uri": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+    "headline": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-10-22T02:04:09.281849+00:00"
+    "confidence_score": 0.5559,
+    "published_at": "2026-10-23T02:08:13.795929+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-    "headline": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+    "source_uri": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+    "headline": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9914,
-    "published_at": "2026-10-22T02:04:09.281126+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-    "headline": "Art Basel Paris Preview Draws Interest Despite Protests",
-    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-10-22T02:04:09.279667+00:00"
+    "published_at": "2026-10-23T02:08:13.792265+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
+    "headline": "Delhi\u2019s Winter Season of Polluted Air Begins",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9888,
+    "published_at": "2026-10-23T02:08:13.789837+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
     "headline": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9516,
-    "published_at": "2026-10-22T02:04:09.277465+00:00"
+    "published_at": "2026-10-23T02:08:13.787366+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
-    "headline": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9699,
-    "published_at": "2026-10-22T02:04:09.273785+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-    "headline": "China\u2019s Free A.I. Models Are Thrown Into Uncertainty",
+    "source_uri": "https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html",
+    "headline": "He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.978,
-    "published_at": "2026-10-22T02:04:09.273060+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-10-23T02:08:13.776493+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
-    "headline": "What We Saw at Fast-Track Trials of Riot Suspects in France",
+    "source_uri": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
+    "headline": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8833,
-    "published_at": "2026-10-22T02:04:09.263666+00:00"
+    "confidence_score": 0.9975,
+    "published_at": "2026-10-23T02:08:13.768954+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-    "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+    "source_uri": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+    "headline": "Serbian Election Underscores the Region\u2019s Long Political Limbo",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-10-22T02:04:09.042556+00:00"
+    "confidence_score": 0.9862,
+    "published_at": "2026-10-23T02:08:13.761705+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump's green card curbs test Indian tech workers' American dream",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9499,
-    "published_at": "2026-10-22T02:04:09.040347+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
-    "primary_sentiment": "NEGATIVE",
+    "source_uri": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+    "headline": "International Criminal Court Wins E.U.\u2019s Top Human Rights Prize",
+    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9976,
-    "published_at": "2026-10-22T02:04:09.036071+00:00"
+    "published_at": "2026-10-23T02:08:13.760492+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+    "headline": "What is PHP and why did it spark a global cyber-security scramble?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9777,
-    "published_at": "2026-10-22T02:04:09.032062+00:00"
+    "confidence_score": 0.9652,
+    "published_at": "2026-10-23T02:08:13.546219+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-10-22T02:04:09.030684+00:00"
+    "confidence_score": 0.9248,
+    "published_at": "2026-10-23T02:08:13.539037+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-    "headline": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+    "headline": "YouTuber arrested after popular Indian finance influencer's suicide",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-10-22T02:04:09.025248+00:00"
+    "confidence_score": 0.9988,
+    "published_at": "2026-10-23T02:08:13.524366+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Macron accuses foreign leaders of exploiting French riots",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9876,
-    "published_at": "2026-10-22T02:04:09.022345+00:00"
+    "confidence_score": 0.9889,
+    "published_at": "2026-10-23T02:08:13.523190+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9401,
-    "published_at": "2026-10-22T02:04:09.021259+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+    "headline": "At least four dead after storm brings flooding to southern France",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-10-23T02:08:13.512543+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+    "headline": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9796,
+    "published_at": "2026-10-23T02:08:13.511313+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Race to update services' computer systems after cyber-security flaw found",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-10-23T02:08:13.508959+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-10-23T02:08:13.484418+00:00"
   }
 ]
