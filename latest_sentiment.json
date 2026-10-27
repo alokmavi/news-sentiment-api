@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
-    "headline": "Ambush of Salvadoran Soldiers Escalates Haiti\u2019s Anti-Gang Mission",
+    "source_uri": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+    "headline": "Looting Left Damage and Fear on Paradise Street in Marseille",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-10-26T01:56:26.864827+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
-    "headline": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-10-26T01:56:26.862246+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
-    "headline": "Finland\u2019s Puppy Livestream Provides Comfort in Troubled Times",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-10-26T01:56:26.858600+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
-    "headline": "How Defiant Youth Are Testing India\u2019s Idea of Democracy",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9821,
-    "published_at": "2026-10-26T01:56:26.852328+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html",
-    "headline": "Corsica\u2019s GR20: A Visual Diary of the Hike",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-10-26T01:56:26.849904+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-    "headline": "Kim Jong-un Makes First Visit to China in Over a Year",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9921,
-    "published_at": "2026-10-26T01:56:26.848696+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
-    "headline": "The Other Bolsonaro Who Could Become Brazil\u2019s Next President",
-    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9992,
-    "published_at": "2026-10-26T01:56:26.843757+00:00"
+    "published_at": "2026-10-27T02:33:46.660052+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
     "headline": "How a Small Student Protest Spread Across France",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9759,
-    "published_at": "2026-10-26T01:56:26.839993+00:00"
+    "published_at": "2026-10-27T02:33:46.658164+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
-    "headline": "Ukraine\u2019s Feeling of Moral Whiplash at the Hands of Trump",
+    "source_uri": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+    "headline": "Elon Musk Says Ukraine Violated Starlink\u2019s Rules",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9883,
-    "published_at": "2026-10-26T01:56:26.817615+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-10-27T02:33:46.656141+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-    "headline": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-10-26T01:56:26.549463+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+    "headline": "Why Is the U.S. Accusing Canada of Election Interference?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-10-27T02:33:46.652355+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+    "source_uri": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+    "headline": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.98,
+    "published_at": "2026-10-27T02:33:46.650468+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+    "headline": "What to Know as Serbia Votes for a New Parliament",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6918,
+    "published_at": "2026-10-27T02:33:46.647422+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
+    "headline": "The Expat Voters Hoping to Swing Israel\u2019s Election",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8415,
+    "published_at": "2026-10-27T02:33:46.644629+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
+    "headline": "Who Is Mar\u00eda Corina Machado?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9982,
-    "published_at": "2026-10-26T01:56:26.548133+00:00"
+    "published_at": "2026-10-27T02:33:46.637960+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Who actually controls Ukraine's access to Starlink?",
+    "source_uri": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
+    "headline": "The future of the Amazon rainforest could depend on who wins.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9816,
-    "published_at": "2026-10-26T01:56:26.543859+00:00"
+    "confidence_score": 0.9661,
+    "published_at": "2026-10-27T02:33:46.635120+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+    "source_uri": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
+    "headline": "The presidential election in Brazil is a test of Trump\u2019s power as a kingmaker.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9503,
-    "published_at": "2026-10-26T01:56:26.542625+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-10-27T02:33:46.634232+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Israel's election is one of the most important in its history",
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/venice-soccer-venezia-fc-italy.html",
+    "headline": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.996,
+    "published_at": "2026-10-27T02:33:46.633373+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+    "headline": "Brazil Supreme Court Orders Fl\u00e1vio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-10-27T02:33:46.621104+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9688,
+    "published_at": "2026-10-27T02:33:46.421150+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+    "headline": "Stunning photos capture October's Hunter's Moon around the world",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-10-26T01:56:26.538813+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-10-27T02:33:46.420215+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-    "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.929,
-    "published_at": "2026-10-26T01:56:26.535130+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Five ways Trump has changed immigration in the US",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-10-26T01:56:26.527893+00:00"
+    "confidence_score": 0.9918,
+    "published_at": "2026-10-27T02:33:46.419252+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-    "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9869,
-    "published_at": "2026-10-26T01:56:26.525478+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9831,
+    "published_at": "2026-10-27T02:33:46.409372+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+    "headline": "US Marine indicted for murder and robbery of woman in Japan",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-10-26T01:56:26.523105+00:00"
+    "confidence_score": 0.9743,
+    "published_at": "2026-10-27T02:33:46.401455+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-    "headline": "El Salvador president says bodies found in Haiti are not those of hostages",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Catholic bishops apologise for 'exploited' Trump meeting",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-10-26T01:56:26.520694+00:00"
+    "confidence_score": 0.9787,
+    "published_at": "2026-10-27T02:33:46.399134+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9838,
-    "published_at": "2026-10-26T01:56:26.518225+00:00"
+    "confidence_score": 0.998,
+    "published_at": "2026-10-27T02:33:46.397113+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Opposition leader Mar\u00eda Machado returns from exile to a Venezuela reshaped by Trump",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-10-27T02:33:46.395110+00:00"
   }
 ]
