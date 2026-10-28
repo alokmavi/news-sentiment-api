@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
-    "headline": "Looting Left Damage and Fear on Paradise Street in Marseille",
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
+    "headline": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-10-27T02:33:46.660052+00:00"
+    "confidence_score": 0.9816,
+    "published_at": "2026-10-28T02:43:06.925754+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
-    "headline": "How a Small Student Protest Spread Across France",
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+    "headline": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9759,
-    "published_at": "2026-10-27T02:33:46.658164+00:00"
+    "confidence_score": 0.9407,
+    "published_at": "2026-10-28T02:43:06.924898+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-    "headline": "Elon Musk Says Ukraine Violated Starlink\u2019s Rules",
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/australia/australia-prison-vegemite-ban-lawsuit.html",
+    "headline": "Australian Murderer Has No Right to Vegemite, Court Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-10-27T02:33:46.656141+00:00"
+    "confidence_score": 0.9887,
+    "published_at": "2026-10-28T02:43:06.919393+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
-    "headline": "Why Is the U.S. Accusing Canada of Election Interference?",
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+    "headline": "Serbia\u2019s Election Shows New Vulnerability for Nationalist Populists",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-10-27T02:33:46.652355+00:00"
+    "confidence_score": 0.9187,
+    "published_at": "2026-10-28T02:43:06.903970+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
-    "headline": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.98,
-    "published_at": "2026-10-27T02:33:46.650468+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
+    "headline": "Election Surprises",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-10-28T02:43:06.900167+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
-    "headline": "What to Know as Serbia Votes for a New Parliament",
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+    "headline": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6918,
-    "published_at": "2026-10-27T02:33:46.647422+00:00"
+    "confidence_score": 0.9257,
+    "published_at": "2026-10-28T02:43:06.898223+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
-    "headline": "The Expat Voters Hoping to Swing Israel\u2019s Election",
+    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+    "headline": "France Makes Concessions to Students, but Not Enough to Halt Protests",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8415,
-    "published_at": "2026-10-27T02:33:46.644629+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
-    "headline": "Who Is Mar\u00eda Corina Machado?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-10-27T02:33:46.637960+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
-    "headline": "The future of the Amazon rainforest could depend on who wins.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9661,
-    "published_at": "2026-10-27T02:33:46.635120+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
-    "headline": "The presidential election in Brazil is a test of Trump\u2019s power as a kingmaker.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-10-27T02:33:46.634232+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/venice-soccer-venezia-fc-italy.html",
-    "headline": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-10-27T02:33:46.633373+00:00"
+    "confidence_score": 0.9857,
+    "published_at": "2026-10-28T02:43:06.896321+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
     "headline": "Brazil Supreme Court Orders Fl\u00e1vio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9927,
-    "published_at": "2026-10-27T02:33:46.621104+00:00"
+    "published_at": "2026-10-28T02:43:06.894412+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+    "source_uri": "https://www.nytimes.com/2026/10/27/world/middleeast/house-democrats-us-israel.html",
+    "headline": "In Congress, Support for Israel Is Waning Among Democrats",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9688,
-    "published_at": "2026-10-27T02:33:46.421150+00:00"
+    "confidence_score": 0.982,
+    "published_at": "2026-10-28T02:43:06.884026+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-    "headline": "Stunning photos capture October's Hunter's Moon around the world",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-10-27T02:33:46.420215+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Five ways Trump has changed immigration in the US",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-10-27T02:33:46.419252+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9831,
-    "published_at": "2026-10-27T02:33:46.409372+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-    "headline": "US Marine indicted for murder and robbery of woman in Japan",
+    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters",
+    "headline": "Netanyahu accuses Arab citizens of \u2018trying to steal the elections\u2019 in racial appeal to voters.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9743,
-    "published_at": "2026-10-27T02:33:46.401455+00:00"
+    "confidence_score": 0.9968,
+    "published_at": "2026-10-28T02:43:06.882103+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Catholic bishops apologise for 'exploited' Trump meeting",
+    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
+    "headline": "Israeli elections have great consequences for Palestinians, but they don\u2019t get to vote.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9787,
-    "published_at": "2026-10-27T02:33:46.399134+00:00"
+    "confidence_score": 0.9603,
+    "published_at": "2026-10-28T02:43:06.879309+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
+    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
+    "headline": "Israel\u2019s economic future is on the ballot after Netanyahu offers a grim forecast.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-10-27T02:33:46.397113+00:00"
+    "confidence_score": 0.9181,
+    "published_at": "2026-10-28T02:43:06.878403+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Opposition leader Mar\u00eda Machado returns from exile to a Venezuela reshaped by Trump",
+    "source_uri": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
+    "headline": "What to Expect Now That Polls Are Closed in Israel",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9941,
+    "published_at": "2026-10-28T02:43:06.875552+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/27/world/europe/meghan-junior-masterchef-australia.html",
+    "headline": "Meghan, Actress Turned Duchess, Will Join Australian Cooking Show",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-10-27T02:33:46.395110+00:00"
+    "confidence_score": 0.994,
+    "published_at": "2026-10-28T02:43:06.869875+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+    "headline": "Trump Explores Lifting Sanctions on Russia\u2019s Flagship Investment Fund",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6144,
+    "published_at": "2026-10-28T02:43:06.857554+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
+    "headline": "How Kane defied doubters to become world's best",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-10-28T02:43:06.686034+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9924,
+    "published_at": "2026-10-28T02:43:06.675700+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9926,
+    "published_at": "2026-10-28T02:43:06.672782+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9911,
+    "published_at": "2026-10-28T02:43:06.670924+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9871,
+    "published_at": "2026-10-28T02:43:06.669969+00:00"
   }
 ]
