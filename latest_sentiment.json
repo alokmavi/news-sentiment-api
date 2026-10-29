@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
-    "headline": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9816,
-    "published_at": "2026-10-28T02:43:06.925754+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-    "headline": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+    "source_uri": "https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html",
+    "headline": "Do You Have Questions About the U.S. Midterm Elections?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9407,
-    "published_at": "2026-10-28T02:43:06.924898+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/australia/australia-prison-vegemite-ban-lawsuit.html",
-    "headline": "Australian Murderer Has No Right to Vegemite, Court Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9887,
-    "published_at": "2026-10-28T02:43:06.919393+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
-    "headline": "Serbia\u2019s Election Shows New Vulnerability for Nationalist Populists",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9187,
-    "published_at": "2026-10-28T02:43:06.903970+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
-    "headline": "Election Surprises",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-10-28T02:43:06.900167+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-    "headline": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9257,
-    "published_at": "2026-10-28T02:43:06.898223+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
-    "headline": "France Makes Concessions to Students, but Not Enough to Halt Protests",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9857,
-    "published_at": "2026-10-28T02:43:06.896321+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
-    "headline": "Brazil Supreme Court Orders Fl\u00e1vio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-10-28T02:43:06.894412+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/27/world/middleeast/house-democrats-us-israel.html",
-    "headline": "In Congress, Support for Israel Is Waning Among Democrats",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.982,
-    "published_at": "2026-10-28T02:43:06.884026+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters",
-    "headline": "Netanyahu accuses Arab citizens of \u2018trying to steal the elections\u2019 in racial appeal to voters.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9968,
-    "published_at": "2026-10-28T02:43:06.882103+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
-    "headline": "Israeli elections have great consequences for Palestinians, but they don\u2019t get to vote.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9603,
-    "published_at": "2026-10-28T02:43:06.879309+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-10-29T03:01:56.435539+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
-    "headline": "Israel\u2019s economic future is on the ballot after Netanyahu offers a grim forecast.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9181,
-    "published_at": "2026-10-28T02:43:06.878403+00:00"
+    "headline": "Before the election, Netanyahu offered a grim economic forecast for Israel.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6574,
+    "published_at": "2026-10-29T03:01:56.434123+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
     "headline": "What to Expect Now That Polls Are Closed in Israel",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9941,
-    "published_at": "2026-10-28T02:43:06.875552+00:00"
+    "published_at": "2026-10-29T03:01:56.431974+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/27/world/europe/meghan-junior-masterchef-australia.html",
-    "headline": "Meghan, Actress Turned Duchess, Will Join Australian Cooking Show",
+    "source_uri": "https://www.nytimes.com/2026/10/27/world/asia/korea-tensions-border-dmz-mdl.html",
+    "headline": "Tensions Between North and South Korea Stem From Decade-Old Border Dispute",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-10-28T02:43:06.869875+00:00"
+    "confidence_score": 0.9942,
+    "published_at": "2026-10-29T03:01:56.429752+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
-    "headline": "Trump Explores Lifting Sanctions on Russia\u2019s Flagship Investment Fund",
+    "source_uri": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
+    "headline": "A Historic Show of Strength for Israel\u2019s Arab Minority",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6144,
-    "published_at": "2026-10-28T02:43:06.857554+00:00"
+    "confidence_score": 0.988,
+    "published_at": "2026-10-29T03:01:56.429049+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
-    "headline": "How Kane defied doubters to become world's best",
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+    "headline": "For Israel\u2019s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9978,
-    "published_at": "2026-10-28T02:43:06.686034+00:00"
+    "confidence_score": 0.8678,
+    "published_at": "2026-10-29T03:01:56.426138+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9924,
-    "published_at": "2026-10-28T02:43:06.675700+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
+    "headline": "Netanyahu Didn\u2019t Win Israel\u2019s Election. But He\u2019s Far From Out.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9001,
+    "published_at": "2026-10-29T03:01:56.421765+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
+    "headline": "An Inconclusive Vote Leaves Israelis Pondering an Uncertain Future",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-10-28T02:43:06.672782+00:00"
+    "confidence_score": 0.9956,
+    "published_at": "2026-10-29T03:01:56.419584+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+    "source_uri": "https://www.nytimes.com/2026/10/28/us/politics/russia-sanctions-relief-fund-trump.html",
+    "headline": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9911,
-    "published_at": "2026-10-28T02:43:06.670924+00:00"
+    "confidence_score": 0.9783,
+    "published_at": "2026-10-29T03:01:56.413576+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+    "source_uri": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+    "headline": "European Leaders Split Over Phone Call to Putin",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9871,
-    "published_at": "2026-10-28T02:43:06.669969+00:00"
+    "confidence_score": 0.9914,
+    "published_at": "2026-10-29T03:01:56.411218+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
+    "headline": "Behind Italy\u2019s Protests: Rising Prices and Sinking Hopes",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5475,
+    "published_at": "2026-10-29T03:01:56.408897+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
+    "headline": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia\u2019s \u2018Eiffel Tower\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-10-29T03:01:56.408116+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+    "headline": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9468,
+    "published_at": "2026-10-29T03:01:56.246968+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+    "headline": "China's families are now supporting more old people than kids",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-10-29T03:01:56.085014+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know so far about deadly Spain train crash",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.8738,
+    "published_at": "2026-10-29T03:01:56.055578+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.516,
+    "published_at": "2026-10-29T03:01:56.015225+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: King dances in the streets of the Bahamas capital",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-10-29T03:01:55.969787+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+    "headline": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-10-29T03:01:55.939845+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Tanzania celebrates first natural gas discovery in more than 10 years",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-10-29T03:01:55.934393+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-10-29T03:01:55.924402+00:00"
   }
 ]
