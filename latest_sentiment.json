@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html",
-    "headline": "Do You Have Questions About the U.S. Midterm Elections?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-10-29T03:01:56.435539+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
-    "headline": "Before the election, Netanyahu offered a grim economic forecast for Israel.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6574,
-    "published_at": "2026-10-29T03:01:56.434123+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
-    "headline": "What to Expect Now That Polls Are Closed in Israel",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-10-29T03:01:56.431974+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/27/world/asia/korea-tensions-border-dmz-mdl.html",
-    "headline": "Tensions Between North and South Korea Stem From Decade-Old Border Dispute",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-10-29T03:01:56.429752+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
-    "headline": "A Historic Show of Strength for Israel\u2019s Arab Minority",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.988,
-    "published_at": "2026-10-29T03:01:56.429049+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
     "headline": "For Israel\u2019s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.8678,
-    "published_at": "2026-10-29T03:01:56.426138+00:00"
+    "published_at": "2026-10-30T03:06:46.647153+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
-    "headline": "Netanyahu Didn\u2019t Win Israel\u2019s Election. But He\u2019s Far From Out.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9001,
-    "published_at": "2026-10-29T03:01:56.421765+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
-    "headline": "An Inconclusive Vote Leaves Israelis Pondering an Uncertain Future",
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/tommy-robinson-harassment-verdict-court-uk.html",
+    "headline": "Tommy Robinson Found Guilty of Harassing 2 UK Journalists",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-10-29T03:01:56.419584+00:00"
+    "confidence_score": 0.9899,
+    "published_at": "2026-10-30T03:06:46.643450+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/28/us/politics/russia-sanctions-relief-fund-trump.html",
-    "headline": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
+    "headline": "What We Know About the Deadly Train Crash in Spain",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9783,
-    "published_at": "2026-10-29T03:01:56.413576+00:00"
+    "confidence_score": 0.9971,
+    "published_at": "2026-10-30T03:06:46.639712+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
-    "headline": "European Leaders Split Over Phone Call to Putin",
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
+    "headline": "Spain Crash Survivor Describes a \u2018Twisted Tangle of Metal\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9914,
-    "published_at": "2026-10-29T03:01:56.411218+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-10-30T03:06:46.638985+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-    "headline": "Behind Italy\u2019s Protests: Rising Prices and Sinking Hopes",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5475,
-    "published_at": "2026-10-29T03:01:56.408897+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
-    "headline": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia\u2019s \u2018Eiffel Tower\u2019",
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
+    "headline": "How Andr\u00e9 Janones Helped Turbocharge Lula\u2019s Comeback in Brazil\u2019s Election",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-10-29T03:01:56.408116+00:00"
+    "confidence_score": 0.9519,
+    "published_at": "2026-10-30T03:06:46.634131+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-    "headline": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
+    "headline": "Russian Strike on Ukrainian Train Station Kills 14",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8822,
+    "published_at": "2026-10-30T03:06:46.626452+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
+    "headline": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9823,
+    "published_at": "2026-10-30T03:06:46.621829+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
+    "headline": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9468,
-    "published_at": "2026-10-29T03:01:56.246968+00:00"
+    "confidence_score": 0.9866,
+    "published_at": "2026-10-30T03:06:46.617111+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-    "headline": "China's families are now supporting more old people than kids",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
+    "headline": "A Cease-Fire Melania Trump Announced Gives a City Brief Calm",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9144,
+    "published_at": "2026-10-30T03:06:46.616322+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
+    "headline": "China Confirms Expulsion of 33 Officials, as Xi\u2019s Purge Deepens",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-10-29T03:01:56.085014+00:00"
+    "confidence_score": 0.9656,
+    "published_at": "2026-10-30T03:06:46.614728+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know so far about deadly Spain train crash",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8738,
-    "published_at": "2026-10-29T03:01:56.055578+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
+    "headline": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.965,
+    "published_at": "2026-10-30T03:06:46.610819+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.516,
-    "published_at": "2026-10-29T03:01:56.015225+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+    "headline": "How could Israel break election deadlock? Here are four scenarios",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9971,
+    "published_at": "2026-10-30T03:06:46.438402+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: King dances in the streets of the Bahamas capital",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-10-29T03:01:55.969787+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-10-30T03:06:46.430527+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-    "headline": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Girl seriously injured in wolf attack at German wildlife park",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9906,
+    "published_at": "2026-10-30T03:06:46.429401+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9834,
+    "published_at": "2026-10-30T03:06:46.426785+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-10-30T03:06:46.418736+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+    "headline": "Philippine police obtain warrant to search Thomas Markle's devices",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-10-30T03:06:46.417131+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9867,
+    "published_at": "2026-10-30T03:06:46.415755+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+    "headline": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9976,
+    "published_at": "2026-10-30T03:06:46.413819+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9992,
-    "published_at": "2026-10-29T03:01:55.939845+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Tanzania celebrates first natural gas discovery in more than 10 years",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-10-29T03:01:55.934393+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-10-29T03:01:55.924402+00:00"
+    "published_at": "2026-10-30T03:06:46.399079+00:00"
   }
 ]
