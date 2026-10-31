@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-    "headline": "For Israel\u2019s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8678,
-    "published_at": "2026-10-30T03:06:46.647153+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/tommy-robinson-harassment-verdict-court-uk.html",
-    "headline": "Tommy Robinson Found Guilty of Harassing 2 UK Journalists",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-10-30T03:06:46.643450+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
-    "headline": "What We Know About the Deadly Train Crash in Spain",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-10-30T03:06:46.639712+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-    "headline": "Spain Crash Survivor Describes a \u2018Twisted Tangle of Metal\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-10-30T03:06:46.638985+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
     "headline": "How Andr\u00e9 Janones Helped Turbocharge Lula\u2019s Comeback in Brazil\u2019s Election",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9519,
-    "published_at": "2026-10-30T03:06:46.634131+00:00"
+    "published_at": "2026-10-31T02:53:12.263267+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
-    "headline": "Russian Strike on Ukrainian Train Station Kills 14",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8822,
-    "published_at": "2026-10-30T03:06:46.626452+00:00"
+    "source_uri": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+    "headline": "Cuauht\u00e9moc C\u00e1rdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-10-31T02:53:12.258568+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
-    "headline": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
+    "headline": "India\u2019s Media Giants Join Fight Against Upcoming Privacy Law",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9823,
-    "published_at": "2026-10-30T03:06:46.621829+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-10-31T02:53:12.256262+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
+    "headline": "How a Self-Described \u2018Junkie\u2019 Rode Synthetic Drugs to Oblivion \u2014 and Fame",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9748,
+    "published_at": "2026-10-31T02:53:12.255509+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
     "headline": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9866,
-    "published_at": "2026-10-30T03:06:46.617111+00:00"
+    "published_at": "2026-10-31T02:53:12.250091+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
-    "headline": "A Cease-Fire Melania Trump Announced Gives a City Brief Calm",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
+    "headline": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared \u2018Ended\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9144,
-    "published_at": "2026-10-30T03:06:46.616322+00:00"
+    "confidence_score": 0.9902,
+    "published_at": "2026-10-31T02:53:12.246315+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
-    "headline": "China Confirms Expulsion of 33 Officials, as Xi\u2019s Purge Deepens",
+    "source_uri": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
+    "headline": "A Marathon Runner\u2019s Hard Lesson",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9897,
+    "published_at": "2026-10-31T02:53:12.244759+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
+    "headline": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9823,
+    "published_at": "2026-10-31T02:53:12.240794+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+    "headline": "No Clear Winner in Israel Election, Final Results Show",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9786,
+    "published_at": "2026-10-31T02:53:12.240020+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/asia/japan-vivant-spy-show-china.html",
+    "headline": "How the Japanese Spy Drama \u2018Vivant\u2019 Became The Target of China\u2019s Anger",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7256,
+    "published_at": "2026-10-31T02:53:12.232381+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+    "headline": "Another Toll of the Violent Unrest in France: The Political Center",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9887,
+    "published_at": "2026-10-31T02:53:12.231616+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+    "headline": "'The necktie is dead': How US midterm candidates are dressing for votes",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9656,
-    "published_at": "2026-10-30T03:06:46.614728+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-10-31T02:53:12.028753+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
-    "headline": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.965,
-    "published_at": "2026-10-30T03:06:46.610819+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+    "headline": "What's at stake for Trump in the US midterms?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-10-31T02:53:12.021014+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-    "headline": "How could Israel break election deadlock? Here are four scenarios",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+    "headline": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-10-30T03:06:46.438402+00:00"
+    "confidence_score": 0.536,
+    "published_at": "2026-10-31T02:53:12.020276+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-    "headline": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Student-backed election winners demand sweeping resignations in Serbia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-10-30T03:06:46.430527+00:00"
+    "confidence_score": 0.9894,
+    "published_at": "2026-10-31T02:53:12.019550+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Girl seriously injured in wolf attack at German wildlife park",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9906,
-    "published_at": "2026-10-30T03:06:46.429401+00:00"
+    "confidence_score": 0.8525,
+    "published_at": "2026-10-31T02:53:12.018804+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Six dead after helicopter crashes in northern Indian state",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9834,
-    "published_at": "2026-10-30T03:06:46.426785+00:00"
+    "confidence_score": 0.9763,
+    "published_at": "2026-10-31T02:53:12.015859+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-10-30T03:06:46.418736+00:00"
+    "confidence_score": 0.9982,
+    "published_at": "2026-10-31T02:53:12.015007+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-    "headline": "Philippine police obtain warrant to search Thomas Markle's devices",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-10-30T03:06:46.417131+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Democratic senator blames Egypt press crackdown on US military aid decision",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9024,
+    "published_at": "2026-10-31T02:53:12.013311+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+    "headline": "Mushroom murderer fails to overturn convictions in Australian court challenge",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9867,
-    "published_at": "2026-10-30T03:06:46.415755+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-    "headline": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-10-30T03:06:46.413819+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-10-30T03:06:46.399079+00:00"
+    "confidence_score": 0.9907,
+    "published_at": "2026-10-31T02:53:12.012416+00:00"
   }
 ]
