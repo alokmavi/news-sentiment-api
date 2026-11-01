@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
-    "headline": "How Andr\u00e9 Janones Helped Turbocharge Lula\u2019s Comeback in Brazil\u2019s Election",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+    "headline": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9519,
-    "published_at": "2026-10-31T02:53:12.263267+00:00"
+    "confidence_score": 0.8736,
+    "published_at": "2026-11-01T02:45:57.937538+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
-    "headline": "Cuauht\u00e9moc C\u00e1rdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-10-31T02:53:12.258568+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
-    "headline": "India\u2019s Media Giants Join Fight Against Upcoming Privacy Law",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
+    "headline": "Haiti Postpones Elections as Gang Violence Runs Rampant",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-10-31T02:53:12.256262+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
-    "headline": "How a Self-Described \u2018Junkie\u2019 Rode Synthetic Drugs to Oblivion \u2014 and Fame",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9748,
-    "published_at": "2026-10-31T02:53:12.255509+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
-    "headline": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9866,
-    "published_at": "2026-10-31T02:53:12.250091+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
-    "headline": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared \u2018Ended\u2019",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9902,
-    "published_at": "2026-10-31T02:53:12.246315+00:00"
+    "confidence_score": 0.995,
+    "published_at": "2026-11-01T02:45:57.932825+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
     "headline": "A Marathon Runner\u2019s Hard Lesson",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9897,
-    "published_at": "2026-10-31T02:53:12.244759+00:00"
+    "published_at": "2026-11-01T02:45:57.928029+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
-    "headline": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9823,
-    "published_at": "2026-10-31T02:53:12.240794+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-    "headline": "No Clear Winner in Israel Election, Final Results Show",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9786,
-    "published_at": "2026-10-31T02:53:12.240020+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/asia/japan-vivant-spy-show-china.html",
-    "headline": "How the Japanese Spy Drama \u2018Vivant\u2019 Became The Target of China\u2019s Anger",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7256,
-    "published_at": "2026-10-31T02:53:12.232381+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
-    "headline": "Another Toll of the Violent Unrest in France: The Political Center",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9887,
-    "published_at": "2026-10-31T02:53:12.231616+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
-    "headline": "'The necktie is dead': How US midterm candidates are dressing for votes",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+    "headline": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-10-31T02:53:12.028753+00:00"
+    "confidence_score": 0.979,
+    "published_at": "2026-11-01T02:45:57.926783+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-    "headline": "What's at stake for Trump in the US midterms?",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html",
+    "headline": "The Perils of Glittering Skylines",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-10-31T02:53:12.021014+00:00"
+    "confidence_score": 0.9161,
+    "published_at": "2026-11-01T02:45:57.924411+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-    "headline": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
+    "headline": "Cuba\u2019s Foreign Minister: We\u2019ll Outlast Trump",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.536,
-    "published_at": "2026-10-31T02:53:12.020276+00:00"
+    "confidence_score": 0.9973,
+    "published_at": "2026-11-01T02:45:57.923135+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Student-backed election winners demand sweeping resignations in Serbia",
+    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+    "headline": "Court Rejects Erin Patterson\u2019s Appeal in Mushroom Murders Case",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9894,
-    "published_at": "2026-10-31T02:53:12.019550+00:00"
+    "confidence_score": 0.9957,
+    "published_at": "2026-11-01T02:45:57.920727+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+    "source_uri": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+    "headline": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8525,
-    "published_at": "2026-10-31T02:53:12.018804+00:00"
+    "confidence_score": 0.9813,
+    "published_at": "2026-11-01T02:45:57.915846+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Six dead after helicopter crashes in northern Indian state",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9763,
-    "published_at": "2026-10-31T02:53:12.015859+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-10-31T02:53:12.015007+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Democratic senator blames Egypt press crackdown on US military aid decision",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+    "headline": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9024,
-    "published_at": "2026-10-31T02:53:12.013311+00:00"
+    "confidence_score": 0.9901,
+    "published_at": "2026-11-01T02:45:57.914598+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-    "headline": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
+    "headline": "Israel\u2019s Election Is Unlikely to Change Its Policies and Global Isolation",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-10-31T02:53:12.012416+00:00"
+    "confidence_score": 0.9926,
+    "published_at": "2026-11-01T02:45:57.904027+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+    "headline": "Carney Commits Canada to Becoming European Union\u2019s First \u2018Associate Member\u2019",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9608,
+    "published_at": "2026-11-01T02:45:57.894370+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
+    "headline": "Stage Fright",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9916,
+    "published_at": "2026-11-01T02:45:57.892017+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
+    "headline": "Liu Yandong, Rare Woman Among China\u2019s Political Elite, Dies at 80",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5312,
+    "published_at": "2026-11-01T02:45:57.883677+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+    "headline": "Train Disaster Is Blow to Spain\u2019s Leader, Already Election Underdog",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9253,
+    "published_at": "2026-11-01T02:45:57.875279+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+    "headline": "North Korean Hackers Stole Billions, the F.B.I. Says. It\u2019s Not Their First Heist.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.994,
+    "published_at": "2026-11-01T02:45:57.872801+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+    "headline": "\u2018We Are Coming From Hell\u2019: A Ukrainian City\u2019s Evacuees Tell Survival Stories",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-11-01T02:45:57.869483+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.771,
+    "published_at": "2026-11-01T02:45:57.721715+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+    "headline": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-11-01T02:45:57.719252+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Global nature talks reach deal but money remains an issue",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9812,
+    "published_at": "2026-11-01T02:45:57.715573+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+    "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9913,
+    "published_at": "2026-11-01T02:45:57.708143+00:00"
   }
 ]
