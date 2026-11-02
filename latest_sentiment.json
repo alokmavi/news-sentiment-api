@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-    "headline": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html",
+    "headline": "Colombia\u2019s \u2018Narcoterrorist\u2019 Crackdown Raises Questions Over Killings",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8736,
-    "published_at": "2026-11-01T02:45:57.937538+00:00"
+    "confidence_score": 0.9453,
+    "published_at": "2026-11-02T02:54:37.982302+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
-    "headline": "Haiti Postpones Elections as Gang Violence Runs Rampant",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html",
+    "headline": "Taking the Saga of a Criminal Gang From Page to Screen to Opera Stage",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-11-01T02:45:57.932825+00:00"
+    "confidence_score": 0.9582,
+    "published_at": "2026-11-02T02:54:37.979978+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
-    "headline": "A Marathon Runner\u2019s Hard Lesson",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9897,
-    "published_at": "2026-11-01T02:45:57.928029+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-    "headline": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
+    "headline": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.979,
-    "published_at": "2026-11-01T02:45:57.926783+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-11-02T02:54:37.975027+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html",
-    "headline": "The Perils of Glittering Skylines",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9161,
-    "published_at": "2026-11-01T02:45:57.924411+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
-    "headline": "Cuba\u2019s Foreign Minister: We\u2019ll Outlast Trump",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+    "headline": "Russian News Outlet That Defied Kremlin Will Shut Down: \u2018They Killed Us\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-11-01T02:45:57.923135+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-11-02T02:54:37.972699+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
-    "headline": "Court Rejects Erin Patterson\u2019s Appeal in Mushroom Murders Case",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+    "headline": "Traffic Control Errors Caused Spain\u2019s Deadly Train Crash, Official Says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-11-01T02:45:57.920727+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-    "headline": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9813,
-    "published_at": "2026-11-01T02:45:57.915846+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
-    "headline": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9901,
-    "published_at": "2026-11-01T02:45:57.914598+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-    "headline": "Israel\u2019s Election Is Unlikely to Change Its Policies and Global Isolation",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9926,
-    "published_at": "2026-11-01T02:45:57.904027+00:00"
+    "confidence_score": 0.9143,
+    "published_at": "2026-11-02T02:54:37.969021+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
     "headline": "Carney Commits Canada to Becoming European Union\u2019s First \u2018Associate Member\u2019",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9608,
-    "published_at": "2026-11-01T02:45:57.894370+00:00"
+    "published_at": "2026-11-02T02:54:37.966646+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
-    "headline": "Stage Fright",
+    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
+    "headline": "Britain\u2019s Prime Minister Says He\u2019s Open to a Formal Apology for Slavery",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-11-02T02:54:37.965412+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
+    "headline": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9936,
+    "published_at": "2026-11-02T02:54:37.963058+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+    "headline": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9959,
+    "published_at": "2026-11-02T02:54:37.961876+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
+    "headline": "Here is the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-11-01T02:45:57.892017+00:00"
+    "confidence_score": 0.955,
+    "published_at": "2026-11-02T02:54:37.960694+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
-    "headline": "Liu Yandong, Rare Woman Among China\u2019s Political Elite, Dies at 80",
+    "source_uri": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest",
+    "headline": "French officials eye social media\u2019s role in promoting unrest.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5312,
-    "published_at": "2026-11-01T02:45:57.883677+00:00"
+    "confidence_score": 0.9609,
+    "published_at": "2026-11-02T02:54:37.957124+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-    "headline": "Train Disaster Is Blow to Spain\u2019s Leader, Already Election Underdog",
+    "source_uri": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+    "headline": "A Lesson From Germany",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9253,
-    "published_at": "2026-11-01T02:45:57.875279+00:00"
+    "confidence_score": 0.9868,
+    "published_at": "2026-11-02T02:54:37.951075+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-    "headline": "North Korean Hackers Stole Billions, the F.B.I. Says. It\u2019s Not Their First Heist.",
+    "source_uri": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+    "headline": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.6735,
+    "published_at": "2026-11-02T02:54:37.949866+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
+    "headline": "He\u2019s the Top Snake Catcher, and Business Is Booming. There\u2019s Just One Problem.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.994,
-    "published_at": "2026-11-01T02:45:57.872801+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-11-02T02:54:37.942385+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
-    "headline": "\u2018We Are Coming From Hell\u2019: A Ukrainian City\u2019s Evacuees Tell Survival Stories",
+    "source_uri": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
+    "headline": "Where Do Israel\u2019s Arab Parties Stand?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5249,
+    "published_at": "2026-11-02T02:54:37.939921+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
+    "headline": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9995,
-    "published_at": "2026-11-01T02:45:57.869483+00:00"
+    "published_at": "2026-11-02T02:54:37.938697+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-    "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.771,
-    "published_at": "2026-11-01T02:45:57.721715+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-    "headline": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-11-01T02:45:57.719252+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Global nature talks reach deal but money remains an issue",
+    "source_uri": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+    "headline": "Netanyahu\u2019s Bid to Stay in Power Will Test His Political Savvy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9812,
-    "published_at": "2026-11-01T02:45:57.715573+00:00"
+    "confidence_score": 0.6416,
+    "published_at": "2026-11-02T02:54:37.937460+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-    "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+    "headline": "Lindsay Clancy is back in court - where will her case go next?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9913,
-    "published_at": "2026-11-01T02:45:57.708143+00:00"
+    "confidence_score": 0.9872,
+    "published_at": "2026-11-02T02:54:37.833399+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+    "headline": "Peaceful protests in Germany spiral into violence and looting",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9179,
+    "published_at": "2026-11-02T02:54:37.824441+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9976,
+    "published_at": "2026-11-02T02:54:37.821589+00:00"
   }
 ]
