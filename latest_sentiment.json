@@ -4,139 +4,139 @@
     "headline": "Colombia\u2019s \u2018Narcoterrorist\u2019 Crackdown Raises Questions Over Killings",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9453,
-    "published_at": "2026-11-02T02:54:37.982302+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html",
-    "headline": "Taking the Saga of a Criminal Gang From Page to Screen to Opera Stage",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9582,
-    "published_at": "2026-11-02T02:54:37.979978+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-    "headline": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-11-02T02:54:37.975027+00:00"
+    "published_at": "2026-11-03T04:11:33.986894+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
     "headline": "Russian News Outlet That Defied Kremlin Will Shut Down: \u2018They Killed Us\u2019",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9983,
-    "published_at": "2026-11-02T02:54:37.972699+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
-    "headline": "Traffic Control Errors Caused Spain\u2019s Deadly Train Crash, Official Says",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9143,
-    "published_at": "2026-11-02T02:54:37.969021+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-    "headline": "Carney Commits Canada to Becoming European Union\u2019s First \u2018Associate Member\u2019",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9608,
-    "published_at": "2026-11-02T02:54:37.966646+00:00"
+    "published_at": "2026-11-03T04:11:33.979662+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
     "headline": "Britain\u2019s Prime Minister Says He\u2019s Open to a Formal Apology for Slavery",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-11-02T02:54:37.965412+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-    "headline": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-11-02T02:54:37.963058+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-    "headline": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-11-02T02:54:37.961876+00:00"
+    "published_at": "2026-11-03T04:11:33.973321+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
     "headline": "Here is the latest.",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.955,
-    "published_at": "2026-11-02T02:54:37.960694+00:00"
+    "published_at": "2026-11-03T04:11:33.968891+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest",
     "headline": "French officials eye social media\u2019s role in promoting unrest.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9609,
-    "published_at": "2026-11-02T02:54:37.957124+00:00"
+    "published_at": "2026-11-03T04:11:33.965348+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
-    "headline": "A Lesson From Germany",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9868,
-    "published_at": "2026-11-02T02:54:37.951075+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
-    "headline": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+    "source_uri": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
+    "headline": "Why Did Snakes Lose Their Legs? And 9 More Animal Mysteries",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6735,
-    "published_at": "2026-11-02T02:54:37.949866+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-11-03T04:11:33.953746+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-    "headline": "He\u2019s the Top Snake Catcher, and Business Is Booming. There\u2019s Just One Problem.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-11-02T02:54:37.942385+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
-    "headline": "Where Do Israel\u2019s Arab Parties Stand?",
+    "source_uri": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
+    "headline": "Do Animals Grieve?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5249,
-    "published_at": "2026-11-02T02:54:37.939921+00:00"
+    "confidence_score": 0.6108,
+    "published_at": "2026-11-03T04:11:33.951922+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
-    "headline": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
+    "source_uri": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
+    "headline": "A 31,000-Mile Walk Ends in England, at Mom\u2019s House",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-11-02T02:54:37.938697+00:00"
+    "confidence_score": 0.9907,
+    "published_at": "2026-11-03T04:11:33.950244+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
-    "headline": "Netanyahu\u2019s Bid to Stay in Power Will Test His Political Savvy",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+    "headline": "Democrats have high hopes for midterms - but are the polls right?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6416,
-    "published_at": "2026-11-02T02:54:37.937460+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-11-03T04:11:33.744798+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
-    "headline": "Lindsay Clancy is back in court - where will her case go next?",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran killed her teenage daughter - now she is facing up to the regime",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9872,
-    "published_at": "2026-11-02T02:54:37.833399+00:00"
+    "confidence_score": 0.9946,
+    "published_at": "2026-11-03T04:11:33.743899+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Peaceful protests in Germany spiral into violence and looting",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Indonesia's toxic haze is giving its neighbours a political headache",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9179,
-    "published_at": "2026-11-02T02:54:37.824441+00:00"
+    "confidence_score": 0.9843,
+    "published_at": "2026-11-03T04:11:33.742083+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+    "headline": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-11-02T02:54:37.821589+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-11-03T04:11:33.741209+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+    "headline": "What we know about the alert app hack in Ukraine and Russia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9892,
+    "published_at": "2026-11-03T04:11:33.739444+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+    "headline": "Shops looted as German cost-of-living protests turn violent",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7095,
+    "published_at": "2026-11-03T04:11:33.734994+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Armed police start patrols in Sydney after Bondi Beach attack",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.5357,
+    "published_at": "2026-11-03T04:11:33.733079+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+    "headline": "France launches attempted murder investigation after petrol bomb thrown at police",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9803,
+    "published_at": "2026-11-03T04:11:33.730398+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+    "headline": "Ryanair says it may freeze workers' pay and raise airfares",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9878,
+    "published_at": "2026-11-03T04:11:33.727797+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Five arrested after South African farmer shot and tortured",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9947,
+    "published_at": "2026-11-03T04:11:33.726001+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Dutch police offer record \u20ac2m reward in hunt for drug lord",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9353,
+    "published_at": "2026-11-03T04:11:33.723329+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+    "headline": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-11-03T04:11:33.716279+00:00"
   }
 ]
