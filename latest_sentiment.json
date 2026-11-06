@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-    "headline": "China\u2019s Message to Its Rivals: You Need What We Make",
+    "source_uri": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+    "headline": "Poland Beefs Up Security at Border With Russia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9803,
-    "published_at": "2026-11-05T03:52:34.276574+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-    "headline": "Up in the Clouds With the Pope, It\u2019s Still Commercial",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7885,
-    "published_at": "2026-11-05T03:52:34.274442+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
-    "headline": "Deportees Turn to TikTok to Document Life Starting Over",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7174,
-    "published_at": "2026-11-05T03:52:34.273880+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
-    "headline": "A 31,000-Mile Walk Ends in England, at Mom\u2019s House",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-11-05T03:52:34.267983+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/02/world/midterm-elections-questions-trump-fifa.html",
-    "headline": "America Votes",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9615,
-    "published_at": "2026-11-05T03:52:34.267371+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
-    "headline": "Australian Court Hears Challenge to Social Media Ban",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9908,
-    "published_at": "2026-11-05T03:52:34.266179+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
-    "headline": "Drones Emerge as the Top Killer of Civilians in Sudan\u2019s War",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9907,
-    "published_at": "2026-11-05T03:52:34.265560+00:00"
+    "confidence_score": 0.9648,
+    "published_at": "2026-11-06T03:49:25.739580+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
     "headline": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9933,
-    "published_at": "2026-11-05T03:52:34.261826+00:00"
+    "published_at": "2026-11-06T03:49:25.738871+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
-    "headline": "Spain\u2019s Transport Minister Resigns After Deadly High-Speed Rail Crash",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-11-05T03:52:34.258365+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
-    "headline": "Could a Viral Video Save Her Mom\u2019s Chinese Restaurant?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9842,
-    "published_at": "2026-11-05T03:52:34.255364+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html",
-    "headline": "John Frieda, Hair-Care Mogul Who Soothed Women\u2019s Curls, Has Died",
+    "source_uri": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
+    "headline": "Democrats Win Big",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-11-05T03:52:34.253117+00:00"
+    "confidence_score": 0.9525,
+    "published_at": "2026-11-06T03:49:25.736720+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
-    "headline": "Why Trump Often Mentioned Iran in the Midterm Campaign",
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
+    "headline": "U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9901,
-    "published_at": "2026-11-05T03:52:34.250168+00:00"
+    "confidence_score": 0.9848,
+    "published_at": "2026-11-06T03:49:25.730921+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
-    "headline": "King Charles Says U.K.\u2019s Role in Slave Trade \u2018Fills My Heart With Horror\u2019",
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+    "headline": "What Trump\u2019s Midterm Defeat Means for Iran and Oil Prices",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9858,
-    "published_at": "2026-11-05T03:52:34.249411+00:00"
+    "confidence_score": 0.9715,
+    "published_at": "2026-11-06T03:49:25.730233+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
     "headline": "Why Doctors in Thailand Fear KFC",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.983,
-    "published_at": "2026-11-05T03:52:34.241547+00:00"
+    "published_at": "2026-11-06T03:49:25.727331+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-    "headline": "Everything you need to know from the US midterm elections",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-11-05T03:52:34.099772+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-    "headline": "Film star Ranbir Kapoor on AI, movies and fatherhood",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-11-05T03:52:34.096141+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iran's chief negotiator says Americans voted 'no to war'",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-11-05T03:52:34.091216+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
+    "headline": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-11-05T03:52:34.089683+00:00"
+    "confidence_score": 0.9955,
+    "published_at": "2026-11-06T03:49:25.726609+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-    "headline": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+    "headline": "Israel\u2019s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9788,
-    "published_at": "2026-11-05T03:52:34.085342+00:00"
+    "confidence_score": 0.9754,
+    "published_at": "2026-11-06T03:49:25.725868+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-    "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
+    "headline": "Senji Kuroi Has Died. He Interpreted \u2018the Salaried Soul.\u2019",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-11-06T03:49:25.725170+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
+    "headline": "A Trump Reckoning",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-11-05T03:52:34.070990+00:00"
+    "confidence_score": 0.8779,
+    "published_at": "2026-11-06T03:49:25.723056+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
+    "headline": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9938,
+    "published_at": "2026-11-06T03:49:25.721641+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
+    "headline": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-06T03:49:25.720238+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
+    "headline": "The New Zealand Election That Could \u2018Flip the Table\u2019",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-11-06T03:49:25.719529+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
+    "headline": "Klaus-Michael K\u00fchne Has Died. His Company Played a Dark Role in Nazi Germany.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9561,
+    "published_at": "2026-11-06T03:49:25.714538+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+    "headline": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-11-06T03:49:25.707944+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+    "headline": "Bolsonaro\u2019s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9557,
+    "published_at": "2026-11-06T03:49:25.703451+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9974,
+    "published_at": "2026-11-06T03:49:25.531465+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9944,
+    "published_at": "2026-11-06T03:49:25.530744+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+    "headline": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-06T03:49:25.528515+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+    "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9458,
+    "published_at": "2026-11-06T03:49:25.526512+00:00"
   }
 ]
