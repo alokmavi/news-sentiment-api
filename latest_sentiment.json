@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
-    "headline": "Poland Beefs Up Security at Border With Russia",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9648,
-    "published_at": "2026-11-06T03:49:25.739580+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
-    "headline": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-11-06T03:49:25.738871+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
-    "headline": "Democrats Win Big",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9525,
-    "published_at": "2026-11-06T03:49:25.736720+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
-    "headline": "U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9848,
-    "published_at": "2026-11-06T03:49:25.730921+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-    "headline": "What Trump\u2019s Midterm Defeat Means for Iran and Oil Prices",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9715,
-    "published_at": "2026-11-06T03:49:25.730233+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
-    "headline": "Why Doctors in Thailand Fear KFC",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.983,
-    "published_at": "2026-11-06T03:49:25.727331+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-    "headline": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9955,
-    "published_at": "2026-11-06T03:49:25.726609+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
     "headline": "Israel\u2019s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9754,
-    "published_at": "2026-11-06T03:49:25.725868+00:00"
+    "published_at": "2026-11-07T03:22:31.833536+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
-    "headline": "Senji Kuroi Has Died. He Interpreted \u2018the Salaried Soul.\u2019",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-11-06T03:49:25.725170+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
-    "headline": "A Trump Reckoning",
+    "source_uri": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+    "headline": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8779,
-    "published_at": "2026-11-06T03:49:25.723056+00:00"
+    "confidence_score": 0.9983,
+    "published_at": "2026-11-07T03:22:31.832017+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
     "headline": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9938,
-    "published_at": "2026-11-06T03:49:25.721641+00:00"
+    "published_at": "2026-11-07T03:22:31.829710+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
-    "headline": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-11-06T03:49:25.720238+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
-    "headline": "The New Zealand Election That Could \u2018Flip the Table\u2019",
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
+    "headline": "British Doctor Infected With Ebola While Working on Outbreak Evacuated to U.K.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9984,
-    "published_at": "2026-11-06T03:49:25.719529+00:00"
+    "confidence_score": 0.9955,
+    "published_at": "2026-11-07T03:22:31.820383+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
-    "headline": "Klaus-Michael K\u00fchne Has Died. His Company Played a Dark Role in Nazi Germany.",
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+    "headline": "Iran is Reviewing \u2018Concrete Proposals\u2019 on Nuclear Program, Officials Say",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9561,
-    "published_at": "2026-11-06T03:49:25.714538+00:00"
+    "confidence_score": 0.9979,
+    "published_at": "2026-11-07T03:22:31.816747+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
-    "headline": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+    "headline": "Lana Nusseibeh\u2019s U.N. Bid Collides With U.A.E.\u2019s Role in Sudan",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-11-06T03:49:25.707944+00:00"
+    "confidence_score": 0.9959,
+    "published_at": "2026-11-07T03:22:31.816167+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
-    "headline": "Bolsonaro\u2019s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9557,
-    "published_at": "2026-11-06T03:49:25.703451+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9974,
-    "published_at": "2026-11-06T03:49:25.531465+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
+    "headline": "The Dark Side of K-Pop",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-11-06T03:49:25.530744+00:00"
+    "confidence_score": 0.9898,
+    "published_at": "2026-11-07T03:22:31.814337+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-    "headline": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-11-06T03:49:25.528515+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-    "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
+    "headline": "Carney Asserts Canada\u2019s Sovereignty and Vows to End Homelessness in Budget",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9458,
-    "published_at": "2026-11-06T03:49:25.526512+00:00"
+    "confidence_score": 0.5673,
+    "published_at": "2026-11-07T03:22:31.813163+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+    "headline": "Meghan Markle\u2019s Father Is Arrested on Child Sex Abuse Material Charges",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7043,
+    "published_at": "2026-11-07T03:22:31.810711+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
+    "headline": "European Countries Push, Again, To Deport Migrants to Rwanda",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9451,
+    "published_at": "2026-11-07T03:22:31.807666+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
+    "headline": "Alberta\u2019s Librarians Brace for a New Era of \u2018Book Bans\u2019",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9234,
+    "published_at": "2026-11-07T03:22:31.807053+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
+    "headline": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9574,
+    "published_at": "2026-11-07T03:22:31.805825+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+    "headline": "Will New Zealand Join Voters\u2019 Global Revolt Over Soaring Costs?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-11-07T03:22:31.800365+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+    "headline": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8416,
+    "published_at": "2026-11-07T03:22:31.650971+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
+    "headline": "What to know about the presidential wiretapping scandal rocking Indonesia",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9427,
+    "published_at": "2026-11-07T03:22:31.649574+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Macau jails pro-democracy campaigner in city's first national security case",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.985,
+    "published_at": "2026-11-07T03:22:31.645922+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Major construction ongoing near Iran missile bases, satellite images suggest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7865,
+    "published_at": "2026-11-07T03:22:31.644051+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-11-07T03:22:31.640690+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian extremist group denies sending hoax bomb threats",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-11-07T03:22:31.640073+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+    "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9762,
+    "published_at": "2026-11-07T03:22:31.639430+00:00"
   }
 ]
