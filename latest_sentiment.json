@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
-    "headline": "Everyone\u2019s Talking About the \u2018Blue Tsunami.\u2019 In Japan, It\u2019s Complicated.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9946,
-    "published_at": "2026-11-08T02:52:14.178120+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-    "headline": "What to Know About the Bomb Threats Disrupting Flights in Europe",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9921,
-    "published_at": "2026-11-08T02:52:14.177047+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
-    "headline": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-11-08T02:52:14.171412+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
     "headline": "Iran is Reviewing \u2018Concrete Proposals\u2019 on Nuclear Program, Officials Say",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9979,
-    "published_at": "2026-11-08T02:52:14.167965+00:00"
+    "published_at": "2026-11-09T03:10:33.494737+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
     "headline": "Lana Nusseibeh\u2019s U.N. Bid Collides With U.A.E.\u2019s Role in Sudan",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9959,
-    "published_at": "2026-11-08T02:52:14.166849+00:00"
+    "published_at": "2026-11-09T03:10:33.494032+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
+    "headline": "The Dark Side of K-Pop",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9898,
+    "published_at": "2026-11-09T03:10:33.491976+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
     "headline": "Who\u2019s Hiding Secrets About Dag Hammarskj\u00f6ld\u2019s Death?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7044,
-    "published_at": "2026-11-08T02:52:14.159035+00:00"
+    "published_at": "2026-11-09T03:10:33.489172+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
     "headline": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9782,
-    "published_at": "2026-11-08T02:52:14.157956+00:00"
+    "published_at": "2026-11-09T03:10:33.488473+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
-    "headline": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
+    "source_uri": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
+    "headline": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9823,
-    "published_at": "2026-11-08T02:52:14.154462+00:00"
+    "confidence_score": 0.9902,
+    "published_at": "2026-11-09T03:10:33.487799+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-    "headline": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-11-08T02:52:14.151178+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+    "headline": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9929,
+    "published_at": "2026-11-09T03:10:33.486435+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
-    "headline": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+    "source_uri": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
+    "headline": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-11-08T02:52:14.147836+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
-    "headline": "Tanzania\u2019s Opposition Leader Gets a Four-Year Sentence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9802,
-    "published_at": "2026-11-08T02:52:14.145552+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
-    "headline": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-11-08T02:52:14.140003+00:00"
+    "confidence_score": 0.7987,
+    "published_at": "2026-11-09T03:10:33.478703+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
     "headline": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.981,
-    "published_at": "2026-11-08T02:52:14.132312+00:00"
+    "published_at": "2026-11-09T03:10:33.473136+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-    "headline": "US midterm results spark fears in Israel over future of two countries' ties",
+    "source_uri": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+    "headline": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-11-08T02:52:14.022957+00:00"
+    "confidence_score": 0.997,
+    "published_at": "2026-11-09T03:10:33.470354+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Four things we learned this week about 2028 White House race",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.683,
-    "published_at": "2026-11-08T02:52:14.019470+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+    "headline": "Samoan Chef Brings Flavors of Home to New Zealand\u2019s Fine-Dining Scene",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-11-09T03:10:33.464714+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-    "headline": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+    "source_uri": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+    "headline": "Polluted Delhi Tries \u2018Green\u2019 Fireworks to Clear the Air at Diwali",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.995,
-    "published_at": "2026-11-08T02:52:14.013716+00:00"
+    "confidence_score": 0.9972,
+    "published_at": "2026-11-09T03:10:33.464019+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-    "headline": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+    "headline": "The young Somali woman changing how the world sees Mogadishu",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-11-09T03:10:33.259823+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+    "headline": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-11-08T02:52:14.012602+00:00"
+    "confidence_score": 0.9997,
+    "published_at": "2026-11-09T03:10:33.257494+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-09T03:10:33.256102+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+    "headline": "How the deadly shooting in Krakow unfolded",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9903,
+    "published_at": "2026-11-09T03:10:33.254711+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9846,
+    "published_at": "2026-11-09T03:10:33.248836+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
     "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9842,
-    "published_at": "2026-11-08T02:52:14.006674+00:00"
+    "published_at": "2026-11-09T03:10:33.247426+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Paraguay's former president charged after bank collapse",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Italian foreign minister says hackers leaked his personal data",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-11-08T02:52:14.003058+00:00"
+    "confidence_score": 0.9935,
+    "published_at": "2026-11-09T03:10:33.246732+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-    "headline": "US offers $20m reward for information about Iran's nuclear programme",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5972,
-    "published_at": "2026-11-08T02:52:13.997387+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+    "headline": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9997,
+    "published_at": "2026-11-09T03:10:33.244564+00:00"
   }
 ]
