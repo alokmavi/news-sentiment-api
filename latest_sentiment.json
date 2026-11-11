@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
-    "headline": "European Countries Push, Again, To Deport Migrants to Rwanda",
+    "source_uri": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+    "headline": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9451,
-    "published_at": "2026-11-10T04:53:25.458454+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
-    "headline": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9574,
-    "published_at": "2026-11-10T04:53:25.455598+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
-    "headline": "Tanzania\u2019s Opposition Leader Gets a Four-Year Sentence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9802,
-    "published_at": "2026-11-10T04:53:25.453459+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-    "headline": "How Israel\u2019s Opposition Could Unseat Netanyahu (or Not)",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-11-10T04:53:25.451965+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-    "headline": "New Zealand\u2019s Election \u2018Too Close to Call\u2019 as Voters Turn to Minor Parties",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.976,
-    "published_at": "2026-11-10T04:53:25.450548+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-    "headline": "Another Day of France\u2019s Protests Unfurl During an Autumn of Discontent",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9248,
-    "published_at": "2026-11-10T04:53:25.449094+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-    "headline": "South Africa\u2019s Politics May Never Be the Same Again",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-11-10T04:53:25.437966+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-    "headline": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9616,
-    "published_at": "2026-11-10T04:53:25.437240+00:00"
+    "confidence_score": 0.9284,
+    "published_at": "2026-11-11T03:18:01.186019+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
     "headline": "China\u2019s Trade Surplus Passes $1 Trillion at Record Pace",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.7995,
-    "published_at": "2026-11-10T04:53:25.432029+00:00"
+    "published_at": "2026-11-11T03:18:01.163146+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
-    "headline": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+    "source_uri": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
+    "headline": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9895,
+    "published_at": "2026-11-11T03:18:01.156390+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
+    "headline": "Rubio Says \u2018Major Combat Operations\u2019 in Iran War Are No Longer Needed",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9977,
+    "published_at": "2026-11-11T03:18:01.152999+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+    "headline": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9689,
+    "published_at": "2026-11-11T03:18:01.150729+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
+    "headline": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-11-11T03:18:01.149632+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+    "headline": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-11-11T03:18:01.146243+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+    "headline": "Gaza Floods Kill 4",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-11-11T03:18:01.140575+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
+    "headline": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-11-11T03:18:01.138287+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+    "headline": "U.S. Received $12 Billion From Venezuela\u2019s Oil, Report Shows",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9971,
-    "published_at": "2026-11-10T04:53:25.426034+00:00"
+    "published_at": "2026-11-11T03:18:01.135941+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-    "headline": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+    "headline": "The superpower battle over energy \u2013 and what it means for your bills",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9736,
-    "published_at": "2026-11-10T04:53:25.215182+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9338,
-    "published_at": "2026-11-10T04:53:25.211255+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Thirteen migrants die after boat sinks off Crete",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9538,
-    "published_at": "2026-11-10T04:53:25.208807+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-    "headline": "Krakow shooting suspect has died in hospital, police say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9881,
-    "published_at": "2026-11-10T04:53:25.208184+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-    "headline": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9957,
-    "published_at": "2026-11-10T04:53:25.207544+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Turkey steel factory blast kills at least 17 people",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9465,
-    "published_at": "2026-11-10T04:53:25.204405+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9979,
-    "published_at": "2026-11-10T04:53:25.202494+00:00"
+    "confidence_score": 0.9922,
+    "published_at": "2026-11-11T03:18:00.871230+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-    "headline": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+    "headline": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.996,
-    "published_at": "2026-11-10T04:53:25.201143+00:00"
+    "published_at": "2026-11-11T03:18:00.870118+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+    "headline": "Why does Australia want Brits to swap Sydney for the outback?",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-11-10T04:53:25.198721+00:00"
+    "confidence_score": 0.9305,
+    "published_at": "2026-11-11T03:18:00.864552+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9049,
-    "published_at": "2026-11-10T04:53:25.184862+00:00"
+    "confidence_score": 0.991,
+    "published_at": "2026-11-11T03:18:00.858913+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+    "headline": "'Cruise for life' ship seized in Singapore",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-11-11T03:18:00.854222+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9981,
+    "published_at": "2026-11-11T03:18:00.846241+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+    "headline": "French wartime resistance heroine Solange Alexandre dies aged 104",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9927,
+    "published_at": "2026-11-11T03:18:00.845107+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+    "headline": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9416,
+    "published_at": "2026-11-11T03:18:00.837169+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+    "headline": "'It can kill us': Kenyans fear impact of El Ni\u00f1o with floods predicted",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9238,
+    "published_at": "2026-11-11T03:18:00.833633+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+    "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9894,
+    "published_at": "2026-11-11T03:18:00.831225+00:00"
   }
 ]
