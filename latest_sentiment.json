@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-    "headline": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9284,
-    "published_at": "2026-11-11T03:18:01.186019+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
+    "headline": "Haaretz Expands US Presence Amid Israel\u2019s Move to the Right",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.869,
+    "published_at": "2026-11-12T04:30:34.905153+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-    "headline": "China\u2019s Trade Surplus Passes $1 Trillion at Record Pace",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7995,
-    "published_at": "2026-11-11T03:18:01.163146+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+    "headline": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-11-12T04:30:34.901552+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
-    "headline": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9895,
-    "published_at": "2026-11-11T03:18:01.156390+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
-    "headline": "Rubio Says \u2018Major Combat Operations\u2019 in Iran War Are No Longer Needed",
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+    "headline": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9977,
-    "published_at": "2026-11-11T03:18:01.152999+00:00"
+    "published_at": "2026-11-12T04:30:34.897977+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
+    "headline": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9735,
+    "published_at": "2026-11-12T04:30:34.894392+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
+    "headline": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9761,
+    "published_at": "2026-11-12T04:30:34.892031+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
+    "headline": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9942,
+    "published_at": "2026-11-12T04:30:34.886068+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
     "headline": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9689,
-    "published_at": "2026-11-11T03:18:01.150729+00:00"
+    "published_at": "2026-11-12T04:30:34.881356+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
-    "headline": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.993,
-    "published_at": "2026-11-11T03:18:01.149632+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
-    "headline": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
+    "headline": "Protesters Throw Projectiles at Biden During Dublin Trip",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-11-11T03:18:01.146243+00:00"
+    "confidence_score": 0.9939,
+    "published_at": "2026-11-12T04:30:34.877812+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-    "headline": "Gaza Floods Kill 4",
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+    "headline": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-11-11T03:18:01.140575+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
-    "headline": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-11-11T03:18:01.138287+00:00"
+    "confidence_score": 0.9564,
+    "published_at": "2026-11-12T04:30:34.870733+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
     "headline": "U.S. Received $12 Billion From Venezuela\u2019s Oil, Report Shows",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9971,
-    "published_at": "2026-11-11T03:18:01.135941+00:00"
+    "published_at": "2026-11-12T04:30:34.867860+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-    "headline": "The superpower battle over energy \u2013 and what it means for your bills",
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+    "headline": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9922,
-    "published_at": "2026-11-11T03:18:00.871230+00:00"
+    "confidence_score": 0.9772,
+    "published_at": "2026-11-12T04:30:34.866596+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-    "headline": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+    "headline": "A Museum\u2019s \u2018Wanted\u2019 Poster Campaign Brings Looted Painting Back to France",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9757,
+    "published_at": "2026-11-12T04:30:34.865328+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+    "headline": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9884,
+    "published_at": "2026-11-12T04:30:34.861461+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+    "headline": "Alexander Darchiev, Russia\u2019s Ambassador to the U.S., Dies at 66",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7034,
+    "published_at": "2026-11-12T04:30:34.856373+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+    "headline": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-11-11T03:18:00.870118+00:00"
+    "confidence_score": 0.5737,
+    "published_at": "2026-11-12T04:30:34.853777+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+    "headline": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9993,
+    "published_at": "2026-11-12T04:30:34.739468+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
     "headline": "Why does Australia want Brits to swap Sydney for the outback?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9305,
-    "published_at": "2026-11-11T03:18:00.864552+00:00"
+    "published_at": "2026-11-12T04:30:34.738244+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Transport workers in Chile block highways in protest over surging fuel prices",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.991,
-    "published_at": "2026-11-11T03:18:00.858913+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-11-12T04:30:34.726067+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-    "headline": "'Cruise for life' ship seized in Singapore",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-11-11T03:18:00.854222+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-11-11T03:18:00.846241+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-    "headline": "French wartime resistance heroine Solange Alexandre dies aged 104",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+    "headline": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9927,
-    "published_at": "2026-11-11T03:18:00.845107+00:00"
+    "confidence_score": 0.9846,
+    "published_at": "2026-11-12T04:30:34.714423+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-    "headline": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9416,
-    "published_at": "2026-11-11T03:18:00.837169+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-    "headline": "'It can kill us': Kenyans fear impact of El Ni\u00f1o with floods predicted",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9238,
-    "published_at": "2026-11-11T03:18:00.833633+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-    "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9894,
-    "published_at": "2026-11-11T03:18:00.831225+00:00"
+    "confidence_score": 0.9949,
+    "published_at": "2026-11-12T04:30:34.687624+00:00"
   }
 ]
