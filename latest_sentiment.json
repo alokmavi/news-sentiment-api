@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
-    "headline": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+    "headline": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9761,
-    "published_at": "2026-11-13T03:45:06.474911+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html",
-    "headline": "Jemima Goldsmith, Russell Brand\u2019s Ex-Partner, Accuses Him of Abuse",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9348,
-    "published_at": "2026-11-13T03:45:06.471937+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
-    "headline": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9959,
-    "published_at": "2026-11-13T03:45:06.470418+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
-    "headline": "Novaya Gazeta, Russia\u2019s Bravest Newspaper, Closes",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8845,
-    "published_at": "2026-11-13T03:45:06.469642+00:00"
+    "confidence_score": 0.9772,
+    "published_at": "2026-11-14T03:43:59.870958+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
     "headline": "No Good Choices on Iran",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9947,
-    "published_at": "2026-11-13T03:45:06.467511+00:00"
+    "published_at": "2026-11-14T03:43:59.869666+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
-    "headline": "On Dakar\u2019s Packed Beaches, Africa Welcomes Its First Youth Olympics",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-11-13T03:45:06.465697+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
-    "headline": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-11-13T03:45:06.461030+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/pope-leo-peru-visit-lima.html",
-    "headline": "Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-11-13T03:45:06.460454+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-    "headline": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
+    "headline": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-11-13T03:45:06.459859+00:00"
+    "confidence_score": 0.9145,
+    "published_at": "2026-11-14T03:43:59.867124+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-    "headline": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9262,
-    "published_at": "2026-11-13T03:45:06.456938+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
+    "headline": "This Defense Makes Drones (and GPS) Think They\u2019re in Peru",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9963,
+    "published_at": "2026-11-14T03:43:59.863234+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
     "headline": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9979,
-    "published_at": "2026-11-13T03:45:06.453440+00:00"
+    "published_at": "2026-11-14T03:43:59.858092+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-    "headline": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+    "headline": "Judge Allows Trump\u2019s Defamation Lawsuit Against the BBC to Proceed",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.5737,
-    "published_at": "2026-11-13T03:45:06.452855+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-11-14T03:43:59.856768+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-    "headline": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+    "headline": "A.I. and Market Whiplash",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-11-14T03:43:59.849139+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/pope-leo-peru-visit-lima.html",
+    "headline": "Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-11-14T03:43:59.846619+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+    "headline": "A Key Paris Agreement Goal Is Dead. What Now?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.7401,
+    "published_at": "2026-11-14T03:43:59.841300+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+    "headline": "Microsoft\u2019s Global Outage and Fixes: What We Know",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-11-14T03:43:59.831874+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
+    "headline": "Chiclayo, Pope Leo\u2019s Other Home, Comes Out In Force to Welcome Father Robert",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-11-14T03:43:59.825807+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+    "headline": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9724,
+    "published_at": "2026-11-14T03:43:59.822736+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+    "headline": "She Is Rewriting Mexico\u2019s Ballads, One Woman\u2019s Story at a Time",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-14T03:43:59.821687+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+    "headline": "Eisenkot Accuses Netanyahu of Fueling \u2018Racist\u2019 Hostility Against Arabs",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.991,
+    "published_at": "2026-11-14T03:43:59.810027+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+    "headline": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.979,
+    "published_at": "2026-11-14T03:43:59.547600+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9978,
-    "published_at": "2026-11-13T03:45:06.447835+00:00"
+    "published_at": "2026-11-14T03:43:59.546157+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-    "headline": "'It can kill us': Kenyans fear impact of El Ni\u00f1o with floods predicted",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+    "headline": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8676,
+    "published_at": "2026-11-14T03:43:59.541029+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+    "headline": "Will the Eurovision Song Contest succeed in Asia?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9238,
-    "published_at": "2026-11-13T03:45:06.315435+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-11-14T03:43:59.538519+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-    "headline": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9954,
-    "published_at": "2026-11-13T03:45:06.314716+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-    "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9667,
-    "published_at": "2026-11-13T03:45:06.307083+00:00"
+    "confidence_score": 0.9969,
+    "published_at": "2026-11-14T03:43:59.526275+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: How a server outage took down Microsoft Teams and Outlook",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6172,
-    "published_at": "2026-11-13T03:45:06.305569+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-    "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9621,
-    "published_at": "2026-11-13T03:45:06.302033+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "headline": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9924,
-    "published_at": "2026-11-13T03:45:06.296036+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Australian footballers will not be charged after hotel incident, police say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9771,
-    "published_at": "2026-11-13T03:45:06.295122+00:00"
+    "confidence_score": 0.9839,
+    "published_at": "2026-11-14T03:43:59.522651+00:00"
   }
 ]
