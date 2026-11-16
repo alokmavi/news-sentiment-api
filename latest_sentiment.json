@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
-    "headline": "This Defense Makes Drones (and GPS) Think They\u2019re in Peru",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-11-15T03:19:35.976531+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
-    "headline": "A Museum\u2019s \u2018Wanted\u2019 Poster Campaign Brings Looted Painting Back to France",
+    "source_uri": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+    "headline": "She Is Rewriting Mexico\u2019s Ballads, One Woman\u2019s Story at a Time",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9757,
-    "published_at": "2026-11-15T03:19:35.975328+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
-    "headline": "Alexander Darchiev, Russia\u2019s Ambassador to the U.S., Dies at 66",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7034,
-    "published_at": "2026-11-15T03:19:35.964809+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
-    "headline": "A.I. and Market Whiplash",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-11-15T03:19:35.963557+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-    "headline": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9944,
-    "published_at": "2026-11-15T03:19:35.959820+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-16T03:22:10.484318+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
     "headline": "In China\u2019s Spy Operations, Romance Can Be a Long Game",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.995,
-    "published_at": "2026-11-15T03:19:35.955110+00:00"
+    "published_at": "2026-11-16T03:22:10.482458+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-    "headline": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9939,
-    "published_at": "2026-11-15T03:19:35.950380+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+    "headline": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9724,
+    "published_at": "2026-11-16T03:22:10.481834+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
-    "headline": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-11-15T03:19:35.938438+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+    "headline": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9978,
+    "published_at": "2026-11-16T03:22:10.481243+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-    "headline": "Here\u2019s the latest.",
+    "source_uri": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+    "headline": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-11-15T03:19:35.936055+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
-    "headline": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-11-15T03:19:35.932539+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
-    "headline": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9956,
-    "published_at": "2026-11-15T03:19:35.930128+00:00"
+    "confidence_score": 0.9624,
+    "published_at": "2026-11-16T03:22:10.477953+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
     "headline": "After Xi Purges China\u2019s Generals, a Military Inquisitor Rises",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.8471,
-    "published_at": "2026-11-15T03:19:35.923052+00:00"
+    "published_at": "2026-11-16T03:22:10.472286+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
+    "headline": "African Miss Universe Contestants Struggle to Get U.S. Visas",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-11-16T03:22:10.469057+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
+    "headline": "Chiclayo, Pope Leo\u2019s Other Home, Comes Out In Force to Welcome Father Robert",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9984,
+    "published_at": "2026-11-16T03:22:10.467165+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+    "headline": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9795,
+    "published_at": "2026-11-16T03:22:10.463434+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+    "headline": "South Sudan\u2019s National Election, Its First, Will Be Delayed",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9958,
+    "published_at": "2026-11-16T03:22:10.462801+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+    "headline": "Too Many Chips in One Basket?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-11-16T03:22:10.461570+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+    "headline": "Miguel \u00c1ngel F\u00e9lix Gallardo, Mexican Drug Lord, Dies in Prison",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9864,
+    "published_at": "2026-11-16T03:22:10.460957+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+    "headline": "Eisenkot Accuses Netanyahu of Fueling \u2018Racist\u2019 Hostility Against Arabs",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.991,
+    "published_at": "2026-11-16T03:22:10.459725+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+    "headline": "Ukraine\u2019s Starshield Access Is Being Restricted Again, Zelensky Says",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9954,
+    "published_at": "2026-11-16T03:22:10.457825+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
     "headline": "\u2018Get Focused on London\u2019: How Iran\u2019s Agents Attacked European Targets",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9713,
-    "published_at": "2026-11-15T03:19:35.911257+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-    "headline": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.979,
-    "published_at": "2026-11-15T03:19:35.792341+00:00"
+    "published_at": "2026-11-16T03:22:10.457161+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
     "headline": "How telecoms upgrade work sparked US flight chaos",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.998,
-    "published_at": "2026-11-15T03:19:35.789897+00:00"
+    "published_at": "2026-11-16T03:22:10.190900+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Judo champion shakes up French  presidential race with surprise candidacy",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+    "headline": "Russia's mega-rich are already imagining a future after Putin",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-11-15T03:19:35.787522+00:00"
+    "confidence_score": 0.7858,
+    "published_at": "2026-11-16T03:22:10.189005+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-11-15T03:19:35.782642+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-    "headline": "Microsoft says services fully restored after day-long global outage",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Police ban protests near 10 schools and five universities in Paris",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6618,
-    "published_at": "2026-11-15T03:19:35.778590+00:00"
+    "confidence_score": 0.9298,
+    "published_at": "2026-11-16T03:22:10.185255+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+    "headline": "Czechs rally against plan to switch funding of public media",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-11-15T03:19:35.772545+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-11-16T03:22:10.184605+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-    "headline": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-11-15T03:19:35.744623+00:00"
+    "confidence_score": 0.9206,
+    "published_at": "2026-11-16T03:22:10.177669+00:00"
   }
 ]
