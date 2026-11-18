@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
-    "headline": "Paul Barril, French \u2018Supergendarme\u2019 Turned Mercenary, Has Died",
+    "source_uri": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+    "headline": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-11-18T04:49:53.329532+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+    "headline": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9874,
+    "published_at": "2026-11-18T04:49:53.326688+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+    "headline": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9929,
+    "published_at": "2026-11-18T04:49:53.321779+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+    "headline": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7819,
-    "published_at": "2026-11-17T05:22:42.599714+00:00"
+    "confidence_score": 0.9943,
+    "published_at": "2026-11-18T04:49:53.320388+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-    "headline": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9852,
-    "published_at": "2026-11-17T05:22:42.598566+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
-    "headline": "African Miss Universe Contestants Struggle to Get U.S. Visas",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-11-17T05:22:42.583039+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
-    "headline": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9977,
-    "published_at": "2026-11-17T05:22:42.580563+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
-    "headline": "Two Celebrity Cases Put a Spotlight on British Courts\u2019 Gag Orders",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.955,
-    "published_at": "2026-11-17T05:22:42.578148+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-    "headline": "Trump\u2019s Oil Grab in Venezuela Is Testing the Country\u2019s National Identity",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-11-17T05:22:42.575767+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
-    "headline": "Asian love ballads test Eurovision\u2019s winning song formula.",
+    "source_uri": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
+    "headline": "The Death of \u2018Keep 1.5 Alive\u2019",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.998,
-    "published_at": "2026-11-17T05:22:42.569817+00:00"
+    "confidence_score": 0.7287,
+    "published_at": "2026-11-18T04:49:53.315169+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-    "headline": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9891,
-    "published_at": "2026-11-17T05:22:42.562689+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-    "headline": "Iran Attacks Bahrain for the Second Time in Days",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-11-17T05:22:42.558994+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-    "headline": "Miguel \u00c1ngel F\u00e9lix Gallardo, Mexican Drug Lord, Dies in Prison",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9864,
-    "published_at": "2026-11-17T05:22:42.554250+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-    "headline": "Canada\u2019s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+    "source_uri": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
+    "headline": "Trump Has Praised Marcos\u2019s Family Legacy. His Father Was a Dictator.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9845,
-    "published_at": "2026-11-17T05:22:42.545837+00:00"
+    "confidence_score": 0.9856,
+    "published_at": "2026-11-18T04:49:53.312247+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
-    "headline": "They Defeated a Strongman. But Can They Run a Country?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9993,
-    "published_at": "2026-11-17T05:22:42.543444+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
-    "headline": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8498,
-    "published_at": "2026-11-17T05:22:42.538582+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-    "headline": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-11-17T05:22:42.537298+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-    "headline": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "source_uri": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-plan-for-ai-supremacy-fuels-resistance-in-the-philippines",
+    "headline": "Trump\u2019s plan for A.I. supremacy fuels resistance in the Philippines.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6117,
-    "published_at": "2026-11-17T05:22:42.256124+00:00"
+    "confidence_score": 0.9856,
+    "published_at": "2026-11-18T04:49:53.309345+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Pope Leo rides in helicopter cockpit during Peru trip",
+    "source_uri": "https://www.nytimes.com/2026/11/17/world/asia/anne-thurston-dead.html",
+    "headline": "Anne Thurston Has Died. She Revealed Salacious Details of Mao\u2019s Life.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9433,
-    "published_at": "2026-11-17T05:22:42.254574+00:00"
+    "confidence_score": 0.5799,
+    "published_at": "2026-11-18T04:49:53.305713+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+    "headline": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9916,
+    "published_at": "2026-11-18T04:49:53.304251+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+    "headline": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9653,
+    "published_at": "2026-11-18T04:49:53.296198+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+    "headline": "Carney and Xi Announce Canada-China Trade Pact",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9725,
+    "published_at": "2026-11-18T04:49:53.295500+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
+    "headline": "From Failed Businessman to Accused Plotter in the Killing of Haiti\u2019s Leader",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9982,
+    "published_at": "2026-11-18T04:49:53.293355+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+    "headline": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9975,
+    "published_at": "2026-11-18T04:49:53.289643+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-11-18T04:49:53.180103+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9965,
+    "published_at": "2026-11-18T04:49:53.179378+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+    "headline": "New York teen reunites with cat missing after building collapse",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9982,
+    "published_at": "2026-11-18T04:49:53.178672+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
     "headline": "Street cricket with a legend then metro ride as William and Kate begin India visit",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9963,
-    "published_at": "2026-11-17T05:22:42.251264+00:00"
+    "published_at": "2026-11-18T04:49:53.177935+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
-    "headline": "Raye, Rosal\u00eda and Dolly Parton recognised in Grammy nominations",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Will President Trump meet Kim Jong Un?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-11-17T05:22:42.246377+00:00"
+    "confidence_score": 0.9936,
+    "published_at": "2026-11-18T04:49:53.177200+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Two mass shootings in South Africa leave 17 dead",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9934,
-    "published_at": "2026-11-17T05:22:42.242720+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+    "headline": "UK sanctions firms over Israeli West Bank settlements",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9813,
+    "published_at": "2026-11-18T04:49:53.173478+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-    "headline": "When will we see Robert Pattinson as Bond in cinemas?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-11-17T05:22:42.237906+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+    "headline": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7681,
+    "published_at": "2026-11-18T04:49:53.165128+00:00"
   }
 ]
