@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-    "headline": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-11-18T04:49:53.329532+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
-    "headline": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9874,
-    "published_at": "2026-11-18T04:49:53.326688+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
-    "headline": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-11-18T04:49:53.321779+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-    "headline": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
+    "source_uri": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
+    "headline": "A tropical Chinese city is half-empty and ready for the summit.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-11-18T04:49:53.320388+00:00"
+    "confidence_score": 0.9992,
+    "published_at": "2026-11-19T04:41:49.147819+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
-    "headline": "The Death of \u2018Keep 1.5 Alive\u2019",
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+    "headline": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9992,
+    "published_at": "2026-11-19T04:41:49.142901+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+    "headline": "The Shadow of Yalta Hangs Over Trump\u2019s Summit in China",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7287,
-    "published_at": "2026-11-18T04:49:53.315169+00:00"
+    "confidence_score": 0.9958,
+    "published_at": "2026-11-19T04:41:49.140784+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-meeting-philippines.html",
-    "headline": "Trump Has Praised Marcos\u2019s Family Legacy. His Father Was a Dictator.",
+    "source_uri": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+    "headline": "Here\u2019s the latest.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9856,
-    "published_at": "2026-11-18T04:49:53.312247+00:00"
+    "confidence_score": 0.9775,
+    "published_at": "2026-11-19T04:41:49.135227+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-plan-for-ai-supremacy-fuels-resistance-in-the-philippines",
-    "headline": "Trump\u2019s plan for A.I. supremacy fuels resistance in the Philippines.",
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
+    "headline": "Florida Man Found Guilty in Plot to Kill Haiti\u2019s President",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9665,
+    "published_at": "2026-11-19T04:41:49.133095+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
+    "headline": "Was China Sending a Musical Message to Japan\u2019s Takaichi During APEC Welcome?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9673,
+    "published_at": "2026-11-19T04:41:49.132417+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+    "headline": "Leaders of China and Japan Meet Amid Political Feud",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9856,
-    "published_at": "2026-11-18T04:49:53.309345+00:00"
+    "confidence_score": 0.9971,
+    "published_at": "2026-11-19T04:41:49.126031+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/17/world/asia/anne-thurston-dead.html",
-    "headline": "Anne Thurston Has Died. She Revealed Salacious Details of Mao\u2019s Life.",
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+    "headline": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9986,
+    "published_at": "2026-11-19T04:41:49.124639+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+    "headline": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5799,
-    "published_at": "2026-11-18T04:49:53.305713+00:00"
+    "confidence_score": 0.974,
+    "published_at": "2026-11-19T04:41:49.122268+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "headline": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+    "headline": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-11-18T04:49:53.304251+00:00"
+    "confidence_score": 0.9548,
+    "published_at": "2026-11-19T04:41:49.033930+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
-    "headline": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9653,
-    "published_at": "2026-11-18T04:49:53.296198+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
-    "headline": "Carney and Xi Announce Canada-China Trade Pact",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9725,
-    "published_at": "2026-11-18T04:49:53.295500+00:00"
+    "confidence_score": 0.9751,
+    "published_at": "2026-11-19T04:41:49.032503+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
-    "headline": "From Failed Businessman to Accused Plotter in the Killing of Haiti\u2019s Leader",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-11-18T04:49:53.293355+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-    "headline": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-11-18T04:49:53.289643+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-    "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9983,
-    "published_at": "2026-11-18T04:49:53.180103+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-    "headline": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9965,
-    "published_at": "2026-11-18T04:49:53.179378+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-    "headline": "New York teen reunites with cat missing after building collapse",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9982,
-    "published_at": "2026-11-18T04:49:53.178672+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+    "headline": "Why has Waymo pulled all its driverless cars from US freeways?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9963,
-    "published_at": "2026-11-18T04:49:53.177935+00:00"
+    "confidence_score": 0.9575,
+    "published_at": "2026-11-19T04:41:49.030376+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Will President Trump meet Kim Jong Un?",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-19T04:41:49.028878+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+    "headline": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-11-19T04:41:49.020780+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-11-19T04:41:49.020048+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9985,
+    "published_at": "2026-11-19T04:41:49.018677+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9936,
-    "published_at": "2026-11-18T04:49:53.177200+00:00"
+    "confidence_score": 0.9594,
+    "published_at": "2026-11-19T04:41:49.013844+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-    "headline": "UK sanctions firms over Israeli West Bank settlements",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9813,
-    "published_at": "2026-11-18T04:49:53.173478+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+    "headline": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9994,
+    "published_at": "2026-11-19T04:41:49.013135+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-    "headline": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+    "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.7681,
-    "published_at": "2026-11-18T04:49:53.165128+00:00"
+    "confidence_score": 0.9938,
+    "published_at": "2026-11-19T04:41:49.011124+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9949,
+    "published_at": "2026-11-19T04:41:48.996866+00:00"
   }
 ]
