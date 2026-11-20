@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
-    "headline": "A tropical Chinese city is half-empty and ready for the summit.",
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+    "headline": "Grand Theft Auto: An American Icon, Born in Britain",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-11-19T04:41:49.147819+00:00"
+    "confidence_score": 0.9829,
+    "published_at": "2026-11-20T04:32:21.804667+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-    "headline": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9992,
-    "published_at": "2026-11-19T04:41:49.142901+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-    "headline": "The Shadow of Yalta Hangs Over Trump\u2019s Summit in China",
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
+    "headline": "Uncontacted Aw\u00e1 of Brazil Emerge From Rainforest Seeking Food",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9958,
-    "published_at": "2026-11-19T04:41:49.140784+00:00"
+    "confidence_score": 0.8014,
+    "published_at": "2026-11-20T04:32:21.803510+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
-    "headline": "Here\u2019s the latest.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9775,
-    "published_at": "2026-11-19T04:41:49.135227+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
-    "headline": "Florida Man Found Guilty in Plot to Kill Haiti\u2019s President",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9665,
-    "published_at": "2026-11-19T04:41:49.133095+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
-    "headline": "Was China Sending a Musical Message to Japan\u2019s Takaichi During APEC Welcome?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9673,
-    "published_at": "2026-11-19T04:41:49.132417+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
-    "headline": "Leaders of China and Japan Meet Amid Political Feud",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-11-19T04:41:49.126031+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
-    "headline": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9986,
-    "published_at": "2026-11-19T04:41:49.124639+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-    "headline": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.974,
-    "published_at": "2026-11-19T04:41:49.122268+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-    "headline": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9548,
-    "published_at": "2026-11-19T04:41:49.033930+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9751,
-    "published_at": "2026-11-19T04:41:49.032503+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-    "headline": "Why has Waymo pulled all its driverless cars from US freeways?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9575,
-    "published_at": "2026-11-19T04:41:49.030376+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Rubio says US not 'under systemic attack' after series of tech outages",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-11-19T04:41:49.028878+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-    "headline": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-11-19T04:41:49.020780+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-    "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+    "headline": "After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9969,
-    "published_at": "2026-11-19T04:41:49.020048+00:00"
+    "published_at": "2026-11-20T04:32:21.791630+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-11-19T04:41:49.018677+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+    "source_uri": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+    "headline": "See how New York Times photographers covered the aftermath of Myanmar\u2019s 2017 attacks on the Rohingya.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9594,
-    "published_at": "2026-11-19T04:41:49.013844+00:00"
+    "confidence_score": 0.9744,
+    "published_at": "2026-11-20T04:32:21.775056+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-    "headline": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-11-19T04:41:49.013135+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-    "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
+    "headline": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9938,
-    "published_at": "2026-11-19T04:41:49.011124+00:00"
+    "confidence_score": 0.9039,
+    "published_at": "2026-11-20T04:32:21.773859+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
+    "headline": "Love and Carjackings in a Video Game",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9988,
+    "published_at": "2026-11-20T04:32:21.767625+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
+    "headline": "Unexpected Fallout From the Iran War",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9887,
+    "published_at": "2026-11-20T04:32:21.766380+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
+    "headline": "Colombia\u2019s President Is Acquiring a Reputation for Courting Controversy",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-11-20T04:32:21.765174+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+    "headline": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9788,
+    "published_at": "2026-11-20T04:32:21.764006+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+    "headline": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6463,
+    "published_at": "2026-11-20T04:32:21.762830+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+    "headline": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9447,
+    "published_at": "2026-11-20T04:32:21.748255+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+    "headline": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9888,
+    "published_at": "2026-11-20T04:32:21.523428+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Canada is embracing AI data centres while the US pushes back",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8802,
+    "published_at": "2026-11-20T04:32:21.522193+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+    "headline": "How did Anthropic's stock market debut unfold?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9969,
+    "published_at": "2026-11-20T04:32:21.513189+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
     "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9949,
-    "published_at": "2026-11-19T04:41:48.996866+00:00"
+    "published_at": "2026-11-20T04:32:21.506751+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+    "headline": "Florida pastor found guilty over role in assassination of Haitian president",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8279,
+    "published_at": "2026-11-20T04:32:21.503011+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+    "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9893,
+    "published_at": "2026-11-20T04:32:21.499235+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Venezuela signs military deal with US less than a year after Maduro's removal",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9943,
+    "published_at": "2026-11-20T04:32:21.497962+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+    "headline": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9643,
+    "published_at": "2026-11-20T04:32:21.488988+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+    "headline": "California targets Nvidia in China AI chip probe",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9991,
+    "published_at": "2026-11-20T04:32:21.487734+00:00"
   }
 ]
