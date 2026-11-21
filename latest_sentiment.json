@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
-    "headline": "Grand Theft Auto: An American Icon, Born in Britain",
+    "source_uri": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
+    "headline": "How to Decode the Xi-Trump Hug",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9829,
-    "published_at": "2026-11-20T04:32:21.804667+00:00"
+    "confidence_score": 0.9993,
+    "published_at": "2026-11-21T04:25:09.134454+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
-    "headline": "Uncontacted Aw\u00e1 of Brazil Emerge From Rainforest Seeking Food",
+    "source_uri": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/aung-san-suu-kyi-did-not-condemn-the-pogroms-against-the-rohingya",
+    "headline": "Aung San Suu Kyi did not condemn the pogroms against the Rohingya.",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.8014,
-    "published_at": "2026-11-20T04:32:21.803510+00:00"
+    "confidence_score": 0.9305,
+    "published_at": "2026-11-21T04:25:09.123749+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
-    "headline": "After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?",
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+    "headline": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9941,
+    "published_at": "2026-11-21T04:25:09.115239+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
+    "headline": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-11-20T04:32:21.791630+00:00"
+    "confidence_score": 0.9966,
+    "published_at": "2026-11-21T04:25:09.112868+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-    "headline": "See how New York Times photographers covered the aftermath of Myanmar\u2019s 2017 attacks on the Rohingya.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9744,
-    "published_at": "2026-11-20T04:32:21.775056+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
-    "headline": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
+    "headline": "The Rohingya Crisis Over the Years",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9039,
-    "published_at": "2026-11-20T04:32:21.773859+00:00"
+    "confidence_score": 0.9673,
+    "published_at": "2026-11-21T04:25:09.106830+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
     "headline": "Love and Carjackings in a Video Game",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9988,
-    "published_at": "2026-11-20T04:32:21.767625+00:00"
+    "published_at": "2026-11-21T04:25:09.098207+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
     "headline": "Unexpected Fallout From the Iran War",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9887,
-    "published_at": "2026-11-20T04:32:21.766380+00:00"
+    "published_at": "2026-11-21T04:25:09.096768+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
-    "headline": "Colombia\u2019s President Is Acquiring a Reputation for Courting Controversy",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+    "headline": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.999,
-    "published_at": "2026-11-20T04:32:21.765174+00:00"
+    "published_at": "2026-11-21T04:25:09.089770+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-    "headline": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+    "source_uri": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+    "headline": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9788,
-    "published_at": "2026-11-20T04:32:21.764006+00:00"
+    "confidence_score": 0.9918,
+    "published_at": "2026-11-21T04:25:09.088396+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-    "headline": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+    "headline": "White Police Officers Are Convicted of Beating a Black Man in France",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6463,
-    "published_at": "2026-11-20T04:32:21.762830+00:00"
+    "confidence_score": 0.9947,
+    "published_at": "2026-11-21T04:25:09.085667+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+    "headline": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9916,
+    "published_at": "2026-11-21T04:25:09.082063+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
     "headline": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9447,
-    "published_at": "2026-11-20T04:32:21.748255+00:00"
+    "published_at": "2026-11-21T04:25:09.080875+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-    "headline": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+    "headline": "\u2018Russian Objects\u2019 Crashed in Poland, Officials Say. Here\u2019s What We Can See.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9888,
-    "published_at": "2026-11-20T04:32:21.523428+00:00"
+    "confidence_score": 0.9463,
+    "published_at": "2026-11-21T04:25:09.073301+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Why Canada is embracing AI data centres while the US pushes back",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+    "headline": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8802,
-    "published_at": "2026-11-20T04:32:21.522193+00:00"
+    "confidence_score": 0.9964,
+    "published_at": "2026-11-21T04:25:09.072022+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-    "headline": "How did Anthropic's stock market debut unfold?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9969,
-    "published_at": "2026-11-20T04:32:21.513189+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+    "headline": "A new Nepal, an old neighbour - Balendra Shah's India test",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9949,
-    "published_at": "2026-11-20T04:32:21.506751+00:00"
+    "confidence_score": 0.999,
+    "published_at": "2026-11-21T04:25:08.964267+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-    "headline": "Florida pastor found guilty over role in assassination of Haitian president",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8279,
-    "published_at": "2026-11-20T04:32:21.503011+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-11-21T04:25:08.962997+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-    "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9893,
-    "published_at": "2026-11-20T04:32:21.499235+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-    "headline": "Venezuela signs military deal with US less than a year after Maduro's removal",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-11-20T04:32:21.497962+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-    "headline": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+    "headline": "What the new UK-EU deal could mean for future post-Brexit relations",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9643,
-    "published_at": "2026-11-20T04:32:21.488988+00:00"
+    "confidence_score": 0.9709,
+    "published_at": "2026-11-21T04:25:08.956044+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-    "headline": "California targets Nvidia in China AI chip probe",
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Texas death-row inmate screams as execution takes more than one hour",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-11-20T04:32:21.487734+00:00"
+    "confidence_score": 0.9974,
+    "published_at": "2026-11-21T04:25:08.951212+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "headline": "French police officers sentenced for beating of music producer Michel Zecler",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8201,
+    "published_at": "2026-11-21T04:25:08.940375+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "headline": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9586,
+    "published_at": "2026-11-21T04:25:08.937577+00:00"
   }
 ]
