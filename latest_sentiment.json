@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
-    "headline": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+    "headline": "Inside a Rohingya Camp After a Genocide Ruling",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9975,
-    "published_at": "2026-11-22T03:40:00.846286+00:00"
+    "confidence_score": 0.9462,
+    "published_at": "2026-11-23T04:13:40.092222+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
-    "headline": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9941,
-    "published_at": "2026-11-22T03:40:00.844740+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-    "headline": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+    "headline": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8392,
-    "published_at": "2026-11-22T03:40:00.837702+00:00"
+    "confidence_score": 0.9618,
+    "published_at": "2026-11-23T04:13:40.091036+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
-    "headline": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9951,
-    "published_at": "2026-11-22T03:40:00.835303+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
+    "headline": "Greenland Pulls Closer to the U.S. \u2014 by an Hour",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.6291,
+    "published_at": "2026-11-23T04:13:40.089842+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-    "headline": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+    "headline": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5382,
-    "published_at": "2026-11-22T03:40:00.832217+00:00"
+    "confidence_score": 0.9947,
+    "published_at": "2026-11-23T04:13:40.078620+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
     "headline": "Love and Carjackings in a Video Game",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9988,
-    "published_at": "2026-11-22T03:40:00.831437+00:00"
+    "published_at": "2026-11-23T04:13:40.074967+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
-    "headline": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
+    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+    "headline": "4 British Men Convicted of Sexually Assaulting Joanne Young",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9918,
-    "published_at": "2026-11-22T03:40:00.825953+00:00"
+    "confidence_score": 0.9916,
+    "published_at": "2026-11-23T04:13:40.072535+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html",
-    "headline": "A Chinese Tech Hub Offers a Peek at the Electric Cars Headed for Canada",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9076,
-    "published_at": "2026-11-22T03:40:00.821974+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-    "headline": "The War Is Ravaging Ukraine\u2019s Wildlife, Too",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
+    "headline": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9528,
-    "published_at": "2026-11-22T03:40:00.816411+00:00"
+    "confidence_score": 0.8116,
+    "published_at": "2026-11-23T04:13:40.067608+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-    "headline": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+    "headline": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9905,
+    "published_at": "2026-11-23T04:13:40.057697+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
+    "headline": "A Butler School in the Netherlands Offers Entry Into a Gilded World",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-11-22T03:40:00.815614+00:00"
+    "confidence_score": 0.9971,
+    "published_at": "2026-11-23T04:13:40.055261+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-    "headline": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+    "source_uri": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+    "headline": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9864,
-    "published_at": "2026-11-22T03:40:00.808597+00:00"
+    "published_at": "2026-11-23T04:13:40.049135+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-    "headline": "ANC fights to keep control of South Africa's key cities after election setback",
+    "source_uri": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
+    "headline": "A Landmark Genocide Ruling",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9428,
+    "published_at": "2026-11-23T04:13:40.047869+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+    "headline": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9801,
+    "published_at": "2026-11-23T04:13:40.040541+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+    "headline": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-11-22T03:40:00.616706+00:00"
+    "confidence_score": 0.9892,
+    "published_at": "2026-11-23T04:13:40.034408+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-    "headline": "How a teen gamer and his mother helped rescue a missing girl",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.6518,
-    "published_at": "2026-11-22T03:40:00.613107+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-    "headline": "What we know about the latest Russian missile strikes on Ukraine",
+    "source_uri": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+    "headline": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9943,
-    "published_at": "2026-11-22T03:40:00.611994+00:00"
+    "confidence_score": 0.9403,
+    "published_at": "2026-11-23T04:13:40.033192+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Cost of living protests sweep across Europe",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.7548,
-    "published_at": "2026-11-22T03:40:00.610834+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-    "headline": "What the new UK-EU deal could mean for future post-Brexit relations",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9709,
-    "published_at": "2026-11-22T03:40:00.609693+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
-    "headline": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-11-22T03:40:00.608549+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-    "headline": "US declassifies more UFO footage filmed in the Middle East",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+    "headline": "They were fined $811m for conning detained migrants, but the scams didn't stop",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9292,
-    "published_at": "2026-11-22T03:40:00.607425+00:00"
+    "confidence_score": 0.9343,
+    "published_at": "2026-11-23T04:13:39.851642+00:00"
   },
   {
     "source_uri": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
     "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9991,
-    "published_at": "2026-11-22T03:40:00.593740+00:00"
+    "published_at": "2026-11-23T04:13:39.834268+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-    "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+    "headline": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9912,
+    "published_at": "2026-11-23T04:13:39.823422+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+    "headline": "Three killed and dozens missing after fire at Indonesian factory",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8047,
-    "published_at": "2026-11-22T03:40:00.568418+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-11-23T04:13:39.817487+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+    "headline": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9909,
+    "published_at": "2026-11-23T04:13:39.812513+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+    "headline": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9998,
+    "published_at": "2026-11-23T04:13:39.791676+00:00"
   }
 ]
