@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
-    "headline": "Inside a Rohingya Camp After a Genocide Ruling",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9462,
-    "published_at": "2026-11-23T04:13:40.092222+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
-    "headline": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9618,
-    "published_at": "2026-11-23T04:13:40.091036+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
-    "headline": "Greenland Pulls Closer to the U.S. \u2014 by an Hour",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.6291,
-    "published_at": "2026-11-23T04:13:40.089842+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-    "headline": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+    "headline": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share \u2018Values\u2019",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9947,
-    "published_at": "2026-11-23T04:13:40.078620+00:00"
+    "confidence_score": 0.9998,
+    "published_at": "2026-11-24T07:14:01.792066+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
-    "headline": "Love and Carjackings in a Video Game",
+    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+    "headline": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9988,
-    "published_at": "2026-11-23T04:13:40.074967+00:00"
+    "confidence_score": 0.9923,
+    "published_at": "2026-11-24T07:14:01.781683+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-    "headline": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+    "headline": "In France\u2019s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9916,
-    "published_at": "2026-11-23T04:13:40.072535+00:00"
+    "confidence_score": 0.9985,
+    "published_at": "2026-11-24T07:14:01.776488+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
-    "headline": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+    "headline": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9472,
+    "published_at": "2026-11-24T07:14:01.768549+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+    "headline": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.966,
+    "published_at": "2026-11-24T07:14:01.767133+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+    "headline": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9534,
+    "published_at": "2026-11-24T07:14:01.765799+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+    "headline": "Is Mexico Stepping Up in the War on Drugs?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9935,
+    "published_at": "2026-11-24T07:14:01.757877+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+    "headline": "Don Toliver Concert in Manchester Is Evacuated Over \u2018Unknown Substance\u2019",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8116,
-    "published_at": "2026-11-23T04:13:40.067608+00:00"
+    "confidence_score": 0.979,
+    "published_at": "2026-11-24T07:14:01.753805+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
-    "headline": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+    "source_uri": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+    "headline": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9972,
+    "published_at": "2026-11-24T07:14:01.752505+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+    "headline": "COP31 Climate Talks Broke Down. Now What?",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9843,
+    "published_at": "2026-11-24T07:14:01.751249+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+    "headline": "The Return of Jensen Huang",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-11-24T07:14:01.749877+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+    "headline": "Radio Offers Russian Troops Classic Rock, Nostalgia \u2014 and Pleas to Surrender",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9905,
-    "published_at": "2026-11-23T04:13:40.057697+00:00"
+    "confidence_score": 0.9976,
+    "published_at": "2026-11-24T07:14:01.746008+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
-    "headline": "A Butler School in the Netherlands Offers Entry Into a Gilded World",
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+    "headline": "Pope Francis Diary Excerpts Published in New Book",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9971,
-    "published_at": "2026-11-23T04:13:40.055261+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
-    "headline": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9864,
-    "published_at": "2026-11-23T04:13:40.049135+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
-    "headline": "A Landmark Genocide Ruling",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9428,
-    "published_at": "2026-11-23T04:13:40.047869+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-    "headline": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9801,
-    "published_at": "2026-11-23T04:13:40.040541+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-    "headline": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9892,
-    "published_at": "2026-11-23T04:13:40.034408+00:00"
+    "confidence_score": 0.9833,
+    "published_at": "2026-11-24T07:14:01.744720+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
     "headline": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9403,
-    "published_at": "2026-11-23T04:13:40.033192+00:00"
+    "published_at": "2026-11-24T07:14:01.742054+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-    "headline": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+    "headline": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9343,
-    "published_at": "2026-11-23T04:13:39.851642+00:00"
+    "confidence_score": 0.9391,
+    "published_at": "2026-11-24T07:14:01.739496+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-    "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+    "headline": "China\u2019s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-11-23T04:13:39.834268+00:00"
+    "confidence_score": 0.9553,
+    "published_at": "2026-11-24T07:14:01.736866+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-    "headline": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9912,
-    "published_at": "2026-11-23T04:13:39.823422+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-    "headline": "Three killed and dozens missing after fire at Indonesian factory",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+    "headline": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-11-23T04:13:39.817487+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-24T07:14:01.487486+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-    "headline": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "source_uri": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+    "headline": "Outrage after ICE arrest father and daughter at Seattle airport",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9909,
-    "published_at": "2026-11-23T04:13:39.812513+00:00"
+    "confidence_score": 0.9758,
+    "published_at": "2026-11-24T07:14:01.476687+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-    "headline": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-11-23T04:13:39.791676+00:00"
+    "confidence_score": 0.9942,
+    "published_at": "2026-11-24T07:14:01.467086+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Gis\u00e8le Pelicot 'humiliated' after nude photos sent to media to promote book",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9995,
+    "published_at": "2026-11-24T07:14:01.465741+00:00"
   }
 ]
