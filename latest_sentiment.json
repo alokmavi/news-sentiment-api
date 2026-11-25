@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-    "headline": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share \u2018Values\u2019",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9998,
-    "published_at": "2026-11-24T07:14:01.792066+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-    "headline": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9923,
-    "published_at": "2026-11-24T07:14:01.781683+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-    "headline": "In France\u2019s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9985,
-    "published_at": "2026-11-24T07:14:01.776488+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-    "headline": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9472,
-    "published_at": "2026-11-24T07:14:01.768549+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
-    "headline": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.966,
-    "published_at": "2026-11-24T07:14:01.767133+00:00"
-  },
-  {
     "source_uri": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
     "headline": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
     "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9534,
-    "published_at": "2026-11-24T07:14:01.765799+00:00"
+    "published_at": "2026-11-25T05:47:26.253592+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
-    "headline": "Is Mexico Stepping Up in the War on Drugs?",
+    "source_uri": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+    "headline": "Pentagon Issued Memo Limiting \u2018Social Activities\u2019 With Canadian Military",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9935,
-    "published_at": "2026-11-24T07:14:01.757877+00:00"
+    "confidence_score": 0.9016,
+    "published_at": "2026-11-25T05:47:26.252339+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
-    "headline": "Don Toliver Concert in Manchester Is Evacuated Over \u2018Unknown Substance\u2019",
+    "source_uri": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+    "headline": "Canada\u2019s Boreal Forest Is Reshaped by Logging and Climate Change",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.979,
-    "published_at": "2026-11-24T07:14:01.753805+00:00"
+    "confidence_score": 0.9991,
+    "published_at": "2026-11-25T05:47:26.243369+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
-    "headline": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+    "source_uri": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+    "headline": "Israeli Political Leaders Denounce \u2018Jewish Terrorism\u2019 After West Bank Attacks",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9182,
+    "published_at": "2026-11-25T05:47:26.237025+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
+    "headline": "How Homeowners Are Powering Vietnam\u2019s E-Bike Surge",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9972,
-    "published_at": "2026-11-24T07:14:01.752505+00:00"
+    "confidence_score": 0.9933,
+    "published_at": "2026-11-25T05:47:26.235764+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-    "headline": "COP31 Climate Talks Broke Down. Now What?",
+    "source_uri": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+    "headline": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8209,
+    "published_at": "2026-11-25T05:47:26.231817+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+    "headline": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9711,
+    "published_at": "2026-11-25T05:47:26.228062+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
+    "headline": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9843,
-    "published_at": "2026-11-24T07:14:01.751249+00:00"
+    "confidence_score": 0.9914,
+    "published_at": "2026-11-25T05:47:26.215480+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
-    "headline": "The Return of Jensen Huang",
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+    "headline": "Trump Administration Pauses Joint Operations With Ecuador",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-11-25T05:47:26.209235+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+    "headline": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9885,
+    "published_at": "2026-11-25T05:47:26.203924+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+    "headline": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9886,
+    "published_at": "2026-11-25T05:47:26.187770+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8566,
+    "published_at": "2026-11-25T05:47:26.068440+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Clashing political visions reflect a divided Spain ahead of election",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.999,
-    "published_at": "2026-11-24T07:14:01.749877+00:00"
+    "confidence_score": 0.996,
+    "published_at": "2026-11-25T05:47:26.066077+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-    "headline": "Radio Offers Russian Troops Classic Rock, Nostalgia \u2014 and Pleas to Surrender",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9976,
-    "published_at": "2026-11-24T07:14:01.746008+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-    "headline": "Pope Francis Diary Excerpts Published in New Book",
+    "source_uri": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+    "headline": "First Lady Melania Trump welcomes this year's White House Christmas tree",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9833,
-    "published_at": "2026-11-24T07:14:01.744720+00:00"
+    "confidence_score": 0.9816,
+    "published_at": "2026-11-25T05:47:26.060991+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-    "headline": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9403,
-    "published_at": "2026-11-24T07:14:01.742054+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+    "headline": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9973,
+    "published_at": "2026-11-25T05:47:26.052547+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-    "headline": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9391,
-    "published_at": "2026-11-24T07:14:01.739496+00:00"
+    "confidence_score": 0.9899,
+    "published_at": "2026-11-25T05:47:26.051370+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-    "headline": "China\u2019s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9553,
-    "published_at": "2026-11-24T07:14:01.736866+00:00"
+    "confidence_score": 0.8434,
+    "published_at": "2026-11-25T05:47:26.046689+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-    "headline": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+    "headline": "These North Koreans say they were spied on, beaten and jailed for being Christian",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9996,
-    "published_at": "2026-11-24T07:14:01.487486+00:00"
+    "confidence_score": 0.9527,
+    "published_at": "2026-11-25T05:47:26.034604+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
-    "headline": "Outrage after ICE arrest father and daughter at Seattle airport",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9758,
-    "published_at": "2026-11-24T07:14:01.476687+00:00"
+    "source_uri": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Kilmar \u00c1brego Garc\u00eda leaving US for Spain, ending Trump deportation battle",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9832,
+    "published_at": "2026-11-25T05:47:26.027830+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "source_uri": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+    "headline": "US attorney general dodges questions about Nvidia investigation",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9942,
-    "published_at": "2026-11-24T07:14:01.467086+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Gis\u00e8le Pelicot 'humiliated' after nude photos sent to media to promote book",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9995,
-    "published_at": "2026-11-24T07:14:01.465741+00:00"
+    "confidence_score": 0.9994,
+    "published_at": "2026-11-25T05:47:26.006001+00:00"
   }
 ]
