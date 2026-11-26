@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-    "headline": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+    "source_uri": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+    "headline": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9534,
-    "published_at": "2026-11-25T05:47:26.253592+00:00"
+    "confidence_score": 0.9978,
+    "published_at": "2026-11-26T05:37:31.138694+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
-    "headline": "Pentagon Issued Memo Limiting \u2018Social Activities\u2019 With Canadian Military",
+    "source_uri": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "headline": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday\u2019s Rally",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9961,
+    "published_at": "2026-11-26T05:37:31.132554+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+    "headline": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.5463,
+    "published_at": "2026-11-26T05:37:31.131241+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+    "headline": "China Investigates Chen Jining, Shanghai\u2019s Party Leader, as Xi\u2019s Purges Expand",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9016,
-    "published_at": "2026-11-25T05:47:26.252339+00:00"
+    "confidence_score": 0.9984,
+    "published_at": "2026-11-26T05:37:31.130029+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-    "headline": "Canada\u2019s Boreal Forest Is Reshaped by Logging and Climate Change",
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+    "headline": "Prince William and Kate\u2019s Country Home Is Broken Into; 2 Men Arrested",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9991,
-    "published_at": "2026-11-25T05:47:26.243369+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
-    "headline": "Israeli Political Leaders Denounce \u2018Jewish Terrorism\u2019 After West Bank Attacks",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9182,
-    "published_at": "2026-11-25T05:47:26.237025+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
-    "headline": "How Homeowners Are Powering Vietnam\u2019s E-Bike Surge",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9933,
-    "published_at": "2026-11-25T05:47:26.235764+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
-    "headline": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8209,
-    "published_at": "2026-11-25T05:47:26.231817+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-    "headline": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9711,
-    "published_at": "2026-11-25T05:47:26.228062+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
-    "headline": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9914,
-    "published_at": "2026-11-25T05:47:26.215480+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
-    "headline": "Trump Administration Pauses Joint Operations With Ecuador",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9989,
-    "published_at": "2026-11-25T05:47:26.209235+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
-    "headline": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9885,
-    "published_at": "2026-11-25T05:47:26.203924+00:00"
+    "confidence_score": 0.9802,
+    "published_at": "2026-11-26T05:37:31.127639+00:00"
   },
   {
     "source_uri": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
     "headline": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
     "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9886,
-    "published_at": "2026-11-25T05:47:26.187770+00:00"
+    "published_at": "2026-11-26T05:37:31.122740+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+    "headline": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8566,
-    "published_at": "2026-11-25T05:47:26.068440+00:00"
+    "confidence_score": 0.9554,
+    "published_at": "2026-11-26T05:37:31.116635+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-    "headline": "Clashing political visions reflect a divided Spain ahead of election",
+    "source_uri": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
+    "headline": "Gordon Ramsay to Host Revival of BBC\u2019s \u2018Top Gear\u2019",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-11-25T05:47:26.066077+00:00"
+    "confidence_score": 0.6192,
+    "published_at": "2026-11-26T05:37:31.109117+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-    "headline": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+    "source_uri": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
+    "headline": "The Unbearable Heat of Delhi\u2019s Summer Nights",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.948,
+    "published_at": "2026-11-26T05:37:31.106749+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+    "headline": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7815,
+    "published_at": "2026-11-26T05:37:31.097201+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+    "headline": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-11-26T05:37:31.094714+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+    "headline": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9885,
+    "published_at": "2026-11-26T05:37:31.086875+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+    "headline": "France's political mainstream risks presidential vote debacle with no clear candidate",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9816,
-    "published_at": "2026-11-25T05:47:26.060991+00:00"
+    "confidence_score": 0.9948,
+    "published_at": "2026-11-26T05:37:30.892782+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-    "headline": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+    "source_uri": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Moment Nasa spacecraft hit asteroid - and what happened next",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9966,
+    "published_at": "2026-11-26T05:37:30.883042+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9983,
+    "published_at": "2026-11-26T05:37:30.880663+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Protesters call on Israel to free Palestinian student held without charge",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9955,
+    "published_at": "2026-11-26T05:37:30.879399+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Five Russian military jets hit in airfield strike, says Ukraine",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9973,
-    "published_at": "2026-11-25T05:47:26.052547+00:00"
+    "confidence_score": 0.7124,
+    "published_at": "2026-11-26T05:37:30.878191+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-    "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9899,
-    "published_at": "2026-11-25T05:47:26.051370+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8434,
-    "published_at": "2026-11-25T05:47:26.046689+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-    "headline": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9527,
-    "published_at": "2026-11-25T05:47:26.034604+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-    "headline": "Kilmar \u00c1brego Garc\u00eda leaving US for Spain, ending Trump deportation battle",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+    "headline": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9832,
-    "published_at": "2026-11-25T05:47:26.027830+00:00"
+    "confidence_score": 0.9613,
+    "published_at": "2026-11-26T05:37:30.874374+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "headline": "US attorney general dodges questions about Nvidia investigation",
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+    "headline": "North Korea expels Swiss diplomat in sanctions row",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9994,
-    "published_at": "2026-11-25T05:47:26.006001+00:00"
+    "confidence_score": 0.9915,
+    "published_at": "2026-11-26T05:37:30.873149+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.981,
+    "published_at": "2026-11-26T05:37:30.865738+00:00"
   }
 ]
