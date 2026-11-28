@@ -1,142 +1,142 @@
 [
   {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-    "headline": "Harry and Meghan\u2019s Life as \u2018Nonroyal Royals\u2019 in the UK",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9915,
-    "published_at": "2026-11-27T05:32:01.320224+00:00"
+    "source_uri": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+    "headline": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.7815,
+    "published_at": "2026-11-28T05:07:11.660682+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-    "headline": "Japan\u2019s Leader, in Break With U.S., Defends International Criminal Court",
-    "primary_sentiment": "POSITIVE",
+    "source_uri": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+    "headline": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9885,
+    "published_at": "2026-11-28T05:07:11.659463+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+    "headline": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8603,
+    "published_at": "2026-11-28T05:07:11.658229+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+    "headline": "Colombia\u2019s Leader Blames \u2018Terrorist Attack\u2019 for Power Outages",
+    "primary_sentiment": "NEGATIVE",
     "confidence_score": 0.9989,
-    "published_at": "2026-11-27T05:32:01.319300+00:00"
+    "published_at": "2026-11-28T05:07:11.657044+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-    "headline": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday\u2019s Rally",
+    "source_uri": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+    "headline": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9961,
-    "published_at": "2026-11-27T05:32:01.317486+00:00"
+    "confidence_score": 0.9615,
+    "published_at": "2026-11-28T05:07:11.653482+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-    "headline": "Trump\u2019s Nvidia Push Shows Companies\u2019 Importance in Global Economic War",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9929,
-    "published_at": "2026-11-27T05:32:01.312069+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
-    "headline": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+    "source_uri": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
+    "headline": "The Unbearable Heat of Delhi\u2019s Summer Nights",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9886,
-    "published_at": "2026-11-27T05:32:01.310256+00:00"
+    "confidence_score": 0.948,
+    "published_at": "2026-11-28T05:07:11.637685+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
-    "headline": "National Security vs. the Stock Market",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9642,
-    "published_at": "2026-11-27T05:32:01.308251+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
-    "headline": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+    "source_uri": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+    "headline": "London Banning Noise and Capping Fares for Its Pedicabs",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9554,
-    "published_at": "2026-11-27T05:32:01.306158+00:00"
+    "confidence_score": 0.8614,
+    "published_at": "2026-11-28T05:07:11.633123+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
-    "headline": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9504,
-    "published_at": "2026-11-27T05:32:01.297669+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
-    "headline": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+    "source_uri": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+    "headline": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9836,
-    "published_at": "2026-11-27T05:32:01.296643+00:00"
+    "confidence_score": 0.9996,
+    "published_at": "2026-11-28T05:07:11.623861+00:00"
   },
   {
-    "source_uri": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
-    "headline": "How Birds With GPS and Audio Sensors Track Hidden Fishing Boats",
+    "source_uri": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
+    "headline": "In Praise of My Typewriter",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.989,
-    "published_at": "2026-11-27T05:32:01.293890+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/25/world/africa/mauritius-stray-dogs.html",
-    "headline": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9882,
-    "published_at": "2026-11-27T05:32:01.290478+00:00"
-  },
-  {
-    "source_uri": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
-    "headline": "An Italian Couple Bought a House Built by Pier Paolo Pasolini. Local Villagers Want to Evict Them.",
-    "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.5807,
-    "published_at": "2026-11-27T05:32:01.289341+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
-    "headline": "Moment Nasa spacecraft hit asteroid - and what happened next",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9966,
-    "published_at": "2026-11-27T05:32:01.179903+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-    "headline": "Musk's plan to send a million SpaceX data satellites into space approved",
-    "primary_sentiment": "POSITIVE",
     "confidence_score": 0.9969,
-    "published_at": "2026-11-27T05:32:01.177541+00:00"
+    "published_at": "2026-11-28T05:07:11.622636+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-    "headline": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9981,
-    "published_at": "2026-11-27T05:32:01.175274+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-    "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
-    "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.8788,
-    "published_at": "2026-11-27T05:32:01.173603+00:00"
-  },
-  {
-    "source_uri": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-    "headline": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+    "source_uri": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+    "headline": "Princess Kate\u2019s Cancer Documentary \u2018Heal\u2019: 3 Takeaways",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9997,
-    "published_at": "2026-11-27T05:32:01.173094+00:00"
+    "confidence_score": 0.9977,
+    "published_at": "2026-11-28T05:07:11.616323+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-    "headline": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+    "source_uri": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+    "headline": "FIFA May Scrap the Peace Prize It Gave to Trump",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.8863,
+    "published_at": "2026-11-28T05:07:11.613582+00:00"
+  },
+  {
+    "source_uri": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+    "headline": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
     "primary_sentiment": "POSITIVE",
-    "confidence_score": 0.9883,
-    "published_at": "2026-11-27T05:32:01.172571+00:00"
+    "confidence_score": 0.9962,
+    "published_at": "2026-11-28T05:07:11.583051+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-    "headline": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+    "source_uri": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+    "headline": "Russia\u2019s Big Ambitions for A.I. Are Undercut by Constraints of War",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.996,
-    "published_at": "2026-11-27T05:32:01.171398+00:00"
+    "confidence_score": 0.9928,
+    "published_at": "2026-11-28T05:07:11.570162+00:00"
   },
   {
-    "source_uri": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-    "headline": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+    "source_uri": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
+    "headline": "Plaque by Plaque, Russia Erases the Memory of the Gulag\u2019s Horrors",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.993,
+    "published_at": "2026-11-28T05:07:11.562091+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
     "primary_sentiment": "NEGATIVE",
-    "confidence_score": 0.9389,
-    "published_at": "2026-11-27T05:32:01.170254+00:00"
+    "confidence_score": 0.8004,
+    "published_at": "2026-11-28T05:07:11.336080+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9925,
+    "published_at": "2026-11-28T05:07:11.334973+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9989,
+    "published_at": "2026-11-28T05:07:11.331289+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "primary_sentiment": "POSITIVE",
+    "confidence_score": 0.9922,
+    "published_at": "2026-11-28T05:07:11.317133+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.9979,
+    "published_at": "2026-11-28T05:07:11.312673+00:00"
+  },
+  {
+    "source_uri": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "primary_sentiment": "NEGATIVE",
+    "confidence_score": 0.999,
+    "published_at": "2026-11-28T05:07:11.289235+00:00"
   }
 ]
